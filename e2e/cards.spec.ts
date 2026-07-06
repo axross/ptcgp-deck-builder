@@ -12,19 +12,30 @@ function cardTile(page: Page, id: string) {
 }
 
 test.describe("card browser", () => {
-  test("reaches the catalog from the home page and browses the full grid", {
+  test("reaches the catalog from the home page (mobile + desktop) and browses the full grid", {
     tag: ["@scenario:cards.browse", "@area:cards", "@priority:must", "@smoke"],
   }, async ({ page }) => {
-    await test.step("Navigate to Cards from the home page header", async () => {
-      await page.goto("/");
-      const cardsLink = page.getByTestId("app-header").getByTestId("app-header-nav-cards");
-      // Retry the click until it sticks: a click landing before Next.js has
-      // hydrated the link can be dropped, and the suite forbids retries/flakes.
-      await expect(async () => {
-        await cardsLink.click();
-        await expect(page).toHaveURL(/\/cards$/, { timeout: 2000 });
-      }).toPass({ timeout: 15000 });
-    });
+    // The header nav must reach /cards from home on both a narrow phone and a
+    // desktop viewport (acceptance criterion); the grid checks then run at the
+    // last (desktop) size.
+    const viewports = [
+      { label: "mobile", width: 375, height: 812 },
+      { label: "desktop", width: 1280, height: 800 },
+    ];
+    for (const viewport of viewports) {
+      await test.step(`Navigate to Cards from the home header on ${viewport.label}`, async () => {
+        await page.setViewportSize({ width: viewport.width, height: viewport.height });
+        await page.goto("/");
+        const cardsLink = page.getByTestId("app-header").getByTestId("app-header-nav-cards");
+        await expect(cardsLink).toBeVisible();
+        // Retry the click until it sticks: a click landing before Next.js has
+        // hydrated the link can be dropped, and the suite forbids retries/flakes.
+        await expect(async () => {
+          await cardsLink.click();
+          await expect(page).toHaveURL(/\/cards$/, { timeout: 2000 });
+        }).toPass({ timeout: 15000 });
+      });
+    }
 
     await expect(page.getByTestId("card-grid")).toBeVisible();
     await expect(page.getByTestId("card-tile")).toHaveCount(CATALOG_SIZE);

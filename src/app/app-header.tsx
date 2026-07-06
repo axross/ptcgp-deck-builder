@@ -4,13 +4,6 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import styles from "./app-header.module.css";
 
-/**
- * The app shell header: the brand and top-level navigation shared across every
- * route (rendered by the root layout). A client component only so the active
- * route can be marked with `aria-current`; the links themselves are plain
- * navigation.
- */
-
 const navLinks = [
   { href: "/cards", label: "Cards" },
   { href: "/decks", label: "Decks" },
@@ -20,6 +13,12 @@ function isActive(pathname: string, href: string): boolean {
   return pathname === href || pathname.startsWith(`${href}/`);
 }
 
+/**
+ * The app shell header: the brand and top-level navigation shared across every
+ * route (rendered by the root layout). A client component only so the active
+ * route can be marked with `aria-current`; the links themselves are plain
+ * navigation.
+ */
 export function AppHeader() {
   const pathname = usePathname();
 
