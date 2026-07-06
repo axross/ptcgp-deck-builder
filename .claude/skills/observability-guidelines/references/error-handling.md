@@ -40,20 +40,20 @@ async function fetchRecord(id: string) {
 }
 ```
 
-`reportError(...)` stands in for {{ERROR_TRACKER}}'s capture call (the function that sends an exception to the error-reporting service).
+`reportError(...)` is the project's reporting helper (`src/lib/report-error.ts`); it wraps Sentry's capture call and is a no-op when no DSN is configured.
 
 ## Reporting to the Error Tracker
 
-Unexpected failures caught at the root call site should be reported before execution moves to a fallback. {{ERROR_TRACKER}}-specific import, privacy, and context rules live in [error-tracking.md](./error-tracking.md).
+Unexpected failures caught at the root call site should be reported before execution moves to a fallback. Sentry-specific import, privacy, and context rules live in [error-tracking.md](./error-tracking.md).
 
 **Guidelines:**
 
-- MUST report the error (via {{ERROR_TRACKER}}'s capture call) when a caught error represents an unexpected failure that should be investigated.
+- MUST report the error (via Sentry's capture call) when a caught error represents an unexpected failure that should be investigated.
 - SHOULD report the error before any early return or redirect so the report is always sent, even when execution continues along an alternate path.
-- MUST consult [error-tracking.md](./error-tracking.md) before changing imports, event context, PII behavior, or {{ERROR_TRACKER}} configuration.
+- MUST consult [error-tracking.md](./error-tracking.md) before changing imports, event context, PII behavior, or Sentry configuration.
 
 ```typescript
-import { reportError } from "{{ERROR_TRACKER}}'s SDK";
+import { reportError } from "@/lib/report-error";
 
 try {
   resource = await retrieveResource(id);
@@ -73,11 +73,11 @@ unknownHandler: (_state, node) => {
 
 ## Top-Level Error Boundary
 
-Unhandled render and runtime errors end their journey at the top-level boundary, so its report to {{ERROR_TRACKER}} is the last guarantee that nothing fails invisibly.
+Unhandled render and runtime errors end their journey at the top-level boundary, so its report to Sentry is the last guarantee that nothing fails invisibly.
 
 **Guidelines:**
 
-- MUST keep the framework's top-level error boundary as the last-resort handler for the entire application, and MUST report errors it receives via {{ERROR_TRACKER}}'s capture call.
+- MUST keep the framework's top-level error boundary as the last-resort handler for the entire application, and MUST report errors it receives via Sentry's capture call.
 - MUST NOT remove or bypass the top-level error boundary.
 - MAY add scope-specific error boundaries for areas that need customized error handling, following the same reporting pattern.
 

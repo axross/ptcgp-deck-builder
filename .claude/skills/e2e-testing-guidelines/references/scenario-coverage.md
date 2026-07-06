@@ -1,9 +1,6 @@
 # E2E Scenario Coverage
 
-<!-- INIT:OPTIONAL key=SCENARIO_COVERAGE — keep if the project adopts journey-catalog e2e coverage OR delete this file, its "E2E Scenario Coverage" routing section in ../SKILL.md, and the marked "Scenario Coverage" sites in quality-assurance-guidelines; see the INIT.md Step-4 bullet. -->
-*If this project does not adopt scenario coverage, delete this file (and the other marked sites) during INIT.*
-
-Apply these rules when tagging tests, extending the journey catalog, or reading the coverage report. This project measures e2e coverage as **scenario coverage** — which real user journeys the {{E2E_TEST_FRAMEWORK}} suite *asserts* — not lines of application code executed.
+Apply these rules when tagging tests, extending the journey catalog, or reading the coverage report. This project measures e2e coverage as **scenario coverage** — which real user journeys the Playwright suite *asserts* — not lines of application code executed.
 
 ## Why Scenario Coverage, Not E2E Line Coverage
 
@@ -19,11 +16,11 @@ The trade-off: the denominator is a **human judgment call** — an incomplete ca
 
 Three pieces, joined by a stable scenario id:
 
-- **Catalog** — a human-authored journey list (e.g. `scenarios.md` at the root of `{{TEST_DIR}}`) with one row per journey: a stable dotted id (e.g. `checkout.payment.success`), a title, an area, and a priority of `must` | `should` | `may`.
-- **Tags** — each test declares which journeys it asserts through the tag mechanism {{E2E_TEST_FRAMEWORK}} provides. For example: a `@scenario:<id>` join tag (a test can carry several), optional `@area:<area>` / `@priority:<priority>` facet tags for filtered runs and grouped reporting, and an `@smoke` selection tag marking the fast pre-gate subset — adapt the exact syntax to the framework's tagging feature.
+- **Catalog** — the human-authored journey list at `e2e/scenarios.md` with one row per journey: a stable dotted id (e.g. `deck.create.save`), a title, an area, and a priority of `must` | `should` | `may`.
+- **Tags** — each test declares which journeys it asserts through Playwright's `tag` option on `test(...)`: a `@scenario:<id>` join tag (a test can carry several), optional `@area:<area>` / `@priority:<priority>` facet tags for filtered runs and grouped reporting, and an `@smoke` selection tag marking the fast pre-gate subset.
 - **Reporter** — a coverage reporter tallies, for every catalog row, whether at least one **passing** test carries its scenario tag, then prints `covered/total` overall and per priority plus the list of uncovered scenarios.
 
-> The reporter, the gate script, and the coverage run command are built during INIT (Step 5) — the template ships the convention, not an implementation.
+> The reporter and gate live in `scripts/check-scenario-coverage.mjs`, reading the Playwright JSON report (`test-results/results.json`). `npm run test:e2e` runs the report (structural tag errors fail); `npm run test:e2e:coverage` additionally gates `must`-priority coverage at 100%.
 
 **Guidelines:**
 

@@ -1,6 +1,6 @@
 # Injection in Rendered Untrusted Content
 
-Apply these rules to verify that any rendering of untrusted (user- or CMS-authored) content — rich text, markdown, or HTML — does not allow that content to inject script or break out of the rendering layer's output encoding. The markdown renderer is one common instance of this surface; the same rules apply to any pipeline that turns authored content into markup.
+Apply these rules to verify that any rendering of untrusted (user-authored) content — rich text, markdown, or HTML — does not allow that content to inject script or break out of the rendering layer's output encoding. The markdown renderer is one common instance of this surface; the same rules apply to any pipeline that turns authored content into markup.
 
 ## Pipeline Configuration to Watch
 

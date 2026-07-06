@@ -39,7 +39,7 @@ const { repository } = setup({ mode: "bad-index-case-2" });
 
 ## Framework And Boundary Fakes
 
-Large framework- or library-owned objects (request contexts, ORM clients, SDK handles, data-layer clients) are wide boundaries. Unit tests should fake the smallest part of the boundary the unit actually calls.
+Large framework- or library-owned objects (request contexts, SDK handles, storage handles) are wide boundaries. Unit tests should fake the smallest part of the boundary the unit actually calls.
 
 **Good:**
 
@@ -80,6 +80,6 @@ Mocks are useful for expensive, external, nondeterministic, or framework-owned b
 - SHOULD use manual fakes for large boundary objects, filesystem/network boundaries, clocks, and loggers.
 - SHOULD NOT mock neighboring pure helpers unless the test specifically covers how the unit handles that dependency's failure.
 - MUST keep module-mock declarations visible near the imports they affect.
-- MUST import the mocking API explicitly if {{UNIT_TEST_FRAMEWORK}} requires it before using its mock, spy, or typed-mock helpers.
+- MUST import the mocking API explicitly if Vitest requires it before using its mock, spy, or typed-mock helpers.
 - SHOULD prefer typed mocks when a mock has non-trivial arguments or return values.
 - SHOULD restore spies and replaced globals in a teardown hook.

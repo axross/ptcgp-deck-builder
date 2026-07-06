@@ -18,8 +18,8 @@ A Critical or Major fix that lands without its verification step can silently tr
 
 **Guidelines:**
 
-- MUST list, under **Recommended Actions**, the verification step ({{LINT_CMD}}, {{E2E_TEST_CMD}}, a manual check of the affected surface per [development-guidelines › verification](../../development-guidelines/references/verification.md)) needed after each Critical or Major fix.
-- SHOULD phrase recommendations as imperative checklist items written to the future fixer, such as "Apply fix #1, then run {{LINT_CMD}}."
+- MUST list, under **Recommended Actions**, the verification step (npm run lint, npm run test:e2e, a manual check of the affected surface per [development-guidelines › verification](../../development-guidelines/references/verification.md)) needed after each Critical or Major fix.
+- SHOULD phrase recommendations as imperative checklist items written to the future fixer, such as "Apply fix #1, then run npm run lint."
 
 ## Surface Recurring Guideline Gaps to the Caller
 
@@ -37,7 +37,7 @@ A single-agent self-review cannot substitute for independent review on changes w
 **Guidelines:**
 
 - MUST mark high-risk self-reviewed changes as needing user review, CI/PR review, or explicit user acceptance before merge-readiness.
-- MUST treat auth, access control, secrets, environment-variable exposure, untrusted-input rendering (XSS), SSRF/outbound fetching, data-layer schema migrations, public interface contracts, production config, analytics/privacy capture, and broad refactors as high-risk.
+- MUST treat secrets, environment-variable exposure, untrusted-input rendering (XSS), SSRF/outbound fetching, saved-deck persistence-schema changes, public interface contracts, production config, privacy capture, and broad refactors as high-risk.
 - MUST list the external gate under **Recommended Actions** when the change is high-risk.
 - SHOULD include the strongest local verification evidence available before escalating, so the external reviewer is checking a narrowed risk.
 
@@ -46,7 +46,7 @@ A single-agent self-review cannot substitute for independent review on changes w
 The reviewer MUST defer the decision back to the user — it does not pick a side — when a finding involves any of:
 
 - A breaking change to a public interface contract (e.g., a public URL, API response shape, or other consumer-facing contract) that affects consumers already depending on it.
-- A change to a data-layer schema migration that will be irreversible once applied to production (e.g., dropping a non-empty column).
+- A change to the saved-deck persistence schema that silently discards visitors' existing decks (an irreversible loss once shipped).
 - A cost / performance trade-off that requires production-environment data to evaluate (e.g., choosing a short vs long cache lifetime — the rule is "cache it", but which value is a judgment call).
 - Adoption of a new third-party service or API key with a budget implication.
 
@@ -60,7 +60,7 @@ Frame deferred items under the **Recommended Actions** section as **Decision nee
 
 Guideline-gap reporting is reserved for missing reusable guidance. Ordinary execution failures and already documented rules should stay in the review findings instead.
 
-- Lint or format errors — the developer's [code-quality](../../development-guidelines/references/code-quality.md) loop covers them; flag them as Critical findings and let the fixer run {{FORMAT_CMD}} / {{LINT_CMD}}. <!-- INIT:OPTIONAL key=INDEPENDENT_REVIEW — keep the next parenthetical if the project adopts the posted-review channel (REVIEW.md) OR delete it; see the INIT.md Step-4 bullet. --> (When the project has a posted-review policy, a **posted** PR review omits these CI-enforced findings per the [Repository Review Policy Overlay](../SKILL.md#repository-review-policy-overlay).)
+- Lint or format errors — the developer's [code-quality](../../development-guidelines/references/code-quality.md) loop covers them; flag them as Critical findings and let the fixer run npm run format / npm run lint. (A **posted** PR review omits these CI-enforced findings per the [Repository Review Policy Overlay](../SKILL.md#repository-review-policy-overlay).)
 - Snapshot regenerations — flag whether the change is intentional per [quality-assurance-guidelines](../../quality-assurance-guidelines/SKILL.md) and let the fixer re-run with the test runner's snapshot-update flag.
 - Anything resolvable by re-reading an existing guideline file.
 

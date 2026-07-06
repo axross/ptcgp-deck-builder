@@ -23,12 +23,10 @@ These categories use fixed minimum severities, regardless of perceived "smallnes
 | Category | Minimum severity |
 |---|---|
 | Hardcoded secret, token, or credential committed to the repo | Critical |
-| Missing or incorrect access control on a non-public data-layer field or record | Critical |
-| Unsanitized user input flowing into a data-layer query, request handler, or content-rendering pipeline | Critical |
-| New request handler / server-side action that reads or mutates data without verifying the request's authenticated identity | Critical |
-| Lint error introduced ({{LINT_CMD}} would fail) | Critical |
+| Unsanitized user input flowing into a storage lookup, request handler, or content-rendering pipeline | Critical |
+| Lint error introduced (npm run lint would fail) | Critical |
 | New test failure introduced, or removal of an existing assertion that covered changed behavior | Critical |
-| Missing `await` on a Promise returned from a data-layer or network call | Critical |
+| Missing `await` on a Promise returned from a storage or network call | Critical |
 | Importing a server-only module from a client-side module (or otherwise crossing the server/client boundary unsafely) | Critical |
 | New dependency added without justification per [development-guidelines › change-management](../../development-guidelines/references/change-management.md) | Major |
 | Snapshot regenerated without explanation when the observable change was intentional but undocumented | Major |
@@ -44,7 +42,6 @@ These categories use fixed minimum severities, regardless of perceived "smallnes
 
 - MUST classify each listed category at no lower than its minimum severity.
 - MAY raise severity above the floor when the concrete impact is worse than the table's minimum.
-<!-- INIT:OPTIONAL key=INDEPENDENT_REVIEW — keep the next bullet if the project adopts the posted-review channel (REVIEW.md) OR delete it; see the INIT.md Step-4 bullet. -->
 - MUST NOT surface CI-enforced rows — any category the project's posted-review policy excludes as CI-enforced, such as the lint-error row — in a **posted** PR review; the policy's do-not-report list excludes them (see the [Repository Review Policy Overlay](../SKILL.md#repository-review-policy-overlay)). The severity floors above govern only internal self-review triage.
 
 ## Verdict Mapping
@@ -58,7 +55,6 @@ The reviewer MUST emit one of these three verdicts in the report Summary, derive
 **Guidelines:**
 
 - MUST derive the review verdict from the severity counts exactly as mapped above.
-<!-- INIT:OPTIONAL key=INDEPENDENT_REVIEW — keep the next bullet if the project adopts the posted-review channel (REVIEW.md) OR delete it; see the INIT.md Step-4 bullet. -->
 - SHOULD, for a **posted** PR review, replace this three-verdict output with the posted-review policy's one-line Important/Nit tally per the [Repository Review Policy Overlay](../SKILL.md#repository-review-policy-overlay).
 
 ## When in Doubt

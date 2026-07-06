@@ -24,20 +24,20 @@ The project restricts `process.env.*` access to a small set of whitelisted files
 
 | File category | Why it is whitelisted |
 |---|---|
-| The env-derived runtime barrel | The single sanctioned module that reads env vars and re-exports typed runtime values (origin, environment name, service DSNs/tokens, etc.) |
-| Data-layer config | The data/content layer needs DB/storage credentials at build/startup time |
-| App-framework config | Build/config-time access to CI and deployment env vars |
-| Test config | Test config-time access to CI flags, base URL, and automation-bypass secrets |
+| The env-derived runtime barrel | The single sanctioned module that reads env vars and re-exports typed runtime values (origin, environment name, service DSNs, etc.) |
+| App-framework config (`next.config.ts`) | Build/config-time access to CI and deployment env vars |
+| Sentry instrumentation (`instrumentation.ts`, `instrumentation-client.ts`) | SDK init needs the DSN and environment at startup |
+| Test config (`playwright.config.ts`, `vitest.config.ts`) | Test config-time access to CI flags and the base URL |
 
 **Guidelines:**
 
-- MUST flag a Critical when a component, repository, helper, request handler, or data-layer resource reads `process.env` directly. It MUST go through the project's single env-derived runtime barrel.
+- MUST flag a Critical when a component, helper, or request handler reads `process.env` directly outside the whitelisted files above. It MUST go through the project's env-derived runtime barrel (create one when the first runtime env value beyond the whitelist appears).
 
 ## Public / Client-Exposed Env-Var Boundary
 
 Most app frameworks expose a subset of env vars to the browser/client via a prefix convention (e.g., a `*_PUBLIC_*`-style prefix). Anything carrying that prefix is shipped to every client. Review focuses on critical-severity cases where a secret value is read via a client-exposed env var.
 
-- The project legitimately uses a handful of client-exposed env vars for public-by-design values (environment name, build/commit identifier, error-tracker DSN, analytics token).
+- The project legitimately uses a handful of client-exposed env vars for public-by-design values (environment name, build/commit identifier, error-tracker DSN).
 
 **Guidelines:**
 
@@ -50,8 +50,8 @@ Every telemetry channel copies its payload into third-party retention the projec
 
 **Guidelines:**
 
-- MUST flag a Critical when a secret value (DSN, token, password, session ID, auth header) is interpolated into any `logger.info()` / `logger.warn()` call, any error-report extras, or any analytics event payload. Logs are captured by the hosting platform; the error tracker and analytics ship payloads off-server.
-- MUST account for a "send default PII" option being enabled in the error-tracker config (if the project enables it) because IP addresses, cookies, and request bodies may already be attached.
+- MUST flag a Critical when a secret value (DSN, token, password, session ID, auth header) is interpolated into any log/console output or any error-report extras. Logs are captured by the hosting platform; the error tracker ships payloads off-server.
+- MUST account for a "send default PII" option being enabled in the Sentry config (if the project enables it) because IP addresses, cookies, and request bodies may already be attached.
 - MUST flag a Major when a change adds explicitly sensitive context (e.g., a bearer token) on top of that default.
 
 ## `.env.example`

@@ -1,6 +1,6 @@
 # E2E Coverage
 
-Apply these rules to verify the change has the right e2e coverage. The project relies on {{E2E_TEST_FRAMEWORK}} e2e tests as the **primary** verification mechanism per [development-guidelines › verification](../../development-guidelines/references/verification.md).
+Apply these rules to verify the change has the right e2e coverage. The project relies on Playwright e2e tests as the **primary** verification mechanism per [development-guidelines › verification](../../development-guidelines/references/verification.md).
 
 ## Coverage Floor
 
@@ -8,7 +8,7 @@ A new route or surface with no test is a hole in the project's primary verificat
 
 **Guidelines:**
 
-- MUST flag a Critical when the diff adds a new route or top-level entry point without a co-located test file in the test directory ({{TEST_DIR}}).
+- MUST flag a Critical when the diff adds a new route or top-level entry point without an asserting suite under `e2e/`.
 - MUST flag a Major when the diff adds a new visually distinct surface to an existing route without a new test case (or sub-step) covering it.
 - MUST flag a Major when the diff adds a new user-facing feature (a new interactive element, a new server action, a new endpoint) without an e2e assertion that exercises the user-observable outcome.
 - SHOULD NOT demand unit tests for pure logic unless the logic is complex enough that e2e would not adequately exercise edge cases — the project explicitly de-prioritizes unit tests per [development-guidelines › verification](../../development-guidelines/references/verification.md).
@@ -41,14 +41,11 @@ Consistent names and locations are what let the runner discover route tests and 
 **Guidelines:**
 
 - MUST flag a new test file that does not follow the project's test-file naming convention.
-- MUST flag a new route-specific test file placed outside the test directory ({{TEST_DIR}}) layout the project uses for route tests.
+- MUST flag a new test file placed outside the `e2e/` purpose-based layout per [e2e-testing-guidelines › structure](../../e2e-testing-guidelines/references/structure.md).
 - MUST flag a multi-phase test body that does not group its phases into discrete steps per [e2e-testing-guidelines › structure](../../e2e-testing-guidelines/references/structure.md) — short atomic tests may omit steps.
 - MUST flag a chained-locator chain that re-roots at the page level mid-test instead of narrowing from a previously captured locator — defeats the readability of the nesting pattern.
 
 ## Scenario Coverage
-
-<!-- INIT:OPTIONAL key=SCENARIO_COVERAGE — keep if the project adopts journey-catalog e2e coverage OR delete this section (with the marked sites in e2e-testing-guidelines and this skill's SKILL.md); see the INIT.md Step-4 bullet. -->
-*If this project does not adopt scenario coverage, delete this section during INIT.*
 
 Scenario coverage tracks which real user journeys the e2e suite **asserts**, via a human-authored journey catalog and per-test scenario tags — not e2e line coverage. Its denominator is the catalog itself, so review guards the catalog's completeness as much as the tests. See [e2e-testing-guidelines › scenario-coverage](../../e2e-testing-guidelines/references/scenario-coverage.md) for the mechanism.
 
