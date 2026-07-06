@@ -2,18 +2,17 @@ import type { CardTileView } from "../card-view";
 import { CardImage } from "./card-image";
 import styles from "./card-tile.module.css";
 
-/**
- * One card in the browse grid: artwork (or fallback) plus name, rarity, and a
- * type/kind badge. A server component — only the image swap-on-error is client
- * (see {@link CardImage}).
- */
-
 type CardTileProps = {
   card: CardTileView;
   /** Eager-load the first rows so the top of the grid isn't lazy-loaded. */
   priority?: boolean;
 };
 
+/**
+ * Renders one catalog card as a grid tile: artwork (or a data-driven fallback)
+ * plus name, rarity, and a type/kind badge. A server component — only the image
+ * swap-on-error is client (see {@link CardImage}).
+ */
 export function CardTile({ card, priority }: CardTileProps) {
   return (
     <li className={styles.tile} data-testid="card-tile" data-card-id={card.id}>

@@ -4,14 +4,12 @@ import Image from "next/image";
 import { useState } from "react";
 import styles from "./card-image.module.css";
 
-/**
- * The card artwork with a data-driven fallback. The Limitless CDN is an
- * unofficial hotlink with no per-URL guarantee (ptcgp-domain › card-images), so
- * when the image fails to load we render a name/type/HP frame instead of a
- * broken image. This is the only client component in the grid — the surrounding
- * tile chrome stays on the server.
- */
+// The Limitless CDN is an unofficial hotlink with no per-URL guarantee
+// (ptcgp-domain › card-images), so a failed image renders a data-driven frame
+// instead of a broken image. This is the only client component in the grid —
+// the surrounding tile chrome stays on the server.
 
+/** The data-driven content shown in place of a card image that failed to load. */
 export type CardImageFallback = {
   name: string;
   /** Primary line: the type or "Trainer". */
@@ -35,6 +33,10 @@ type CardImageProps = {
 const CARD_WIDTH = 245;
 const CARD_HEIGHT = 342;
 
+/**
+ * Renders card artwork through `next/image`, swapping to the data-driven
+ * {@link CardImageFallback} frame when the image fails to load.
+ */
 export function CardImage({ src, alt, priority, fallback }: CardImageProps) {
   const [failed, setFailed] = useState(false);
 

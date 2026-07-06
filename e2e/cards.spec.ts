@@ -1,8 +1,15 @@
-import { expect, test } from "@playwright/test";
+import { expect, type Page, test } from "@playwright/test";
 
 // The full A1 catalog size — asserted here as the browse baseline and checked
 // against the catalog's own count assertions in the unit tests.
 const CATALOG_SIZE = 286;
+
+// Identify a specific card by its stable data hook rather than matching on the
+// rendered name (per e2e-testing-guidelines: text locators are for copy
+// assertions only). Card ids are stable across art/rarity variants.
+function cardTile(page: Page, id: string) {
+  return page.locator(`[data-testid="card-tile"][data-card-id="${id}"]`);
+}
 
 test.describe("card browser", () => {
   test("reaches the catalog from the home page and browses the full grid", {
@@ -10,8 +17,13 @@ test.describe("card browser", () => {
   }, async ({ page }) => {
     await test.step("Navigate to Cards from the home page header", async () => {
       await page.goto("/");
-      await page.getByTestId("app-header").getByTestId("app-header-nav-cards").click();
-      await expect(page).toHaveURL(/\/cards$/);
+      const cardsLink = page.getByTestId("app-header").getByTestId("app-header-nav-cards");
+      // Retry the click until it sticks: a click landing before Next.js has
+      // hydrated the link can be dropped, and the suite forbids retries/flakes.
+      await expect(async () => {
+        await cardsLink.click();
+        await expect(page).toHaveURL(/\/cards$/, { timeout: 2000 });
+      }).toPass({ timeout: 15000 });
     });
 
     await expect(page.getByTestId("card-grid")).toBeVisible();
@@ -29,9 +41,8 @@ test.describe("card browser", () => {
       await page.getByTestId("card-filter-type").selectOption("Grass");
 
       await expect(page).toHaveURL(/[?&]type=Grass/);
-      // Bulbasaur has two art variants in the catalog — assert at least one tile.
-      await expect(tiles.filter({ hasText: "Bulbasaur" }).first()).toBeVisible();
-      await expect(tiles.filter({ hasText: "Charmander" })).toHaveCount(0);
+      await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur (Grass, Basic)
+      await expect(cardTile(page, "A1-033")).toHaveCount(0); // Charmander (Fire)
     });
 
     const grassCount = await tiles.count();
@@ -42,8 +53,8 @@ test.describe("card browser", () => {
       await page.getByTestId("card-filter-kind").selectOption("Basic");
 
       await expect(page).toHaveURL(/[?&]kind=Basic/);
-      await expect(tiles.filter({ hasText: "Bulbasaur" }).first()).toBeVisible();
-      await expect(tiles.filter({ hasText: "Venusaur" })).toHaveCount(0); // Grass but Stage 2
+      await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur is Basic
+      await expect(cardTile(page, "A1-003")).toHaveCount(0); // Venusaur is Grass but Stage 2
       expect(await tiles.count()).toBeLessThan(grassCount);
     });
 
@@ -51,7 +62,7 @@ test.describe("card browser", () => {
       await page.goto("/cards?type=Grass");
 
       await expect(tiles).toHaveCount(grassCount);
-      await expect(tiles.filter({ hasText: "Bulbasaur" }).first()).toBeVisible();
+      await expect(cardTile(page, "A1-001")).toBeVisible();
     });
   });
 
@@ -62,9 +73,8 @@ test.describe("card browser", () => {
     await page.getByTestId("card-filter-search").fill("pikachu");
 
     await expect(page).toHaveURL(/[?&]q=pikachu/);
-    const tiles = page.getByTestId("card-tile");
-    await expect(tiles.filter({ hasText: "Pikachu" })).not.toHaveCount(0);
-    expect(await tiles.count()).toBeLessThan(CATALOG_SIZE);
+    await expect(cardTile(page, "A1-094")).toBeVisible(); // Pikachu
+    expect(await page.getByTestId("card-tile").count()).toBeLessThan(CATALOG_SIZE);
   });
 
   test("shows the empty state and clears filters when nothing matches", {
@@ -86,5 +96,18 @@ test.describe("card browser", () => {
       await expect(page.getByTestId("card-grid")).toBeVisible();
       await expect(page.getByTestId("card-result-count")).toHaveText(`${CATALOG_SIZE} cards`);
     });
+  });
+
+  test("renders the data-driven fallback when a card image fails to load", {
+    tag: ["@scenario:cards.image-fallback", "@area:cards", "@priority:should"],
+  }, async ({ page }) => {
+    // Force every card image to fail so the fallback path is exercised
+    // deterministically, independent of CDN reachability.
+    await page.route(/\/_next\/image/, (route) => route.abort());
+    await page.goto("/cards");
+
+    const fallback = cardTile(page, "A1-001").getByTestId("card-image-fallback");
+    await expect(fallback).toBeVisible();
+    await expect(fallback).toContainText("Bulbasaur"); // the data-driven frame shows the name
   });
 });

@@ -15,3 +15,4 @@ hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
 | cards.filter | Visitor filters the catalog and the filtered view is URL-shareable | cards | must |
 | cards.search | Visitor searches the catalog by card name | cards | should |
 | cards.empty-state | Visitor sees an empty state and clears filters when nothing matches | cards | should |
+| cards.image-fallback | A card whose artwork fails to load shows the data-driven fallback frame | cards | should |

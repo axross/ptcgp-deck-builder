@@ -13,18 +13,17 @@ import type { RarityOption } from "../card-view";
 import { energyTypes } from "../schema";
 import styles from "./card-filter-bar.module.css";
 
+type CardFilterBarProps = {
+  criteria: CardFilterCriteria;
+  rarityOptions: readonly RarityOption[];
+};
+
 /**
  * The filter controls above the grid. Selections live in the URL (shareable /
  * bookmarkable), so this client component writes them with `router.replace` —
  * the server route re-reads the params and re-filters. The name search is
  * locally controlled and mirrored into the URL so the cursor never jumps.
  */
-
-type CardFilterBarProps = {
-  criteria: CardFilterCriteria;
-  rarityOptions: readonly RarityOption[];
-};
-
 export function CardFilterBar({ criteria, rarityOptions }: CardFilterBarProps) {
   const router = useRouter();
   const pathname = usePathname();
