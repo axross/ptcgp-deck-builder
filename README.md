@@ -48,5 +48,5 @@ This repository is agent-ready: [`AGENTS.md`](AGENTS.md) is the master routing
 index for the project skills under [`.claude/skills/`](.claude/skills/), and
 [`REVIEW.md`](REVIEW.md) is the posted-review policy applied by the CI reviewer
 ([`claude-review.yaml`](.github/workflows/claude-review.yaml)). CI merge gates
-(Biome lint + Vitest) run in
+(Biome lint, type check, docs links, Vitest) run in
 [`merge-checks.yaml`](.github/workflows/merge-checks.yaml).

@@ -12,8 +12,9 @@
 import { readFileSync } from "node:fs";
 import path from "node:path";
 import process from "node:process";
+import { fileURLToPath } from "node:url";
 
-const root = path.dirname(new URL(import.meta.url).pathname);
+const root = path.dirname(fileURLToPath(import.meta.url));
 const catalogPath = path.join(root, "..", "e2e", "scenarios.md");
 const resultsPath = path.join(root, "..", "test-results", "results.json");
 const gateMust = process.argv.includes("--gate-must");
@@ -80,28 +81,37 @@ for (const spec of specs) {
   const areas = tags.filter((t) => t.startsWith("area:")).map((t) => t.slice(5));
   const priorities = tags.filter((t) => t.startsWith("priority:")).map((t) => t.slice(9));
 
+  const taggedScenarios = [];
   for (const id of scenarioIds) {
     const scenario = scenarios.get(id);
     if (!scenario) {
       structuralErrors.push(`test "${spec.title}" tags unknown scenario id "${id}"`);
       continue;
     }
-    for (const area of areas) {
-      if (area !== scenario.area) {
-        structuralErrors.push(
-          `test "${spec.title}" tags @area:${area} but scenario "${id}" has area "${scenario.area}"`,
-        );
-      }
-    }
-    for (const priority of priorities) {
-      if (priority !== scenario.priority) {
-        structuralErrors.push(
-          `test "${spec.title}" tags @priority:${priority} but scenario "${id}" has priority "${scenario.priority}"`,
-        );
-      }
-    }
-    if (spec.ok) {
+    taggedScenarios.push(scenario);
+    // Covered only by a test that actually PASSED. Playwright's spec-level
+    // `ok` is true for skipped tests too, so check per-test outcomes.
+    const passed = (spec.tests ?? []).some((test) => test.status === "expected");
+    if (passed) {
       coveredIds.add(id);
+    }
+  }
+
+  // A facet tag is structurally valid when it agrees with at least one of the
+  // test's tagged scenarios — a multi-journey test carries one facet per
+  // scenario, so exact-match-per-scenario would false-positive.
+  for (const area of areas) {
+    if (taggedScenarios.length > 0 && !taggedScenarios.some((s) => s.area === area)) {
+      structuralErrors.push(
+        `test "${spec.title}" tags @area:${area}, which matches none of its tagged scenarios`,
+      );
+    }
+  }
+  for (const priority of priorities) {
+    if (taggedScenarios.length > 0 && !taggedScenarios.some((s) => s.priority === priority)) {
+      structuralErrors.push(
+        `test "${spec.title}" tags @priority:${priority}, which matches none of its tagged scenarios`,
+      );
     }
   }
 }

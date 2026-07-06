@@ -24,10 +24,30 @@ export function readStorageItem<T>(
   return result.success ? result.data : null;
 }
 
+/**
+ * Writes a value as JSON to a `Storage`-like store. Returns `false` when the
+ * store rejects the write (e.g. `QuotaExceededError` when storage is full or
+ * in some private-browsing modes) so callers can surface the failure instead
+ * of crashing.
+ *
+ * @throws {TypeError} when `value` is not JSON-serializable (e.g. `undefined`),
+ *   which is a programming error, not a storage condition.
+ */
 export function writeStorageItem(
   storage: Pick<Storage, "setItem">,
   key: string,
   value: unknown,
-): void {
-  storage.setItem(key, JSON.stringify(value));
+): boolean {
+  const serialized = JSON.stringify(value);
+  if (serialized === undefined) {
+    throw new TypeError(
+      `writeStorageItem() was called with a non-serializable value for "${key}".`,
+    );
+  }
+  try {
+    storage.setItem(key, serialized);
+  } catch {
+    return false;
+  }
+  return true;
 }

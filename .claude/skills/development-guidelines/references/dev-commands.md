@@ -27,6 +27,7 @@ These commands enforce formatting, linting, and end-to-end behavior.
 | `npm run format` | Formats the code and documentation with Biome. |
 | `npm run lint` | Runs Biome, including formatting and lint rules. |
 | `npm run typecheck` | Type-checks the project. |
+| `npm run check:links` | Verifies relative Markdown links repo-wide (including `.claude/`); also runs in CI. |
 | `npm run test:unit` | Runs the Vitest unit suite. |
 | `npm run test:e2e` | Runs the Playwright end-to-end suite, then the scenario-coverage report (structural tag errors fail). |
 | `npm run test:e2e:coverage` | Same as `test:e2e`, additionally gating `must`-priority scenario coverage at 100%. |

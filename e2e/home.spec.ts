@@ -6,6 +6,6 @@ test.describe("home page", () => {
   }, async ({ page }) => {
     await page.goto("/");
 
-    await expect(page.getByRole("heading", { name: "PTCGP Deck Builder" })).toBeVisible();
+    await expect(page.getByTestId("home-title")).toHaveText("PTCGP Deck Builder");
   });
 });

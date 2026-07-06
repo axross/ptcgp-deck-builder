@@ -1,15 +1,19 @@
 import { withSentryConfig } from "@sentry/nextjs";
 import type { NextConfig } from "next";
+import { CARD_IMAGE_BASE_URL } from "./src/features/cards/card-images";
+
+const cardImageCdn = new URL(CARD_IMAGE_BASE_URL);
 
 const nextConfig: NextConfig = {
   images: {
-    // Card artwork host; tightly scoped to the Pocket path. See
-    // src/features/cards/card-images.ts and the ptcgp-domain skill.
+    // Card artwork host, derived from the single provider constant so a
+    // provider swap cannot leave this allowlist stale; tightly scoped to the
+    // Pocket path. See src/features/cards/card-images.ts.
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "limitlesstcg.nyc3.cdn.digitaloceanspaces.com",
-        pathname: "/pocket/**",
+        hostname: cardImageCdn.hostname,
+        pathname: `${cardImageCdn.pathname}/**`,
       },
     ],
   },

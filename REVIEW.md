@@ -69,9 +69,11 @@ review — CI blocks the merge regardless, so restating them costs the author's
 attention without adding a gate. This exclusion governs **posted** reviews
 only; internal self-review triage still flags these findings.
 
-- Anything CI already enforces — the Biome lint/format check (`npm run lint`)
-  and the Vitest unit-test run (`npm run test:unit`) in the merge-checks
-  workflow ([`merge-checks.yaml`](.github/workflows/merge-checks.yaml)).
+- Anything CI already enforces — the Biome lint/format check (`npm run lint`),
+  the type check (`npm run typecheck`), the docs link check
+  (`npm run check:links`), and the Vitest unit-test run (`npm run test:unit`)
+  in the merge-checks workflow
+  ([`merge-checks.yaml`](.github/workflows/merge-checks.yaml)).
 - Lockfiles and generated files.
 
 **Guidelines:**

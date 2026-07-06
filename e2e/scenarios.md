@@ -5,7 +5,8 @@ The human-authored journey catalog for scenario coverage (see
 One row per user journey the e2e suite is expected to assert. Ids are stable
 dotted identifiers — renaming one requires updating every `@scenario:<id>` tag
 in the same change. Priority is `must` | `should` | `may`; `must` rows are
-hard-gated at 100% by `npm run test:e2e:coverage`.
+hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
+`|` character — the coverage script parses this table by splitting on pipes.
 
 | Id | Title | Area | Priority |
 | -- | ----- | ---- | -------- |

@@ -5,9 +5,10 @@ import type { Card } from "./schema";
  * card database that tracks every expansion through the latest release. The
  * URL pattern is `{base}/{setCode}/{setCode}_{number3}_EN.webp`. See
  * ptcgp-domain › card-images for the source decision, caveats, and
- * alternatives; changing provider means changing only this module.
+ * alternatives; changing provider means changing only this constant —
+ * next.config.ts derives its image-host allowlist from it.
  */
-const CARD_IMAGE_BASE_URL = "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket";
+export const CARD_IMAGE_BASE_URL = "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket";
 
 /** Returns the full-size English card image URL for a card. */
 export function getCardImageUrl(card: Card): string {
