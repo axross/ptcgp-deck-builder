@@ -40,4 +40,9 @@
 
 .navLink[aria-current="page"] {
   color: var(--color-accent);
+  /* Pair the accent color with weight + underline so the active item is not
+     distinguished by color alone (per UI Design Principles). */
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 0.25rem;
 }
