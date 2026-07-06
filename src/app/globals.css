@@ -6,6 +6,7 @@
   --color-text-muted: #5b6070;
   --color-accent: #2f6fed;
   --color-accent-contrast: #ffffff;
+  --color-danger: #c0281f;
 
   --space-1: 0.25rem;
   --space-2: 0.5rem;
@@ -28,6 +29,7 @@
     --color-text-muted: #9aa0b4;
     --color-accent: #6b9bff;
     --color-accent-contrast: #10131c;
+    --color-danger: #ff9b9b;
   }
 }
 

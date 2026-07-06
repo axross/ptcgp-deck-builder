@@ -16,3 +16,8 @@ hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
 | cards.search | Visitor searches the catalog by card name | cards | should |
 | cards.empty-state | Visitor sees an empty state and clears filters when nothing matches | cards | should |
 | cards.image-fallback | A card whose artwork fails to load shows the data-driven fallback frame | cards | should |
+| deck.create.save | Visitor builds a legal 20-card deck, registers energy, names and saves it, and it survives reload | decks | must |
+| deck.validation.live | Removing a card surfaces the deck-size violation live on the deck panel | decks | must |
+| deck.energy.register | Visitor registers 1–3 Energy Zone types from the eight registrable ones | decks | should |
+| deck.save.failure | A rejected storage write shows a visible error without crashing the editor | decks | may |
+| deck.edit.existing | Visitor reopens a saved deck to edit, and an unknown deck id shows a not-found state | decks | must |

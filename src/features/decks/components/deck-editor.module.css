@@ -1,0 +1,44 @@
+.main {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: var(--space-4) var(--space-3);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-4);
+}
+
+/* Two columns on wider viewports: picker fills, the deck panel is a sidebar. */
+@media (min-width: 48rem) {
+  .layout {
+    grid-template-columns: minmax(0, 1fr) 22rem;
+    align-items: start;
+  }
+}
+
+.loading {
+  color: var(--color-text-muted);
+}
+
+.notFoundHeading {
+  margin: 0 0 var(--space-3);
+  font-size: 1.5rem;
+}
+
+.notFoundBody {
+  margin: 0 0 var(--space-4);
+  max-width: 32rem;
+  color: var(--color-text-muted);
+}
+
+.notFoundAction {
+  display: inline-flex;
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-1);
+  background: var(--color-accent);
+  color: var(--color-accent-contrast);
+  font-weight: 500;
+  text-decoration: none;
+}
