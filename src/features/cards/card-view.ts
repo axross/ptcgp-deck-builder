@@ -1,5 +1,6 @@
 import { getCardImageUrl } from "./card-images";
 import type { Card } from "./schema";
+import { getSet, setCodes } from "./set-registry";
 
 /**
  * View models for the card browser. The route builds these on the server and
@@ -83,5 +84,24 @@ export function deriveRarityOptions(cards: readonly Card[]): RarityOption[] {
       return (
         (ai === -1 ? Number.MAX_SAFE_INTEGER : ai) - (bi === -1 ? Number.MAX_SAFE_INTEGER : bi)
       );
+    });
+}
+
+/** A set choice for the filter control: the set code plus its display label. */
+export type SetOption = { code: string; label: string };
+
+/**
+ * The distinct sets present in `cards`, in registry (chronological) order, each
+ * labelled from the set registry. Derived from the catalog so only seeded sets
+ * are offered — a set with no cards yet never appears as a dead filter option —
+ * and set names come from the registry rather than being hardcoded here.
+ */
+export function deriveSetOptions(cards: readonly Card[]): SetOption[] {
+  const present = new Set(cards.map((card) => card.set.code));
+  return setCodes
+    .filter((code) => present.has(code))
+    .map((code) => {
+      const set = getSet(code);
+      return { code, label: set ? `${set.name} (${code})` : code };
     });
 }

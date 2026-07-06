@@ -2,38 +2,82 @@ import "server-only";
 import { z } from "zod";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
 import { type Card, cardSchema } from "./schema";
+import { getSet, type SetCode } from "./set-registry";
 
 /**
- * The static card catalog. The dataset (~370 KB of JSON) is server-tier only
- * — enforced by the `server-only` import above, which fails the build if a
- * client component pulls this module in. Pass individual cards or filtered
- * lists to client components as props instead. (Vitest aliases `server-only`
- * to a stub; see vitest.config.ts.)
+ * The static, set-aware card catalog. Each expansion is one JSON file under
+ * `data/`, registered once in {@link seededSets}; `getAllCards()` spans them
+ * all and card ids stay globally unique via the set-code prefix ("A1-001").
+ *
+ * The dataset is server-tier only — enforced by the `server-only` import above,
+ * which fails the build if a client component pulls this module in. As more
+ * sets are seeded the payload grows, so the per-set accessors let a route load
+ * only the sets it needs; pass individual cards or filtered lists to client
+ * components as props. (Vitest aliases `server-only` to a stub; see
+ * vitest.config.ts.)
  */
 
-let cache: { cards: readonly Card[]; byId: ReadonlyMap<string, Card> } | null = null;
+/**
+ * One entry per seeded set data file, in registry order. Registering a new set
+ * is a single edit here (plus its row in the set registry). The `code` is
+ * declared alongside the import so a data file that does not match its set is
+ * caught by {@link getCatalog}.
+ */
+const seededSets: readonly { code: SetCode; data: unknown }[] = [
+  { code: "A1", data: geneticApexA1 },
+];
 
-function getCatalog(): NonNullable<typeof cache> {
+type Catalog = {
+  cards: readonly Card[];
+  byId: ReadonlyMap<string, Card>;
+  bySet: ReadonlyMap<SetCode, readonly Card[]>;
+};
+
+let cache: Catalog | null = null;
+
+function getCatalog(): Catalog {
   if (cache === null) {
-    const result = z.array(cardSchema).safeParse(geneticApexA1);
-    if (!result.success) {
-      throw new Error(
-        `getCatalog() failed to validate the bundled card catalog: ${result.error.message}`,
-      );
+    const cards: Card[] = [];
+    const bySet = new Map<SetCode, readonly Card[]>();
+
+    for (const { code, data } of seededSets) {
+      const result = z.array(cardSchema).safeParse(data);
+      if (!result.success) {
+        throw new Error(
+          `getCatalog() failed to validate the bundled "${code}" card data: ${result.error.message}`,
+        );
+      }
+      const mismatched = result.data.find((card) => card.set.code !== code);
+      if (mismatched !== undefined) {
+        throw new Error(
+          `getCatalog() found card "${mismatched.id}" (set ${mismatched.set.code}) in the "${code}" data file.`,
+        );
+      }
+      const expected = getSet(code)?.cardCount;
+      if (expected !== undefined && result.data.length !== expected) {
+        throw new Error(
+          `getCatalog() expected ${expected} cards for set "${code}" (per the registry) but the data file has ${result.data.length}.`,
+        );
+      }
+      cards.push(...result.data);
+      bySet.set(code, result.data);
     }
+
     cache = {
-      cards: result.data,
-      byId: new Map(result.data.map((card) => [card.id, card])),
+      cards,
+      byId: new Map(cards.map((card) => [card.id, card])),
+      bySet,
     };
   }
   return cache;
 }
 
 /**
- * Returns every card in the catalog, validated against the card schema.
+ * Returns every card across all seeded sets, validated against the card schema.
  *
- * @throws when the bundled dataset does not match the schema — a data defect
- *   that should surface at build/test time, never in response to user input.
+ * @throws when a bundled dataset does not match the schema, is filed under the
+ *   wrong set, or disagrees with the registry's card count — data defects that
+ *   should surface at build/test time, never in response to user input.
  */
 export function getAllCards(): readonly Card[] {
   return getCatalog().cards;
@@ -42,4 +86,19 @@ export function getAllCards(): readonly Card[] {
 /** Returns the card with the given id (e.g. "A1-001"), or null when unknown. */
 export function getCard(id: string): Card | null {
   return getCatalog().byId.get(id) ?? null;
+}
+
+/** Returns exactly the seeded cards of one set, or an empty list if unseeded. */
+export function getCardsBySet(code: SetCode): readonly Card[] {
+  return getCatalog().bySet.get(code) ?? [];
+}
+
+/** Returns how many cards of `code` are seeded (0 when the set has no data file). */
+export function getSetCardCount(code: SetCode): number {
+  return getCardsBySet(code).length;
+}
+
+/** The set codes that currently have seeded card data, in registry order. */
+export function getSeededSetCodes(): readonly SetCode[] {
+  return [...getCatalog().bySet.keys()];
 }

@@ -110,7 +110,7 @@ schema; this document explains the fields and the source's quirks.
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-(Shiny tiers `✸` / `✸✸` do not appear until Shining Revelry / A2b — extend the rarity `code` enum in `schema.ts` when that set's data lands.)
+(Shiny tiers `✸` / `✸✸` do not appear until Shining Revelry / A2b. Their exact `code` strings are defined by that dataset; extend the rarity `code` enum in `schema.ts` when validation rejects them during the fetch — see the ingestion pipeline below.)
 
 **`stage`:** Basic, Stage1, Stage2 · **`ruleBox`:** None, ex · **`trainer.subtype`:** Supporter, Item.
 
@@ -123,3 +123,18 @@ These are modeled now so the identical schema scales to later sets and richer so
 - `pokemon.classification` — `UltraBeast` arrives in A3a; `Ancient`/`Future` in B3a.
 - `pokemon.isBaby` — Baby Pokémon arrive in A4.
 - `pokemon.ruleBox` and `trainer.subtype` are **open enumerations**: later sets add `MegaEx`, `PokemonTool`, `Stadium`, etc. The Zod enums in `schema.ts` already include the documented future values; extend them when a new mechanic ships.
+
+## Ingestion pipeline (fetching a set)
+
+Seeding a set is an automated fetch + validate step, not a hand-assembled list. The tooling lives in `scripts/` and never ships to the app bundle. It runs under plain `node` — Node's default TypeScript type-stripping lets these `.mjs` scripts import the authoritative `cardSchema` from `schema.ts`, so validity is defined in exactly one place.
+
+- **`scripts/set-ingestion.mjs`** — pure, network-free core (unit-tested in `set-ingestion.test.mjs`):
+  - `transformSourceCard(record, set, setSize)` maps one source record (the `sourceCardSchema` contract) into the canonical card-data object above, taking the set name from the registry and stamping `source` provenance. Game text is copied verbatim.
+  - `validateCards(cards)` runs every card through `cardSchema` and returns each failure by card id and violation path — the trigger for extending an enum.
+  - `serializeCards(cards)` emits the deterministic JSON: two-space indent, canonical key order, primitive arrays inline (`["Grass", "Colorless"]`) and object arrays expanded. It reproduces the checked-in A1 file byte-for-byte, so re-fetches diff cleanly.
+- **`scripts/fetch-set-data.mjs`** (`npm run fetch:set -- <CODE>`) — the network CLI: downloads a set, enriches flavor, transforms → validates → writes `data/<set-name>-<code>.json`. Sequential requests, identifying user agent. Fails with an explicit network-policy message (not a stack trace) when the source hosts are blocked, and aborts rather than writing a partial set if the count disagrees with the registry.
+- **`scripts/validate-set-data.mjs`** (`npm run validate:set -- <file>`) — standalone validation over a card-data JSON array or JSONL, reusing `validateCards`. No network.
+
+### Source provenance and endpoints
+
+Same model as the seeded A1 data: **`dotgg.gg`** card database is the primary source (`source.provider = "dotgg.gg"`, `source.slug` like `a1-1-bulbasaur`); **`pocket.limitlesstcg.com`** supplies flavor text where available. The exact dotgg endpoint and its raw field names are **confirmed on the first run in a network-enabled environment** and should be recorded here at that time; today the network adapters (`normalizeDotggCard`, `parseLimitlessFlavor` in `fetch-set-data.mjs`) and the endpoint constants carry the documented assumption, and everything downstream is tested against the `sourceCardSchema` contract so a wire-format change is isolated to those two functions.

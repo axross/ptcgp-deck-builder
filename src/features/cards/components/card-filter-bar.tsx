@@ -9,13 +9,14 @@ import {
   cardKinds,
   hasActiveFilters,
 } from "../card-filters";
-import type { RarityOption } from "../card-view";
+import type { RarityOption, SetOption } from "../card-view";
 import { energyTypes } from "../schema";
 import styles from "./card-filter-bar.module.css";
 
 type CardFilterBarProps = {
   criteria: CardFilterCriteria;
   rarityOptions: readonly RarityOption[];
+  setOptions: readonly SetOption[];
 };
 
 /**
@@ -24,7 +25,7 @@ type CardFilterBarProps = {
  * the server route re-reads the params and re-filters. The name search is
  * locally controlled and mirrored into the URL so the cursor never jumps.
  */
-export function CardFilterBar({ criteria, rarityOptions }: CardFilterBarProps) {
+export function CardFilterBar({ criteria, rarityOptions, setOptions }: CardFilterBarProps) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
@@ -109,6 +110,26 @@ export function CardFilterBar({ criteria, rarityOptions }: CardFilterBarProps) {
           {cardKinds.map((kind) => (
             <option key={kind} value={kind}>
               {cardKindLabels[kind]}
+            </option>
+          ))}
+        </select>
+      </div>
+
+      <div className={styles.field}>
+        <label className={styles.label} htmlFor="card-filter-set">
+          Set
+        </label>
+        <select
+          id="card-filter-set"
+          className={styles.select}
+          data-testid="card-filter-set"
+          value={criteria.set ?? ""}
+          onChange={(event) => commitParam(cardFilterParamNames.set, event.target.value)}
+        >
+          <option value="">All sets</option>
+          {setOptions.map((option) => (
+            <option key={option.code} value={option.code}>
+              {option.label}
             </option>
           ))}
         </select>

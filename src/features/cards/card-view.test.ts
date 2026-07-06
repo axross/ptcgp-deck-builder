@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { deriveRarityOptions, toCardTileView } from "./card-view";
+import { deriveRarityOptions, deriveSetOptions, toCardTileView } from "./card-view";
 import { getAllCards, getCard } from "./catalog";
 import type { Card } from "./schema";
 
@@ -55,5 +55,28 @@ describe("deriveRarityOptions()", () => {
     const options = deriveRarityOptions(getAllCards());
     const codes = options.map((option) => option.code);
     expect(new Set(codes).size).toBe(codes.length);
+  });
+});
+
+describe("deriveSetOptions()", () => {
+  it("lists the seeded sets, labelled from the registry", () => {
+    // Only A1 is seeded today; the option is labelled from the set registry.
+    expect(deriveSetOptions(getAllCards())).toEqual([{ code: "A1", label: "Genetic Apex (A1)" }]);
+  });
+
+  it("orders sets chronologically and omits sets with no cards", () => {
+    const a1 = fixture("A1-001");
+    // Synthesize a card from a later set to prove ordering and presence-gating
+    // without seeding real data.
+    const b1 = {
+      ...a1,
+      id: "B1-001",
+      set: { code: "B1", name: "Mega Rising", nameJa: "メガライジング" },
+    };
+
+    expect(deriveSetOptions([b1, a1])).toEqual([
+      { code: "A1", label: "Genetic Apex (A1)" },
+      { code: "B1", label: "Mega Rising (B1)" },
+    ]);
   });
 });

@@ -12,6 +12,8 @@ export default defineConfig({
     },
   },
   test: {
-    include: ["src/**/*.test.{ts,tsx}"],
+    // Colocated unit tests: app/feature modules under src, plus the ingestion
+    // pipeline's tests under scripts (the fetch tooling lives in scripts/).
+    include: ["src/**/*.test.{ts,tsx}", "scripts/**/*.test.mjs"],
   },
 });

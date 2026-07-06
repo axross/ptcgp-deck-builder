@@ -77,6 +77,36 @@ test.describe("card browser", () => {
     });
   });
 
+  test("filters by expansion set and the selection is URL-shareable", {
+    tag: ["@scenario:cards.filter.set", "@area:cards", "@priority:should"],
+  }, async ({ page }) => {
+    // Only Genetic Apex (A1) is seeded today, so the set filter offers one
+    // option and selecting it keeps the full grid; this asserts the control is
+    // wired, URL-encoded, and combines with the other filters. Cross-set
+    // narrowing is proved in the card-filters unit tests.
+    await page.goto("/cards");
+    await page.getByTestId("card-filter-set").selectOption("A1");
+
+    await expect(page).toHaveURL(/[?&]set=A1/);
+    await expect(page.getByTestId("card-tile")).toHaveCount(CATALOG_SIZE);
+
+    await test.step("Set combines with another filter", async () => {
+      await page.getByTestId("card-filter-type").selectOption("Grass");
+
+      await expect(page).toHaveURL(/[?&]set=A1/);
+      await expect(page).toHaveURL(/[?&]type=Grass/);
+      await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur (A1, Grass)
+      await expect(cardTile(page, "A1-033")).toHaveCount(0); // Charmander (A1, Fire)
+    });
+
+    await test.step("Opening the shared set URL fresh reproduces the grid", async () => {
+      await page.goto("/cards?set=A1");
+
+      await expect(page.getByTestId("card-tile")).toHaveCount(CATALOG_SIZE);
+      await expect(page.getByTestId("card-filter-set")).toHaveValue("A1");
+    });
+  });
+
   test("searches the catalog by card name", {
     tag: ["@scenario:cards.search", "@area:cards", "@priority:should"],
   }, async ({ page }) => {

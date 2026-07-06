@@ -55,22 +55,30 @@ Recorded 2026-07 with the project owner:
 ## Card Data and Schemas
 
 - `src/features/cards/schema.ts` — Zod schemas and enums (types, rarity codes, stages, rule boxes, classifications, trainer subtypes). It is the type-checked form of [card-data.md](./references/card-data.md).
-- `src/features/cards/catalog.ts` — validated, cached access to the dataset (`getAllCards()`, `getCard(id)`); it throws on schema mismatch because the data ships with the repo (a defect, not user input).
-- `src/features/cards/data/genetic-apex-a1.json` — the A1 dataset (286 cards).
+- `src/features/cards/set-registry.ts` — the **single source of set metadata** (code, EN/JA names, release date, card count) for every published set (A1–B3b). Client-safe (not `server-only`); components read set names/labels from here rather than hardcoding them.
+- `src/features/cards/catalog.ts` — validated, cached, **set-aware** access to the seeded datasets. `getAllCards()` spans every seeded set; `getCard(id)` looks up by global id; `getCardsBySet(code)` / `getSetCardCount(code)` / `getSeededSetCodes()` give per-set access so a route can load only the sets it needs. It throws on schema mismatch, a wrong-set card, or a count that disagrees with the registry (defects, not user input).
+- `src/features/cards/data/<set-name>-<code>.json` — one file per seeded set (e.g. `genetic-apex-a1.json`, 286 cards). Ids stay globally unique via the set-code prefix.
 
 **Guidelines:**
 
 - MUST parse any card data through `cardSchema` before use, and access it via the catalog module, not by importing the JSON directly.
-- MUST keep the catalog on the server tier — the dataset is ~370 KB; pass cards/filtered lists to client components as props per [Component Guidelines](../component-guidelines/SKILL.md).
+- MUST keep the catalog on the server tier — the payload grows with each seeded set; pass cards/filtered lists to client components as props per [Component Guidelines](../component-guidelines/SKILL.md). Prefer the per-set accessors so a route ships only the sets it needs.
+- MUST source set names/labels from `set-registry.ts`, never hardcode them in components.
 - MUST treat art/rarity variants as distinct catalog entries with identical battle stats; deck logic groups them by name, collection/display logic keeps them separate.
 - MUST NOT hand-edit card game text — it is quoted from the sources recorded in each card's `source` field and in [card-data.md](./references/card-data.md).
 
 ## Adding a New Expansion's Data
 
-1. Obtain the set's data in the same card-object shape (see [card-data.md](./references/card-data.md)) and add it as `src/features/cards/data/<set-name>-<code>.json`, in card-number order.
-2. Extend the enums in `schema.ts` only as the set requires (e.g. Shiny rarity codes from A2b, `MegaEx` from B1, new trainer subtypes) and record the change in [card-data.md](./references/card-data.md).
-3. Register the file in `catalog.ts` so `getAllCards()` spans all sets, and extend the catalog test's per-set count assertions.
+The set catalog treats an expansion as data, not a special case, so seeding a set is an automated fetch + validate step — no hand-assembled card lists (see [card-data.md › ingestion pipeline](./references/card-data.md)):
+
+1. **Fetch** the set from the source: `npm run fetch:set -- <CODE>` (e.g. `A2`). This runs `scripts/fetch-set-data.mjs`, which downloads from `dotgg.gg` (+ `pocket.limitlesstcg.com` flavor), transforms to the card-data shape, validates every card against `cardSchema`, and writes the deterministic `src/features/cards/data/<set-name>-<code>.json`. It needs a network-enabled environment (see the prerequisite below) and stamps each card's `source` provenance. Never hand-edit card game text.
+2. **Extend an enum only if validation demands it.** The fetcher (or `npm run validate:set -- <file>`) reports the card id and violation for any value outside the current enums — that report is the trigger. Extend the relevant enum in `schema.ts` (e.g. Shiny rarity codes from A2b, a new trainer subtype) and record it in [card-data.md](./references/card-data.md), then re-run.
+3. **Register** the file in `catalog.ts` (`seededSets`) so `getAllCards()` spans it, and confirm the set's row in `set-registry.ts`. The catalog asserts the file's card count against the registry; the catalog test's per-set assertions read the registry, so no literal to update.
 4. Update [expansions.md](./references/expansions.md) if the set is newer than the document, and note new mechanics that affect deck rules (e.g. a new card class with a different KO point value).
+
+**Environment prerequisite:** the fetcher needs outbound access to the source hosts. Development sandboxes block outbound fetches by network policy; running the fetcher requires an environment whose policy allowlists `dotgg.gg` and `pocket.limitlesstcg.com` (a repo-owner setting). When blocked, the tool exits with an explicit network-policy message, not a cryptic error.
+
+**Schema readiness review (recorded 2026-07):** the future-facing values a later set needs are already modeled in `schema.ts` — `ruleBox` includes `MegaEx` (B1), `trainer.subtype` includes `PokemonTool` / `Stadium` / `Fossil`, `classification` covers `UltraBeast` / `Ancient` / `Future`, and `isBaby` exists. The one known remaining gap is the rarity `code` enum, which still lacks the **Shiny tiers (✸ / ✸✸)**; their exact code strings are defined by the first dataset that contains them (A2b) and are added via the validation-driven step above when that set is fetched.
 
 ## Data Quirks to Remember
 
