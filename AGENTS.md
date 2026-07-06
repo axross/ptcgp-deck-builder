@@ -17,7 +17,7 @@ Apply these keywords consistently in this document and the documents linked from
 - **ptcgp-deck-builder** is a web app for building Pokémon TCG Pocket (PTCGP) decks: browse the card catalog, assemble rule-valid decks, and save them in the visitor's own browser (`localStorage`) — no backend database, no accounts.
 - Primary language: TypeScript (strict). App framework: Next.js (App Router). State: Zustand. Validation: Zod. Styling: CSS Modules with CSS-variable tokens. Error reporting: Sentry. Hosting: Vercel.
 - Tooling: npm for packages, Biome for linting and formatting, Vitest for unit tests, Playwright for e2e tests with a scenario-coverage catalog.
-- The PTCGP card data model and deck-construction rules are **deferred** pending the authoritative game documents; see [Project Structure › Domain Data](.claude/skills/project-structure/SKILL.md#domain-data-pending).
+- The PTCGP card model, deck-construction rules, and expansion inventory are owned by the [PTCGP Domain](.claude/skills/ptcgp-domain/SKILL.md) skill; the Genetic Apex (A1) card dataset is seeded under `src/features/cards/data/`.
 - For run-scripts, current-docs lookup rules, and verification commands, consult [Development Guidelines](.claude/skills/development-guidelines/SKILL.md).
 - For repository layout, stack, routing conventions, and file placement, consult [Project Structure](.claude/skills/project-structure/SKILL.md).
 
@@ -39,6 +39,7 @@ Apply these keywords consistently in this document and the documents linked from
 | [Performance and Reliability Requirements](.claude/skills/performance-and-reliability-requirements/SKILL.md) | Reviewing server/client boundaries, caching, asset/image optimization, bundle weight, or runtime failure behavior |
 | [Product Requirement Guidelines](.claude/skills/product-requirement-guidelines/SKILL.md) | Writing, refining, or reviewing a product requirement, feature spec, or issue description; framing scope/non-goals, testable acceptance criteria, or a spec's UI-design or architecture sections |
 | [Project Structure](.claude/skills/project-structure/SKILL.md) | Navigating the repository, deciding where a new module, route, component, or test belongs, or checking stack, tooling, routing, and directory conventions |
+| [PTCGP Domain](.claude/skills/ptcgp-domain/SKILL.md) | Working with PTCGP game concepts — card data and schemas, the card catalog, deck-construction rules and validation, energy types, rarity, expansions, or battle rules affecting the deck builder |
 | [Quality Assurance Guidelines](.claude/skills/quality-assurance-guidelines/SKILL.md) | Reviewing verification evidence, e2e coverage, snapshots, flakiness, lint/format evidence, or manual checks |
 | [UI Design Principles](.claude/skills/ui-design-principles/SKILL.md) | Deciding how a surface should look — color-token roles, control selection, spacing/typography, dark mode, responsive behavior, copy, accessibility |
 | [Unit Test Guidelines](.claude/skills/unit-test-guidelines/SKILL.md) | Writing, refactoring, reviewing, or running unit tests, including mocks/fakes, fixtures, schema tests, and behavior-focused assertions |

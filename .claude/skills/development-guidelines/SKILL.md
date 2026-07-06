@@ -71,6 +71,7 @@ Consult the appropriate skill for detailed guidance on each area:
 | Repository layout, file placement, routing conventions | [Project Structure](../project-structure/SKILL.md) |
 | Component/hook construction, styling composition, stores | [Component Guidelines](../component-guidelines/SKILL.md) |
 | Appearance — tokens, controls, copy, accessibility | [UI Design Principles](../ui-design-principles/SKILL.md) |
+| PTCGP card data, deck rules, expansions, game rules | [PTCGP Domain](../ptcgp-domain/SKILL.md) |
 
 Consult a topic skill whenever implementation touches the area it owns.
 

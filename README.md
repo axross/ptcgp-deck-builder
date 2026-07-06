@@ -4,9 +4,10 @@ A web app for building **Pokémon TCG Pocket (PTCGP)** decks: browse the card
 catalog, assemble rule-valid decks, and save them in your own browser
 (`localStorage`) — no backend database, no accounts.
 
-> **Status:** freshly initialized. The card catalog and deck-construction
-> rules are pending the authoritative game documents; see
-> [Project Structure › Domain Data](.claude/skills/project-structure/SKILL.md#domain-data-pending).
+> **Status:** early scaffold. The Genetic Apex (A1) card catalog (286 cards)
+> and the deck-construction rules are implemented under `src/features/`; the
+> deck-builder UI is next. Game knowledge is documented in the
+> [PTCGP Domain](.claude/skills/ptcgp-domain/SKILL.md) skill.
 
 ## Stack
 

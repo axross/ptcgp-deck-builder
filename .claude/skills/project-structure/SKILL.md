@@ -54,6 +54,6 @@ description: Apply this skill when navigating the repository, deciding where a n
 - MUST add e2e specs under `e2e/` as `<area>.spec.ts` and register new user journeys in `e2e/scenarios.md` per [e2e-testing-guidelines › scenario-coverage](../e2e-testing-guidelines/references/scenario-coverage.md).
 - MUST NOT place non-route files directly in a `src/app/` route segment unless they are Next.js route-file conventions or that route's colocated styles/components.
 
-## Domain Data (pending)
+## Domain Data
 
-The PTCGP card catalog, expansion list, and deck-construction rules will live under `src/features/cards/` and `src/features/decks/` as static, Zod-validated TypeScript data. Their concrete data model is **deferred**: the authoritative game documents were not yet available when the repository was initialized. When they land, model the data from those documents and record the rules in a dedicated domain skill (e.g. `ptcgp-domain`), then add it to the `AGENTS.md` skill index.
+The PTCGP card catalog and deck-construction rules live under `src/features/cards/` (Zod card schema, catalog access, the static per-set JSON datasets in `data/`) and `src/features/decks/` (deck schema, `deck-rules.ts` validation). What that data *means* — the card model, game rules, expansion inventory, dataset quirks, and how to add a new set — is owned by [PTCGP Domain](../ptcgp-domain/SKILL.md).

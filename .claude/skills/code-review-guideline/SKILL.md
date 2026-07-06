@@ -133,6 +133,7 @@ Developer-facing skills own how to write project-conforming code. The review ski
 | Repository layout, file placement, routing conventions | [Project Structure](../project-structure/SKILL.md) |
 | Component conventions and stores | [Component Guidelines](../component-guidelines/SKILL.md) |
 | Visual design vocabulary | [UI Design Principles](../ui-design-principles/SKILL.md) |
+| PTCGP card model, deck rules, dataset conventions | [PTCGP Domain](../ptcgp-domain/SKILL.md) |
 
 **Guidelines:**
 
