@@ -28,7 +28,29 @@ Authoritative research documents (compiled mid-2026; PTCGP is a live game — tr
 
 - MUST route every deck-legality decision through `validateDeck()` rather than re-implementing a rule at a call site.
 - MUST count card copies by English name (`name.en`), never by card id, when enforcing or displaying the copy limit.
+- MUST keep advisory feedback in `deck-advice.ts` (`adviseDeck()` — non-blocking warnings such as fewer than 5 Basics, or an evolution card whose lower stage is missing) separate from legality: advice never prevents saving a deck.
 - MUST consult [game-rule.md](./references/game-rule.md) before implementing any battle-adjacent behavior (weakness math, status, points) — several rules deliberately differ from the paper TCG.
+
+## Card Images
+
+Card artwork is **hotlinked from the Limitless TCG Pocket CDN** via `getCardImageUrl()` in `src/features/cards/card-images.ts` (pattern: `…/pocket/{setCode}/{setCode}_{number, zero-padded to 3}_EN.webp`), chosen because Limitless's database reliably covers every expansion through the latest release. The host is allowlisted in `next.config.ts` `images.remotePatterns`, tightly scoped to `/pocket/**`.
+
+**Guidelines:**
+
+- MUST build image URLs only through `getCardImageUrl()` — the provider is a single-module decision so it can be swapped in one place.
+- MUST keep the image-host allowlist scoped to the exact host and path prefix per [application-security-requirements › ssrf-and-embeds](../application-security-requirements/references/ssrf-and-embeds.md).
+- SHOULD render a data-driven fallback (name/type/HP frame) when an image fails to load — the CDN is an unofficial third-party source and individual URLs are not guaranteed.
+- Known caveats: this is an unofficial hotlink (no SLA; Pokémon artwork is third-party IP — self-hosting would raise licensing questions of its own); the URL pattern was confirmed from community usage but could not be probed from the development sandbox (network-restricted), so spot-check one A1 and one latest-set card in a browser on first UI use. Alternative provider if Limitless breaks: TCGdex (`assets.tcgdex.net`, series `tcgp`, multilingual — also a candidate once i18n lands).
+
+## Product Decisions
+
+Recorded 2026-07 with the project owner:
+
+- **No collection tracking** — assume the user has every card; decks are built from the full catalog with no ownership restrictions.
+- **Decks store card ids, not names** — the chosen art variant is part of the deck; the copy limit still counts by name.
+- **Fossils do not satisfy the "at least one Basic Pokémon" rule** (they cannot be placed during setup).
+- **Advisory warnings are wanted** (see `deck-advice.ts`) but deliberately exclude any energy-registration-vs-attack-cost check: registered energy is a strategic choice — a Fire deck registering only Water energy can be correct.
+- **English-only UI for now**; the schema reserves `name.ja` fields so i18n can land without a data migration.
 
 ## Card Data and Schemas
 
