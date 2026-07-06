@@ -14,7 +14,7 @@ function createFakeStorage(initial: Record<string, string> = {}) {
 
 const schema = z.object({ name: z.string(), count: z.number() });
 
-describe("readStorageItem", () => {
+describe("readStorageItem()", () => {
   it("returns the parsed value when the stored JSON matches the schema", () => {
     const storage = createFakeStorage({
       decks: JSON.stringify({ name: "Starter", count: 20 }),
@@ -45,15 +45,29 @@ describe("readStorageItem", () => {
   });
 });
 
-describe("writeStorageItem", () => {
-  it("stores the value as JSON readable by readStorageItem", () => {
+describe("writeStorageItem()", () => {
+  it("stores the value as JSON readable by readStorageItem and reports success", () => {
     const storage = createFakeStorage();
 
-    writeStorageItem(storage, "decks", { name: "Starter", count: 20 });
+    expect(writeStorageItem(storage, "decks", { name: "Starter", count: 20 })).toBe(true);
 
     expect(readStorageItem(storage, "decks", schema)).toEqual({
       name: "Starter",
       count: 20,
     });
+  });
+
+  it("returns false when the store rejects the write (e.g. quota exceeded)", () => {
+    const fullStorage = {
+      setItem: () => {
+        throw new DOMException("quota exceeded", "QuotaExceededError");
+      },
+    };
+
+    expect(writeStorageItem(fullStorage, "decks", { name: "Starter", count: 20 })).toBe(false);
+  });
+
+  it('throws for a non-serializable value instead of storing the string "undefined"', () => {
+    expect(() => writeStorageItem(createFakeStorage(), "decks", undefined)).toThrow(TypeError);
   });
 });

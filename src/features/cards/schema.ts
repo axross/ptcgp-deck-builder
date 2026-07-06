@@ -22,6 +22,7 @@ export const energyTypes = [
 
 export const energyTypeSchema = z.enum(energyTypes);
 
+/** One of the game's ten energy types (card types, weaknesses, attack costs). */
 export type EnergyType = z.infer<typeof energyTypeSchema>;
 
 export const raritySchema = z.object({
@@ -112,6 +113,9 @@ export const cardSchema = z.discriminatedUnion("category", [
   }),
 ]);
 
+/** A validated catalog card — either a Pokémon card or a Trainer card. */
 export type Card = z.infer<typeof cardSchema>;
+/** The Pokémon narrowing of {@link Card} (`pokemon` present, `trainer` null). */
 export type PokemonCard = Extract<Card, { category: "Pokemon" }>;
+/** The Trainer narrowing of {@link Card} (`trainer` present, `pokemon` null). */
 export type TrainerCard = Extract<Card, { category: "Trainer" }>;

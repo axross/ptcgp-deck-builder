@@ -3,7 +3,9 @@ import { defineConfig, devices } from "@playwright/test";
 
 // E2E_BASE_URL targets an already-running app (local production build or a
 // deployed environment); when unset, Playwright boots the dev server itself.
-const baseURL = process.env.E2E_BASE_URL ?? "http://localhost:3000";
+// Read once so the baseURL default and the webServer toggle cannot diverge.
+const externalBaseUrl = process.env.E2E_BASE_URL;
+const baseURL = externalBaseUrl ?? "http://localhost:3000";
 
 // Sandboxed agent environments pre-install a Chromium at a fixed path and
 // block Playwright's own browser download; use it when present.
@@ -35,7 +37,7 @@ export default defineConfig({
       use: { ...devices["Desktop Chrome"], launchOptions: { executablePath } },
     },
   ],
-  webServer: process.env.E2E_BASE_URL
+  webServer: externalBaseUrl
     ? undefined
     : {
         command: "npm run dev",

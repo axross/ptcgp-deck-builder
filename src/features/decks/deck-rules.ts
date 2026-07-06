@@ -11,6 +11,7 @@ export const MAX_COPIES_PER_NAME = 2;
 export const MIN_ENERGY_TYPES = 1;
 export const MAX_ENERGY_TYPES = 3;
 
+/** A single broken construction rule, discriminated by `rule`. */
 export type DeckRuleViolation =
   | { rule: "deck-size"; message: string; cardCount: number }
   | { rule: "unknown-card"; message: string; cardId: string }

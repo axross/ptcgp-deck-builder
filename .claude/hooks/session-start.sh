@@ -16,6 +16,16 @@ fi
 PROJECT_DIR="${CLAUDE_PROJECT_DIR:-$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)}"
 cd "$PROJECT_DIR"
 
+# warn when the container's Node differs from the pin — CI (merge-checks)
+# installs the .nvmrc version, so a mismatch runs code CI never tests.
+if [ -f .nvmrc ] && command -v node >/dev/null 2>&1; then
+  pinned_major="$(tr -d 'v[:space:]' <.nvmrc | cut -d. -f1)"
+  actual_major="$(node -v | tr -d 'v' | cut -d. -f1)"
+  if [ -n "$pinned_major" ] && [ "$pinned_major" != "$actual_major" ]; then
+    echo "WARNING: session Node v${actual_major} does not match .nvmrc (${pinned_major}) — CI runs Node ${pinned_major}." >&2
+  fi
+fi
+
 # provide a local env file for development if one does not exist yet.
 if [ -f .env.example ] && [ ! -f .env.local ]; then
   cp .env.example .env.local

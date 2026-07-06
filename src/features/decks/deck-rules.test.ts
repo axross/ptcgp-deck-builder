@@ -3,6 +3,7 @@ import { getCard } from "@/features/cards/catalog";
 import type { Card } from "@/features/cards/schema";
 import { validateDeck } from "./deck-rules";
 import type { Deck } from "./schema";
+import { WELL_BUILT_FIRE_DECK_CARDS } from "./test-fixtures";
 
 function makePokemonCard(overrides: {
   id: string;
@@ -135,33 +136,10 @@ describe("validateDeck()", () => {
   });
 
   it("accepts a legal deck built from the real Genetic Apex catalog", () => {
-    // 2× the Charmander/Growlithe/Ponyta lines plus Magmar, Moltres, and
-    // three Supporters — 20 real Fire-deck cards.
     const deck: Deck = {
       id: "deck-a1",
       name: "Charizard",
-      cards: [
-        "A1-033", // Charmander (Basic)
-        "A1-033",
-        "A1-034", // Charmeleon (Stage 1)
-        "A1-034",
-        "A1-035", // Charizard (Stage 2)
-        "A1-035",
-        "A1-039", // Growlithe (Basic)
-        "A1-039",
-        "A1-040", // Arcanine (Stage 1)
-        "A1-040",
-        "A1-042", // Ponyta (Basic)
-        "A1-042",
-        "A1-043", // Rapidash (Stage 1)
-        "A1-043",
-        "A1-044", // Magmar (Basic)
-        "A1-044",
-        "A1-046", // Moltres (Basic)
-        "A1-221", // Blaine (Supporter)
-        "A1-223", // Giovanni (Supporter)
-        "A1-219", // Erika (Supporter)
-      ],
+      cards: WELL_BUILT_FIRE_DECK_CARDS,
       energyTypes: ["Fire"],
     };
 

@@ -37,7 +37,7 @@ description: Apply this skill when navigating the repository, deciding where a n
 | `scripts/` | Repository scripts (`check-scenario-coverage.mjs`) |
 | `public/` | Static assets served verbatim |
 | `.claude/` | Agent harness: skills, hooks, commands, settings |
-| `.github/workflows/` | CI: `merge-checks.yaml` (lint + unit tests), `claude-review.yaml` (independent review) |
+| `.github/workflows/` | CI: `merge-checks.yaml` (lint, typecheck, docs links, unit tests), `claude-review.yaml` (independent review) |
 
 ## Routing Conventions
 

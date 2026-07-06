@@ -12,6 +12,7 @@ import type { Deck } from "./schema";
 
 export const RECOMMENDED_MIN_BASICS = 5;
 
+/** A single non-blocking deck-building warning, discriminated by `advice`. */
 export type DeckAdvice =
   | { advice: "few-basic-pokemon"; message: string; basicCount: number }
   | { advice: "missing-evolution-base"; message: string; cardName: string; evolvesFrom: string };
@@ -37,18 +38,15 @@ export function adviseDeck(deck: Deck, getCard: (id: string) => Card | null): De
 
   // An evolution card is only playable when its lower stage is also in the
   // deck (evolvesFrom names a card name, and fossils cover the fossil lines).
+  // Copies share a name and battle stats, so one representative per name
+  // suffices — advising once per card name, in deck order.
   const namesInDeck = new Set(cards.map((card) => card.name.en));
-  const reportedEvolutions = new Set<string>();
-  for (const card of pokemon) {
+  const pokemonByName = new Map(pokemon.map((card) => [card.name.en, card]));
+  for (const card of pokemonByName.values()) {
     const evolvesFrom = card.pokemon.evolvesFrom;
-    if (
-      evolvesFrom === null ||
-      namesInDeck.has(evolvesFrom) ||
-      reportedEvolutions.has(card.name.en)
-    ) {
+    if (evolvesFrom === null || namesInDeck.has(evolvesFrom)) {
       continue;
     }
-    reportedEvolutions.add(card.name.en);
     advice.push({
       advice: "missing-evolution-base",
       message: `"${card.name.en}" evolves from "${evolvesFrom}", which is not in this deck, so it can never be played.`,

@@ -2,23 +2,16 @@ import { z } from "zod";
 import { energyTypeSchema } from "@/features/cards/schema";
 
 /**
- * Energy types a deck can register for its Energy Zone. Colorless is a
- * wildcard cost (never generated) and Dragon has no Energy of its own —
- * Dragon decks register the types their attacks actually cost.
+ * Energy types a deck can register for its Energy Zone: every generatable
+ * type. Colorless is a wildcard cost (never generated) and Dragon has no
+ * Energy of its own — Dragon decks register the types their attacks actually
+ * cost.
  */
-export const registrableEnergyTypes = [
-  "Grass",
-  "Fire",
-  "Water",
-  "Lightning",
-  "Psychic",
-  "Fighting",
-  "Darkness",
-  "Metal",
-] as const;
+export const registrableEnergyTypeSchema = energyTypeSchema.exclude(["Colorless", "Dragon"]);
 
-export const registrableEnergyTypeSchema = energyTypeSchema.extract(registrableEnergyTypes);
+export const registrableEnergyTypes = registrableEnergyTypeSchema.options;
 
+/** An energy type the Energy Zone can generate (all types except Colorless and Dragon). */
 export type RegistrableEnergyType = z.infer<typeof registrableEnergyTypeSchema>;
 
 /**
@@ -32,4 +25,5 @@ export const deckSchema = z.object({
   energyTypes: z.array(registrableEnergyTypeSchema),
 });
 
+/** A validated saved deck (see {@link deckSchema}). */
 export type Deck = z.infer<typeof deckSchema>;
