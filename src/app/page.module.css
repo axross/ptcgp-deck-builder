@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   gap: var(--space-3);
-  min-height: 100vh;
+  min-height: 70vh;
   padding: var(--space-5);
   text-align: center;
 }
@@ -20,4 +20,18 @@
   color: var(--color-text-muted);
   font-size: 1.125rem;
   line-height: 1.6;
+}
+
+.cta {
+  margin-top: var(--space-2);
+  padding: var(--space-2) var(--space-5);
+  border-radius: var(--radius-1);
+  background: var(--color-accent);
+  color: var(--color-accent-contrast);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cta:hover {
+  opacity: 0.92;
 }
