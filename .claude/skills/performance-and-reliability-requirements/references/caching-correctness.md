@@ -1,6 +1,6 @@
 # Caching Correctness
 
-Apply these rules to verify that caching is applied with a deliberate lifetime and scope, never to per-user/per-request data, and that invalidation is wired on writes. Map "the cache directive/API" and "the cache-lifetime API" to whatever {{APP_FRAMEWORK}} or the project's caching layer provides.
+Apply these rules to verify that caching is applied with a deliberate lifetime and scope, never to per-user/per-request data, and that invalidation is wired on writes. Map "the cache directive/API" and "the cache-lifetime API" to whatever Next.js or the project's caching layer provides.
 
 ## Cache Placement
 
@@ -21,7 +21,7 @@ A TTL encodes a judgment about how long stale data is tolerable, and framework d
 
 - MUST flag a Critical when caching is applied without an explicitly chosen lifetime/TTL. The default is unsafe to assume.
 - MUST flag a Major when the chosen lifetime is mismatched to the data's actual mutability:
-  - Too short for data that changes only on rare edits — wastes data-layer reads
+  - Too short for data that changes only on rare edits — wastes recomputation
   - Too long for data the author edits frequently — stale UI
   - Match the project's established pattern: when writes invalidate the cache explicitly, a moderate lifetime is appropriate.
 - SHOULD flag a Minor when a new bespoke lifetime is introduced for a one-off purpose without considering whether one of the project's existing standard lifetimes suffices.
@@ -33,7 +33,7 @@ TTL expiry is the fallback, not the mechanism: freshness after an edit depends o
 **Guidelines:**
 
 - MUST flag a Critical when a new data source that backs cached server reads is added without a corresponding cache-invalidation hook on writes. Without it, edits leave stale UI for up to one cache lifetime.
-- MUST flag a Critical when a write-side invalidation diverges from the project's established invalidation path. When the data layer's write hooks may run in a different process than the cache, the hook should trigger the project's centralized invalidation entry point rather than calling the in-process cache-invalidation API directly. Diverging means draft/preview behavior differs from production.
+- MUST flag a Critical when a write-side invalidation diverges from the project's established invalidation path. When a write may run in a different process than the cache, the hook should trigger the project's centralized invalidation entry point rather than calling the in-process cache-invalidation API directly.
 - MUST flag a Major when a new invalidation endpoint is added without a corresponding write-side caller, or vice versa — they come in pairs.
 - SHOULD point to the project's reference invalidation that targets the narrowest scope covering all stale views. New invalidations should target the narrowest scope that includes all stale routes.
 
@@ -53,4 +53,3 @@ An external-fetch cache exists to shield a third-party dependency from per-reque
 **Guidelines:**
 
 - MUST flag a Critical when a cached external-fetch helper is changed to vary by request-time inputs, because that explodes the cache key.
-- SHOULD flag a Minor recommendation that newly-added external-fetch helpers also bracket their work with start/complete log pairs carrying a `duration`, so cache misses are observable. See [observability-guidelines › logging](../../observability-guidelines/references/logging.md).

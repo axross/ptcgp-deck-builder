@@ -1,9 +1,6 @@
 # Error Handling and Observability
 
-Apply these rules to verify the change keeps the project's error-propagation model and structured-logging discipline intact. Defer the developer-facing rules to [observability-guidelines](../../observability-guidelines/SKILL.md) — this file is the **reviewer's** flagging checklist. Throughout, `reportError(...)` denotes the project's error-reporting call (it maps to {{ERROR_TRACKER}}'s capture function if the project has one), and `logger` denotes the project's structured logger ({{LOGGER}}).
-
-<!-- INIT:OPTIONAL key=ERROR_TRACKER — keep & fill the token (add the tool, INIT Step 5) OR delete this section. -->
-*If this project has no {{ERROR_TRACKER}}, treat `reportError(...)` as the project's equivalent failure-reporting mechanism (or delete the error-reporting clauses during INIT).*
+Apply these rules to verify the change keeps the project's error-propagation model intact. Defer the developer-facing rules to [observability-guidelines](../../observability-guidelines/SKILL.md) — this file is the **reviewer's** flagging checklist. Throughout, `reportError(...)` denotes the project's error-reporting helper (`src/lib/report-error.ts`), which wraps Sentry's capture call.
 
 ## `try`/`catch` Placement
 
@@ -29,26 +26,14 @@ An unreported failure leaves no production trace, so the first signal becomes a 
 - MUST flag a Major when the error-reporting call is imported from the wrong SDK entry point for the runtime (server vs. browser vs. edge). Use the integration that wires all runtimes correctly.
 - MUST flag a Major when an unexpected non-thrown state is silently ignored. Construct and report an explicit error for "should-not-happen" branches instead of swallowing them.
 
-## Logger Discipline
+## Console Output Hygiene
 
-The logger has none of the stack traces, grouping, or alerting the error tracker provides, so an error routed to it is found only by someone already reading the logs.
-
-**Guidelines:**
-
-- MUST flag a Critical when the diff calls the logger's error level for a real error — the project routes errors through `reportError(...)` per [observability-guidelines › logging](../../observability-guidelines/references/logging.md).
-- MUST flag a Critical when a new module constructs its own logger instance directly instead of deriving a child from the project's shared root logger.
-- MUST flag a Major when a new module's logger label/namespace collides with an existing one — labels must stay unique so logs are attributable.
-- MUST flag a Major when a new slow / external operation lacks the start/complete log pair carrying a `duration`. Match the project's convention of bracketing each fetch / parse / IO operation with start and complete logs.
-
-## Log Hygiene
-
-Log output is retained, indexed, and readable by far more people and systems than the code path that produced it, so a secret logged once is a secret widely distributed.
+Console output is retained by the hosting platform and readable by far more people and systems than the code path that produced it, so a secret logged once is a secret widely distributed.
 
 **Guidelines:**
 
-- MUST flag a Critical when a log line interpolates a secret (token, password, session ID, full request body). Cross-reference with [application-security-requirements › secret-handling](../../application-security-requirements/references/secret-handling.md).
-- MUST flag a Major when a log message violates the project's established message style (the linter/formatter and convention enforce it).
-- MUST flag a Major when an info-level log is emitted for a high-frequency operation (e.g., per-render of a server unit, per-iteration inside a tight loop). Log at the boundary of the operation, not inside it.
+- MUST flag a Critical when console output interpolates a secret (token, password, session ID, full request body). Cross-reference with [application-security-requirements › secret-handling](../../application-security-requirements/references/secret-handling.md).
+- MUST flag a Major when a `console.error` is used for a real error instead of `reportError(...)` — ad-hoc console output does not reach Sentry in production.
 
 ## Error Boundaries
 
@@ -61,9 +46,6 @@ Errors reaching the root boundary are precisely the ones nothing else caught, so
 - MUST flag a Major when a "not found" boundary reports an error — a "not found" outcome is a normal control-flow path, not an error. Reporting it would mask real errors with noise.
 
 ## Replay and Trace Sampling
-
-<!-- INIT:OPTIONAL key=ERROR_TRACKER — keep & fill the token (add the tool, INIT Step 5) OR delete this section. -->
-*If this project's {{ERROR_TRACKER}} has no session replay or trace sampling, delete this section during INIT.*
 
 Sampling decisions are made before anyone knows which session will error, and a replay that was never captured cannot be reconstructed afterward.
 

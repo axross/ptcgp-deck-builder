@@ -49,7 +49,7 @@ A component that owns several unrelated entities couples their fetches, so one s
 **Guidelines:**
 
 - SHOULD flag a server-side component whose responsibility extends across multiple unrelated entities (e.g., one component that fetches a record **and** the site settings **and** the tag list). Split per concern; each child gets its own loading/streaming boundary, per the project's own component skill, if defined.
-- MUST flag a server-side component that **mutates** data — data-access modules are read-only. Mutations belong in request handlers or the data layer's own lifecycle hooks.
+- MUST flag a server-side component that **mutates** data — server components are read-only render paths. Mutations belong in client interactions (store + persistence writes) or request handlers.
 - SHOULD flag a loading/placeholder component that depends on the loaded data shape (defeats the loaded/loading split) — the loading skeleton must render with no data.
 
 ## Diff Size

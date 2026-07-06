@@ -1,6 +1,6 @@
 # Bundle and Dependency Weight
 
-Apply these rules to verify client-tier additions do not balloon the code shipped to the browser (or, for non-web {{PROJECT_KIND}} projects, the code pulled into the client/edge bundle).
+Apply these rules to verify client-tier additions do not balloon the code shipped to the browser (or, for non-web web app projects, the code pulled into the client/edge bundle).
 
 ## Server-Only Imports in Client Files
 
@@ -9,14 +9,12 @@ The bundler follows every import edge regardless of how little of a module is us
 **Guidelines:**
 
 - MUST flag a Critical when a client-tier file imports any of these classes of package (each pulls in tens to hundreds of KB or breaks the build):
-  - The data-layer SDK / ORM / CMS client
   - Heavyweight content-processing or rendering pipelines (parsers, transformers, syntax highlighters)
   - Server-side metadata/scraping libraries
-  - The structured logger and its pretty-printer
   - An error-tracker's server-only entry points
   - Native runtime / platform builtins (e.g., `node:*` modules)
   - A "server-only" marker package (importing it in a client file is a build error by design)
-- MUST flag a Critical when a client-tier file imports from a server-only module tier (e.g., the data-access or data-layer-config directories). These tiers contain server-only code per [maintainable-code-guidelines › abstraction-boundaries](../../maintainable-code-guidelines/references/abstraction-boundaries.md).
+- MUST flag a Critical when a client-tier file imports from a server-only module tier (e.g., server-only persistence or config modules). These tiers contain server-only code per [maintainable-code-guidelines › abstraction-boundaries](../../maintainable-code-guidelines/references/abstraction-boundaries.md).
 
 ## Heavy Client Dependencies
 
@@ -41,16 +39,12 @@ A barrel import hands the bundler the whole index, and everything the re-exports
 
 ## Server-External Package Configuration
 
-<!-- INIT:OPTIONAL key=BUNDLER — keep this section OR delete it. -->
-*If this project's bundler has no "external server packages" escape hatch, delete this section during INIT.*
-
 Some bundlers let you mark packages that the server runtime should NOT bundle (they stay loaded from the dependency tree at runtime). This list should stay minimal.
 
 **Guidelines:**
 
 - MUST flag a Critical when a new package is added to the server-external list without a stated reason. Legitimate reasons are:
   - A native binary
-  - A stream-based or otherwise bundler-incompatible logger
   - A module that uses runtime builtins incompatible with the bundler
 - MUST flag a Critical when a package that legitimately requires the server-external escape hatch is also imported from a client-tier file. The setting does not protect the client bundle.
 

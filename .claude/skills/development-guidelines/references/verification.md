@@ -4,18 +4,18 @@ Apply these guidelines to confirm that any change produces the correct applicati
 
 ## Identifying Affected Output Surfaces
 
-Use this table to determine which output surfaces a change puts at risk. Adapt the "Changed area" entries to the project's actual file layout during INIT.
+Use this table to determine which output surfaces a change puts at risk.
 
 | Changed area | Output surface at risk |
 |---|---|
 | Page/view files and the components they render | Rendered pages/views |
-| Data-access functions or data-fetching logic | Rendered output, content fidelity |
+| Card-catalog data or catalog/deck access functions | Rendered output, content fidelity |
+| Deck persistence (localStorage store modules and their schemas) | Saved decks, content fidelity |
 | Route/navigation definitions and error/not-found handlers | Routing and navigation |
 | Metadata generation, sitemap, robots, and social-preview assets | Metadata and discoverability |
-| Content-processing pipeline (if any) | Content fidelity |
-| {{ERROR_TRACKER}} config and {{LOGGER}} setup | Observability <!-- INIT:OPTIONAL key=ERROR_TRACKER_OR_LOGGER — fill the tokens OR trim/delete this row for the tool(s) the project lacks. --> |
+| Sentry config and instrumentation files | Observability |
 
-- Changes that touch none of the above — type definitions, data-layer config, migration files, or utilities with no UI call path — do not put any output surface at risk.
+- Changes that touch none of the above — type definitions or utilities with no UI call path — do not put any output surface at risk.
 
 **Guidelines:**
 
@@ -27,8 +27,8 @@ Manual verification is the first line of confirmation. Run it before the automat
 
 **Guidelines:**
 
-- MUST start the development server (`{{DEV_CMD}}`) and navigate to the affected route/view after every change that touches an output surface.
-- MUST verify any non-default content state the data layer supports (e.g., a draft/preview state, if the project has one) in addition to the default state, when the surface displays data-layer-managed content.
+- MUST start the development server (`npm run dev`) and navigate to the affected route/view after every change that touches an output surface.
+- MUST verify any non-default content state the surface supports (e.g., an empty deck list, a deck at the size limit, or corrupt/absent localStorage data) in addition to the default state.
 - MUST verify the not-found / error state renders when the change affects routing or error handling (e.g., navigate to a non-existent record).
 
 ## Automated Verification
@@ -37,15 +37,15 @@ The e2e suite drives the real application through the full render pipeline, so i
 
 **Guidelines:**
 
-- MUST run the full end-to-end test suite, when the project has one, after any change that touches an output surface:
+- MUST run the full end-to-end test suite after any change that touches an output surface:
   ```bash
-  {{E2E_TEST_CMD}}
+  npm run test:e2e
   ```
-- MUST follow the e2e authoring and coverage rules owned by [e2e-testing-guidelines](../../e2e-testing-guidelines/SKILL.md) and [quality-assurance-guidelines › e2e-coverage](../../quality-assurance-guidelines/references/e2e-coverage.md) — new-route/feature coverage, stable test-targetable identifiers, and co-location under `{{TEST_DIR}}` — rather than restating them here.
+- MUST follow the e2e authoring and coverage rules owned by [e2e-testing-guidelines](../../e2e-testing-guidelines/SKILL.md) and [quality-assurance-guidelines › e2e-coverage](../../quality-assurance-guidelines/references/e2e-coverage.md) — new-route/feature coverage, stable test-targetable identifiers, and co-location under `e2e` — rather than restating them here.
 
 ## E2E Tests vs Unit Tests
 
-This project relies on end-to-end tests as the primary verification mechanism. E2E tests run against the real application with a real data store and cover the full rendering pipeline from data fetching through to the rendered output.
+This project relies on end-to-end tests as the primary verification mechanism. E2E tests drive the real application in a real browser and cover the full pipeline from the card catalog and browser-persisted decks through to the rendered output.
 
 **Guidelines:**
 

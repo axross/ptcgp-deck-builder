@@ -1,25 +1,25 @@
 # E2E Test Commands
 
-Use this reference to choose the {{E2E_TEST_FRAMEWORK}} command that matches the target environment and snapshot task.
+Use this reference to choose the Playwright command that matches the target environment and snapshot task.
 
 ## Running E2E Tests
 
 Run:
 
 ```bash
-{{E2E_TEST_CMD}}
+npm run test:e2e
 ```
 
 **Guidelines:**
 
-- MUST use `{{E2E_TEST_CMD}}` for the default local end-to-end verification run.
+- MUST use `npm run test:e2e` for the default local end-to-end verification run.
 
 ## Updating Test Snapshots
 
-Add the framework's snapshot-update flag to the test command:
+Run Playwright directly with the snapshot-update flag (`npm run test:e2e` is a compound script, so appended npm args would reach the scenario-coverage script instead):
 
 ```bash
-{{E2E_TEST_CMD}} -- --update-snapshots
+npx playwright test --update-snapshots
 ```
 
 **Guidelines:**
@@ -32,26 +32,26 @@ Add the framework's snapshot-update flag to the test command:
 Run:
 
 ```bash
-{{BUILD_CMD}} && {{START_CMD}}
+npm run build && npm run start
 ```
 
-And then run the tests in another terminal session:
+And then run the tests in another terminal session, pointing them at the running server (otherwise Playwright boots its own dev server):
 
 ```bash
-{{E2E_TEST_CMD}}
+E2E_BASE_URL=http://localhost:3000 npm run test:e2e
 ```
 
 **Guidelines:**
 
-- SHOULD use the local production build flow when verifying production-only behavior after `{{BUILD_CMD}}`.
+- SHOULD use the local production build flow when verifying production-only behavior after `npm run build`.
 - MUST keep the production server running while the e2e command executes in the second terminal session.
 
 ## Test Against a Deployed Environment
 
-Set the framework's base-URL env var to target a deployed environment ({{PROJECT_NAME}}) instead of the local app:
+Set the `E2E_BASE_URL` env var to target a deployed environment instead of the local app:
 
 ```bash
-E2E_BASE_URL=https://example.com {{E2E_TEST_CMD}}
+E2E_BASE_URL=https://example.com npm run test:e2e
 ```
 
 **Guidelines:**

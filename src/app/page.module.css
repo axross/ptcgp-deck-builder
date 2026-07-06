@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  min-height: 100vh;
+  padding: var(--space-5);
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.tagline {
+  margin: 0;
+  max-width: 34rem;
+  color: var(--color-text-muted);
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
