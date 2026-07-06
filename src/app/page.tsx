@@ -1,3 +1,4 @@
+import Link from "next/link";
 import styles from "./page.module.css";
 
 export default function HomePage() {
@@ -10,6 +11,9 @@ export default function HomePage() {
         Browse Pokémon TCG Pocket cards and build, validate, and save your decks — right in your
         browser.
       </p>
+      <Link className={styles.cta} href="/cards" data-testid="home-browse-cards">
+        Browse cards
+      </Link>
     </main>
   );
 }
