@@ -1,4 +1,4 @@
-import type { Card } from "@/features/cards/schema";
+import type { DeckCard } from "./deck-card";
 import type { Deck } from "./schema";
 
 /**
@@ -33,7 +33,7 @@ export type DeckRuleViolation =
  */
 export function validateDeck(
   deck: Deck,
-  getCard: (id: string) => Card | null,
+  getCard: (id: string) => DeckCard | null,
 ): DeckRuleViolation[] {
   const violations: DeckRuleViolation[] = [];
 

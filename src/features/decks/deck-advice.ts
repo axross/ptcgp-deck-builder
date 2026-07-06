@@ -1,4 +1,4 @@
-import type { Card } from "@/features/cards/schema";
+import type { DeckCard } from "./deck-card";
 import type { Deck } from "./schema";
 
 /**
@@ -21,10 +21,10 @@ export type DeckAdvice =
  * Returns advisory warnings for a deck. Unknown card ids are ignored here —
  * deck-rules.ts reports them as violations.
  */
-export function adviseDeck(deck: Deck, getCard: (id: string) => Card | null): DeckAdvice[] {
+export function adviseDeck(deck: Deck, getCard: (id: string) => DeckCard | null): DeckAdvice[] {
   const advice: DeckAdvice[] = [];
 
-  const cards = deck.cards.map(getCard).filter((card): card is Card => card !== null);
+  const cards = deck.cards.map(getCard).filter((card): card is DeckCard => card !== null);
   const pokemon = cards.filter((card) => card.category === "Pokemon");
 
   const basicCount = pokemon.filter((card) => card.pokemon.stage === "Basic").length;
