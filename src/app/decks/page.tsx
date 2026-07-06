@@ -6,8 +6,11 @@ export const metadata: Metadata = {
   description: "Build, validate, and save Pokémon TCG Pocket decks.",
 };
 
-// Placeholder for the deck editor milestone; the header's Decks link resolves
-// here so navigation is never broken. Replaced when the deck builder lands.
+/**
+ * Placeholder `/decks` route for the deck editor milestone. It exists so the
+ * header's Decks link resolves instead of 404ing, and is replaced when the deck
+ * builder lands.
+ */
 export default function DecksPage() {
   return (
     <main className={styles.main} data-testid="decks-page">

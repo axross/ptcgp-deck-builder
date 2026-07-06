@@ -1,6 +1,7 @@
 import Link from "next/link";
 import styles from "./page.module.css";
 
+/** The landing page: the app name, a one-line tagline, and a CTA into `/cards`. */
 export default function HomePage() {
   return (
     <main className={styles.main}>

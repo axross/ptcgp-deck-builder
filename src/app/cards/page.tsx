@@ -20,6 +20,11 @@ function resultCountLabel(count: number): string {
   return count === 1 ? "1 card" : `${count} cards`;
 }
 
+/**
+ * Server-rendered `/cards` route: reads the URL search params, parses them into
+ * validated filter criteria, filters the catalog, and renders the filter bar
+ * with either the card grid or the empty state.
+ */
 export default async function CardsPage({ searchParams }: CardsPageProps) {
   const rawParams = await searchParams;
   const cards = getAllCards();
