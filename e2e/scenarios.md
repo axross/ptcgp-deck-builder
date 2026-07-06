@@ -21,3 +21,7 @@ hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
 | deck.energy.register | Visitor registers 1–3 Energy Zone types from the eight registrable ones | decks | should |
 | deck.save.failure | A rejected storage write shows a visible error without crashing the editor | decks | may |
 | deck.edit.existing | Visitor reopens a saved deck to edit, and an unknown deck id shows a not-found state | decks | must |
+| decks.list.view | Visitor sees their saved decks listed with name, card count, energy, and legality after reload | decks | must |
+| decks.open.edit | Visitor selects a saved deck from the list and lands in its editor with the deck loaded | decks | must |
+| decks.delete | Visitor deletes a saved deck through a named confirmation and it stays gone after reload | decks | must |
+| decks.empty-state | Visitor with no saved decks sees the empty state and a working New deck action | decks | should |

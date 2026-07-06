@@ -40,6 +40,28 @@ async function seedDeck(
   );
 }
 
+/** Seeds several saved decks into localStorage before the page first loads. */
+async function seedDecks(
+  page: Page,
+  decks: { id: string; name: string; cards: string[]; energyTypes: string[] }[],
+) {
+  await page.addInitScript(
+    ([key, envelope]) => {
+      // The init script re-runs on every navigation, including reloads. Seed
+      // only when nothing is saved yet so app-made changes (e.g. a deletion)
+      // survive a reload instead of being clobbered by a re-seed.
+      if (window.localStorage.getItem(key) === null) {
+        window.localStorage.setItem(key, envelope);
+      }
+    },
+    [STORAGE_KEY, JSON.stringify({ version: 1, decks })] as const,
+  );
+}
+
+function summaryCard(page: Page, id: string) {
+  return page.locator(`[data-testid="deck-summary"][data-deck-id="${id}"]`);
+}
+
 const legalDeckCards = BASIC_IDS.flatMap((id) => [id, id]);
 
 test.describe("deck editor", () => {
@@ -192,5 +214,109 @@ test.describe("deck editor", () => {
 
       await expect(page.getByTestId("deck-not-found")).toBeVisible();
     });
+  });
+});
+
+test.describe("deck list", () => {
+  test("lists every saved deck with its summary and they survive a reload", {
+    tag: ["@scenario:decks.list.view", "@area:decks", "@priority:must"],
+  }, async ({ page }) => {
+    await seedDecks(page, [
+      { id: "list-legal", name: "Grass legal", cards: legalDeckCards, energyTypes: ["Grass"] },
+      { id: "list-wip", name: "Water WIP", cards: ["A1-053"], energyTypes: [] },
+    ]);
+    await page.goto("/decks");
+
+    await test.step("Both saved decks appear with name, count, energy, and legality", async () => {
+      const legal = summaryCard(page, "list-legal");
+      await expect(legal.getByTestId("deck-summary-open")).toHaveText("Grass legal");
+      await expect(legal.getByTestId("deck-summary-count")).toContainText("20 / 20");
+      await expect(legal.getByTestId("deck-summary-legality")).toHaveAttribute(
+        "data-legal",
+        "true",
+      );
+      await expect(legal.getByTestId("deck-summary-energy")).toContainText("Grass");
+
+      const wip = summaryCard(page, "list-wip");
+      await expect(wip.getByTestId("deck-summary-open")).toHaveText("Water WIP");
+      await expect(wip.getByTestId("deck-summary-count")).toContainText("1 / 20");
+      await expect(wip.getByTestId("deck-summary-legality")).toHaveAttribute("data-legal", "false");
+    });
+
+    await test.step("The list still shows both decks after a full reload", async () => {
+      await page.reload();
+
+      await expect(summaryCard(page, "list-legal")).toBeVisible();
+      await expect(summaryCard(page, "list-wip")).toBeVisible();
+    });
+  });
+
+  test("opens a saved deck from the list into its editor", {
+    tag: ["@scenario:decks.open.edit", "@area:decks", "@priority:must"],
+  }, async ({ page }) => {
+    await seedDecks(page, [
+      { id: "open-me", name: "Water deck", cards: ["A1-053", "A1-053"], energyTypes: ["Water"] },
+    ]);
+    await page.goto("/decks");
+
+    await summaryCard(page, "open-me").getByTestId("deck-summary-open").click();
+
+    await expect(page).toHaveURL(/\/decks\/open-me\/edit$/);
+    await expect(page.getByTestId("deck-name-input")).toHaveValue("Water deck");
+  });
+
+  test("deletes a deck through a named confirmation and it stays gone after reload", {
+    tag: ["@scenario:decks.delete", "@area:decks", "@priority:must"],
+  }, async ({ page }) => {
+    await seedDecks(page, [
+      { id: "keep-me", name: "Keep deck", cards: ["A1-053"], energyTypes: ["Water"] },
+      { id: "delete-me", name: "Delete deck", cards: ["A1-033"], energyTypes: ["Fire"] },
+    ]);
+    await page.goto("/decks");
+
+    await test.step("Declining the confirmation leaves the deck in the list", async () => {
+      // Retry the first click so a pre-hydration press can't be dropped (the
+      // delete dialog opens via client state); once it opens the rest is stable.
+      const deleteButton = summaryCard(page, "delete-me").getByTestId("deck-summary-delete");
+      await expect(async () => {
+        await deleteButton.click();
+        await expect(page.getByTestId("deck-delete-dialog")).toBeVisible({ timeout: 1500 });
+      }).toPass({ timeout: 15000 });
+
+      await expect(page.getByTestId("deck-delete-dialog")).toContainText("Delete deck");
+      await page.getByTestId("deck-delete-cancel").click();
+
+      await expect(page.getByTestId("deck-delete-dialog")).toHaveCount(0);
+      await expect(summaryCard(page, "delete-me")).toBeVisible();
+    });
+
+    await test.step("Confirming the deletion removes the deck from the list", async () => {
+      await summaryCard(page, "delete-me").getByTestId("deck-summary-delete").click();
+      await expect(page.getByTestId("deck-delete-dialog")).toBeVisible();
+      await page.getByTestId("deck-delete-confirm").click();
+
+      await expect(summaryCard(page, "delete-me")).toHaveCount(0);
+      await expect(summaryCard(page, "keep-me")).toBeVisible();
+    });
+
+    await test.step("The deleted deck stays gone after a full reload", async () => {
+      await page.reload();
+
+      await expect(summaryCard(page, "keep-me")).toBeVisible();
+      await expect(summaryCard(page, "delete-me")).toHaveCount(0);
+    });
+  });
+
+  test("shows an empty state with a working New deck action when nothing is saved", {
+    tag: ["@scenario:decks.empty-state", "@area:decks", "@priority:should"],
+  }, async ({ page }) => {
+    await page.goto("/decks");
+
+    await expect(page.getByTestId("decks-empty")).toBeVisible();
+
+    await page.getByTestId("decks-new-link").click();
+
+    await expect(page).toHaveURL(/\/decks\/new$/);
+    await expect(page.getByTestId("deck-editor")).toBeVisible();
   });
 });

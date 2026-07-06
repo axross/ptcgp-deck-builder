@@ -1,26 +1,19 @@
 import type { Metadata } from "next";
-import Link from "next/link";
-import styles from "./page.module.css";
+import { getAllCards } from "@/features/cards/catalog";
+import { DeckList } from "@/features/decks/components/deck-list";
+import { toDeckBuilderCard } from "@/features/decks/deck-card";
 
 export const metadata: Metadata = {
   title: "Decks",
-  description: "Build, validate, and save Pokémon TCG Pocket decks.",
+  description: "View, open, and delete the Pokémon TCG Pocket decks saved in your browser.",
 };
 
 /**
- * `/decks`: the entry point into the deck editor. A saved-deck list is a later
- * milestone; for now this offers the path to build a new deck.
+ * `/decks`: the saved-deck list. Decks are browser-persisted, so the list is a
+ * client component; this server route only reads the catalog (server-only) and
+ * hands over the lightweight projection the legality summary needs.
  */
 export default function DecksPage() {
-  return (
-    <main className={styles.main} data-testid="decks-page">
-      <h1 className={styles.heading}>Decks</h1>
-      <p className={styles.body}>
-        Build a 20-card deck from the catalog and save it in this browser.
-      </p>
-      <Link className={styles.newDeck} href="/decks/new" data-testid="decks-new-link">
-        Build a new deck
-      </Link>
-    </main>
-  );
+  const catalog = getAllCards().map(toDeckBuilderCard);
+  return <DeckList catalog={catalog} />;
 }
