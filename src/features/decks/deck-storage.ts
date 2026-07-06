@@ -58,3 +58,15 @@ export function saveDeck(storage: WritableStorage, deck: Deck): boolean {
   const envelope: DeckStoreEnvelope = { version: DECK_STORE_VERSION, decks };
   return writeStorageItem(storage, DECK_STORAGE_KEY, envelope);
 }
+
+/**
+ * Removes the deck with `deckId` from the stored envelope. Returns `false`
+ * when the rewrite is rejected (quota exceeded, private browsing) so the caller
+ * can keep its in-memory list consistent with storage; removing an id that is
+ * absent still rewrites and reports the write's success.
+ */
+export function deleteDeck(storage: WritableStorage, deckId: string): boolean {
+  const decks = loadDecks(storage).filter((deck) => deck.id !== deckId);
+  const envelope: DeckStoreEnvelope = { version: DECK_STORE_VERSION, decks };
+  return writeStorageItem(storage, DECK_STORAGE_KEY, envelope);
+}

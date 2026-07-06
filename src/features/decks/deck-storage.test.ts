@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   DECK_STORAGE_KEY,
   DECK_STORE_VERSION,
+  deleteDeck,
   loadDeck,
   loadDecks,
   saveDeck,
@@ -108,5 +109,32 @@ describe("saveDeck()", () => {
     };
 
     expect(saveDeck(rejectingStorage, fireDeck)).toBe(false);
+  });
+});
+
+describe("deleteDeck()", () => {
+  it("removes the deck matched by id and leaves the rest in order", () => {
+    const storage = createFakeStorage({ [DECK_STORAGE_KEY]: envelope([fireDeck, waterDeck]) });
+
+    expect(deleteDeck(storage, "deck-fire")).toBe(true);
+    expect(loadDecks(storage)).toEqual([waterDeck]);
+  });
+
+  it("rewrites the envelope and reports success even when the id is absent", () => {
+    const storage = createFakeStorage({ [DECK_STORAGE_KEY]: envelope([fireDeck]) });
+
+    expect(deleteDeck(storage, "deck-missing")).toBe(true);
+    expect(loadDecks(storage)).toEqual([fireDeck]);
+  });
+
+  it("returns false when the store rejects the rewrite (e.g. quota exceeded)", () => {
+    const rejectingStorage = {
+      getItem: () => envelope([fireDeck, waterDeck]),
+      setItem: () => {
+        throw new DOMException("quota exceeded", "QuotaExceededError");
+      },
+    };
+
+    expect(deleteDeck(rejectingStorage, "deck-fire")).toBe(false);
   });
 });
