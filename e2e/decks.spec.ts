@@ -17,10 +17,32 @@ const BASIC_IDS = [
 
 const STORAGE_KEY = "ptcgp-deck-builder:decks";
 
+// The picker grid is virtualized: the mounted tile count tracks the viewport
+// (rows in view plus a small overscan; measured ~30–50 at this viewport),
+// never the 675-card catalog. This cap mirrors MAX_MOUNTED_TILES in
+// cards.spec.ts — far above any real window, far below the catalog — so it
+// fails loudly if virtualization regresses to render-everything.
+const MAX_MOUNTED_TILES = 120;
+
+// The last card of the last seeded set in catalog order (mirrors cards.spec.ts);
+// scrolling to the end of the picker must reach it even though it is windowed.
+const LAST_CARD_ID = "A2a-096";
+
 function tileAdd(page: Page, id: string) {
   return page
     .locator(`[data-testid="deck-picker-tile"][data-card-id="${id}"]`)
     .getByTestId("deck-picker-add");
+}
+
+// The picker grid is virtualized and flips data-virtualized to "true" only
+// after hydration and its first client-side measurement, so this is a
+// deterministic "editor is interactive" wait before the first add click —
+// replacing the retry-until-it-sticks workarounds the full-catalog picker
+// needed. Headroom for the dev server compiling the route on its first hit.
+async function expectPickerReady(page: Page) {
+  await expect(page.getByTestId("deck-picker-grid")).toHaveAttribute("data-virtualized", "true", {
+    timeout: 15000,
+  });
 }
 
 function deckEntry(page: Page, id: string) {
@@ -77,20 +99,27 @@ test.describe("deck editor", () => {
   }, async ({ page }) => {
     await page.goto("/decks/new");
 
-    await test.step("Add cards until the deck reaches 20", async () => {
-      // Land the first add under a retry so a pre-hydration click can't be
-      // dropped (the suite forbids retries/flakes); once it sticks the rest of
-      // the clicks are reliable.
-      const firstAdd = tileAdd(page, BASIC_IDS[0]);
-      await expect(async () => {
-        await firstAdd.click();
-        await expect(page.getByTestId("deck-card-count")).toContainText("1 / 20", {
-          timeout: 1500,
-        });
-      }).toPass({ timeout: 15000 });
-      await firstAdd.click(); // second copy of the first card
+    await test.step("The picker mounts a viewport-bounded window, not the whole catalog", async () => {
+      await expectPickerReady(page);
 
-      for (const id of BASIC_IDS.slice(1)) {
+      const mounted = await page.getByTestId("deck-picker-tile").count();
+      expect(mounted).toBeGreaterThan(0);
+      expect(mounted).toBeLessThan(MAX_MOUNTED_TILES);
+    });
+
+    await test.step("Scrolling to the end of the picker reaches the catalog's last card", async () => {
+      await page.keyboard.press("End");
+      await expect(
+        page.locator(`[data-testid="deck-picker-tile"][data-card-id="${LAST_CARD_ID}"]`),
+      ).toBeVisible();
+
+      // Return to the top so the add steps below interact with the picker's
+      // first rows again (the windowed grid unmounts far-away tiles).
+      await page.keyboard.press("Home");
+    });
+
+    await test.step("Add cards until the deck reaches 20", async () => {
+      for (const id of BASIC_IDS) {
         const add = tileAdd(page, id);
         await add.click();
         await add.click();
@@ -113,8 +142,7 @@ test.describe("deck editor", () => {
       await page.getByTestId("deck-save-button").click();
 
       await expect(page.getByTestId("deck-save-message")).toHaveAttribute("data-status", "success");
-      // Saving redirects into the edit route, which re-renders the full catalog
-      // picker; allow headroom for that navigation under the dev server.
+      // Headroom for the dev server compiling the edit route on its first hit.
       await expect(page).toHaveURL(/\/decks\/[^/]+\/edit$/, { timeout: 15000 });
     });
 
@@ -186,12 +214,10 @@ test.describe("deck editor", () => {
       };
     });
     await page.goto("/decks/new");
+    await expectPickerReady(page);
 
-    const firstAdd = tileAdd(page, BASIC_IDS[0]);
-    await expect(async () => {
-      await firstAdd.click();
-      await expect(page.getByTestId("deck-card-count")).toContainText("1 / 20", { timeout: 1500 });
-    }).toPass({ timeout: 15000 });
+    await tileAdd(page, BASIC_IDS[0]).click();
+    await expect(page.getByTestId("deck-card-count")).toContainText("1 / 20");
 
     await page.getByTestId("deck-save-button").click();
 
