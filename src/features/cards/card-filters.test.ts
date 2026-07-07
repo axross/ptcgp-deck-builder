@@ -27,6 +27,14 @@ const erika = fixture("A1-219"); // Trainer, Supporter, Uncommon
 
 const sample = [bulbasaur, ivysaur, venusaur, charmander, helixFossil, erika];
 
+// A synthetic card from a second set — the catalog only seeds A1, so cross-set
+// filtering is proved here by cloning an A1 card into a B1 identity.
+const megaVenusaur: Card = {
+  ...venusaur,
+  id: "B1-001",
+  set: { code: "B1", name: "Mega Rising", nameJa: "メガライジング" },
+};
+
 function ids(cards: readonly Card[]): string[] {
   return cards.map((card) => card.id);
 }
@@ -66,6 +74,12 @@ describe("matchesCardFilters()", () => {
     expect(matchesCardFilters(bulbasaur, { kind: "Trainer" })).toBe(false);
   });
 
+  it("matches by set code and excludes other sets", () => {
+    expect(matchesCardFilters(bulbasaur, { set: "A1" })).toBe(true);
+    expect(matchesCardFilters(megaVenusaur, { set: "A1" })).toBe(false);
+    expect(matchesCardFilters(megaVenusaur, { set: "B1" })).toBe(true);
+  });
+
   it("matches the name search case-insensitively on a substring", () => {
     expect(matchesCardFilters(bulbasaur, { query: "bulba" })).toBe(true);
     expect(matchesCardFilters(bulbasaur, { query: "SAUR" })).toBe(true);
@@ -99,6 +113,12 @@ describe("filterCards()", () => {
   it("returns an empty list when nothing matches", () => {
     expect(filterCards(sample, { type: "Fire", kind: "Stage2" })).toEqual([]);
   });
+
+  it("narrows a multi-set list to a single set", () => {
+    const mixed = [bulbasaur, megaVenusaur, charmander];
+    expect(ids(filterCards(mixed, { set: "B1" }))).toEqual(["B1-001"]);
+    expect(ids(filterCards(mixed, { set: "A1" }))).toEqual(["A1-001", "A1-033"]);
+  });
 });
 
 describe("hasActiveFilters()", () => {
@@ -111,34 +131,45 @@ describe("hasActiveFilters()", () => {
     expect(hasActiveFilters({ type: "Fire" })).toBe(true);
     expect(hasActiveFilters({ rarity: "C" })).toBe(true);
     expect(hasActiveFilters({ kind: "Trainer" })).toBe(true);
+    expect(hasActiveFilters({ set: "A1" })).toBe(true);
     expect(hasActiveFilters({ query: "pika" })).toBe(true);
   });
 });
 
 describe("parseCardFilters()", () => {
-  const rarityCodes = ["C", "U", "R"];
+  const options = { rarityCodes: ["C", "U", "R"], setCodes: ["A1", "B1"] };
 
   it("parses a full set of valid params", () => {
     expect(
-      parseCardFilters({ type: "Fire", rarity: "R", kind: "Stage2", q: "char" }, rarityCodes),
-    ).toEqual({ type: "Fire", rarity: "R", kind: "Stage2", query: "char" });
+      parseCardFilters(
+        { type: "Fire", rarity: "R", kind: "Stage2", set: "B1", q: "char" },
+        options,
+      ),
+    ).toEqual({ type: "Fire", rarity: "R", kind: "Stage2", set: "B1", query: "char" });
   });
 
   it("drops unknown or malformed values instead of throwing", () => {
     expect(
-      parseCardFilters({ type: "Plasma", rarity: "ZZ", kind: "Mega", q: "   " }, rarityCodes),
+      parseCardFilters(
+        { type: "Plasma", rarity: "ZZ", kind: "Mega", set: "Z9", q: "   " },
+        options,
+      ),
     ).toEqual({});
   });
 
   it("drops a rarity not present in the catalog", () => {
-    expect(parseCardFilters({ rarity: "SAR" }, rarityCodes)).toEqual({});
+    expect(parseCardFilters({ rarity: "SAR" }, options)).toEqual({});
+  });
+
+  it("drops a set that is not seeded in the catalog", () => {
+    expect(parseCardFilters({ set: "A2" }, options)).toEqual({});
   });
 
   it("coerces a repeated (array) param to its first value", () => {
-    expect(parseCardFilters({ type: ["Water", "Fire"] }, rarityCodes)).toEqual({ type: "Water" });
+    expect(parseCardFilters({ type: ["Water", "Fire"] }, options)).toEqual({ type: "Water" });
   });
 
   it("returns an empty criteria for no params", () => {
-    expect(parseCardFilters({}, rarityCodes)).toEqual({});
+    expect(parseCardFilters({}, options)).toEqual({});
   });
 });

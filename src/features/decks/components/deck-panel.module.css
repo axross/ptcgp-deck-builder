@@ -228,11 +228,15 @@
   font-weight: 500;
 }
 
-/* On desktop the panel is a sticky sidebar with its body always visible. */
+/* On desktop the panel is a sticky sidebar. It is capped to the viewport and
+   scrolls internally, so a tall panel (many deck entries, or a short window)
+   never pushes the Save button below the fold where it can't be reached. */
 @media (min-width: 48rem) {
   .panel {
     position: sticky;
     top: var(--space-3);
+    max-height: calc(100dvh - 2 * var(--space-3));
+    overflow-y: auto;
   }
 }
 

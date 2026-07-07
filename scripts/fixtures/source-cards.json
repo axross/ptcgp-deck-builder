@@ -1,0 +1,53 @@
+[
+  {
+    "slug": "a1-1-bulbasaur",
+    "setCode": "A1",
+    "number": 1,
+    "name": "Bulbasaur",
+    "rarity": { "symbol": "◇", "code": "C", "label": "Common" },
+    "category": "Pokemon",
+    "illustrator": "Narumi Sato",
+    "boosterPacks": null,
+    "flavorText": "There is a plant seed on its back right from the day this Pokémon is born.",
+    "shop": { "packPoints": 35, "dupeShinedust": 10 },
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": ["Grass", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null
+  },
+  {
+    "slug": "a1-216-helix-fossil",
+    "setCode": "A1",
+    "number": 216,
+    "name": "Helix Fossil",
+    "rarity": { "symbol": "◇", "code": "C", "label": "Common" },
+    "category": "Trainer",
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": { "packPoints": 35, "dupeShinedust": 10 },
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Play this card as if it were a 40-HP Basic {C} Pokémon.\nThis card can't retreat."
+    }
+  }
+]

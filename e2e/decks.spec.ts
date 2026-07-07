@@ -64,6 +64,13 @@ function summaryCard(page: Page, id: string) {
 
 const legalDeckCards = BASIC_IDS.flatMap((id) => [id, id]);
 
+// Card art hotlinks an external CDN that is blocked in CI/sandboxes. Abort the
+// image-optimizer requests so the editor and picker render fast and the suite
+// stays independent of CDN reachability, rather than stalling on 403 retries.
+test.beforeEach(async ({ page }) => {
+  await page.route("**/_next/image**", (route) => route.abort());
+});
+
 test.describe("deck editor", () => {
   test("builds a legal 20-card deck, saves it, and it survives reload", {
     tag: ["@scenario:deck.create.save", "@area:decks", "@priority:must", "@smoke"],
@@ -106,7 +113,9 @@ test.describe("deck editor", () => {
       await page.getByTestId("deck-save-button").click();
 
       await expect(page.getByTestId("deck-save-message")).toHaveAttribute("data-status", "success");
-      await expect(page).toHaveURL(/\/decks\/[^/]+\/edit$/);
+      // Saving redirects into the edit route, which re-renders the full catalog
+      // picker; allow headroom for that navigation under the dev server.
+      await expect(page).toHaveURL(/\/decks\/[^/]+\/edit$/, { timeout: 15000 });
     });
 
     await test.step("The saved deck reloads with the same cards, name, and energy", async () => {

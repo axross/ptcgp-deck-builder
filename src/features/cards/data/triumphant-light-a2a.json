@@ -1,0 +1,5424 @@
+[
+  {
+    "id": "A2a-001",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 1,
+    "setSize": 96,
+    "name": {
+      "en": "Heracross",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Single-Horn Throw",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip 2 coins. If both of them are heads, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-1-heracross"
+    }
+  },
+  {
+    "id": "A2a-002",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 2,
+    "setSize": 96,
+    "name": {
+      "en": "Burmy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-2-burmy"
+    }
+  },
+  {
+    "id": "A2a-003",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 3,
+    "setSize": 96,
+    "name": {
+      "en": "Mothim",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Burmy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gust",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "It loves the honey of flowers and steals honey collected by Combee.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-3-mothim"
+    }
+  },
+  {
+    "id": "A2a-004",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 4,
+    "setSize": 96,
+    "name": {
+      "en": "Combee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bug Bite",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "At night, Combee sleep in a group of about a hundred, packed closely together in a lump.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-4-combee"
+    }
+  },
+  {
+    "id": "A2a-005",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 5,
+    "setSize": 96,
+    "name": {
+      "en": "Vespiquen",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Combee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Reckless Charge",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Grass"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-5-vespiquen"
+    }
+  },
+  {
+    "id": "A2a-006",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 6,
+    "setSize": 96,
+    "name": {
+      "en": "Cherubi",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leafage",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-6-cherubi"
+    }
+  },
+  {
+    "id": "A2a-007",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 7,
+    "setSize": 96,
+    "name": {
+      "en": "Cherrim",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Cherubi",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Worry Seed",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-7-cherrim"
+    }
+  },
+  {
+    "id": "A2a-008",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 8,
+    "setSize": 96,
+    "name": {
+      "en": "Cherrim",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Cherubi",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leech Seed",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "After absorbing plenty of sunlight, Cherrim takes this form. It’s full of energy while it’s like this, and its liveliness will go on until sundown.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-8-cherrim"
+    }
+  },
+  {
+    "id": "A2a-009",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 9,
+    "setSize": 96,
+    "name": {
+      "en": "Carnivine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Power Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Vine Whip",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shiburingaru",
+    "boosterPacks": null,
+    "flavorText": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-9-carnivine"
+    }
+  },
+  {
+    "id": "A2a-010",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 10,
+    "setSize": 96,
+    "name": {
+      "en": "Leafeon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Forest Breath",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-10-leafeon-ex"
+    }
+  },
+  {
+    "id": "A2a-011",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 11,
+    "setSize": 96,
+    "name": {
+      "en": "Houndour",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flare",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-11-houndour"
+    }
+  },
+  {
+    "id": "A2a-012",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 12,
+    "setSize": 96,
+    "name": {
+      "en": "Houndoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Houndour",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corner",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hajime Kusajima",
+    "boosterPacks": null,
+    "flavorText": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-12-houndoom"
+    }
+  },
+  {
+    "id": "A2a-013",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 13,
+    "setSize": 96,
+    "name": {
+      "en": "Heatran",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Speed Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ragin’ Mad Strike",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has damage on it, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kazumasa Yasukuni",
+    "boosterPacks": null,
+    "flavorText": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-13-heatran"
+    }
+  },
+  {
+    "id": "A2a-014",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 14,
+    "setSize": 96,
+    "name": {
+      "en": "Marill",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-14-marill"
+    }
+  },
+  {
+    "id": "A2a-015",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 15,
+    "setSize": 96,
+    "name": {
+      "en": "Azumarill",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Marill",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Waterfall",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-15-azumarill"
+    }
+  },
+  {
+    "id": "A2a-016",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 16,
+    "setSize": 96,
+    "name": {
+      "en": "Barboach",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mud-Slap",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-16-barboach"
+    }
+  },
+  {
+    "id": "A2a-017",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 17,
+    "setSize": 96,
+    "name": {
+      "en": "Whiscash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Barboach",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thrash",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shinya Komatsu",
+    "boosterPacks": null,
+    "flavorText": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-17-whiscash"
+    }
+  },
+  {
+    "id": "A2a-018",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 18,
+    "setSize": 96,
+    "name": {
+      "en": "Snorunt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Icicle",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sowsow",
+    "boosterPacks": null,
+    "flavorText": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-18-snorunt"
+    }
+  },
+  {
+    "id": "A2a-019",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 19,
+    "setSize": 96,
+    "name": {
+      "en": "Froslass",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Snorunt",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Blizzard",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-19-froslass"
+    }
+  },
+  {
+    "id": "A2a-020",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 20,
+    "setSize": 96,
+    "name": {
+      "en": "Snover",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corkscrew Punch",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "otumami",
+    "boosterPacks": null,
+    "flavorText": "During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-20-snover"
+    }
+  },
+  {
+    "id": "A2a-021",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 21,
+    "setSize": 96,
+    "name": {
+      "en": "Abomasnow",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Snover",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Vigor Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less {C} Energy."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Punch",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-21-abomasnow"
+    }
+  },
+  {
+    "id": "A2a-022",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 22,
+    "setSize": 96,
+    "name": {
+      "en": "Glaceon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Snowy Terrain",
+            "ja": null
+          },
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Freezing Wind",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-22-glaceon-ex"
+    }
+  },
+  {
+    "id": "A2a-023",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 23,
+    "setSize": 96,
+    "name": {
+      "en": "Origin Forme Palkia",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Zone Smash",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "toriyufu",
+    "boosterPacks": null,
+    "flavorText": "It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia’s strategy for gaining Arceus’s powers.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-23-origin-forme-palkia"
+    }
+  },
+  {
+    "id": "A2a-024",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 24,
+    "setSize": 96,
+    "name": {
+      "en": "Phione",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Pulse",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-24-phione"
+    }
+  },
+  {
+    "id": "A2a-025",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 25,
+    "setSize": 96,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spark",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-25-pikachu"
+    }
+  },
+  {
+    "id": "A2a-026",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 26,
+    "setSize": 96,
+    "name": {
+      "en": "Raichu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Pikachu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Resilience Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spark",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-26-raichu"
+    }
+  },
+  {
+    "id": "A2a-027",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 27,
+    "setSize": 96,
+    "name": {
+      "en": "Electrike",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Zap Kick",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-27-electrike"
+    }
+  },
+  {
+    "id": "A2a-028",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 28,
+    "setSize": 96,
+    "name": {
+      "en": "Manectric",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Electrike",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flash",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-28-manectric"
+    }
+  },
+  {
+    "id": "A2a-029",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 29,
+    "setSize": 96,
+    "name": {
+      "en": "Clefairy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Smack",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "rika",
+    "boosterPacks": null,
+    "flavorText": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-29-clefairy"
+    }
+  },
+  {
+    "id": "A2a-030",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 30,
+    "setSize": 96,
+    "name": {
+      "en": "Clefable",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Clefairy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Moonblast",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do −30 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-30-clefable"
+    }
+  },
+  {
+    "id": "A2a-031",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 31,
+    "setSize": 96,
+    "name": {
+      "en": "Gastly",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Astonish",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "It wraps its opponent in its gas-like body, slowly weakening its prey by poisoning it through the skin.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-31-gastly"
+    }
+  },
+  {
+    "id": "A2a-032",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 32,
+    "setSize": 96,
+    "name": {
+      "en": "Haunter",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Gastly",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mumble",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eri Yamaki",
+    "boosterPacks": null,
+    "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-32-haunter"
+    }
+  },
+  {
+    "id": "A2a-033",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 33,
+    "setSize": 96,
+    "name": {
+      "en": "Gengar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Haunter",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hypnoblast",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "To steal the life of its target, it slips into the prey’s shadow and silently waits for an opportunity.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-33-gengar"
+    }
+  },
+  {
+    "id": "A2a-034",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 34,
+    "setSize": 96,
+    "name": {
+      "en": "Unown",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "CHECK",
+            "ja": null
+          },
+          "text": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hidden Power",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tetsu Kayama",
+    "boosterPacks": null,
+    "flavorText": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-34-unown"
+    }
+  },
+  {
+    "id": "A2a-035",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 35,
+    "setSize": 96,
+    "name": {
+      "en": "Rotom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Speed Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dash Attack",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "Its electricity-like body can enter some kinds of machines and take control in order to make mischief.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-35-rotom"
+    }
+  },
+  {
+    "id": "A2a-036",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 36,
+    "setSize": 96,
+    "name": {
+      "en": "Sudowoodo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fighting Headbutt",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-36-sudowoodo"
+    }
+  },
+  {
+    "id": "A2a-037",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 37,
+    "setSize": 96,
+    "name": {
+      "en": "Phanpy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Asako Ito",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon lives and nests on a riverbank. After playing in the mud, it won’t be able to settle down unless it washes its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-37-phanpy"
+    }
+  },
+  {
+    "id": "A2a-038",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 38,
+    "setSize": 96,
+    "name": {
+      "en": "Donphan",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Phanpy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rolling Spin",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Donphan is covered in tough hide, so even being hit by a car won’t faze this Pokémon. However, it is extremely susceptible to rain.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-38-donphan"
+    }
+  },
+  {
+    "id": "A2a-039",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 39,
+    "setSize": 96,
+    "name": {
+      "en": "Larvitar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corkscrew Punch",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-39-larvitar"
+    }
+  },
+  {
+    "id": "A2a-040",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 40,
+    "setSize": 96,
+    "name": {
+      "en": "Pupitar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Larvitar",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Speed Attack",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-40-pupitar"
+    }
+  },
+  {
+    "id": "A2a-041",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 41,
+    "setSize": 96,
+    "name": {
+      "en": "Tyranitar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Pupitar",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Power Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "Extremely strong, it can change the landscape. It is so insolent that it doesn’t care about others.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-41-tyranitar"
+    }
+  },
+  {
+    "id": "A2a-042",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 42,
+    "setSize": 96,
+    "name": {
+      "en": "Nosepass",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "It moves less than an inch a year, but when it’s in a jam, it will spin and drill down into the ground in a split second.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-42-nosepass"
+    }
+  },
+  {
+    "id": "A2a-043",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 43,
+    "setSize": 96,
+    "name": {
+      "en": "Meditite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Kick",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-43-meditite"
+    }
+  },
+  {
+    "id": "A2a-044",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 44,
+    "setSize": 96,
+    "name": {
+      "en": "Medicham",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Meditite",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Kick Shot",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tetsu Kayama",
+    "boosterPacks": null,
+    "flavorText": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-44-medicham"
+    }
+  },
+  {
+    "id": "A2a-045",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 45,
+    "setSize": 96,
+    "name": {
+      "en": "Gible",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-45-gible"
+    }
+  },
+  {
+    "id": "A2a-046",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 46,
+    "setSize": 96,
+    "name": {
+      "en": "Gabite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Gible",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Scythe",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-46-gabite"
+    }
+  },
+  {
+    "id": "A2a-047",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 47,
+    "setSize": 96,
+    "name": {
+      "en": "Garchomp ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Gabite",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Linear Attack",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-47-garchomp-ex"
+    }
+  },
+  {
+    "id": "A2a-048",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 48,
+    "setSize": 96,
+    "name": {
+      "en": "Zubat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-48-zubat"
+    }
+  },
+  {
+    "id": "A2a-049",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 49,
+    "setSize": 96,
+    "name": {
+      "en": "Golbat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Zubat",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-49-golbat"
+    }
+  },
+  {
+    "id": "A2a-050",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 50,
+    "setSize": 96,
+    "name": {
+      "en": "Crobat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage2",
+      "evolvesFrom": "Golbat",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [
+        {
+          "name": {
+            "en": "Cunning Link",
+            "ja": null
+          },
+          "text": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Darkness Fang",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target’s neck.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-50-crobat"
+    }
+  },
+  {
+    "id": "A2a-051",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 51,
+    "setSize": 96,
+    "name": {
+      "en": "Croagunk",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beat",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "SATOSHI NAKAI",
+    "boosterPacks": null,
+    "flavorText": "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-51-croagunk"
+    }
+  },
+  {
+    "id": "A2a-052",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 52,
+    "setSize": 96,
+    "name": {
+      "en": "Toxicroak",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Croagunk",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Toxic",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-52-toxicroak"
+    }
+  },
+  {
+    "id": "A2a-053",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 53,
+    "setSize": 96,
+    "name": {
+      "en": "Magnemite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-53-magnemite"
+    }
+  },
+  {
+    "id": "A2a-054",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 54,
+    "setSize": 96,
+    "name": {
+      "en": "Magneton",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Magnemite",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rolling Attack",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-54-magneton"
+    }
+  },
+  {
+    "id": "A2a-055",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 55,
+    "setSize": 96,
+    "name": {
+      "en": "Magnezone",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Magneton",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Resilience Link",
+            "ja": null
+          },
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Power Beam",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "toriyufu",
+    "boosterPacks": null,
+    "flavorText": "As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-55-magnezone"
+    }
+  },
+  {
+    "id": "A2a-056",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 56,
+    "setSize": 96,
+    "name": {
+      "en": "Mawile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Iron Beam Breaker",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a {M} Pokémon, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "tetsuya koizumi",
+    "boosterPacks": null,
+    "flavorText": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-56-mawile"
+    }
+  },
+  {
+    "id": "A2a-057",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 57,
+    "setSize": 96,
+    "name": {
+      "en": "Probopass ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Nosepass",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Defensive Unit",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-57-probopass-ex"
+    }
+  },
+  {
+    "id": "A2a-058",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 58,
+    "setSize": 96,
+    "name": {
+      "en": "Bronzor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "Ancient people believed that the pattern on Bronzor’s back contained a mysterious power.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-58-bronzor"
+    }
+  },
+  {
+    "id": "A2a-059",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 59,
+    "setSize": 96,
+    "name": {
+      "en": "Bronzong",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Bronzor",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-59-bronzong"
+    }
+  },
+  {
+    "id": "A2a-060",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 60,
+    "setSize": 96,
+    "name": {
+      "en": "Origin Forme Dialga",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Time Mash",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": "Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-60-origin-forme-dialga"
+    }
+  },
+  {
+    "id": "A2a-061",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 61,
+    "setSize": 96,
+    "name": {
+      "en": "Giratina",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crisis Dive",
+            "ja": null
+          },
+          "cost": ["Grass", "Psychic", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Discard 2 random Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-61-giratina"
+    }
+  },
+  {
+    "id": "A2a-062",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 62,
+    "setSize": 96,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Whap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-62-eevee"
+    }
+  },
+  {
+    "id": "A2a-063",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 63,
+    "setSize": 96,
+    "name": {
+      "en": "Snorlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Collapse",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "burari",
+    "boosterPacks": null,
+    "flavorText": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-63-snorlax"
+    }
+  },
+  {
+    "id": "A2a-064",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 64,
+    "setSize": 96,
+    "name": {
+      "en": "Hoothoot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Peck",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-64-hoothoot"
+    }
+  },
+  {
+    "id": "A2a-065",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 65,
+    "setSize": 96,
+    "name": {
+      "en": "Noctowl",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Hoothoot",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Silent Wing",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Your opponent reveals their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-65-noctowl"
+    }
+  },
+  {
+    "id": "A2a-066",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 66,
+    "setSize": 96,
+    "name": {
+      "en": "Starly",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Glide",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Apios",
+    "boosterPacks": null,
+    "flavorText": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-66-starly"
+    }
+  },
+  {
+    "id": "A2a-067",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 67,
+    "setSize": 96,
+    "name": {
+      "en": "Staravia",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Starly",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wing Attack",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-67-staravia"
+    }
+  },
+  {
+    "id": "A2a-068",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 68,
+    "setSize": 96,
+    "name": {
+      "en": "Staraptor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Staravia",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brave Bird",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Minahamu",
+    "boosterPacks": null,
+    "flavorText": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-68-staraptor"
+    }
+  },
+  {
+    "id": "A2a-069",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 69,
+    "setSize": 96,
+    "name": {
+      "en": "Shaymin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Sky Support",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-69-shaymin"
+    }
+  },
+  {
+    "id": "A2a-070",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 70,
+    "setSize": 96,
+    "name": {
+      "en": "Arceus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Power Blast",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-70-arceus"
+    }
+  },
+  {
+    "id": "A2a-071",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 71,
+    "setSize": 96,
+    "name": {
+      "en": "Arceus ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fabled Luster",
+            "ja": null
+          },
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ultimate Force",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-71-arceus-ex"
+    }
+  },
+  {
+    "id": "A2a-072",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 72,
+    "setSize": 96,
+    "name": {
+      "en": "Irida",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Heal 40 damage from each of your Pokémon that has any {W} Energy attached."
+    },
+    "illustrator": "Atsushi Furusawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-72-irida"
+    }
+  },
+  {
+    "id": "A2a-073",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 73,
+    "setSize": 96,
+    "name": {
+      "en": "Celestic Town Elder",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 1 random Basic Pokémon from your discard pile into your hand."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-73-celestic-town-elder"
+    }
+  },
+  {
+    "id": "A2a-074",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 74,
+    "setSize": 96,
+    "name": {
+      "en": "Barry",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less {C} Energy."
+    },
+    "illustrator": "Hideki Ishikawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-74-barry"
+    }
+  },
+  {
+    "id": "A2a-075",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 75,
+    "setSize": 96,
+    "name": {
+      "en": "Adaman",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During your opponent's next turn, all of your {M} Pokémon take −20 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-75-adaman"
+    }
+  },
+  {
+    "id": "A2a-076",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 76,
+    "setSize": 96,
+    "name": {
+      "en": "Houndoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Houndour",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corner",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-76-houndoom"
+    }
+  },
+  {
+    "id": "A2a-077",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 77,
+    "setSize": 96,
+    "name": {
+      "en": "Marill",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kayama",
+    "boosterPacks": null,
+    "flavorText": "The fur on its body naturally repels water. It can stay dry even when it plays in the water.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-77-marill"
+    }
+  },
+  {
+    "id": "A2a-078",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 78,
+    "setSize": 96,
+    "name": {
+      "en": "Unown",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "CHECK",
+            "ja": null
+          },
+          "text": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hidden Power",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "IKEDA Saki",
+    "boosterPacks": null,
+    "flavorText": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-78-unown"
+    }
+  },
+  {
+    "id": "A2a-079",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 79,
+    "setSize": 96,
+    "name": {
+      "en": "Sudowoodo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fighting Headbutt",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuriko Akase",
+    "boosterPacks": null,
+    "flavorText": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-79-sudowoodo"
+    }
+  },
+  {
+    "id": "A2a-080",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 80,
+    "setSize": 96,
+    "name": {
+      "en": "Magnemite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukihiro Tada",
+    "boosterPacks": null,
+    "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-80-magnemite"
+    }
+  },
+  {
+    "id": "A2a-081",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 81,
+    "setSize": 96,
+    "name": {
+      "en": "Shaymin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Sky Support",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MINAMINAMI Take",
+    "boosterPacks": null,
+    "flavorText": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-81-shaymin"
+    }
+  },
+  {
+    "id": "A2a-082",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 82,
+    "setSize": 96,
+    "name": {
+      "en": "Leafeon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Forest Breath",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-82-leafeon-ex"
+    }
+  },
+  {
+    "id": "A2a-083",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 83,
+    "setSize": 96,
+    "name": {
+      "en": "Glaceon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Snowy Terrain",
+            "ja": null
+          },
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Freezing Wind",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-83-glaceon-ex"
+    }
+  },
+  {
+    "id": "A2a-084",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 84,
+    "setSize": 96,
+    "name": {
+      "en": "Garchomp ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Gabite",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Linear Attack",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-84-garchomp-ex"
+    }
+  },
+  {
+    "id": "A2a-085",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 85,
+    "setSize": 96,
+    "name": {
+      "en": "Probopass ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Nosepass",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Defensive Unit",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-85-probopass-ex"
+    }
+  },
+  {
+    "id": "A2a-086",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 86,
+    "setSize": 96,
+    "name": {
+      "en": "Arceus ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fabled Luster",
+            "ja": null
+          },
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ultimate Force",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-86-arceus-ex"
+    }
+  },
+  {
+    "id": "A2a-087",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 87,
+    "setSize": 96,
+    "name": {
+      "en": "Irida",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Heal 40 damage from each of your Pokémon that has any {W} Energy attached."
+    },
+    "illustrator": "Atsushi Furusawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-87-irida"
+    }
+  },
+  {
+    "id": "A2a-088",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 88,
+    "setSize": 96,
+    "name": {
+      "en": "Celestic Town Elder",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 1 random Basic Pokémon from your discard pile into your hand."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-88-celestic-town-elder"
+    }
+  },
+  {
+    "id": "A2a-089",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 89,
+    "setSize": 96,
+    "name": {
+      "en": "Barry",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Snorlax, Heracross, and Staraptor cost 2 less {C} Energy."
+    },
+    "illustrator": "Hideki Ishikawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-89-barry"
+    }
+  },
+  {
+    "id": "A2a-090",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 90,
+    "setSize": 96,
+    "name": {
+      "en": "Adaman",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During your opponent's next turn, all of your {M} Pokémon take −20 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-90-adaman"
+    }
+  },
+  {
+    "id": "A2a-091",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 91,
+    "setSize": 96,
+    "name": {
+      "en": "Leafeon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Forest Breath",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a {G} Energy from your Energy Zone and attach it to 1 of your {G} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-91-leafeon-ex"
+    }
+  },
+  {
+    "id": "A2a-092",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 92,
+    "setSize": 96,
+    "name": {
+      "en": "Glaceon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Snowy Terrain",
+            "ja": null
+          },
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Freezing Wind",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "rika",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-92-glaceon-ex"
+    }
+  },
+  {
+    "id": "A2a-093",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 93,
+    "setSize": 96,
+    "name": {
+      "en": "Garchomp ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Gabite",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Linear Attack",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "toriyufu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-93-garchomp-ex"
+    }
+  },
+  {
+    "id": "A2a-094",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 94,
+    "setSize": 96,
+    "name": {
+      "en": "Probopass ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Nosepass",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Defensive Unit",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-94-probopass-ex"
+    }
+  },
+  {
+    "id": "A2a-095",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 95,
+    "setSize": 96,
+    "name": {
+      "en": "Arceus ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fabled Luster",
+            "ja": null
+          },
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ultimate Force",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Takumi Wada",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-95-arceus-ex"
+    }
+  },
+  {
+    "id": "A2a-096",
+    "set": {
+      "code": "A2a",
+      "name": "Triumphant Light",
+      "nameJa": "超克の光"
+    },
+    "number": 96,
+    "setSize": 96,
+    "name": {
+      "en": "Arceus ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fabled Luster",
+            "ja": null
+          },
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ultimate Force",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2a-96-arceus-ex"
+    }
+  }
+]

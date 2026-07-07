@@ -33,6 +33,7 @@ export type CardFilterCriteria = {
   type?: EnergyType;
   rarity?: string;
   kind?: CardKind;
+  set?: string;
   query?: string;
 };
 
@@ -54,6 +55,9 @@ export function matchesCardFilters(card: Card, criteria: CardFilterCriteria): bo
     return false;
   }
   if (criteria.kind !== undefined && !matchesKind(card, criteria.kind)) {
+    return false;
+  }
+  if (criteria.set !== undefined && card.set.code !== criteria.set) {
     return false;
   }
   if (criteria.query !== undefined) {
@@ -80,6 +84,7 @@ export function hasActiveFilters(criteria: CardFilterCriteria): boolean {
     criteria.type !== undefined ||
     criteria.rarity !== undefined ||
     criteria.kind !== undefined ||
+    criteria.set !== undefined ||
     (criteria.query !== undefined && criteria.query.trim() !== "")
   );
 }
@@ -92,6 +97,7 @@ export const cardFilterParamNames = {
   type: "type",
   rarity: "rarity",
   kind: "kind",
+  set: "set",
   query: "q",
 } as const;
 
@@ -111,17 +117,27 @@ function firstValue(raw: string | string[] | undefined): string | undefined {
 const knownKinds = new Set<string>(cardKinds);
 
 /**
+ * The catalog-derived option sets a URL parse validates against, so a value not
+ * present in the current catalog (an unknown rarity, an unseeded set) is dropped
+ * rather than filtering the grid to nothing.
+ */
+export type CardFilterOptions = {
+  rarityCodes: readonly string[];
+  setCodes: readonly string[];
+};
+
+/**
  * Parses untrusted URL search params into a validated {@link CardFilterCriteria}.
  * Unknown or malformed values are dropped (treated as "no filter") rather than
  * throwing — a bookmarked URL from an older build must still render.
  *
  * @param raw - the route's `searchParams`
- * @param rarityCodes - the rarity codes present in the catalog, so an unknown
- *   rarity in the URL is dropped
+ * @param options - the rarity/set codes present in the catalog, so an unknown
+ *   value in the URL is dropped
  */
 export function parseCardFilters(
   raw: RawSearchParams,
-  rarityCodes: readonly string[],
+  options: CardFilterOptions,
 ): CardFilterCriteria {
   const criteria: CardFilterCriteria = {};
 
@@ -131,13 +147,18 @@ export function parseCardFilters(
   }
 
   const rarity = firstValue(raw[cardFilterParamNames.rarity]);
-  if (rarity !== undefined && rarityCodes.includes(rarity)) {
+  if (rarity !== undefined && options.rarityCodes.includes(rarity)) {
     criteria.rarity = rarity;
   }
 
   const kind = firstValue(raw[cardFilterParamNames.kind]);
   if (kind !== undefined && knownKinds.has(kind)) {
     criteria.kind = kind as CardKind;
+  }
+
+  const set = firstValue(raw[cardFilterParamNames.set]);
+  if (set !== undefined && options.setCodes.includes(set)) {
+    criteria.set = set;
   }
 
   const query = firstValue(raw[cardFilterParamNames.query]);
