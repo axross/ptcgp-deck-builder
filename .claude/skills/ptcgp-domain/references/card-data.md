@@ -113,7 +113,7 @@ schema; this document explains the fields and the source's quirks.
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`).
+**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `code` enum and the rarity filter follow.
 
 | Code  | Symbol | Label            | First in |
 | ----- | ------ | ---------------- | -------- |

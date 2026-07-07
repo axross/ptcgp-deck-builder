@@ -27,10 +27,11 @@ export type EnergyType = z.infer<typeof energyTypeSchema>;
 
 export const raritySchema = z.object({
   symbol: z.string(),
-  // Listed in canonical tier order (common → crown). `S`/`SSR` are the Shiny
-  // tiers (✸ / ✸✸) that first appear in Shining Revelry (A2b); in the game's
-  // rarity ladder they sit between Immersive Rare and Crown Rare.
-  code: z.enum(["C", "U", "R", "RR", "AR", "SR", "SAR", "IR", "S", "SSR", "CR"]),
+  // Listed in canonical tier order (common → crown), per the pull-rarity ladder
+  // in ptcgp-domain overview.md §2.5. `S`/`SSR` are the Shiny tiers (✸ / ✸✸)
+  // that first appear in Shining Revelry (A2b): 1-Shiny (`S`) ranks just above
+  // Art Rare, and 2-Shiny (`SSR`) just above Immersive Rare — both below it.
+  code: z.enum(["C", "U", "R", "RR", "AR", "S", "SR", "SAR", "SSR", "IR", "CR"]),
   label: z.string(),
 });
 

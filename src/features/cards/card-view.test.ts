@@ -44,11 +44,11 @@ describe("deriveRarityOptions()", () => {
       { code: "R", label: "Rare" },
       { code: "RR", label: "Double Rare" },
       { code: "AR", label: "Art Rare" },
+      { code: "S", label: "Shiny" },
       { code: "SR", label: "Super Rare" },
       { code: "SAR", label: "Special Art Rare" },
-      { code: "IR", label: "Immersive Rare" },
-      { code: "S", label: "Shiny" },
       { code: "SSR", label: "Shiny Super Rare" },
+      { code: "IR", label: "Immersive Rare" },
       { code: "CR", label: "Crown Rare" },
     ]);
   });
