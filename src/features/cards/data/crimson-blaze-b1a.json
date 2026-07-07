@@ -1,0 +1,5730 @@
+[
+  {
+    "id": "B1a-001",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 1,
+    "setSize": 103,
+    "name": {
+      "en": "Bulbasaur",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-001-bulbasaur"
+    }
+  },
+  {
+    "id": "B1a-002",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 2,
+    "setSize": 103,
+    "name": {
+      "en": "Ivysaur",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Bulbasaur",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Synthesis",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take 2 {G} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kanako Eo",
+    "boosterPacks": null,
+    "flavorText": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-002-ivysaur"
+    }
+  },
+  {
+    "id": "B1a-003",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 3,
+    "setSize": 103,
+    "name": {
+      "en": "Venusaur",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Ivysaur",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poisonous Whip",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eske Yoshinob",
+    "boosterPacks": null,
+    "flavorText": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-003-venusaur"
+    }
+  },
+  {
+    "id": "B1a-004",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 4,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Venusaur ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 240,
+      "stage": "Stage2",
+      "evolvesFrom": "Ivysaur",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Critical Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-004-mega-venusaur-ex"
+    }
+  },
+  {
+    "id": "B1a-005",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 5,
+    "setSize": 103,
+    "name": {
+      "en": "Spinarak",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sting",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kodama",
+    "boosterPacks": null,
+    "flavorText": "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-005-spinarak"
+    }
+  },
+  {
+    "id": "B1a-006",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 6,
+    "setSize": 103,
+    "name": {
+      "en": "Ariados",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Spinarak",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Trap Territory",
+            "ja": null
+          },
+          "text": "Your opponent's Active Pokémon's Retreat Cost is 1 more."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pierce",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-006-ariados"
+    }
+  },
+  {
+    "id": "B1a-007",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 7,
+    "setSize": 103,
+    "name": {
+      "en": "Sunkern",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Seed Bomb",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-007-sunkern"
+    }
+  },
+  {
+    "id": "B1a-008",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 8,
+    "setSize": 103,
+    "name": {
+      "en": "Sunflora",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Sunkern",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick-Grow Beam",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-008-sunflora"
+    }
+  },
+  {
+    "id": "B1a-009",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 9,
+    "setSize": 103,
+    "name": {
+      "en": "Burmy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hang Down",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-009-burmy"
+    }
+  },
+  {
+    "id": "B1a-010",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 10,
+    "setSize": 103,
+    "name": {
+      "en": "Mothim",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Burmy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cutting Wind",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": "It flutters around at night and steals honey from the Combee hive.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-010-mothim"
+    }
+  },
+  {
+    "id": "B1a-011",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 11,
+    "setSize": 103,
+    "name": {
+      "en": "Charmander",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-011-charmander"
+    }
+  },
+  {
+    "id": "B1a-012",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 12,
+    "setSize": 103,
+    "name": {
+      "en": "Charmeleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Charmander",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ignition",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Steady Firebreathing",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-012-charmeleon"
+    }
+  },
+  {
+    "id": "B1a-013",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 13,
+    "setSize": 103,
+    "name": {
+      "en": "Charizard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Inferno Onrush",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-013-charizard"
+    }
+  },
+  {
+    "id": "B1a-014",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 14,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Charizard Y ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crimson Dive",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless"],
+          "damage": 250,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 50 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-014-mega-charizard-y-ex"
+    }
+  },
+  {
+    "id": "B1a-015",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 15,
+    "setSize": 103,
+    "name": {
+      "en": "Houndour",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Roar",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-015-houndour"
+    }
+  },
+  {
+    "id": "B1a-016",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 16,
+    "setSize": 103,
+    "name": {
+      "en": "Houndoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Houndour",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Fang",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-016-houndoom"
+    }
+  },
+  {
+    "id": "B1a-017",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 17,
+    "setSize": 103,
+    "name": {
+      "en": "Squirtle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Whap",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-017-squirtle"
+    }
+  },
+  {
+    "id": "B1a-018",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 18,
+    "setSize": 103,
+    "name": {
+      "en": "Wartortle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Squirtle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Shell Shield",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Waterfall",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-018-wartortle"
+    }
+  },
+  {
+    "id": "B1a-019",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 19,
+    "setSize": 103,
+    "name": {
+      "en": "Blastoise",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Wartortle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Splash",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "If this Pokémon has at least 2 extra {W} Energy attached, this attack also does 50 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-019-blastoise"
+    }
+  },
+  {
+    "id": "B1a-020",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 20,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Blastoise ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 230,
+      "stage": "Stage2",
+      "evolvesFrom": "Wartortle",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triple Bombardment",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "If this Pokémon has at least 3 extra {W} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-020-mega-blastoise-ex"
+    }
+  },
+  {
+    "id": "B1a-021",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 21,
+    "setSize": 103,
+    "name": {
+      "en": "Basculin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Surprise Strike",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-021-basculin"
+    }
+  },
+  {
+    "id": "B1a-022",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 22,
+    "setSize": 103,
+    "name": {
+      "en": "Clauncher",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "Clauncher’s claws will regrow if they fall off. The meat inside the claws is edible, but it has a distinct flavor that doesn’t appeal to all tastes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-022-clauncher"
+    }
+  },
+  {
+    "id": "B1a-023",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 23,
+    "setSize": 103,
+    "name": {
+      "en": "Clawitzer",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Clauncher",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aqua Shower",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 20 damage to each of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "tetsuya koizumi",
+    "boosterPacks": null,
+    "flavorText": "The cannonballs of seawater that Clawitzer launches from its claw are powerful enough to punch through tanker hulls.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-023-clawitzer"
+    }
+  },
+  {
+    "id": "B1a-024",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 24,
+    "setSize": 103,
+    "name": {
+      "en": "Magnemite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electro Ball",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hajime Kusajima",
+    "boosterPacks": null,
+    "flavorText": "The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-024-magnemite"
+    }
+  },
+  {
+    "id": "B1a-025",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 25,
+    "setSize": 103,
+    "name": {
+      "en": "Magneton",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Magnemite",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spark",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-025-magneton"
+    }
+  },
+  {
+    "id": "B1a-026",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 26,
+    "setSize": 103,
+    "name": {
+      "en": "Magnezone",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Magneton",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mirror Shot",
+            "ja": null
+          },
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "Exposure to a special magnetic field changed Magneton’s molecular structure, turning it into Magnezone.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-026-magnezone"
+    }
+  },
+  {
+    "id": "B1a-027",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 27,
+    "setSize": 103,
+    "name": {
+      "en": "Emolga",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mach Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Megumi Mizutani",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-027-emolga"
+    }
+  },
+  {
+    "id": "B1a-028",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 28,
+    "setSize": 103,
+    "name": {
+      "en": "Helioptile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-028-helioptile"
+    }
+  },
+  {
+    "id": "B1a-029",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 29,
+    "setSize": 103,
+    "name": {
+      "en": "Heliolisk",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Helioptile",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunderbolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-029-heliolisk"
+    }
+  },
+  {
+    "id": "B1a-030",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 30,
+    "setSize": 103,
+    "name": {
+      "en": "Misdreavus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lead",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put a random Supporter card from your deck into your hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "It loves to bite and yank people’s hair from behind without warning, just to see their shocked reactions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-030-misdreavus"
+    }
+  },
+  {
+    "id": "B1a-031",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 31,
+    "setSize": 103,
+    "name": {
+      "en": "Mismagius",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Misdreavus",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stored Power",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Move all {P} Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ligton",
+    "boosterPacks": null,
+    "flavorText": "Its cries sound like incantations to torment the foe. It appears where you least expect it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-031-mismagius"
+    }
+  },
+  {
+    "id": "B1a-032",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 32,
+    "setSize": 103,
+    "name": {
+      "en": "Solosis",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "osare",
+    "boosterPacks": null,
+    "flavorText": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-032-solosis"
+    }
+  },
+  {
+    "id": "B1a-033",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 33,
+    "setSize": 103,
+    "name": {
+      "en": "Duosion",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Stage1",
+      "evolvesFrom": "Solosis",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Pani Kobayashi",
+    "boosterPacks": null,
+    "flavorText": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-033-duosion"
+    }
+  },
+  {
+    "id": "B1a-034",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 34,
+    "setSize": 103,
+    "name": {
+      "en": "Reuniclus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage2",
+      "evolvesFrom": "Duosion",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Infinite Increase",
+            "ja": null
+          },
+          "text": "This Pokémon gets +30 HP for each {P} Energy attached to it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psypunch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-034-reuniclus"
+    }
+  },
+  {
+    "id": "B1a-035",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 35,
+    "setSize": 103,
+    "name": {
+      "en": "Spritzee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweet Scent",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from 1 of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-035-spritzee"
+    }
+  },
+  {
+    "id": "B1a-036",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 36,
+    "setSize": 103,
+    "name": {
+      "en": "Aromatisse",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Spritzee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Perfume Blast",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {C} more."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-036-aromatisse"
+    }
+  },
+  {
+    "id": "B1a-037",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 37,
+    "setSize": 103,
+    "name": {
+      "en": "Xerneas",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Geoburst",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-037-xerneas"
+    }
+  },
+  {
+    "id": "B1a-038",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 38,
+    "setSize": 103,
+    "name": {
+      "en": "Onix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dig",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-038-onix"
+    }
+  },
+  {
+    "id": "B1a-039",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 39,
+    "setSize": 103,
+    "name": {
+      "en": "Makuhita",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Strength",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-039-makuhita"
+    }
+  },
+  {
+    "id": "B1a-040",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 40,
+    "setSize": 103,
+    "name": {
+      "en": "Hariyama",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Makuhita",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Megaton Slap Push",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-040-hariyama"
+    }
+  },
+  {
+    "id": "B1a-041",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 41,
+    "setSize": 103,
+    "name": {
+      "en": "Nosepass",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rising Lunge",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-041-nosepass"
+    }
+  },
+  {
+    "id": "B1a-042",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 42,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Lopunny ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 190,
+      "stage": "Stage1",
+      "evolvesFrom": "Buneary",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rapid Smashers",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-042-mega-lopunny-ex"
+    }
+  },
+  {
+    "id": "B1a-043",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 43,
+    "setSize": 103,
+    "name": {
+      "en": "Mienfoo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Chop",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "yuu",
+    "boosterPacks": null,
+    "flavorText": "Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-043-mienfoo"
+    }
+  },
+  {
+    "id": "B1a-044",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 44,
+    "setSize": 103,
+    "name": {
+      "en": "Mienshao",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Mienfoo",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Low Sweep",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Suwama Chiaki",
+    "boosterPacks": null,
+    "flavorText": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-044-mienshao"
+    }
+  },
+  {
+    "id": "B1a-045",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 45,
+    "setSize": 103,
+    "name": {
+      "en": "Grimer",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sludge Bomb",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-045-grimer"
+    }
+  },
+  {
+    "id": "B1a-046",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 46,
+    "setSize": 103,
+    "name": {
+      "en": "Muk",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Grimer",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gunk Shot",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Scav",
+    "boosterPacks": null,
+    "flavorText": "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-046-muk"
+    }
+  },
+  {
+    "id": "B1a-047",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 47,
+    "setSize": 103,
+    "name": {
+      "en": "Purrloin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Trip Over",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-047-purrloin"
+    }
+  },
+  {
+    "id": "B1a-048",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 48,
+    "setSize": 103,
+    "name": {
+      "en": "Liepard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Purrloin",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Snatch and Flee",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this Pokémon into your deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-048-liepard"
+    }
+  },
+  {
+    "id": "B1a-049",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 49,
+    "setSize": 103,
+    "name": {
+      "en": "Trubbish",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Drool",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-049-trubbish"
+    }
+  },
+  {
+    "id": "B1a-050",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 50,
+    "setSize": 103,
+    "name": {
+      "en": "Garbodor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Trubbish",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Acid Spray",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Aya Kusube",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-050-garbodor"
+    }
+  },
+  {
+    "id": "B1a-051",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 51,
+    "setSize": 103,
+    "name": {
+      "en": "Steelix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Onix",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Metal Defender",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon has no Weakness."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "NC Empire",
+    "boosterPacks": null,
+    "flavorText": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-051-steelix"
+    }
+  },
+  {
+    "id": "B1a-052",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 52,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Steelix ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 220,
+      "stage": "Stage1",
+      "evolvesFrom": "Onix",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Adamantine Rolling",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-052-mega-steelix-ex"
+    }
+  },
+  {
+    "id": "B1a-053",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 53,
+    "setSize": 103,
+    "name": {
+      "en": "Probopass",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Nosepass",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Metallic Turbo",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Take 2 {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-053-probopass"
+    }
+  },
+  {
+    "id": "B1a-054",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 54,
+    "setSize": 103,
+    "name": {
+      "en": "Genesect",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Metal Blast",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {M} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-054-genesect"
+    }
+  },
+  {
+    "id": "B1a-055",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 55,
+    "setSize": 103,
+    "name": {
+      "en": "Ditto",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Copy a Friend",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuka Morii",
+    "boosterPacks": null,
+    "flavorText": "It can freely recombine its own cellular structure to transform into other life-forms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-055-ditto"
+    }
+  },
+  {
+    "id": "B1a-056",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 56,
+    "setSize": 103,
+    "name": {
+      "en": "Porygon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stiffen",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hisao Nakamura",
+    "boosterPacks": null,
+    "flavorText": "State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-056-porygon"
+    }
+  },
+  {
+    "id": "B1a-057",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 57,
+    "setSize": 103,
+    "name": {
+      "en": "Porygon2",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Porygon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Speed Attack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kent Kanetsuna",
+    "boosterPacks": null,
+    "flavorText": "This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-057-porygon2"
+    }
+  },
+  {
+    "id": "B1a-058",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 58,
+    "setSize": 103,
+    "name": {
+      "en": "Porygon-Z",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Porygon2",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cyberjack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Trainer card in your opponent's deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z’s behavior.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-058-porygon-z"
+    }
+  },
+  {
+    "id": "B1a-059",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 59,
+    "setSize": 103,
+    "name": {
+      "en": "Starly",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Call for Family",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put 1 random Starly from your deck onto your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-059-starly"
+    }
+  },
+  {
+    "id": "B1a-060",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 60,
+    "setSize": 103,
+    "name": {
+      "en": "Staravia",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Starly",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Attack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Suwama Chiaki",
+    "boosterPacks": null,
+    "flavorText": "They maintain huge flocks, although fierce scuffles break out between various flocks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-060-staravia"
+    }
+  },
+  {
+    "id": "B1a-061",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 61,
+    "setSize": 103,
+    "name": {
+      "en": "Staraptor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Staravia",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hurricane Wing",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-061-staraptor"
+    }
+  },
+  {
+    "id": "B1a-062",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 62,
+    "setSize": 103,
+    "name": {
+      "en": "Buneary",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Kick",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-062-buneary"
+    }
+  },
+  {
+    "id": "B1a-063",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 63,
+    "setSize": 103,
+    "name": {
+      "en": "Lopunny",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Buneary",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Kick",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": "Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-063-lopunny"
+    }
+  },
+  {
+    "id": "B1a-064",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 64,
+    "setSize": 103,
+    "name": {
+      "en": "Bouffalant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Revenge",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-064-bouffalant"
+    }
+  },
+  {
+    "id": "B1a-065",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 65,
+    "setSize": 103,
+    "name": {
+      "en": "Furfrou",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fur Coat",
+            "ja": null
+          },
+          "text": "This Pokémon takes −20 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kazumasa Yasukuni",
+    "boosterPacks": null,
+    "flavorText": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-065-furfrou"
+    }
+  },
+  {
+    "id": "B1a-066",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 66,
+    "setSize": 103,
+    "name": {
+      "en": "Clemont's Backpack",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "During this turn, attacks used by your Magneton or Heliolisk do +20 damage to your opponent's Pokémon."
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-066-clemont-s-backpack"
+    }
+  },
+  {
+    "id": "B1a-067",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 67,
+    "setSize": 103,
+    "name": {
+      "en": "Quick-Grow Extract",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Choose 1 of your {G} Pokémon in play. Put a random {G} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
+    },
+    "illustrator": "Studio Bora Inc.",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-067-quick-grow-extract"
+    }
+  },
+  {
+    "id": "B1a-068",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 68,
+    "setSize": 103,
+    "name": {
+      "en": "Clemont",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 2 random cards from among Magneton, Heliolisk, and Clemont's Backpack from your deck into your hand."
+    },
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-068-clemont"
+    }
+  },
+  {
+    "id": "B1a-069",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 69,
+    "setSize": 103,
+    "name": {
+      "en": "Serena",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put a random Mega Evolution Pokémon ex from your deck into your hand."
+    },
+    "illustrator": "En Morikura",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-069-serena"
+    }
+  },
+  {
+    "id": "B1a-070",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 70,
+    "setSize": 103,
+    "name": {
+      "en": "Ariados",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Spinarak",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Trap Territory",
+            "ja": null
+          },
+          "text": "Your opponent's Active Pokémon's Retreat Cost is 1 more."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pierce",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KEIICHIRO ITO",
+    "boosterPacks": null,
+    "flavorText": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-070-ariados"
+    }
+  },
+  {
+    "id": "B1a-071",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 71,
+    "setSize": 103,
+    "name": {
+      "en": "Sunflora",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Sunkern",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick-Grow Beam",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "Since it converts sunlight into energy, it is always looking in the direction of the sun.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-071-sunflora"
+    }
+  },
+  {
+    "id": "B1a-072",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 72,
+    "setSize": 103,
+    "name": {
+      "en": "Reuniclus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage2",
+      "evolvesFrom": "Duosion",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Infinite Increase",
+            "ja": null
+          },
+          "text": "This Pokémon gets +30 HP for each {P} Energy attached to it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psypunch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "chibi",
+    "boosterPacks": null,
+    "flavorText": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-072-reuniclus"
+    }
+  },
+  {
+    "id": "B1a-073",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 73,
+    "setSize": 103,
+    "name": {
+      "en": "Xerneas",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Geoburst",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "mashu",
+    "boosterPacks": null,
+    "flavorText": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-073-xerneas"
+    }
+  },
+  {
+    "id": "B1a-074",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 74,
+    "setSize": 103,
+    "name": {
+      "en": "Trubbish",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Drool",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-074-trubbish"
+    }
+  },
+  {
+    "id": "B1a-075",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 75,
+    "setSize": 103,
+    "name": {
+      "en": "Buneary",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Kick",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Terada Tera",
+    "boosterPacks": null,
+    "flavorText": "Buneary can attack by rolling up their ears and then striking with the force created by unrolling them. This attack becomes stronger with training.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-075-buneary"
+    }
+  },
+  {
+    "id": "B1a-076",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 76,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Venusaur ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 240,
+      "stage": "Stage2",
+      "evolvesFrom": "Ivysaur",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Critical Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-076-mega-venusaur-ex"
+    }
+  },
+  {
+    "id": "B1a-077",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 77,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Charizard Y ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crimson Dive",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless"],
+          "damage": 250,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 50 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-077-mega-charizard-y-ex"
+    }
+  },
+  {
+    "id": "B1a-078",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 78,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Blastoise ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 230,
+      "stage": "Stage2",
+      "evolvesFrom": "Wartortle",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triple Bombardment",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "If this Pokémon has at least 3 extra {W} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-078-mega-blastoise-ex"
+    }
+  },
+  {
+    "id": "B1a-079",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 79,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Lopunny ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 190,
+      "stage": "Stage1",
+      "evolvesFrom": "Buneary",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rapid Smashers",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-079-mega-lopunny-ex"
+    }
+  },
+  {
+    "id": "B1a-080",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 80,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Steelix ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 220,
+      "stage": "Stage1",
+      "evolvesFrom": "Onix",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Adamantine Rolling",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-080-mega-steelix-ex"
+    }
+  },
+  {
+    "id": "B1a-081",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 81,
+    "setSize": 103,
+    "name": {
+      "en": "Clemont",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 2 random cards from among Magneton, Heliolisk, and Clemont's Backpack from your deck into your hand."
+    },
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-081-clemont"
+    }
+  },
+  {
+    "id": "B1a-082",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 82,
+    "setSize": 103,
+    "name": {
+      "en": "Serena",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put a random Mega Evolution Pokémon ex from your deck into your hand."
+    },
+    "illustrator": "En Morikura",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-082-serena"
+    }
+  },
+  {
+    "id": "B1a-083",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 83,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Venusaur ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 240,
+      "stage": "Stage2",
+      "evolvesFrom": "Ivysaur",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Critical Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mori Yuu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-083-mega-venusaur-ex"
+    }
+  },
+  {
+    "id": "B1a-084",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 84,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Blastoise ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 230,
+      "stage": "Stage2",
+      "evolvesFrom": "Wartortle",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triple Bombardment",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "If this Pokémon has at least 3 extra {W} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kazumasa Yasukuni",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-084-mega-blastoise-ex"
+    }
+  },
+  {
+    "id": "B1a-085",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 85,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Lopunny ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 190,
+      "stage": "Stage1",
+      "evolvesFrom": "Buneary",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rapid Smashers",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-085-mega-lopunny-ex"
+    }
+  },
+  {
+    "id": "B1a-086",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 86,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Steelix ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 220,
+      "stage": "Stage1",
+      "evolvesFrom": "Onix",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Adamantine Rolling",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-086-mega-steelix-ex"
+    }
+  },
+  {
+    "id": "B1a-087",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 87,
+    "setSize": 103,
+    "name": {
+      "en": "Mega Charizard Y ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crimson Dive",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless"],
+          "damage": 250,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 50 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-087-mega-charizard-y-ex"
+    }
+  },
+  {
+    "id": "B1a-088",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 88,
+    "setSize": 103,
+    "name": {
+      "en": "Oddish",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poison Powder",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-088-oddish"
+    }
+  },
+  {
+    "id": "B1a-089",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 89,
+    "setSize": 103,
+    "name": {
+      "en": "Gloom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Oddish",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leaf Step",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-089-gloom"
+    }
+  },
+  {
+    "id": "B1a-090",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 90,
+    "setSize": 103,
+    "name": {
+      "en": "Vileplume",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Gloom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Soothing Scent",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-090-vileplume"
+    }
+  },
+  {
+    "id": "B1a-091",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 91,
+    "setSize": 103,
+    "name": {
+      "en": "Charizard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Inferno Onrush",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-091-charizard"
+    }
+  },
+  {
+    "id": "B1a-092",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 92,
+    "setSize": 103,
+    "name": {
+      "en": "Shellder",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-092-shellder"
+    }
+  },
+  {
+    "id": "B1a-093",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 93,
+    "setSize": 103,
+    "name": {
+      "en": "Cloyster",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Shellder",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Guard Press",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-093-cloyster"
+    }
+  },
+  {
+    "id": "B1a-094",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 94,
+    "setSize": 103,
+    "name": {
+      "en": "Sandshrew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sand Spray",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-094-sandshrew"
+    }
+  },
+  {
+    "id": "B1a-095",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 95,
+    "setSize": 103,
+    "name": {
+      "en": "Sandslash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Sandshrew",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cut",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-095-sandslash"
+    }
+  },
+  {
+    "id": "B1a-096",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 96,
+    "setSize": 103,
+    "name": {
+      "en": "Type: Null",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Blow",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-096-type-null"
+    }
+  },
+  {
+    "id": "B1a-097",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 97,
+    "setSize": 103,
+    "name": {
+      "en": "Silvally",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Type: Null",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brave Buddies",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-097-silvally"
+    }
+  },
+  {
+    "id": "B1a-098",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 98,
+    "setSize": 103,
+    "name": {
+      "en": "Buzzwole ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Big Beat",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't use Big Beat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-098-buzzwole-ex"
+    }
+  },
+  {
+    "id": "B1a-099",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 99,
+    "setSize": 103,
+    "name": {
+      "en": "Lunala ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Cosmoem",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Psychic Connect",
+            "ja": null
+          },
+          "text": "Once during your turn, you may move all {P} Energy from 1 of your Benched {P} Pokémon to your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lunar Blast",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-099-lunala-ex"
+    }
+  },
+  {
+    "id": "B1a-100",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 100,
+    "setSize": 103,
+    "name": {
+      "en": "Guzzlord ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Grindcore",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": {
+            "en": "Tyrannical Hole",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-100-guzzlord-ex"
+    }
+  },
+  {
+    "id": "B1a-101",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 101,
+    "setSize": 103,
+    "name": {
+      "en": "Solgaleo ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Cosmoem",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Rising Road",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sol Breaker",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-101-solgaleo-ex"
+    }
+  },
+  {
+    "id": "B1a-102",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 102,
+    "setSize": 103,
+    "name": {
+      "en": "Aegislash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Doublade",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Cursed Metal",
+            "ja": null
+          },
+          "text": "Attacks used by your {P} Pokémon and {M} Pokémon do +30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slicing Blade",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": "Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-102-aegislash"
+    }
+  },
+  {
+    "id": "B1a-103",
+    "set": {
+      "code": "B1a",
+      "name": "Crimson Blaze",
+      "nameJa": "紅蓮ブレイズ"
+    },
+    "number": 103,
+    "setSize": 103,
+    "name": {
+      "en": "Quick-Grow Extract",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Choose 1 of your {G} Pokémon in play. Put a random {G} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn."
+    },
+    "illustrator": "Studio Bora Inc.",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b1a-103-quick-grow-extract"
+    }
+  }
+]

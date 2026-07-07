@@ -1,11 +1,14 @@
 import "server-only";
 import { z } from "zod";
 import celestialGuardiansA3 from "./data/celestial-guardians-a3.json";
+import crimsonBlazeB1a from "./data/crimson-blaze-b1a.json";
 import eeveeGroveA3b from "./data/eevee-grove-a3b.json";
 import extradimensionalCrisisA3a from "./data/extradimensional-crisis-a3a.json";
+import fantasticalParadeB2 from "./data/fantastical-parade-b2.json";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
 import megaRisingB1 from "./data/mega-rising-b1.json";
 import mythicalIslandA1a from "./data/mythical-island-a1a.json";
+import paldeanWondersB2a from "./data/paldean-wonders-b2a.json";
 import secludedSpringsA4a from "./data/secluded-springs-a4a.json";
 import shiningRevelryA2b from "./data/shining-revelry-a2b.json";
 import spaceTimeSmackdownA2 from "./data/space-time-smackdown-a2.json";
@@ -45,6 +48,9 @@ const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "A4", data: wisdomOfSeaAndSkyA4 },
   { code: "A4a", data: secludedSpringsA4a },
   { code: "B1", data: megaRisingB1 },
+  { code: "B1a", data: crimsonBlazeB1a },
+  { code: "B2", data: fantasticalParadeB2 },
+  { code: "B2a", data: paldeanWondersB2a },
 ];
 
 type Catalog = {

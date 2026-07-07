@@ -8,15 +8,19 @@
 //
 // Provenance model (same as the seeded A1 data): the dotgg.gg card database is
 // the primary source; pocket.limitlesstcg.com supplies flavor text where
-// available. This is NOT runtime scraping — results are checked into the repo,
-// so a set is fetched once (plus re-runs on corrections). It is a polite client:
-// sequential requests, an identifying user agent, and a spacing delay.
+// available. api.tcgdex.net is a rarity *fallback*, consulted only for the newer
+// sets dotgg has not backfilled rarity for (its `rarity` is null from B1a on).
+// This is NOT runtime scraping — results are checked into the repo, so a set is
+// fetched once (plus re-runs on corrections). It is a polite client: sequential
+// requests, an identifying user agent, and a spacing delay.
 //
 // Network prerequisite: the source hosts must be reachable. Development
 // sandboxes for this repo may block outbound fetches by network policy; running
 // this requires an environment whose policy allowlists the source hosts. When a
 // host is unreachable the tool exits with an explicit message (below), never a
-// cryptic stack trace.
+// cryptic stack trace. (Note: Node's global `fetch` does not honor HTTP(S)_PROXY
+// by default — in a proxied sandbox, run with `NODE_USE_ENV_PROXY=1` so requests
+// reach a host that is only reachable through the egress proxy.)
 import { existsSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import process from "node:process";
@@ -47,9 +51,15 @@ const REQUEST_SPACING_MS = 300;
 // - Limitless serves one HTML page per card at /cards/<CODE>/<number>; the flavor
 //   sentence (absent from dotgg) is scraped from it. `parseLimitlessFlavor`
 //   extracts it. Flavor is optional, so this enrichment is best-effort.
+// - TCGdex serves one card per request at /v2/en/cards/<CODE>-<number> (the
+//   number zero-padded to three digits, matching its `id`). It carries
+//   structured rarity for the newest sets whose rarity dotgg has not yet
+//   backfilled. `mapTcgdexRarity` maps its rarity names onto the app's tuples.
 const DOTGG_CARDS_URL = "https://api.dotgg.gg/cgfw/getcards?game=pokepocket";
 const LIMITLESS_CARD_URL = (code, number) =>
   `https://pocket.limitlesstcg.com/cards/${code}/${number}`;
+const TCGDEX_CARD_URL = (code, number) =>
+  `https://api.tcgdex.net/v2/en/cards/${code}-${String(number).padStart(3, "0")}`;
 
 /** Raised when a request cannot reach the source host — a network-policy block. */
 class NetworkBlockedError extends Error {
@@ -57,8 +67,9 @@ class NetworkBlockedError extends Error {
     super(
       `Network blocked: could not reach ${new URL(url).host}. ` +
         "The fetch pipeline needs outbound access to the source hosts " +
-        "(api.dotgg.gg, pocket.limitlesstcg.com). This environment's network " +
-        "policy must allowlist them (a repo-owner environment setting). " +
+        "(api.dotgg.gg, pocket.limitlesstcg.com, api.tcgdex.net). This " +
+        "environment's network policy must allowlist them (a repo-owner " +
+        "environment setting). " +
         `Underlying cause: ${cause instanceof Error ? cause.message : String(cause)}`,
     );
     this.name = "NetworkBlockedError";
@@ -142,6 +153,10 @@ const RARITY_BY_LABEL = new Map([
  * rejects it and names the offending card — the intended trigger to extend the
  * rarity enum (see card-data.md's Step 4). This is how A2b's Shiny tiers were
  * first surfaced before being added to the map above.
+ *
+ * A card whose dotgg rarity is null gets the "Unknown" placeholder here; that is
+ * the signal main() uses to source its rarity from TCGdex instead (dotgg has not
+ * backfilled rarity for the sets from B1a on).
  */
 function mapRarity(rawRarity) {
   const known = rawRarity == null ? undefined : RARITY_BY_LABEL.get(rawRarity);
@@ -150,6 +165,44 @@ function mapRarity(rawRarity) {
   }
   const label = rawRarity == null ? "Unknown" : String(rawRarity);
   return { symbol: label, code: label, label };
+}
+
+// The rarity codes dotgg can supply directly. A normalized card whose rarity
+// `code` is not one of these (an "Unknown" placeholder from a null dotgg rarity,
+// or a genuinely unmapped label) is the set of cards main() backfills from
+// TCGdex before validation.
+const KNOWN_RARITY_CODES = new Set([...RARITY_BY_LABEL.values()].map((rarity) => rarity.code));
+
+// TCGdex names a rarity differently from dotgg — "One Diamond", "Two Star",
+// "One Shiny", "Crown" — so this maps its names onto the same { symbol, code,
+// label } tuples. TCGdex is the rarity source only for sets dotgg has not
+// backfilled (B1a on); a set dotgg fully describes never consults it.
+//
+// The ☆☆ tier is imprecise by design: TCGdex reports both Super Rare and
+// Special Art Rare as "Two Star" and exposes no field to tell them apart, so
+// every "Two Star" card is labeled Super Rare and the SAR alternate-art subset
+// is knowingly not distinguished for TCGdex-sourced sets. Recorded in
+// card-data.md.
+const TCGDEX_RARITY_BY_NAME = new Map([
+  ["One Diamond", { symbol: "◇", code: "C", label: "Common" }],
+  ["Two Diamond", { symbol: "◇◇", code: "U", label: "Uncommon" }],
+  ["Three Diamond", { symbol: "◇◇◇", code: "R", label: "Rare" }],
+  ["Four Diamond", { symbol: "◇◇◇◇", code: "RR", label: "Double Rare" }],
+  ["One Star", { symbol: "☆", code: "AR", label: "Art Rare" }],
+  ["Two Star", { symbol: "☆☆", code: "SR", label: "Super Rare" }],
+  ["Three Star", { symbol: "☆☆☆", code: "IR", label: "Immersive Rare" }],
+  ["One Shiny", { symbol: "✸", code: "S", label: "Shiny" }],
+  ["Two Shiny", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
+  ["Crown", { symbol: "♛", code: "CR", label: "Crown Rare" }],
+]);
+
+/**
+ * Maps a TCGdex rarity name to the { symbol, code, label } tuple, or null when
+ * TCGdex reports no rarity or an unrecognized one — the caller then leaves the
+ * card's placeholder rarity in place so `cardSchema` flags it by id.
+ */
+export function mapTcgdexRarity(rawName) {
+  return rawName == null ? null : (TCGDEX_RARITY_BY_NAME.get(String(rawName)) ?? null);
 }
 
 /**
@@ -426,6 +479,38 @@ async function fetchFlavorMap(set, sources) {
   return map;
 }
 
+/**
+ * Sources rarity from TCGdex for the given card numbers, one card per request,
+ * returning a Map<number, rarityTuple>. Used only for the sets dotgg has not
+ * backfilled rarity for. Unlike flavor, rarity is *required*, so a host-level
+ * block aborts the fetch (a {@link NetworkBlockedError} propagates) rather than
+ * leaving cards without a rarity; a per-card miss (TCGdex lacks the card or a
+ * usable rarity) is simply left out of the map, and the caller then fails
+ * validation naming that card.
+ */
+async function fetchTcgdexRarityMap(set, numbers) {
+  const map = new Map();
+  for (const [index, number] of numbers.entries()) {
+    if (index > 0) {
+      await delay(REQUEST_SPACING_MS); // polite: space out per-card requests
+    }
+    let json;
+    try {
+      json = JSON.parse(await fetchText(TCGDEX_CARD_URL(set.code, number)));
+    } catch (error) {
+      if (error instanceof NetworkBlockedError) {
+        throw error; // rarity is required — do not silently ship without it
+      }
+      continue; // a single missing card page is left unmapped; validation names it
+    }
+    const rarity = mapTcgdexRarity(json.rarity);
+    if (rarity !== null) {
+      map.set(number, rarity);
+    }
+  }
+  return map;
+}
+
 function parseCliArgs(argv) {
   const { values, positionals } = parseArgs({
     args: argv,
@@ -462,14 +547,34 @@ async function main() {
   console.error(`Fetching ${set.name} (${set.code}) — expecting ${set.cardCount} cards…`);
 
   const sources = await fetchSourceCards(set);
+
+  // Rarity fallback: dotgg leaves `rarity` null for the newest sets (B1a on).
+  // Source those cards' rarity from TCGdex; a set dotgg fully describes needs no
+  // TCGdex request.
+  const needsRarity = sources.filter((source) => !KNOWN_RARITY_CODES.has(source.rarity.code));
+  let rarityMap = new Map();
+  if (needsRarity.length > 0) {
+    console.error(
+      `${needsRarity.length} card(s) have no dotgg rarity; sourcing rarity from TCGdex…`,
+    );
+    rarityMap = await fetchTcgdexRarityMap(
+      set,
+      needsRarity.map((source) => source.number),
+    );
+    console.error(`Sourced rarity for ${rarityMap.size} card(s) from TCGdex.`);
+  }
+
   const flavor = noFlavor ? new Map() : await fetchFlavorMap(set, sources);
   if (!noFlavor) {
     console.error(`Enriched ${flavor.size} card(s) with flavor text from Limitless.`);
   }
   const cards = sources.map((source) => {
-    const withFlavor = flavor.has(source.number)
-      ? { ...source, flavorText: flavor.get(source.number) }
+    const withRarity = rarityMap.has(source.number)
+      ? { ...source, rarity: rarityMap.get(source.number) }
       : source;
+    const withFlavor = flavor.has(source.number)
+      ? { ...withRarity, flavorText: flavor.get(source.number) }
+      : withRarity;
     return transformSourceCard(withFlavor, set, set.cardCount);
   });
 

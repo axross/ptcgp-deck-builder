@@ -26,7 +26,7 @@ const MAX_MOUNTED_TILES = 120;
 
 // The last card of the last seeded set in catalog order (mirrors cards.spec.ts);
 // scrolling to the end of the picker must reach it even though it is windowed.
-const LAST_CARD_ID = "B1-331";
+const LAST_CARD_ID = "B2a-131";
 
 function tileAdd(page: Page, id: string) {
   return page
