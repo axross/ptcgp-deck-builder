@@ -9,7 +9,7 @@ import styles from "./page.module.css";
 
 export const metadata: Metadata = {
   title: "Cards",
-  description: "Browse and filter the Genetic Apex (A1) Pokémon TCG Pocket card catalog.",
+  description: "Browse and filter the Pokémon TCG Pocket card catalog.",
 };
 
 type CardsPageProps = {

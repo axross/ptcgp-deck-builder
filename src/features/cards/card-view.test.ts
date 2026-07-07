@@ -60,8 +60,12 @@ describe("deriveRarityOptions()", () => {
 
 describe("deriveSetOptions()", () => {
   it("lists the seeded sets, labelled from the registry", () => {
-    // Only A1 is seeded today; the option is labelled from the set registry.
-    expect(deriveSetOptions(getAllCards())).toEqual([{ code: "A1", label: "Genetic Apex (A1)" }]);
+    // One option per seeded set, in registry order, labelled from the registry.
+    expect(deriveSetOptions(getAllCards())).toEqual([
+      { code: "A1", label: "Genetic Apex (A1)" },
+      { code: "A1a", label: "Mythical Island (A1a)" },
+      { code: "A2", label: "Space-Time Smackdown (A2)" },
+    ]);
   });
 
   it("orders sets chronologically and omits sets with no cards", () => {

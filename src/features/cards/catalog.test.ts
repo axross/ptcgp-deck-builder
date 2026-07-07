@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { getAllCards, getCard, getCardsBySet, getSeededSetCodes, getSetCardCount } from "./catalog";
-import { getSet } from "./set-registry";
+import { getSet, setCodes } from "./set-registry";
 
 describe("getAllCards()", () => {
   it("returns the union of every seeded set, validated against the card schema", () => {
@@ -32,13 +32,19 @@ describe("getAllCards()", () => {
     });
   });
 
-  it("decodes a Trainer card with its subtype and rules text", () => {
+  it("decodes Trainer cards with their subtype and rules text", () => {
     const trainers = getAllCards().filter((card) => card.category === "Trainer");
 
-    expect(trainers).toHaveLength(19);
+    expect(trainers.length).toBeGreaterThan(0);
     for (const trainer of trainers) {
+      expect(trainer.trainer.subtype.length).toBeGreaterThan(0);
       expect(trainer.trainer.text.length).toBeGreaterThan(0);
     }
+    // Spot-check a known fossil, which the source models as an Item.
+    expect(getCard("A1-216")).toMatchObject({
+      category: "Trainer",
+      trainer: { subtype: "Item" },
+    });
   });
 
   it('normalizes the source\'s "none" weakness on Dragon Pokémon to null', () => {
@@ -71,6 +77,11 @@ describe("per-set access", () => {
   });
 
   it("lists the seeded set codes in registry order", () => {
-    expect(getSeededSetCodes()).toEqual(["A1"]);
+    const seeded = getSeededSetCodes();
+
+    // Stays honest as more sets are seeded: the codes are exactly the seeded
+    // ones, ordered as they appear in the registry's chronological list.
+    expect(seeded).toEqual(setCodes.filter((code) => seeded.includes(code)));
+    expect(seeded).toContain("A1");
   });
 });

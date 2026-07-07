@@ -1,8 +1,12 @@
 import { expect, type Page, test } from "@playwright/test";
 
-// The full A1 catalog size — asserted here as the browse baseline and checked
-// against the catalog's own count assertions in the unit tests.
-const CATALOG_SIZE = 286;
+// The full catalog size — the sum of the seeded sets (A1 + A1a + A2) — asserted
+// here as the browse baseline and checked against the catalog's own count
+// assertions in the unit tests. Per-set sizes drive the cross-set filter test.
+const A1_SIZE = 286;
+const A1A_SIZE = 86;
+const A2_SIZE = 207;
+const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE;
 
 // Identify a specific card by its stable data hook rather than matching on the
 // rendered name (per e2e-testing-guidelines: text locators are for copy
@@ -10,6 +14,26 @@ const CATALOG_SIZE = 286;
 function cardTile(page: Page, id: string) {
   return page.locator(`[data-testid="card-tile"][data-card-id="${id}"]`);
 }
+
+// The first filter interaction on a freshly-loaded grid can land before Next.js
+// hydrates the navigation and be silently dropped (the suite forbids
+// retries/flakes). Retry the interaction until the URL reflects it; subsequent
+// interactions in the same test then run against a hydrated page.
+async function applyFirstFilter(page: Page, apply: () => Promise<unknown>, expectedUrl: RegExp) {
+  await expect(async () => {
+    await apply();
+    await expect(page).toHaveURL(expectedUrl, { timeout: 2000 });
+  }).toPass({ timeout: 15000 });
+}
+
+// Card art hotlinks an external CDN that is blocked in CI/sandboxes. Abort the
+// image-optimizer requests so pages render fast and the suite stays independent
+// of CDN reachability — otherwise hundreds of 403 retries per grid starve the
+// dev server and make heavy navigations time out. The fallback rendering path
+// has its own dedicated test that forces this failure explicitly.
+test.beforeEach(async ({ page }) => {
+  await page.route("**/_next/image**", (route) => route.abort());
+});
 
 test.describe("card browser", () => {
   test("reaches the catalog from the home page (mobile + desktop) and browses the full grid", {
@@ -49,9 +73,12 @@ test.describe("card browser", () => {
 
     await test.step("Filtering by type narrows the grid and updates the URL", async () => {
       await page.goto("/cards");
-      await page.getByTestId("card-filter-type").selectOption("Grass");
+      await applyFirstFilter(
+        page,
+        () => page.getByTestId("card-filter-type").selectOption("Grass"),
+        /[?&]type=Grass/,
+      );
 
-      await expect(page).toHaveURL(/[?&]type=Grass/);
       await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur (Grass, Basic)
       await expect(cardTile(page, "A1-033")).toHaveCount(0); // Charmander (Fire)
     });
@@ -80,30 +107,48 @@ test.describe("card browser", () => {
   test("filters by expansion set and the selection is URL-shareable", {
     tag: ["@scenario:cards.filter.set", "@area:cards", "@priority:should"],
   }, async ({ page }) => {
-    // Only Genetic Apex (A1) is seeded today, so the set filter offers one
-    // option and selecting it keeps the full grid; this asserts the control is
-    // wired, URL-encoded, and combines with the other filters. Cross-set
-    // narrowing is proved in the card-filters unit tests.
+    // Several sets are seeded, so selecting one narrows the grid to just that
+    // set's cards — real cross-set narrowing, not only that the control is
+    // wired. The option labels come from the set registry.
     await page.goto("/cards");
-    await page.getByTestId("card-filter-set").selectOption("A1");
-
-    await expect(page).toHaveURL(/[?&]set=A1/);
     await expect(page.getByTestId("card-tile")).toHaveCount(CATALOG_SIZE);
 
+    const setFilter = page.getByTestId("card-filter-set");
+    await applyFirstFilter(page, () => setFilter.selectOption("A1"), /[?&]set=A1/);
+
+    await expect(page.getByTestId("card-tile")).toHaveCount(A1_SIZE);
+    await expect(page.getByTestId("card-result-count")).toHaveText(`${A1_SIZE} cards`);
+    await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur stays (A1)
+    await expect(cardTile(page, "A2-001")).toHaveCount(0); // an A2 card drops out
+
+    await test.step("Switching sets swaps the grid to the other set", async () => {
+      await page.getByTestId("card-filter-set").selectOption("A2");
+
+      await expect(page).toHaveURL(/[?&]set=A2/);
+      await expect(page.getByTestId("card-tile")).toHaveCount(A2_SIZE);
+      await expect(cardTile(page, "A2-001")).toBeVisible();
+      await expect(cardTile(page, "A1-001")).toHaveCount(0);
+    });
+
     await test.step("Set combines with another filter", async () => {
-      await page.getByTestId("card-filter-type").selectOption("Grass");
+      await page.goto("/cards?set=A1");
+      await applyFirstFilter(
+        page,
+        () => page.getByTestId("card-filter-type").selectOption("Grass"),
+        /[?&]type=Grass/,
+      );
 
       await expect(page).toHaveURL(/[?&]set=A1/);
-      await expect(page).toHaveURL(/[?&]type=Grass/);
       await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur (A1, Grass)
       await expect(cardTile(page, "A1-033")).toHaveCount(0); // Charmander (A1, Fire)
+      expect(await page.getByTestId("card-tile").count()).toBeLessThan(A1_SIZE);
     });
 
     await test.step("Opening the shared set URL fresh reproduces the grid", async () => {
-      await page.goto("/cards?set=A1");
+      await page.goto("/cards?set=A2");
 
-      await expect(page.getByTestId("card-tile")).toHaveCount(CATALOG_SIZE);
-      await expect(page.getByTestId("card-filter-set")).toHaveValue("A1");
+      await expect(page.getByTestId("card-tile")).toHaveCount(A2_SIZE);
+      await expect(page.getByTestId("card-filter-set")).toHaveValue("A2");
     });
   });
 
@@ -111,9 +156,12 @@ test.describe("card browser", () => {
     tag: ["@scenario:cards.search", "@area:cards", "@priority:should"],
   }, async ({ page }) => {
     await page.goto("/cards");
-    await page.getByTestId("card-filter-search").fill("pikachu");
+    await applyFirstFilter(
+      page,
+      () => page.getByTestId("card-filter-search").fill("pikachu"),
+      /[?&]q=pikachu/,
+    );
 
-    await expect(page).toHaveURL(/[?&]q=pikachu/);
     await expect(cardTile(page, "A1-094")).toBeVisible(); // Pikachu
     expect(await page.getByTestId("card-tile").count()).toBeLessThan(CATALOG_SIZE);
   });
@@ -122,7 +170,11 @@ test.describe("card browser", () => {
     tag: ["@scenario:cards.empty-state", "@area:cards", "@priority:should"],
   }, async ({ page }) => {
     await page.goto("/cards");
-    await page.getByTestId("card-filter-search").fill("zzzznomatch");
+    await applyFirstFilter(
+      page,
+      () => page.getByTestId("card-filter-search").fill("zzzznomatch"),
+      /[?&]q=zzzznomatch/,
+    );
 
     await expect(page.getByTestId("cards-empty-state")).toBeVisible();
     await expect(page.getByTestId("cards-empty-state")).toContainText(

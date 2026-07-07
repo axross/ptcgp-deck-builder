@@ -1,6 +1,8 @@
 import "server-only";
 import { z } from "zod";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
+import mythicalIslandA1a from "./data/mythical-island-a1a.json";
+import spaceTimeSmackdownA2 from "./data/space-time-smackdown-a2.json";
 import { type Card, cardSchema } from "./schema";
 import { getSet, type SetCode } from "./set-registry";
 
@@ -25,6 +27,8 @@ import { getSet, type SetCode } from "./set-registry";
  */
 const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "A1", data: geneticApexA1 },
+  { code: "A1a", data: mythicalIslandA1a },
+  { code: "A2", data: spaceTimeSmackdownA2 },
 ];
 
 type Catalog = {

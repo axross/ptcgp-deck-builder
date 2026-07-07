@@ -1,0 +1,4742 @@
+[
+  {
+    "id": "A1a-001",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 1,
+    "setSize": 86,
+    "name": {
+      "en": "Exeggcute",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Growth Spurt",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take a {G} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuka Morii",
+    "boosterPacks": null,
+    "flavorText": "Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-1-exeggcute"
+    }
+  },
+  {
+    "id": "A1a-002",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 2,
+    "setSize": 86,
+    "name": {
+      "en": "Exeggutor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Exeggcute",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-2-exeggutor"
+    }
+  },
+  {
+    "id": "A1a-003",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 3,
+    "setSize": 86,
+    "name": {
+      "en": "Celebi ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Powerful Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 500,
+      "dupeShinedust": 300
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-3-celebi-ex"
+    }
+  },
+  {
+    "id": "A1a-004",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 4,
+    "setSize": 86,
+    "name": {
+      "en": "Snivy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Vine Whip",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-4-snivy"
+    }
+  },
+  {
+    "id": "A1a-005",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 5,
+    "setSize": 86,
+    "name": {
+      "en": "Servine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Snivy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Vine Whip",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-5-servine"
+    }
+  },
+  {
+    "id": "A1a-006",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 6,
+    "setSize": 86,
+    "name": {
+      "en": "Serperior",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 110,
+      "stage": "Stage2",
+      "evolvesFrom": "Servine",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Jungle Totem",
+            "ja": null
+          },
+          "text": "Each {G} Energy attached to your {G} Pokémon provides 2 {G} Energy. This effect doesn't stack."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yoshioka",
+    "boosterPacks": null,
+    "flavorText": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-6-serperior"
+    }
+  },
+  {
+    "id": "A1a-007",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 7,
+    "setSize": 86,
+    "name": {
+      "en": "Morelull",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "Pokémon living in the forest eat the delicious caps on Morelull’s head. The caps regrow overnight.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-7-morelull"
+    }
+  },
+  {
+    "id": "A1a-008",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 8,
+    "setSize": 86,
+    "name": {
+      "en": "Shiinotic",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Morelull",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flickering Spores",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-8-shiinotic"
+    }
+  },
+  {
+    "id": "A1a-009",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 9,
+    "setSize": 86,
+    "name": {
+      "en": "Dhelmise",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energy Whip",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 3 extra {G} Energy attached, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hasuno",
+    "boosterPacks": null,
+    "flavorText": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-9-dhelmise"
+    }
+  },
+  {
+    "id": "A1a-010",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 10,
+    "setSize": 86,
+    "name": {
+      "en": "Ponyta",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stomp",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-10-ponyta"
+    }
+  },
+  {
+    "id": "A1a-011",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 11,
+    "setSize": 86,
+    "name": {
+      "en": "Rapidash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Ponyta",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rising Lunge",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-11-rapidash"
+    }
+  },
+  {
+    "id": "A1a-012",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 12,
+    "setSize": 86,
+    "name": {
+      "en": "Magmar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fire Blast",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Discard 2 {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-12-magmar"
+    }
+  },
+  {
+    "id": "A1a-013",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 13,
+    "setSize": 86,
+    "name": {
+      "en": "Larvesta",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-13-larvesta"
+    }
+  },
+  {
+    "id": "A1a-014",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 14,
+    "setSize": 86,
+    "name": {
+      "en": "Volcarona",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Larvesta",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Volcanic Ash",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard 2 {R} Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-14-volcarona"
+    }
+  },
+  {
+    "id": "A1a-015",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 15,
+    "setSize": 86,
+    "name": {
+      "en": "Salandit",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-15-salandit"
+    }
+  },
+  {
+    "id": "A1a-016",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 16,
+    "setSize": 86,
+    "name": {
+      "en": "Salazzle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Salandit",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poison Claws",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mitsuhiro Arita",
+    "boosterPacks": null,
+    "flavorText": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-16-salazzle"
+    }
+  },
+  {
+    "id": "A1a-017",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 17,
+    "setSize": 86,
+    "name": {
+      "en": "Magikarp",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 30,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leap Out",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mitsuhiro Arita",
+    "boosterPacks": null,
+    "flavorText": "An underpowered, pathetic Pokémon. It may jump high on rare occasions but never more than seven feet.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-17-magikarp"
+    }
+  },
+  {
+    "id": "A1a-018",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 18,
+    "setSize": 86,
+    "name": {
+      "en": "Gyarados ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Magikarp",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rampaging Whirlpool",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water", "Colorless"],
+          "damage": 140,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 500,
+      "dupeShinedust": 300
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-18-gyarados-ex"
+    }
+  },
+  {
+    "id": "A1a-019",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 19,
+    "setSize": 86,
+    "name": {
+      "en": "Vaporeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Wash Out",
+            "ja": null
+          },
+          "text": "As often as you like during your turn, you may move a {W} Energy from 1 of your Benched {W} Pokémon to your Active {W} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wave Splash",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "LINNE",
+    "boosterPacks": null,
+    "flavorText": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-19-vaporeon"
+    }
+  },
+  {
+    "id": "A1a-020",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 20,
+    "setSize": 86,
+    "name": {
+      "en": "Finneon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "The line running down its side can store sunlight. It shines vividly at night.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-20-finneon"
+    }
+  },
+  {
+    "id": "A1a-021",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 21,
+    "setSize": 86,
+    "name": {
+      "en": "Lumineon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Finneon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aqua Liner",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-21-lumineon"
+    }
+  },
+  {
+    "id": "A1a-022",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 22,
+    "setSize": 86,
+    "name": {
+      "en": "Chewtle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kayama",
+    "boosterPacks": null,
+    "flavorText": "Its large front tooth is still growing in. When the tooth itches, this Pokémon will bite another Chewtle’s horn, and the two Pokémon will tussle.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-22-chewtle"
+    }
+  },
+  {
+    "id": "A1a-023",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 23,
+    "setSize": 86,
+    "name": {
+      "en": "Drednaw",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Chewtle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crunch",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nisimono",
+    "boosterPacks": null,
+    "flavorText": "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-23-drednaw"
+    }
+  },
+  {
+    "id": "A1a-024",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 24,
+    "setSize": 86,
+    "name": {
+      "en": "Cramorant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dive",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Jerky",
+    "boosterPacks": null,
+    "flavorText": "It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-24-cramorant"
+    }
+  },
+  {
+    "id": "A1a-025",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 25,
+    "setSize": 86,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Circle Circuit",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": "×",
+          "text": "This attack does 10 damage for each of your Benched {L} Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-25-pikachu"
+    }
+  },
+  {
+    "id": "A1a-026",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 26,
+    "setSize": 86,
+    "name": {
+      "en": "Raichu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Pikachu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gigashock",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-26-raichu"
+    }
+  },
+  {
+    "id": "A1a-027",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 27,
+    "setSize": 86,
+    "name": {
+      "en": "Electabuzz",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder Spear",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-27-electabuzz"
+    }
+  },
+  {
+    "id": "A1a-028",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 28,
+    "setSize": 86,
+    "name": {
+      "en": "Joltik",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bug Bite",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MINAMINAMI Take",
+    "boosterPacks": null,
+    "flavorText": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-28-joltik"
+    }
+  },
+  {
+    "id": "A1a-029",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 29,
+    "setSize": 86,
+    "name": {
+      "en": "Galvantula",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Joltik",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electroweb",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mitsuhiro Arita",
+    "boosterPacks": null,
+    "flavorText": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-29-galvantula"
+    }
+  },
+  {
+    "id": "A1a-030",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 30,
+    "setSize": 86,
+    "name": {
+      "en": "Dedenne",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kayama",
+    "boosterPacks": null,
+    "flavorText": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-30-dedenne"
+    }
+  },
+  {
+    "id": "A1a-031",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 31,
+    "setSize": 86,
+    "name": {
+      "en": "Mew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psy Report",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Your opponent reveals their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-31-mew"
+    }
+  },
+  {
+    "id": "A1a-032",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 32,
+    "setSize": 86,
+    "name": {
+      "en": "Mew ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Genome Hacking",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 500,
+      "dupeShinedust": 300
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-32-mew-ex"
+    }
+  },
+  {
+    "id": "A1a-033",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 33,
+    "setSize": 86,
+    "name": {
+      "en": "Sigilyph",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spike Draw",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-33-sigilyph"
+    }
+  },
+  {
+    "id": "A1a-034",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 34,
+    "setSize": 86,
+    "name": {
+      "en": "Elgyem",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-34-elgyem"
+    }
+  },
+  {
+    "id": "A1a-035",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 35,
+    "setSize": 86,
+    "name": {
+      "en": "Beheeyem",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Elgyem",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mind Jack",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sowsow",
+    "boosterPacks": null,
+    "flavorText": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-35-beheeyem"
+    }
+  },
+  {
+    "id": "A1a-036",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 36,
+    "setSize": 86,
+    "name": {
+      "en": "Flabébé",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hypnotic Gaze",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-36-flabebe"
+    }
+  },
+  {
+    "id": "A1a-037",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 37,
+    "setSize": 86,
+    "name": {
+      "en": "Floette",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Stage1",
+      "evolvesFrom": "Flabébé",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leaf Drain",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-37-floette"
+    }
+  },
+  {
+    "id": "A1a-038",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 38,
+    "setSize": 86,
+    "name": {
+      "en": "Florges",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Stage2",
+      "evolvesFrom": "Floette",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bloomshine",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from each of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-38-florges"
+    }
+  },
+  {
+    "id": "A1a-039",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 39,
+    "setSize": 86,
+    "name": {
+      "en": "Swirlix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fairy Wind",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": "It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-39-swirlix"
+    }
+  },
+  {
+    "id": "A1a-040",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 40,
+    "setSize": 86,
+    "name": {
+      "en": "Slurpuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Swirlix",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Magical Shot",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-40-slurpuff"
+    }
+  },
+  {
+    "id": "A1a-041",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 41,
+    "setSize": 86,
+    "name": {
+      "en": "Mankey",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Focus Fist",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-41-mankey"
+    }
+  },
+  {
+    "id": "A1a-042",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 42,
+    "setSize": 86,
+    "name": {
+      "en": "Primeape",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Mankey",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kayama",
+    "boosterPacks": null,
+    "flavorText": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-42-primeape"
+    }
+  },
+  {
+    "id": "A1a-043",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 43,
+    "setSize": 86,
+    "name": {
+      "en": "Geodude",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Light Punch",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GOSSAN",
+    "boosterPacks": null,
+    "flavorText": "Geodude that have lived a long life have had all their edges smoothed out until they’re totally round. They also have a calm, quiet disposition.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-43-geodude"
+    }
+  },
+  {
+    "id": "A1a-044",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 44,
+    "setSize": 86,
+    "name": {
+      "en": "Graveler",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Geodude",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lunge Out",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ayaka Yoshida",
+    "boosterPacks": null,
+    "flavorText": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-44-graveler"
+    }
+  },
+  {
+    "id": "A1a-045",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 45,
+    "setSize": 86,
+    "name": {
+      "en": "Golem",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Graveler",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Guard Press",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-45-golem"
+    }
+  },
+  {
+    "id": "A1a-046",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 46,
+    "setSize": 86,
+    "name": {
+      "en": "Aerodactyl ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Old Amber",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Primeval Law",
+            "ja": null
+          },
+          "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 500,
+      "dupeShinedust": 300
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-46-aerodactyl-ex"
+    }
+  },
+  {
+    "id": "A1a-047",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 47,
+    "setSize": 86,
+    "name": {
+      "en": "Marshadow",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Revenge",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kantaro",
+    "boosterPacks": null,
+    "flavorText": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it’s imitating.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-47-marshadow"
+    }
+  },
+  {
+    "id": "A1a-048",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 48,
+    "setSize": 86,
+    "name": {
+      "en": "Stonjourner",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Kick",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": "The elemental composition of the rocks that form its body were found to match the bedrock of a land far away from this Pokémon’s habitat.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-48-stonjourner"
+    }
+  },
+  {
+    "id": "A1a-049",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 49,
+    "setSize": 86,
+    "name": {
+      "en": "Koffing",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Division",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put 1 random Koffing from your deck onto your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-49-koffing"
+    }
+  },
+  {
+    "id": "A1a-050",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 50,
+    "setSize": 86,
+    "name": {
+      "en": "Weezing",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Koffing",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Smokescreen",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mousho",
+    "boosterPacks": null,
+    "flavorText": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-50-weezing"
+    }
+  },
+  {
+    "id": "A1a-051",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 51,
+    "setSize": 86,
+    "name": {
+      "en": "Purrloin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scratch",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-51-purrloin"
+    }
+  },
+  {
+    "id": "A1a-052",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 52,
+    "setSize": 86,
+    "name": {
+      "en": "Liepard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Purrloin",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slash",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GIDORA",
+    "boosterPacks": null,
+    "flavorText": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-52-liepard"
+    }
+  },
+  {
+    "id": "A1a-053",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 53,
+    "setSize": 86,
+    "name": {
+      "en": "Venipede",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-53-venipede"
+    }
+  },
+  {
+    "id": "A1a-054",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 54,
+    "setSize": 86,
+    "name": {
+      "en": "Whirlipede",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Venipede",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poison Sting",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-54-whirlipede"
+    }
+  },
+  {
+    "id": "A1a-055",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 55,
+    "setSize": 86,
+    "name": {
+      "en": "Scolipede",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Whirlipede",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-55-scolipede"
+    }
+  },
+  {
+    "id": "A1a-056",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 56,
+    "setSize": 86,
+    "name": {
+      "en": "Druddigon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Rough Skin",
+            "ja": null
+          },
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fire", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.",
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-56-druddigon"
+    }
+  },
+  {
+    "id": "A1a-057",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 57,
+    "setSize": 86,
+    "name": {
+      "en": "Pidgey",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flap",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-57-pidgey"
+    }
+  },
+  {
+    "id": "A1a-058",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 58,
+    "setSize": 86,
+    "name": {
+      "en": "Pidgeotto",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Pidgey",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wing Attack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kayama",
+    "boosterPacks": null,
+    "flavorText": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-58-pidgeotto"
+    }
+  },
+  {
+    "id": "A1a-059",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 59,
+    "setSize": 86,
+    "name": {
+      "en": "Pidgeot ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Pidgeotto",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scattering Cyclone",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 500,
+      "dupeShinedust": 300
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-59-pidgeot-ex"
+    }
+  },
+  {
+    "id": "A1a-060",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 60,
+    "setSize": 86,
+    "name": {
+      "en": "Tauros",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fighting Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KEIICHIRO ITO",
+    "boosterPacks": null,
+    "flavorText": "When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",
+    "shop": {
+      "packPoints": 150,
+      "dupeShinedust": 100
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-60-tauros"
+    }
+  },
+  {
+    "id": "A1a-061",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 61,
+    "setSize": 86,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Continuous Steps",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-61-eevee"
+    }
+  },
+  {
+    "id": "A1a-062",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 62,
+    "setSize": 86,
+    "name": {
+      "en": "Chatot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mimic",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masako Tomii",
+    "boosterPacks": null,
+    "flavorText": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.",
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-62-chatot"
+    }
+  },
+  {
+    "id": "A1a-063",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 63,
+    "setSize": 86,
+    "name": {
+      "en": "Old Amber",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Play this card as if it were a 40-HP Basic {C} Pokémon.\nAt any time during your turn, you may discard this card from play.\nThis card can't retreat."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-63-old-amber"
+    }
+  },
+  {
+    "id": "A1a-064",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 64,
+    "setSize": 86,
+    "name": {
+      "en": "Pokémon Flute",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Put a Basic Pokémon from your opponent's discard pile onto their Bench."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-64-pokemon-flute"
+    }
+  },
+  {
+    "id": "A1a-065",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 65,
+    "setSize": 86,
+    "name": {
+      "en": "Mythical Slab",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Look at the top card of your deck. If that card is a {P} Pokémon, put it into your hand. If it is not a {P} Pokémon, put it on the bottom of your deck."
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-65-mythical-slab"
+    }
+  },
+  {
+    "id": "A1a-066",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 66,
+    "setSize": 86,
+    "name": {
+      "en": "Budding Expeditioner",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put your Mew ex in the Active Spot into your hand."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-66-budding-expeditioner"
+    }
+  },
+  {
+    "id": "A1a-067",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 67,
+    "setSize": 86,
+    "name": {
+      "en": "Blue",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-67-blue"
+    }
+  },
+  {
+    "id": "A1a-068",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 68,
+    "setSize": 86,
+    "name": {
+      "en": "Leaf",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, the Retreat Cost of your Active Pokémon is 2 less."
+    },
+    "illustrator": "En Morikura",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 70,
+      "dupeShinedust": 20
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-68-leaf"
+    }
+  },
+  {
+    "id": "A1a-069",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 69,
+    "setSize": 86,
+    "name": {
+      "en": "Exeggutor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Exeggcute",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Gapao",
+    "boosterPacks": null,
+    "flavorText": "Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-69-exeggutor"
+    }
+  },
+  {
+    "id": "A1a-070",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 70,
+    "setSize": 86,
+    "name": {
+      "en": "Serperior",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 110,
+      "stage": "Stage2",
+      "evolvesFrom": "Servine",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Jungle Totem",
+            "ja": null
+          },
+          "text": "Each {G} Energy attached to your {G} Pokémon provides 2 {G} Energy. This effect doesn't stack."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "rika",
+    "boosterPacks": null,
+    "flavorText": "It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-70-serperior"
+    }
+  },
+  {
+    "id": "A1a-071",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 71,
+    "setSize": 86,
+    "name": {
+      "en": "Salandit",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-71-salandit"
+    }
+  },
+  {
+    "id": "A1a-072",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 72,
+    "setSize": 86,
+    "name": {
+      "en": "Vaporeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Wash Out",
+            "ja": null
+          },
+          "text": "As often as you like during your turn, you may move a {W} Energy from 1 of your Benched {W} Pokémon to your Active {W} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wave Splash",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "aspara",
+    "boosterPacks": null,
+    "flavorText": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-72-vaporeon"
+    }
+  },
+  {
+    "id": "A1a-073",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 73,
+    "setSize": 86,
+    "name": {
+      "en": "Dedenne",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "It’s small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people’s homes and charge itself.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-73-dedenne"
+    }
+  },
+  {
+    "id": "A1a-074",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 74,
+    "setSize": 86,
+    "name": {
+      "en": "Marshadow",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Revenge",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it’s imitating.",
+    "shop": {
+      "packPoints": 400,
+      "dupeShinedust": 210
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-74-marshadow"
+    }
+  },
+  {
+    "id": "A1a-075",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 75,
+    "setSize": 86,
+    "name": {
+      "en": "Celebi ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Powerful Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-75-celebi-ex"
+    }
+  },
+  {
+    "id": "A1a-076",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 76,
+    "setSize": 86,
+    "name": {
+      "en": "Gyarados ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Magikarp",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rampaging Whirlpool",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water", "Colorless"],
+          "damage": 140,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-76-gyarados-ex"
+    }
+  },
+  {
+    "id": "A1a-077",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 77,
+    "setSize": 86,
+    "name": {
+      "en": "Mew ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Genome Hacking",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-77-mew-ex"
+    }
+  },
+  {
+    "id": "A1a-078",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 78,
+    "setSize": 86,
+    "name": {
+      "en": "Aerodactyl ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Old Amber",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Primeval Law",
+            "ja": null
+          },
+          "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-78-aerodactyl-ex"
+    }
+  },
+  {
+    "id": "A1a-079",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 79,
+    "setSize": 86,
+    "name": {
+      "en": "Pidgeot ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Pidgeotto",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scattering Cyclone",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-79-pidgeot-ex"
+    }
+  },
+  {
+    "id": "A1a-080",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 80,
+    "setSize": 86,
+    "name": {
+      "en": "Budding Expeditioner",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put your Mew ex in the Active Spot into your hand."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-80-budding-expeditioner"
+    }
+  },
+  {
+    "id": "A1a-081",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 81,
+    "setSize": 86,
+    "name": {
+      "en": "Blue",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-81-blue"
+    }
+  },
+  {
+    "id": "A1a-082",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 82,
+    "setSize": 86,
+    "name": {
+      "en": "Leaf",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, the Retreat Cost of your Active Pokémon is 2 less."
+    },
+    "illustrator": "En Morikura",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-82-leaf"
+    }
+  },
+  {
+    "id": "A1a-083",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 83,
+    "setSize": 86,
+    "name": {
+      "en": "Mew ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Genome Hacking",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-83-mew-ex"
+    }
+  },
+  {
+    "id": "A1a-084",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 84,
+    "setSize": 86,
+    "name": {
+      "en": "Aerodactyl ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Old Amber",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Primeval Law",
+            "ja": null
+          },
+          "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "danciao",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1250,
+      "dupeShinedust": 870
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-84-aerodactyl-ex"
+    }
+  },
+  {
+    "id": "A1a-085",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 85,
+    "setSize": 86,
+    "name": {
+      "en": "Celebi ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Powerful Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kantaro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 1500,
+      "dupeShinedust": 1760
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-85-celebi-ex"
+    }
+  },
+  {
+    "id": "A1a-086",
+    "set": {
+      "code": "A1a",
+      "name": "Mythical Island",
+      "nameJa": "幻のいる島"
+    },
+    "number": 86,
+    "setSize": 86,
+    "name": {
+      "en": "Mew ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Genome Hacking",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": 2500,
+      "dupeShinedust": 3600
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a1a-86-mew-ex"
+    }
+  }
+]
