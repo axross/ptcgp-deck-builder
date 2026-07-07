@@ -10,12 +10,14 @@ type CardTileProps = {
 
 /**
  * Renders one catalog card as a grid tile: artwork (or a data-driven fallback)
- * plus name, rarity, and a type/kind badge. A server component — only the image
- * swap-on-error is client (see {@link CardImage}).
+ * plus name, rarity, and a type/kind badge. A `role="listitem"` div rather
+ * than an `li` because the virtualized grid positions rows absolutely, which
+ * precludes a plain `ul`/`li` structure.
  */
 export function CardTile({ card, priority }: CardTileProps) {
   return (
-    <li className={styles.tile} data-testid="card-tile" data-card-id={card.id}>
+    // biome-ignore lint/a11y/useSemanticElements: the virtualized grid's list role lives on a div (its rows preclude `ul`/`li`), so the item role does too.
+    <div role="listitem" className={styles.tile} data-testid="card-tile" data-card-id={card.id}>
       <CardImage
         src={card.imageUrl}
         alt={card.name}
@@ -40,6 +42,6 @@ export function CardTile({ card, priority }: CardTileProps) {
           </span>
         </span>
       </div>
-    </li>
+    </div>
   );
 }
