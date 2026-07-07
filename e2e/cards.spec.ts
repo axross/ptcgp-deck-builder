@@ -6,7 +6,8 @@ import { expect, type Page, test } from "@playwright/test";
 const A1_SIZE = 286;
 const A1A_SIZE = 86;
 const A2_SIZE = 207;
-const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE;
+const A2A_SIZE = 96;
+const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE + A2A_SIZE;
 
 // Identify a specific card by its stable data hook rather than matching on the
 // rendered name (per e2e-testing-guidelines: text locators are for copy

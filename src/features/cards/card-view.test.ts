@@ -65,6 +65,7 @@ describe("deriveSetOptions()", () => {
       { code: "A1", label: "Genetic Apex (A1)" },
       { code: "A1a", label: "Mythical Island (A1a)" },
       { code: "A2", label: "Space-Time Smackdown (A2)" },
+      { code: "A2a", label: "Triumphant Light (A2a)" },
     ]);
   });
 
