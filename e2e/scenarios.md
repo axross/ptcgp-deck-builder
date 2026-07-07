@@ -11,7 +11,7 @@ hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
 | Id | Title | Area | Priority |
 | -- | ----- | ---- | -------- |
 | home.landing | Visitor opens the app and sees the deck builder landing page | home | must |
-| cards.browse | Visitor browses the full Genetic Apex card catalog as a grid | cards | must |
+| cards.browse | Visitor browses the full multi-set card catalog as a grid | cards | must |
 | cards.filter | Visitor filters the catalog and the filtered view is URL-shareable | cards | must |
 | cards.filter.set | Visitor filters the catalog by expansion set and the selection is URL-shareable | cards | should |
 | cards.search | Visitor searches the catalog by card name | cards | should |

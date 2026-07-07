@@ -9,10 +9,11 @@
 // (one card object per line). Exits 0 when every card is valid, 1 otherwise.
 import { readFileSync } from "node:fs";
 import process from "node:process";
+import { pathToFileURL } from "node:url";
 import { validateCards } from "./set-ingestion.mjs";
 
 /** Parses the input as a JSON array of cards, or as JSONL (one card per line). */
-function parseCards(text, file) {
+export function parseCards(text, file) {
   const trimmed = text.trim();
   if (trimmed.startsWith("[")) {
     return JSON.parse(trimmed);
@@ -54,4 +55,8 @@ function main() {
   process.exit(1);
 }
 
-main();
+// Only run when invoked as the CLI; importing the module (e.g. from the unit
+// test that exercises parseCards) must not read argv or exit.
+if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) {
+  main();
+}
