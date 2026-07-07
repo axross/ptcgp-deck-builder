@@ -1,7 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { chunkIntoRows, countTemplateColumns } from "./virtualized-grid-layout";
 
-describe("countTemplateColumns", () => {
+describe("countTemplateColumns()", () => {
   it("counts the tracks in a resolved pixel track list", () => {
     expect(countTemplateColumns("168px 168px 168px")).toBe(3);
   });
@@ -23,7 +23,7 @@ describe("countTemplateColumns", () => {
   });
 });
 
-describe("chunkIntoRows", () => {
+describe("chunkIntoRows()", () => {
   it("chunks items into full rows with a shorter final row", () => {
     expect(chunkIntoRows([1, 2, 3, 4, 5], 2)).toEqual([[1, 2], [3, 4], [5]]);
   });

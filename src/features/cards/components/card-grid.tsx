@@ -29,6 +29,7 @@ export function CardGrid({ cards }: CardGridProps) {
     <VirtualizedGrid
       items={cards}
       getItemKey={(card) => card.id}
+      className={styles.grid}
       rowClassName={styles.row}
       estimatedRowHeight={ESTIMATED_ROW_HEIGHT}
       data-testid="card-grid"

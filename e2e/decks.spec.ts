@@ -17,6 +17,13 @@ const BASIC_IDS = [
 
 const STORAGE_KEY = "ptcgp-deck-builder:decks";
 
+// The picker grid is virtualized: the mounted tile count tracks the viewport
+// (rows in view plus a small overscan; measured ~30–50 at this viewport),
+// never the 675-card catalog. This cap mirrors MAX_MOUNTED_TILES in
+// cards.spec.ts — far above any real window, far below the catalog — so it
+// fails loudly if virtualization regresses to render-everything.
+const MAX_MOUNTED_TILES = 120;
+
 function tileAdd(page: Page, id: string) {
   return page
     .locator(`[data-testid="deck-picker-tile"][data-card-id="${id}"]`)
@@ -91,12 +98,9 @@ test.describe("deck editor", () => {
     await test.step("The picker mounts a viewport-bounded window, not the whole catalog", async () => {
       await expectPickerReady(page);
 
-      // The picker grid is virtualized: the mounted tile count tracks the
-      // viewport plus a small overscan (measured ~30–50 at this viewport),
-      // never the 675-card catalog.
       const mounted = await page.getByTestId("deck-picker-tile").count();
       expect(mounted).toBeGreaterThan(0);
-      expect(mounted).toBeLessThan(120);
+      expect(mounted).toBeLessThan(MAX_MOUNTED_TILES);
     });
 
     await test.step("Add cards until the deck reaches 20", async () => {

@@ -39,6 +39,13 @@
   color: var(--color-text-muted);
 }
 
+/* The grid container: the final row's padding-bottom (the stand-in row gap,
+ * see .row) would trail the grid, so pull it back out to keep the picker's
+ * outer spacing identical to the old row-gap layout. */
+.grid {
+  margin-bottom: calc(-1 * var(--space-3));
+}
+
 /* One virtualized row of the picker grid: the column template plus a bottom
  * padding standing in for the row gap (rows are absolutely positioned by
  * measured height, so a grid row-gap cannot space them). */

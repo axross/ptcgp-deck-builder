@@ -44,6 +44,12 @@ type VirtualizedGridProps<Item> = {
   estimatedRowHeight: number;
   /** Items mounted before the first client measurement; also the SSR window. */
   initialItemCount?: number;
+  /**
+   * Appended to the container's own class so consumers can extend spacing —
+   * e.g. pulling back the final row's `padding-bottom` (which stands in for
+   * the row gap and so trails the last row) to keep outer spacing unchanged.
+   */
+  className?: string;
   "data-testid"?: string;
 };
 
@@ -54,8 +60,10 @@ export function VirtualizedGrid<Item>({
   rowClassName,
   estimatedRowHeight,
   initialItemCount = DEFAULT_INITIAL_ITEM_COUNT,
+  className,
   "data-testid": testId,
 }: VirtualizedGridProps<Item>) {
+  const containerClassName = className ? `${styles.container} ${className}` : styles.container;
   const containerRef = useRef<HTMLDivElement | null>(null);
   // `null` until the rendered grid is measured; the pre-measurement phase
   // renders a plain grid so SSR and the first client paint need no math.
@@ -104,7 +112,7 @@ export function VirtualizedGrid<Item>({
         data-testid={testId}
         data-virtualized="false"
         ref={containerRef}
-        className={styles.container}
+        className={containerClassName}
       >
         <div className={rowClassName}>
           {items.slice(0, initialItemCount).map((item, index) => (
@@ -124,7 +132,7 @@ export function VirtualizedGrid<Item>({
       // which makes it a deterministic "page is interactive" signal for e2e.
       data-virtualized="true"
       ref={containerRef}
-      className={styles.container}
+      className={containerClassName}
       style={{ height: virtualizer.getTotalSize() }}
     >
       {virtualizer.getVirtualItems().map((virtualRow) => (
