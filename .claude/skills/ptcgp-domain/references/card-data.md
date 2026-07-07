@@ -30,6 +30,13 @@ schema; this document explains the fields and the source's quirks.
 - Some fields are intentionally present but empty in this set (`null`/`false`);
   they are **reserved for extensibility** so the same schema serves later
   expansions (see the last section).
+- **B1 (Mega Rising)** is the first seeded B-series set. It debuts the `MegaEx`
+  rule box (18 cards; KO worth 3 points battle-side — no deck-rule change) and
+  the Shiny `S`/`SSR` rarity tiers. A Mega evolves from its real prior stage
+  (`Combusken` → Mega Blaziken ex), and some Megas are Basics (Mega Pinsir ex).
+  It carries **no** `Stadium` trainers (that subtype debuts in B2) and no
+  `Ancient`/`Future` classification (B3a). dotgg tags B1 card slugs with a `b11`
+  prefix (e.g. `b11-36-mega-blaziken-ex`), recorded verbatim in `source.slug`.
 
 ## Schema
 
@@ -107,10 +114,17 @@ schema; this document explains the fields and the source's quirks.
 | `AR`  | ☆      | Art Rare         | 24    |
 | `SR`  | ☆☆     | Super Rare       | 23    |
 | `SAR` | ☆☆     | Special Art Rare | 6     |
+| `S`   | ✸      | Shiny            | 0     |
+| `SSR` | ✸✸     | Shiny Super Rare | 0     |
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-(Shiny tiers `✸` / `✸✸` do not appear until Shining Revelry / A2b. Their exact `code` strings are defined by that dataset; extend the rarity `code` enum in `schema.ts` when validation rejects them during the fetch — see the ingestion pipeline below.)
+The Shiny tiers `✸` (`S`) / `✸✸` (`SSR`) are absent from A1 but enter the seeded
+data with **B1 (Mega Rising)** — 30 `Shiny` + 12 `Shiny Super Rare`. (Shiny
+debuts earlier in Shining Revelry / A2b, but dotgg has not backfilled rarity for
+the A2b–A3b or B1a–B3b sets, so B1 is the first seeded set that carries the tier;
+their `code` strings were added to the `code` enum in `schema.ts` when the B1
+fetch surfaced them — see the ingestion pipeline below.)
 
 **`stage`:** Basic, Stage1, Stage2 · **`ruleBox`:** None, ex · **`trainer.subtype`:** Supporter, Item.
 
@@ -165,4 +179,4 @@ Seeding a set is an automated fetch + validate step, not a hand-assembled list. 
 
 Game text carries light HTML (`<br>` → newline; `<strong>` / `<span class="reminder-text">` stripped, inner text kept). `boosterPacks` is not exposed by dotgg (kept null). `pokemon.isBaby` and `pokemon.classification` are not yet sourced from dotgg — revisit their mapping when seeding A4+ (Baby) and A3a+ (UltraBeast) / B3a+ (Ancient/Future).
 
-**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above). An unmapped label is passed through as its own `code`, so `cardSchema` rejects it and names the card. dotgg exposes the A2b Shiny tiers as the labels **`"Shiny"`** (`✸`) and **`"Shiny Super Rare"`** (`✸✸`); add these to `RARITY_BY_LABEL` in `fetch-set-data.mjs` and to the `code` enum in `schema.ts` when seeding A2b (see the ingestion pipeline's Shiny step).
+**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Shiny`→S, `Shiny Super Rare`→SSR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above). An unmapped label is passed through as its own `code`, so `cardSchema` rejects it and names the card. dotgg exposes the Shiny tiers as the labels **`"Shiny"`** (`✸`) and **`"Shiny Super Rare"`** (`✸✸`); these were added to `RARITY_BY_LABEL` in `fetch-set-data.mjs` and to the `code` enum in `schema.ts` when seeding **B1** (the first seeded set carrying them — dotgg leaves rarity null for the unseeded A2b–A3b).

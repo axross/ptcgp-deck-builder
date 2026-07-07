@@ -1,6 +1,7 @@
 import "server-only";
 import { z } from "zod";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
+import megaRisingB1 from "./data/mega-rising-b1.json";
 import mythicalIslandA1a from "./data/mythical-island-a1a.json";
 import spaceTimeSmackdownA2 from "./data/space-time-smackdown-a2.json";
 import triumphantLightA2a from "./data/triumphant-light-a2a.json";
@@ -31,6 +32,7 @@ const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "A1a", data: mythicalIslandA1a },
   { code: "A2", data: spaceTimeSmackdownA2 },
   { code: "A2a", data: triumphantLightA2a },
+  { code: "B1", data: megaRisingB1 },
 ];
 
 type Catalog = {

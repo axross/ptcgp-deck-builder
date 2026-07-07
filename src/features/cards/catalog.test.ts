@@ -53,6 +53,38 @@ describe("getAllCards()", () => {
     expect(dratini?.category).toBe("Pokemon");
     expect(dratini?.pokemon?.weakness).toBeNull();
   });
+
+  it("decodes a B1 MegaEx card with its evolves-from chain", () => {
+    // Mega Rising (B1) debuts the MegaEx rule box. A Mega evolves from its real
+    // prior stage — Combusken → Mega Blaziken ex — skipping the plain Stage 2.
+    expect(getCard("B1-036")).toMatchObject({
+      name: { en: "Mega Blaziken ex" },
+      category: "Pokemon",
+      pokemon: {
+        ruleBox: "MegaEx",
+        stage: "Stage2",
+        evolvesFrom: "Combusken",
+      },
+    });
+  });
+
+  it("decodes a Basic MegaEx card, which has no evolves-from stage", () => {
+    // Some Megas are Basics (no lower stage), e.g. Mega Pinsir ex.
+    expect(getCard("B1-002")).toMatchObject({
+      name: { en: "Mega Pinsir ex" },
+      pokemon: { ruleBox: "MegaEx", stage: "Basic", evolvesFrom: null },
+    });
+  });
+
+  it("decodes the B1 Shiny rarity tiers introduced by Mega Rising", () => {
+    // B1 is the first seeded set to carry the Shiny (✸) / Shiny Super Rare (✸✸)
+    // tiers, added to the rarity enum when the fetch surfaced them.
+    expect(getCard("B1-287")?.rarity).toMatchObject({ code: "S", label: "Shiny" });
+    expect(getCard("B1-317")?.rarity).toMatchObject({
+      code: "SSR",
+      label: "Shiny Super Rare",
+    });
+  });
 });
 
 describe("getCard()", () => {

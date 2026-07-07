@@ -128,6 +128,26 @@ describe("normalizeDotggCard()", () => {
     expect(card.shop).toEqual({ packPoints: 1250, dupeShinedust: 870 });
   });
 
+  it("derives the MegaEx rule box from a 'Mega …' name and keeps its evolves-from stage", () => {
+    // B1 (Mega Rising) debuts the MegaEx rule box; a Mega evolves from its real
+    // prior stage (Combusken → Mega Blaziken ex), skipping the plain Stage 2.
+    const megaBlaziken = {
+      ...bulbasaurRaw,
+      name: "Mega Blaziken ex",
+      slug: "b11-36-mega-blaziken-ex",
+      color: "Fire",
+      rarity: "Double Rare",
+      stage: "Stage 2",
+      prew_stage_name: "Combusken",
+      rule: "When your Pokémon ex is Knocked Out, your opponent gets 3 points.",
+    };
+    const card = normalizeDotggCard(megaBlaziken, "B1");
+
+    expect(card.pokemon.ruleBox).toBe("MegaEx");
+    expect(card.pokemon.stage).toBe("Stage2");
+    expect(card.pokemon.evolvesFrom).toBe("Combusken");
+  });
+
   it("treats a Dragon's 'none'/'UNSPECIFIED' weakness as 'none'", () => {
     const dragon = { ...bulbasaurRaw, color: "Dragon", weakness: "UNSPECIFIED" };
 
@@ -199,13 +219,29 @@ describe("normalizeDotggCard()", () => {
     expect(normalizeDotggCard(tool, "A2").trainer.subtype).toBe("PokemonTool");
   });
 
-  it("passes an unknown rarity through as its own code so the schema rejects it", () => {
+  it("maps the B1 Shiny tiers to their { symbol, code, label } tuples", () => {
     const shiny = { ...bulbasaurRaw, rarity: "Shiny" };
+    const shinySuper = { ...bulbasaurRaw, rarity: "Shiny Super Rare" };
 
-    expect(normalizeDotggCard(shiny, "A1").rarity).toEqual({
-      symbol: "Shiny",
-      code: "Shiny",
+    expect(normalizeDotggCard(shiny, "B1").rarity).toEqual({
+      symbol: "✸",
+      code: "S",
       label: "Shiny",
+    });
+    expect(normalizeDotggCard(shinySuper, "B1").rarity).toEqual({
+      symbol: "✸✸",
+      code: "SSR",
+      label: "Shiny Super Rare",
+    });
+  });
+
+  it("passes an unknown rarity through as its own code so the schema rejects it", () => {
+    const mystery = { ...bulbasaurRaw, rarity: "Ultra Secret Rare" };
+
+    expect(normalizeDotggCard(mystery, "A1").rarity).toEqual({
+      symbol: "Ultra Secret Rare",
+      code: "Ultra Secret Rare",
+      label: "Ultra Secret Rare",
     });
   });
 

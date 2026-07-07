@@ -46,6 +46,9 @@ describe("deriveRarityOptions()", () => {
       { code: "AR", label: "Art Rare" },
       { code: "SR", label: "Super Rare" },
       { code: "SAR", label: "Special Art Rare" },
+      // The Shiny tiers enter the catalog with B1 (Mega Rising).
+      { code: "S", label: "Shiny" },
+      { code: "SSR", label: "Shiny Super Rare" },
       { code: "IR", label: "Immersive Rare" },
       { code: "CR", label: "Crown Rare" },
     ]);
@@ -66,6 +69,7 @@ describe("deriveSetOptions()", () => {
       { code: "A1a", label: "Mythical Island (A1a)" },
       { code: "A2", label: "Space-Time Smackdown (A2)" },
       { code: "A2a", label: "Triumphant Light (A2a)" },
+      { code: "B1", label: "Mega Rising (B1)" },
     ]);
   });
 

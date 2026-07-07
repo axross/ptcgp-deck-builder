@@ -1,18 +1,19 @@
 import { expect, type Page, test } from "@playwright/test";
 
-// The full catalog size — the sum of the seeded sets (A1 + A1a + A2 + A2a) —
-// asserted here via the result count (the grid itself is virtualized and never
-// mounts the whole catalog) and checked against the catalog's own count
+// The full catalog size — the sum of the seeded sets (A1 + A1a + A2 + A2a +
+// B1) — asserted here via the result count (the grid itself is virtualized and
+// never mounts the whole catalog) and checked against the catalog's own count
 // assertions in the unit tests. Per-set sizes drive the cross-set filter test.
 const A1_SIZE = 286;
 const A1A_SIZE = 86;
 const A2_SIZE = 207;
 const A2A_SIZE = 96;
-const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE + A2A_SIZE;
+const B1_SIZE = 331;
+const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE + A2A_SIZE + B1_SIZE;
 
 // The last card of the last seeded set in catalog order; scrolling to the end
 // of the grid must reach it even though the grid is windowed.
-const LAST_CARD_ID = "A2a-096";
+const LAST_CARD_ID = "B1-331";
 
 // The grid is virtualized: the mounted tile count tracks the viewport (rows in
 // view plus a small overscan), never the catalog. This cap is far above any
@@ -151,6 +152,15 @@ test.describe("card browser", () => {
       await expect(page.getByTestId("card-result-count")).toHaveText(`${A2_SIZE} cards`);
       await expect(cardTile(page, "A2-001")).toBeVisible();
       await expect(cardTile(page, "A1-001")).toHaveCount(0);
+    });
+
+    await test.step("Selecting the B-series set B1 narrows the grid to just Mega Rising", async () => {
+      await page.getByTestId("card-filter-set").selectOption("B1");
+
+      await expect(page).toHaveURL(/[?&]set=B1/);
+      await expect(page.getByTestId("card-result-count")).toHaveText(`${B1_SIZE} cards`);
+      await expect(cardTile(page, "B1-002")).toBeVisible(); // Mega Pinsir ex (MegaEx), in the first window
+      await expect(cardTile(page, "A2-001")).toHaveCount(0);
     });
 
     await test.step("Set combines with another filter", async () => {

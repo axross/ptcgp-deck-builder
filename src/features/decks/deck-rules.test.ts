@@ -145,4 +145,76 @@ describe("validateDeck()", () => {
 
     expect(validateDeck(deck, getCard)).toEqual([]);
   });
+
+  it("accepts a legal deck mixing A-series and B-series cards", () => {
+    // A deck spanning A1 (Genetic Apex) and B1 (Mega Rising) — including a Basic
+    // MegaEx (Mega Pinsir ex) — validates under the unchanged construction rules.
+    const deck: Deck = {
+      id: "deck-mixed",
+      name: "A1 + B1",
+      cards: [
+        "A1-033",
+        "A1-033", // Charmander (Basic)
+        "A1-034",
+        "A1-034", // Charmeleon
+        "A1-035",
+        "A1-035", // Charizard
+        "A1-046",
+        "A1-046", // Moltres (Basic)
+        "B1-001",
+        "B1-001", // Pinsir (Basic)
+        "B1-002",
+        "B1-002", // Mega Pinsir ex (Basic MegaEx)
+        "B1-028",
+        "B1-028", // Growlithe (Basic)
+        "B1-029",
+        "B1-029", // Arcanine
+        "B1-030",
+        "B1-030", // Ponyta (Basic)
+        "B1-044",
+        "B1-044", // Heatmor (Basic)
+      ],
+      energyTypes: ["Fire", "Grass"],
+    };
+
+    expect(validateDeck(deck, getCard)).toEqual([]);
+  });
+
+  it("counts the copy limit by name across series reprints", () => {
+    // "Pinsir" is printed in both A1 (A1-026) and B1 (B1-001). Three of them —
+    // two A1 copies plus one B1 copy — exceed the 2-per-name limit even though
+    // the ids differ across series; the rest of the deck is otherwise legal, so
+    // the cross-series copy limit is the only violation.
+    const deck: Deck = {
+      id: "deck-reprint",
+      name: "Pinsir overload",
+      cards: [
+        "A1-026",
+        "A1-026",
+        "B1-001", // 3× "Pinsir" across A1 and B1
+        "A1-033",
+        "A1-034",
+        "A1-035",
+        "A1-039",
+        "A1-040",
+        "A1-042",
+        "A1-043",
+        "A1-044",
+        "A1-046",
+        "A1-001",
+        "A1-002",
+        "A1-003",
+        "A1-005",
+        "A1-006",
+        "A1-007",
+        "A1-009",
+        "A1-010",
+      ],
+      energyTypes: ["Fire"],
+    };
+
+    expect(validateDeck(deck, getCard)).toEqual([
+      expect.objectContaining({ rule: "copy-limit", cardName: "Pinsir", copies: 3 }),
+    ]);
+  });
 });

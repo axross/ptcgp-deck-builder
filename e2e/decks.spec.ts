@@ -19,14 +19,14 @@ const STORAGE_KEY = "ptcgp-deck-builder:decks";
 
 // The picker grid is virtualized: the mounted tile count tracks the viewport
 // (rows in view plus a small overscan; measured ~30–50 at this viewport),
-// never the 675-card catalog. This cap mirrors MAX_MOUNTED_TILES in
+// never the 1006-card catalog. This cap mirrors MAX_MOUNTED_TILES in
 // cards.spec.ts — far above any real window, far below the catalog — so it
 // fails loudly if virtualization regresses to render-everything.
 const MAX_MOUNTED_TILES = 120;
 
 // The last card of the last seeded set in catalog order (mirrors cards.spec.ts);
 // scrolling to the end of the picker must reach it even though it is windowed.
-const LAST_CARD_ID = "A2a-096";
+const LAST_CARD_ID = "B1-331";
 
 function tileAdd(page: Page, id: string) {
   return page

@@ -27,8 +27,9 @@ export type EnergyType = z.infer<typeof energyTypeSchema>;
 
 export const raritySchema = z.object({
   symbol: z.string(),
-  // Extend when a set introduces new tiers (e.g. the Shiny tiers from A2b on).
-  code: z.enum(["C", "U", "R", "RR", "AR", "SR", "SAR", "IR", "CR"]),
+  // Extend when a set introduces new tiers. The Shiny tiers (S/SSR) arrive with
+  // B1 (Mega Rising) — dotgg skipped exposing them for the unseeded A2b/A3b.
+  code: z.enum(["C", "U", "R", "RR", "AR", "SR", "SAR", "S", "SSR", "IR", "CR"]),
   label: z.string(),
 });
 
