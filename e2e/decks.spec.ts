@@ -24,6 +24,10 @@ const STORAGE_KEY = "ptcgp-deck-builder:decks";
 // fails loudly if virtualization regresses to render-everything.
 const MAX_MOUNTED_TILES = 120;
 
+// The last card of the last seeded set in catalog order (mirrors cards.spec.ts);
+// scrolling to the end of the picker must reach it even though it is windowed.
+const LAST_CARD_ID = "A2a-096";
+
 function tileAdd(page: Page, id: string) {
   return page
     .locator(`[data-testid="deck-picker-tile"][data-card-id="${id}"]`)
@@ -101,6 +105,17 @@ test.describe("deck editor", () => {
       const mounted = await page.getByTestId("deck-picker-tile").count();
       expect(mounted).toBeGreaterThan(0);
       expect(mounted).toBeLessThan(MAX_MOUNTED_TILES);
+    });
+
+    await test.step("Scrolling to the end of the picker reaches the catalog's last card", async () => {
+      await page.keyboard.press("End");
+      await expect(
+        page.locator(`[data-testid="deck-picker-tile"][data-card-id="${LAST_CARD_ID}"]`),
+      ).toBeVisible();
+
+      // Return to the top so the add steps below interact with the picker's
+      // first rows again (the windowed grid unmounts far-away tiles).
+      await page.keyboard.press("Home");
     });
 
     await test.step("Add cards until the deck reaches 20", async () => {
