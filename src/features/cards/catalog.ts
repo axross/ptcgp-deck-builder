@@ -4,6 +4,7 @@ import celestialGuardiansA3 from "./data/celestial-guardians-a3.json";
 import eeveeGroveA3b from "./data/eevee-grove-a3b.json";
 import extradimensionalCrisisA3a from "./data/extradimensional-crisis-a3a.json";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
+import megaRisingB1 from "./data/mega-rising-b1.json";
 import mythicalIslandA1a from "./data/mythical-island-a1a.json";
 import secludedSpringsA4a from "./data/secluded-springs-a4a.json";
 import shiningRevelryA2b from "./data/shining-revelry-a2b.json";
@@ -43,6 +44,7 @@ const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "A3b", data: eeveeGroveA3b },
   { code: "A4", data: wisdomOfSeaAndSkyA4 },
   { code: "A4a", data: secludedSpringsA4a },
+  { code: "B1", data: megaRisingB1 },
 ];
 
 type Catalog = {

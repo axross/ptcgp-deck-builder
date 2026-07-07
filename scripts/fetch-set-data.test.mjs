@@ -128,6 +128,26 @@ describe("normalizeDotggCard()", () => {
     expect(card.shop).toEqual({ packPoints: 1250, dupeShinedust: 870 });
   });
 
+  it("derives the MegaEx rule box from a 'Mega …' name and keeps its evolves-from stage", () => {
+    // B1 (Mega Rising) debuts the MegaEx rule box; a Mega evolves from its real
+    // prior stage (Combusken → Mega Blaziken ex), skipping the plain Stage 2.
+    const megaBlaziken = {
+      ...bulbasaurRaw,
+      name: "Mega Blaziken ex",
+      slug: "b11-36-mega-blaziken-ex",
+      color: "Fire",
+      rarity: "Double Rare",
+      stage: "Stage 2",
+      prew_stage_name: "Combusken",
+      rule: "When your Pokémon ex is Knocked Out, your opponent gets 3 points.",
+    };
+    const card = normalizeDotggCard(megaBlaziken, "B1");
+
+    expect(card.pokemon.ruleBox).toBe("MegaEx");
+    expect(card.pokemon.stage).toBe("Stage2");
+    expect(card.pokemon.evolvesFrom).toBe("Combusken");
+  });
+
   it("treats a Dragon's 'none'/'UNSPECIFIED' weakness as 'none'", () => {
     const dragon = { ...bulbasaurRaw, color: "Dragon", weakness: "UNSPECIFIED" };
 

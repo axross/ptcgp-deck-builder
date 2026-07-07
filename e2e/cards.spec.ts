@@ -14,6 +14,7 @@ const A3A_SIZE = 103;
 const A3B_SIZE = 107;
 const A4_SIZE = 241;
 const A4A_SIZE = 105;
+const B1_SIZE = 331;
 const CATALOG_SIZE =
   A1_SIZE +
   A1A_SIZE +
@@ -24,11 +25,12 @@ const CATALOG_SIZE =
   A3A_SIZE +
   A3B_SIZE +
   A4_SIZE +
-  A4A_SIZE;
+  A4A_SIZE +
+  B1_SIZE;
 
 // The last card of the last seeded set in catalog order; scrolling to the end
 // of the grid must reach it even though the grid is windowed.
-const LAST_CARD_ID = "A4a-105";
+const LAST_CARD_ID = "B1-331";
 
 // The grid is virtualized: the mounted tile count tracks the viewport (rows in
 // view plus a small overscan), never the catalog. This cap is far above any
@@ -167,6 +169,15 @@ test.describe("card browser", () => {
       await expect(page.getByTestId("card-result-count")).toHaveText(`${A2_SIZE} cards`);
       await expect(cardTile(page, "A2-001")).toBeVisible();
       await expect(cardTile(page, "A1-001")).toHaveCount(0);
+    });
+
+    await test.step("Selecting the B-series set B1 narrows the grid to just Mega Rising", async () => {
+      await page.getByTestId("card-filter-set").selectOption("B1");
+
+      await expect(page).toHaveURL(/[?&]set=B1/);
+      await expect(page.getByTestId("card-result-count")).toHaveText(`${B1_SIZE} cards`);
+      await expect(cardTile(page, "B1-002")).toBeVisible(); // Mega Pinsir ex (MegaEx), in the first window
+      await expect(cardTile(page, "A2-001")).toHaveCount(0);
     });
 
     await test.step("Set combines with another filter", async () => {

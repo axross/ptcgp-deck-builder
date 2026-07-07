@@ -78,7 +78,7 @@ The set catalog treats an expansion as data, not a special case, so seeding a se
 
 **Environment prerequisite:** the fetcher needs outbound access to the source hosts. Development sandboxes may block outbound fetches by network policy; running the fetcher requires an environment whose policy allowlists `api.dotgg.gg` and `pocket.limitlesstcg.com` (a repo-owner setting). When a host is blocked, the tool exits with an explicit network-policy message, not a cryptic error.
 
-**Schema readiness review (recorded 2026-07):** the future-facing values a later set needs are already modeled in `schema.ts` — `ruleBox` includes `MegaEx` (B1), `trainer.subtype` includes `PokemonTool` / `Stadium` / `Fossil`, `classification` covers `UltraBeast` / `Ancient` / `Future`, and `isBaby` exists. The one known remaining gap is the rarity `code` enum, which still lacks the **Shiny tiers (✸ / ✸✸)**; their exact code strings are defined by the first dataset that contains them (A2b) and are added via the validation-driven step above when that set is fetched.
+**Schema readiness review (recorded 2026-07):** the future-facing values a later set needs are already modeled in `schema.ts` — `ruleBox` includes `MegaEx` (realized by B1), `trainer.subtype` includes `PokemonTool` / `Stadium` / `Fossil`, `classification` covers `UltraBeast` / `Ancient` / `Future`, and `isBaby` exists. The rarity `code` enum includes the **Shiny tiers `✸` (`S`) / `✸✸` (`SSR`)**, added via the validation-driven step below when Shining Revelry (A2b) first surfaced them; they recur in B1 (Mega Rising).
 
 ## Data Quirks to Remember
 

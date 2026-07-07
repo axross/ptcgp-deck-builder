@@ -33,6 +33,13 @@ schema; this document explains the fields and the source's quirks.
 - Some fields are intentionally present but empty in this set (`null`/`false`);
   they are **reserved for extensibility** so the same schema serves later
   expansions (see the last section).
+- **B1 (Mega Rising)** is the first seeded B-series set. It debuts the `MegaEx`
+  rule box (18 cards; KO worth 3 points battle-side — no deck-rule change) and
+  the Shiny `S`/`SSR` rarity tiers. A Mega evolves from its real prior stage
+  (`Combusken` → Mega Blaziken ex), and some Megas are Basics (Mega Pinsir ex).
+  It carries **no** `Stadium` trainers (that subtype debuts in B2) and no
+  `Ancient`/`Future` classification (B3a). dotgg tags B1 card slugs with a `b11`
+  prefix (e.g. `b11-36-mega-blaziken-ex`), recorded verbatim in `source.slug`.
 
 ## Schema
 
@@ -113,7 +120,7 @@ schema; this document explains the fields and the source's quirks.
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `code` enum and the rarity filter follow.
+**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `code` enum and the rarity filter follow. They recur in **B1 (Mega Rising)** — 30 `Shiny` + 12 `Shiny Super Rare`.
 
 | Code  | Symbol | Label            | First in |
 | ----- | ------ | ---------------- | -------- |

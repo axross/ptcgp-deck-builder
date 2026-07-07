@@ -74,6 +74,7 @@ describe("deriveSetOptions()", () => {
       { code: "A3b", label: "Eevee Grove (A3b)" },
       { code: "A4", label: "Wisdom of Sea and Sky (A4)" },
       { code: "A4a", label: "Secluded Springs (A4a)" },
+      { code: "B1", label: "Mega Rising (B1)" },
     ]);
   });
 
