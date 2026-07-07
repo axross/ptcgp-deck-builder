@@ -13,7 +13,7 @@ Shared, domain-free components live in `src/components/`. Compose these instead 
 
 | Component | Purpose |
 | --------- | ------- |
-| *(none yet)* | The project is freshly scaffolded; add a row here whenever a component is promoted into `src/components/` |
+| `VirtualizedGrid` (`virtualized-grid.tsx`) | Window-scrolled, row-virtualized grid: mounts only the rows near the viewport. The consumer's `rowClassName` owns the responsive column CSS; used by the `/cards` grid and the deck-picker grid |
 
 **Guidelines:**
 

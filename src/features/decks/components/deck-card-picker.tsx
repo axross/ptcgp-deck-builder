@@ -1,6 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import { VirtualizedGrid } from "@/components/virtualized-grid";
 import { cardKindLabels, cardKinds } from "@/features/cards/card-filters";
 import { CardImage } from "@/features/cards/components/card-image";
 import { type EnergyType, energyTypes } from "@/features/cards/schema";
@@ -19,6 +20,11 @@ import styles from "./deck-card-picker.module.css";
 // Eager-load roughly the first grid row so the top of the picker isn't
 // lazy-loaded; the rest load as they scroll into view.
 const PRIORITY_TILE_COUNT = 12;
+
+// A picker tile is the card image (portrait 245:342 at up to ~7rem plus a 1fr
+// share) with a name line and an add button; the virtualizer replaces this
+// estimate with measured row heights after the first paint.
+const ESTIMATED_ROW_HEIGHT = 240;
 
 type DeckCardPickerProps = {
   catalog: DeckBuilderCard[];
@@ -110,11 +116,16 @@ export function DeckCardPicker({ catalog }: DeckCardPickerProps) {
       </p>
 
       {filtered.length > 0 ? (
-        <ul className={styles.grid} data-testid="deck-picker-grid">
-          {filtered.map((card, index) => (
-            <PickerTile key={card.id} card={card} priority={index < PRIORITY_TILE_COUNT} />
-          ))}
-        </ul>
+        <VirtualizedGrid
+          items={filtered}
+          getItemKey={(card) => card.id}
+          rowClassName={styles.row}
+          estimatedRowHeight={ESTIMATED_ROW_HEIGHT}
+          data-testid="deck-picker-grid"
+          renderItem={(card, index) => (
+            <PickerTile card={card} priority={index < PRIORITY_TILE_COUNT} />
+          )}
+        />
       ) : (
         <p className={styles.empty} data-testid="deck-picker-empty">
           No cards match this search.
@@ -138,7 +149,13 @@ function PickerTile({ card, priority }: PickerTileProps) {
   const limitHint = `You already have ${MAX_COPIES_PER_NAME} “${card.name}” — a deck allows at most ${MAX_COPIES_PER_NAME} copies per card name.`;
 
   return (
-    <li className={styles.tile} data-testid="deck-picker-tile" data-card-id={card.id}>
+    // biome-ignore lint/a11y/useSemanticElements: the virtualized grid's list role lives on a div (its rows preclude `ul`/`li`), so the item role does too.
+    <div
+      role="listitem"
+      className={styles.tile}
+      data-testid="deck-picker-tile"
+      data-card-id={card.id}
+    >
       <div className={styles.tileImage}>
         <CardImage
           src={card.imageUrl}
@@ -171,6 +188,6 @@ function PickerTile({ card, priority }: PickerTileProps) {
       >
         {atLimit ? "Max 2" : "Add"}
       </button>
-    </li>
+    </div>
   );
 }

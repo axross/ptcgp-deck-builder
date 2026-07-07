@@ -39,13 +39,14 @@
   color: var(--color-text-muted);
 }
 
-.grid {
+/* One virtualized row of the picker grid: the column template plus a bottom
+ * padding standing in for the row gap (rows are absolutely positioned by
+ * measured height, so a grid row-gap cannot space them). */
+.row {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
   gap: var(--space-3);
-  margin: 0;
-  padding: 0;
-  list-style: none;
+  padding-bottom: var(--space-3);
 }
 
 .tile {
