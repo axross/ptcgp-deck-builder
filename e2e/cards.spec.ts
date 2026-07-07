@@ -15,6 +15,9 @@ const A3B_SIZE = 107;
 const A4_SIZE = 241;
 const A4A_SIZE = 105;
 const B1_SIZE = 331;
+const B1A_SIZE = 103;
+const B2_SIZE = 234;
+const B2A_SIZE = 131;
 const CATALOG_SIZE =
   A1_SIZE +
   A1A_SIZE +
@@ -26,11 +29,14 @@ const CATALOG_SIZE =
   A3B_SIZE +
   A4_SIZE +
   A4A_SIZE +
-  B1_SIZE;
+  B1_SIZE +
+  B1A_SIZE +
+  B2_SIZE +
+  B2A_SIZE;
 
 // The last card of the last seeded set in catalog order; scrolling to the end
 // of the grid must reach it even though the grid is windowed.
-const LAST_CARD_ID = "B1-331";
+const LAST_CARD_ID = "B2a-131";
 
 // The grid is virtualized: the mounted tile count tracks the viewport (rows in
 // view plus a small overscan), never the catalog. This cap is far above any

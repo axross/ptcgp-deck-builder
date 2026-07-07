@@ -117,6 +117,27 @@ describe("first-of-kind mechanics across the seeded sets", () => {
     expect(nihilego?.pokemon?.classification).toBe("UltraBeast");
   });
 
+  it("types the Stadium trainer subtype, first seen in B2", () => {
+    // Fantastical Parade (B2) debuts the Stadium subtype (B2-153 Training Area).
+    expect(getCard("B2-153")).toMatchObject({
+      category: "Trainer",
+      trainer: { subtype: "Stadium" },
+    });
+  });
+
+  it("labels every ☆☆ card in the TCGdex-sourced B-sets Super Rare", () => {
+    // B1a, B2, B2a source rarity from TCGdex, which reports Super Rare and
+    // Special Art Rare identically as "Two Star". The whole ☆☆ tier is therefore
+    // labeled Super Rare; the SAR alternate-art subset is knowingly not
+    // distinguished for these sets (see card-data.md).
+    const twoStar = (["B1a", "B2", "B2a"] as const)
+      .flatMap((code) => getCardsBySet(code))
+      .filter((card) => card.rarity.symbol === "☆☆");
+
+    expect(twoStar.length).toBeGreaterThan(0);
+    expect(twoStar.every((card) => card.rarity.code === "SR")).toBe(true);
+  });
+
   it("leaves isBaby false everywhere — no source marks Baby Pokémon", () => {
     const pokemon = getAllCards().filter((card) => card.category === "Pokemon");
 

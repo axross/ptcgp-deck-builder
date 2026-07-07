@@ -75,6 +75,9 @@ describe("deriveSetOptions()", () => {
       { code: "A4", label: "Wisdom of Sea and Sky (A4)" },
       { code: "A4a", label: "Secluded Springs (A4a)" },
       { code: "B1", label: "Mega Rising (B1)" },
+      { code: "B1a", label: "Crimson Blaze (B1a)" },
+      { code: "B2", label: "Fantastical Parade (B2)" },
+      { code: "B2a", label: "Paldean Wonders (B2a)" },
     ]);
   });
 
