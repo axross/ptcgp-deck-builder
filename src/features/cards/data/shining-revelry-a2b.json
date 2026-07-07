@@ -1,0 +1,6148 @@
+[
+  {
+    "id": "A2b-001",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 1,
+    "setSize": 111,
+    "name": {
+      "en": "Weedle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Multiply",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put 1 random Weedle from your deck onto your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-1-weedle"
+    }
+  },
+  {
+    "id": "A2b-002",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 2,
+    "setSize": 111,
+    "name": {
+      "en": "Kakuna",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Weedle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "String Shot",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuka Morii",
+    "boosterPacks": null,
+    "flavorText": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-2-kakuna"
+    }
+  },
+  {
+    "id": "A2b-003",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 3,
+    "setSize": 111,
+    "name": {
+      "en": "Beedrill ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Kakuna",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crushing Spear",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-3-beedrill-ex"
+    }
+  },
+  {
+    "id": "A2b-004",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 4,
+    "setSize": 111,
+    "name": {
+      "en": "Pinsir",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Guillotine Rush",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-4-pinsir"
+    }
+  },
+  {
+    "id": "A2b-005",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 5,
+    "setSize": 111,
+    "name": {
+      "en": "Sprigatito",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cry for Help",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put 1 random {G} Pokémon from your deck into your hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "mashu",
+    "boosterPacks": null,
+    "flavorText": "Its fluffy fur is similar in composition to plants. This Pokémon frequently washes its face to keep it from drying out.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-5-sprigatito"
+    }
+  },
+  {
+    "id": "A2b-006",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 6,
+    "setSize": 111,
+    "name": {
+      "en": "Floragato",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Sprigatito",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slash",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "mashu",
+    "boosterPacks": null,
+    "flavorText": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-6-floragato"
+    }
+  },
+  {
+    "id": "A2b-007",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 7,
+    "setSize": 111,
+    "name": {
+      "en": "Meowscarada",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Floragato",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fighting Claws",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "mashu",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-7-meowscarada"
+    }
+  },
+  {
+    "id": "A2b-008",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 8,
+    "setSize": 111,
+    "name": {
+      "en": "Charmander",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Megumi Mizutani",
+    "boosterPacks": null,
+    "flavorText": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-8-charmander"
+    }
+  },
+  {
+    "id": "A2b-009",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 9,
+    "setSize": 111,
+    "name": {
+      "en": "Charmeleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Charmander",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kodama",
+    "boosterPacks": null,
+    "flavorText": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-9-charmeleon"
+    }
+  },
+  {
+    "id": "A2b-010",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 10,
+    "setSize": 111,
+    "name": {
+      "en": "Charizard ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stoke",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Steam Artillery",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-10-charizard-ex"
+    }
+  },
+  {
+    "id": "A2b-011",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 11,
+    "setSize": 111,
+    "name": {
+      "en": "Magmar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flare",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-11-magmar"
+    }
+  },
+  {
+    "id": "A2b-012",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 12,
+    "setSize": 111,
+    "name": {
+      "en": "Magmortar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Magmar",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Smoke Bomb",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-12-magmortar"
+    }
+  },
+  {
+    "id": "A2b-013",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 13,
+    "setSize": 111,
+    "name": {
+      "en": "Paldean Tauros",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Blaze Tackle",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Minahamu",
+    "boosterPacks": null,
+    "flavorText": "When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-13-paldean-tauros"
+    }
+  },
+  {
+    "id": "A2b-014",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 14,
+    "setSize": 111,
+    "name": {
+      "en": "Tentacool",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rain Splash",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-14-tentacool"
+    }
+  },
+  {
+    "id": "A2b-015",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 15,
+    "setSize": 111,
+    "name": {
+      "en": "Tentacruel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Tentacool",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wave Splash",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-15-tentacruel"
+    }
+  },
+  {
+    "id": "A2b-016",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 16,
+    "setSize": 111,
+    "name": {
+      "en": "Buizel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-16-buizel"
+    }
+  },
+  {
+    "id": "A2b-017",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 17,
+    "setSize": 111,
+    "name": {
+      "en": "Floatzel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Buizel",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Arrow",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-17-floatzel"
+    }
+  },
+  {
+    "id": "A2b-018",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 18,
+    "setSize": 111,
+    "name": {
+      "en": "Wiglett",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spring Out",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-18-wiglett"
+    }
+  },
+  {
+    "id": "A2b-019",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 19,
+    "setSize": 111,
+    "name": {
+      "en": "Wugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Wiglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pop Out Throughout",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-19-wugtrio-ex"
+    }
+  },
+  {
+    "id": "A2b-020",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 20,
+    "setSize": 111,
+    "name": {
+      "en": "Dondozo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ocean Cyclone",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomowaka",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-20-dondozo"
+    }
+  },
+  {
+    "id": "A2b-021",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 21,
+    "setSize": 111,
+    "name": {
+      "en": "Tatsugiri",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Retreat Directive",
+            "ja": null
+          },
+          "text": "Your Active Dondozo has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rain Splash",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomowaka",
+    "boosterPacks": null,
+    "flavorText": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-21-tatsugiri"
+    }
+  },
+  {
+    "id": "A2b-022",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 22,
+    "setSize": 111,
+    "name": {
+      "en": "Pikachu ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunderbolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-22-pikachu-ex"
+    }
+  },
+  {
+    "id": "A2b-023",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 23,
+    "setSize": 111,
+    "name": {
+      "en": "Voltorb",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Ball",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-23-voltorb"
+    }
+  },
+  {
+    "id": "A2b-024",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 24,
+    "setSize": 111,
+    "name": {
+      "en": "Electrode",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Voltorb",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tumbling Attack",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-24-electrode"
+    }
+  },
+  {
+    "id": "A2b-025",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 25,
+    "setSize": 111,
+    "name": {
+      "en": "Pachirisu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Plasma",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched {L} Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "imoniii",
+    "boosterPacks": null,
+    "flavorText": "It’s one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-25-pachirisu"
+    }
+  },
+  {
+    "id": "A2b-026",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 26,
+    "setSize": 111,
+    "name": {
+      "en": "Pawmi",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-26-pawmi"
+    }
+  },
+  {
+    "id": "A2b-027",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 27,
+    "setSize": 111,
+    "name": {
+      "en": "Pawmo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Pawmi",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-27-pawmo"
+    }
+  },
+  {
+    "id": "A2b-028",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 28,
+    "setSize": 111,
+    "name": {
+      "en": "Pawmot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Pawmo",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [
+        {
+          "name": {
+            "en": "Counterattack",
+            "ja": null
+          },
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electric Punch",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saboteri",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-28-pawmot"
+    }
+  },
+  {
+    "id": "A2b-029",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 29,
+    "setSize": 111,
+    "name": {
+      "en": "Abra",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mousho",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-29-abra"
+    }
+  },
+  {
+    "id": "A2b-030",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 30,
+    "setSize": 111,
+    "name": {
+      "en": "Kadabra",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Abra",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mousho",
+    "boosterPacks": null,
+    "flavorText": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-30-kadabra"
+    }
+  },
+  {
+    "id": "A2b-031",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 31,
+    "setSize": 111,
+    "name": {
+      "en": "Alakazam",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Kadabra",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic Suppression",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mousho",
+    "boosterPacks": null,
+    "flavorText": "It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-31-alakazam"
+    }
+  },
+  {
+    "id": "A2b-032",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 32,
+    "setSize": 111,
+    "name": {
+      "en": "Mr. Mime",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Juggling",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 4 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-32-mr-mime"
+    }
+  },
+  {
+    "id": "A2b-033",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 33,
+    "setSize": 111,
+    "name": {
+      "en": "Drifloon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kodama",
+    "boosterPacks": null,
+    "flavorText": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-33-drifloon"
+    }
+  },
+  {
+    "id": "A2b-034",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 34,
+    "setSize": 111,
+    "name": {
+      "en": "Drifblim",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Drifloon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gust",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hajime Kusajima",
+    "boosterPacks": null,
+    "flavorText": "It can generate and release gas within its body. That’s how it can control the altitude of its drift.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-34-drifblim"
+    }
+  },
+  {
+    "id": "A2b-035",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 35,
+    "setSize": 111,
+    "name": {
+      "en": "Giratina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Broken-Space Bellow",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Chaotic Impact",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Psychic", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-35-giratina-ex"
+    }
+  },
+  {
+    "id": "A2b-036",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 36,
+    "setSize": 111,
+    "name": {
+      "en": "Gimmighoul",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Chest-ouflage",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-36-gimmighoul"
+    }
+  },
+  {
+    "id": "A2b-037",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 37,
+    "setSize": 111,
+    "name": {
+      "en": "Machop",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Low Kick",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-37-machop"
+    }
+  },
+  {
+    "id": "A2b-038",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 38,
+    "setSize": 111,
+    "name": {
+      "en": "Machoke",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Machop",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pummel",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-38-machoke"
+    }
+  },
+  {
+    "id": "A2b-039",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 39,
+    "setSize": 111,
+    "name": {
+      "en": "Machamp",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Machoke",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Power Press",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 2 extra {F} Energy attached, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-39-machamp"
+    }
+  },
+  {
+    "id": "A2b-040",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 40,
+    "setSize": 111,
+    "name": {
+      "en": "Hitmonlee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Kick",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-40-hitmonlee"
+    }
+  },
+  {
+    "id": "A2b-041",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 41,
+    "setSize": 111,
+    "name": {
+      "en": "Hitmonchan",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Magnum Punch",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-41-hitmonchan"
+    }
+  },
+  {
+    "id": "A2b-042",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 42,
+    "setSize": 111,
+    "name": {
+      "en": "Riolu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "You Iribi",
+    "boosterPacks": null,
+    "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-42-riolu"
+    }
+  },
+  {
+    "id": "A2b-043",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 43,
+    "setSize": 111,
+    "name": {
+      "en": "Lucario ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Riolu",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aura Sphere",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-43-lucario-ex"
+    }
+  },
+  {
+    "id": "A2b-044",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 44,
+    "setSize": 111,
+    "name": {
+      "en": "Flamigo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Kick",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "REND",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-44-flamigo"
+    }
+  },
+  {
+    "id": "A2b-045",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 45,
+    "setSize": 111,
+    "name": {
+      "en": "Ekans",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-45-ekans"
+    }
+  },
+  {
+    "id": "A2b-046",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 46,
+    "setSize": 111,
+    "name": {
+      "en": "Arbok",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Ekans",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venomous Fang",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-46-arbok"
+    }
+  },
+  {
+    "id": "A2b-047",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 47,
+    "setSize": 111,
+    "name": {
+      "en": "Paldean Wooper",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poison Jab",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mori Yuu",
+    "boosterPacks": null,
+    "flavorText": "After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-47-paldean-wooper"
+    }
+  },
+  {
+    "id": "A2b-048",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 48,
+    "setSize": 111,
+    "name": {
+      "en": "Paldean Clodsire ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Paldean Wooper",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-48-paldean-clodsire-ex"
+    }
+  },
+  {
+    "id": "A2b-049",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 49,
+    "setSize": 111,
+    "name": {
+      "en": "Spiritomb",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Confuse Ray",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-49-spiritomb"
+    }
+  },
+  {
+    "id": "A2b-050",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 50,
+    "setSize": 111,
+    "name": {
+      "en": "Shroodle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gnaw",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-50-shroodle"
+    }
+  },
+  {
+    "id": "A2b-051",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 51,
+    "setSize": 111,
+    "name": {
+      "en": "Grafaiai",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Shroodle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Poison Coating",
+            "ja": null
+          },
+          "text": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-51-grafaiai"
+    }
+  },
+  {
+    "id": "A2b-052",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 52,
+    "setSize": 111,
+    "name": {
+      "en": "Tinkatink",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corkscrew Punch",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-52-tinkatink"
+    }
+  },
+  {
+    "id": "A2b-053",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 53,
+    "setSize": 111,
+    "name": {
+      "en": "Tinkatuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Tinkatink",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tenacious Hammer",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-53-tinkatuff"
+    }
+  },
+  {
+    "id": "A2b-054",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 54,
+    "setSize": 111,
+    "name": {
+      "en": "Tinkaton ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Tinkatuff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Terrific Thumping",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-54-tinkaton-ex"
+    }
+  },
+  {
+    "id": "A2b-055",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 55,
+    "setSize": 111,
+    "name": {
+      "en": "Varoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-55-varoom"
+    }
+  },
+  {
+    "id": "A2b-056",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 56,
+    "setSize": 111,
+    "name": {
+      "en": "Revavroom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Varoom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spinning Drift",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-56-revavroom"
+    }
+  },
+  {
+    "id": "A2b-057",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 57,
+    "setSize": 111,
+    "name": {
+      "en": "Gholdengo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Gimmighoul",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scintillating Surfing",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-57-gholdengo"
+    }
+  },
+  {
+    "id": "A2b-058",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 58,
+    "setSize": 111,
+    "name": {
+      "en": "Rattata",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eri Yamaki",
+    "boosterPacks": null,
+    "flavorText": "Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-58-rattata"
+    }
+  },
+  {
+    "id": "A2b-059",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 59,
+    "setSize": 111,
+    "name": {
+      "en": "Raticate",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Rattata",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-59-raticate"
+    }
+  },
+  {
+    "id": "A2b-060",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 60,
+    "setSize": 111,
+    "name": {
+      "en": "Jigglypuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kanako Eo",
+    "boosterPacks": null,
+    "flavorText": "It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you’ll become sleepy right away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-60-jigglypuff"
+    }
+  },
+  {
+    "id": "A2b-061",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 61,
+    "setSize": 111,
+    "name": {
+      "en": "Wigglytuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Jigglypuff",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Comforting Song",
+            "ja": null
+          },
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gentle Slap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-61-wigglytuff"
+    }
+  },
+  {
+    "id": "A2b-062",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 62,
+    "setSize": 111,
+    "name": {
+      "en": "Lickitung",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-62-lickitung"
+    }
+  },
+  {
+    "id": "A2b-063",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 63,
+    "setSize": 111,
+    "name": {
+      "en": "Lickilicky",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Lickitung",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Suwama Chiaki",
+    "boosterPacks": null,
+    "flavorText": "Lickilicky’s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky’s tongue can stretch so far.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-63-lickilicky"
+    }
+  },
+  {
+    "id": "A2b-064",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 64,
+    "setSize": 111,
+    "name": {
+      "en": "Bidoof",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-64-bidoof"
+    }
+  },
+  {
+    "id": "A2b-065",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 65,
+    "setSize": 111,
+    "name": {
+      "en": "Bibarel ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Bidoof",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Carefree Press",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-65-bibarel-ex"
+    }
+  },
+  {
+    "id": "A2b-066",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 66,
+    "setSize": 111,
+    "name": {
+      "en": "Buneary",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pound",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-66-buneary"
+    }
+  },
+  {
+    "id": "A2b-067",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 67,
+    "setSize": 111,
+    "name": {
+      "en": "Lopunny",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Buneary",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hopping Shot",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Minahamu",
+    "boosterPacks": null,
+    "flavorText": "Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-67-lopunny"
+    }
+  },
+  {
+    "id": "A2b-068",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 68,
+    "setSize": 111,
+    "name": {
+      "en": "Cyclizar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Overacceleration",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon's Overacceleration attack does +20 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HAGIYA Kaoru",
+    "boosterPacks": null,
+    "flavorText": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-68-cyclizar"
+    }
+  },
+  {
+    "id": "A2b-069",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 69,
+    "setSize": 111,
+    "name": {
+      "en": "Iono",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Each player shuffles the cards in their hand into their deck, then draws that many cards."
+    },
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-69-iono"
+    }
+  },
+  {
+    "id": "A2b-070",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 70,
+    "setSize": 111,
+    "name": {
+      "en": "Pokémon Center Lady",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-70-pokemon-center-lady"
+    }
+  },
+  {
+    "id": "A2b-071",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 71,
+    "setSize": 111,
+    "name": {
+      "en": "Red",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex."
+    },
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-71-red"
+    }
+  },
+  {
+    "id": "A2b-072",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 72,
+    "setSize": 111,
+    "name": {
+      "en": "Team Rocket Grunt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    },
+    "illustrator": "kantaro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-72-team-rocket-grunt"
+    }
+  },
+  {
+    "id": "A2b-073",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 73,
+    "setSize": 111,
+    "name": {
+      "en": "Meowscarada",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Floragato",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fighting Claws",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "danciao",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon uses the reflective fur lining its cape to camouflage the stem of its flower, creating the illusion that the flower is floating.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-73-meowscarada"
+    }
+  },
+  {
+    "id": "A2b-074",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 74,
+    "setSize": 111,
+    "name": {
+      "en": "Buizel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shimaris Yukichi",
+    "boosterPacks": null,
+    "flavorText": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-74-buizel"
+    }
+  },
+  {
+    "id": "A2b-075",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 75,
+    "setSize": 111,
+    "name": {
+      "en": "Tatsugiri",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Retreat Directive",
+            "ja": null
+          },
+          "text": "Your Active Dondozo has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rain Splash",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "cochi8i",
+    "boosterPacks": null,
+    "flavorText": "This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-75-tatsugiri"
+    }
+  },
+  {
+    "id": "A2b-076",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 76,
+    "setSize": 111,
+    "name": {
+      "en": "Grafaiai",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Shroodle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Poison Coating",
+            "ja": null
+          },
+          "text": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": "The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-76-grafaiai"
+    }
+  },
+  {
+    "id": "A2b-077",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 77,
+    "setSize": 111,
+    "name": {
+      "en": "Gholdengo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Gimmighoul",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scintillating Surfing",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each {M} Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Jerky",
+    "boosterPacks": null,
+    "flavorText": "Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-77-gholdengo"
+    }
+  },
+  {
+    "id": "A2b-078",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 78,
+    "setSize": 111,
+    "name": {
+      "en": "Wigglytuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Jigglypuff",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Comforting Song",
+            "ja": null
+          },
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gentle Slap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": "It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-78-wigglytuff"
+    }
+  },
+  {
+    "id": "A2b-079",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 79,
+    "setSize": 111,
+    "name": {
+      "en": "Beedrill ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Kakuna",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crushing Spear",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-79-beedrill-ex"
+    }
+  },
+  {
+    "id": "A2b-080",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 80,
+    "setSize": 111,
+    "name": {
+      "en": "Charizard ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stoke",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Steam Artillery",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-80-charizard-ex"
+    }
+  },
+  {
+    "id": "A2b-081",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 81,
+    "setSize": 111,
+    "name": {
+      "en": "Wugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Wiglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pop Out Throughout",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-81-wugtrio-ex"
+    }
+  },
+  {
+    "id": "A2b-082",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 82,
+    "setSize": 111,
+    "name": {
+      "en": "Pikachu ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunderbolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-82-pikachu-ex"
+    }
+  },
+  {
+    "id": "A2b-083",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 83,
+    "setSize": 111,
+    "name": {
+      "en": "Giratina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Broken-Space Bellow",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Chaotic Impact",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Psychic", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-83-giratina-ex"
+    }
+  },
+  {
+    "id": "A2b-084",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 84,
+    "setSize": 111,
+    "name": {
+      "en": "Lucario ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Riolu",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aura Sphere",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-84-lucario-ex"
+    }
+  },
+  {
+    "id": "A2b-085",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 85,
+    "setSize": 111,
+    "name": {
+      "en": "Paldean Clodsire ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Paldean Wooper",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-85-paldean-clodsire-ex"
+    }
+  },
+  {
+    "id": "A2b-086",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 86,
+    "setSize": 111,
+    "name": {
+      "en": "Tinkaton ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Tinkatuff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Terrific Thumping",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-86-tinkaton-ex"
+    }
+  },
+  {
+    "id": "A2b-087",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 87,
+    "setSize": 111,
+    "name": {
+      "en": "Bibarel ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Bidoof",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Carefree Press",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-87-bibarel-ex"
+    }
+  },
+  {
+    "id": "A2b-088",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 88,
+    "setSize": 111,
+    "name": {
+      "en": "Iono",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Each player shuffles the cards in their hand into their deck, then draws that many cards."
+    },
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-88-iono"
+    }
+  },
+  {
+    "id": "A2b-089",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 89,
+    "setSize": 111,
+    "name": {
+      "en": "Pokémon Center Lady",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Heal 30 damage from 1 of your Pokémon, and it recovers from all Special Conditions."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-89-pokemon-center-lady"
+    }
+  },
+  {
+    "id": "A2b-090",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 90,
+    "setSize": 111,
+    "name": {
+      "en": "Red",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex."
+    },
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-90-red"
+    }
+  },
+  {
+    "id": "A2b-091",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 91,
+    "setSize": 111,
+    "name": {
+      "en": "Team Rocket Grunt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+    },
+    "illustrator": "kantaro",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-91-team-rocket-grunt"
+    }
+  },
+  {
+    "id": "A2b-092",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 92,
+    "setSize": 111,
+    "name": {
+      "en": "Pikachu ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunderbolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "You Iribi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-92-pikachu-ex"
+    }
+  },
+  {
+    "id": "A2b-093",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 93,
+    "setSize": 111,
+    "name": {
+      "en": "Paldean Clodsire ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Paldean Wooper",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "REND",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-93-paldean-clodsire-ex"
+    }
+  },
+  {
+    "id": "A2b-094",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 94,
+    "setSize": 111,
+    "name": {
+      "en": "Tinkaton ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Tinkatuff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Terrific Thumping",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kurumitsu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-94-tinkaton-ex"
+    }
+  },
+  {
+    "id": "A2b-095",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 95,
+    "setSize": 111,
+    "name": {
+      "en": "Bibarel ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Bidoof",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Carefree Press",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-95-bibarel-ex"
+    }
+  },
+  {
+    "id": "A2b-096",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 96,
+    "setSize": 111,
+    "name": {
+      "en": "Giratina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Broken-Space Bellow",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {P} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Chaotic Impact",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Psychic", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shinji Kanda",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-96-giratina-ex"
+    }
+  },
+  {
+    "id": "A2b-097",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 97,
+    "setSize": 111,
+    "name": {
+      "en": "Weedle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Multiply",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Put 1 random Weedle from your deck onto your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-97-weedle"
+    }
+  },
+  {
+    "id": "A2b-098",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 98,
+    "setSize": 111,
+    "name": {
+      "en": "Kakuna",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Weedle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "String Shot",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-98-kakuna"
+    }
+  },
+  {
+    "id": "A2b-099",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 99,
+    "setSize": 111,
+    "name": {
+      "en": "Charmander",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-99-charmander"
+    }
+  },
+  {
+    "id": "A2b-100",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 100,
+    "setSize": 111,
+    "name": {
+      "en": "Charmeleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Charmander",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-100-charmeleon"
+    }
+  },
+  {
+    "id": "A2b-101",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 101,
+    "setSize": 111,
+    "name": {
+      "en": "Wiglett",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spring Out",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-101-wiglett"
+    }
+  },
+  {
+    "id": "A2b-102",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 102,
+    "setSize": 111,
+    "name": {
+      "en": "Dondozo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ocean Cyclone",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GOSSAN",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is a glutton, but it’s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-102-dondozo"
+    }
+  },
+  {
+    "id": "A2b-103",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 103,
+    "setSize": 111,
+    "name": {
+      "en": "Pachirisu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Plasma",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to 1 of your Benched {L} Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomowaka",
+    "boosterPacks": null,
+    "flavorText": "It’s one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-103-pachirisu"
+    }
+  },
+  {
+    "id": "A2b-104",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 104,
+    "setSize": 111,
+    "name": {
+      "en": "Riolu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GOSSAN",
+    "boosterPacks": null,
+    "flavorText": "They communicate with one another using their auras. They are able to run all through the night.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-104-riolu"
+    }
+  },
+  {
+    "id": "A2b-105",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 105,
+    "setSize": 111,
+    "name": {
+      "en": "Varoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-105-varoom"
+    }
+  },
+  {
+    "id": "A2b-106",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 106,
+    "setSize": 111,
+    "name": {
+      "en": "Revavroom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Varoom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spinning Drift",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders— now numbering eight—to generate energy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-106-revavroom"
+    }
+  },
+  {
+    "id": "A2b-107",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 107,
+    "setSize": 111,
+    "name": {
+      "en": "Beedrill ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Kakuna",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crushing Spear",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-107-beedrill-ex"
+    }
+  },
+  {
+    "id": "A2b-108",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 108,
+    "setSize": 111,
+    "name": {
+      "en": "Charizard ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stoke",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take 3 {R} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Steam Artillery",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire", "Colorless", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-108-charizard-ex"
+    }
+  },
+  {
+    "id": "A2b-109",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 109,
+    "setSize": 111,
+    "name": {
+      "en": "Wugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Wiglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pop Out Throughout",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-109-wugtrio-ex"
+    }
+  },
+  {
+    "id": "A2b-110",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 110,
+    "setSize": 111,
+    "name": {
+      "en": "Lucario ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Riolu",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aura Sphere",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-110-lucario-ex"
+    }
+  },
+  {
+    "id": "A2b-111",
+    "set": {
+      "code": "A2b",
+      "name": "Shining Revelry",
+      "nameJa": "シャイニングハイ"
+    },
+    "number": 111,
+    "setSize": 111,
+    "name": {
+      "en": "Poké Ball",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Put 1 random Basic Pokemon from your deck into your hand."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a2b-111-poke-ball"
+    }
+  }
+]

@@ -1,0 +1,5764 @@
+[
+  {
+    "id": "A3a-001",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 1,
+    "setSize": 103,
+    "name": {
+      "en": "Petilil",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Seed Bomb",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-1-petilil"
+    }
+  },
+  {
+    "id": "A3a-002",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 2,
+    "setSize": 103,
+    "name": {
+      "en": "Lilligant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Petilil",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cut",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-2-lilligant"
+    }
+  },
+  {
+    "id": "A3a-003",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 3,
+    "setSize": 103,
+    "name": {
+      "en": "Rowlet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fury Attack",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-3-rowlet"
+    }
+  },
+  {
+    "id": "A3a-004",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 4,
+    "setSize": 103,
+    "name": {
+      "en": "Dartrix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Rowlet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Skill Dive",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "This narcissistic Pokémon is a clean freak. If you don’t groom it diligently, it may stop listening to you.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-4-dartrix"
+    }
+  },
+  {
+    "id": "A3a-005",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 5,
+    "setSize": 103,
+    "name": {
+      "en": "Decidueye",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Dartrix",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sniping Arrow",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 70 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It nocks its arrow quills and shoots them at opponents. When it simply can’t afford to miss, it tugs the vine on its head to improve its focus.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-5-decidueye"
+    }
+  },
+  {
+    "id": "A3a-006",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 6,
+    "setSize": 103,
+    "name": {
+      "en": "Buzzwole ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Big Beat",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't use Big Beat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-6-buzzwole-ex"
+    }
+  },
+  {
+    "id": "A3a-007",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 7,
+    "setSize": 103,
+    "name": {
+      "en": "Pheromosa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Jump Blues",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-7-pheromosa"
+    }
+  },
+  {
+    "id": "A3a-008",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 8,
+    "setSize": 103,
+    "name": {
+      "en": "Kartana",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thrash Metal",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-8-kartana"
+    }
+  },
+  {
+    "id": "A3a-009",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 9,
+    "setSize": 103,
+    "name": {
+      "en": "Blacephalon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beat Punk",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 70 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-9-blacephalon"
+    }
+  },
+  {
+    "id": "A3a-010",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 10,
+    "setSize": 103,
+    "name": {
+      "en": "Mantine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Surf",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-10-mantine"
+    }
+  },
+  {
+    "id": "A3a-011",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 11,
+    "setSize": 103,
+    "name": {
+      "en": "Carvanha",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hideki Ishikawa",
+    "boosterPacks": null,
+    "flavorText": "It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-11-carvanha"
+    }
+  },
+  {
+    "id": "A3a-012",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 12,
+    "setSize": 103,
+    "name": {
+      "en": "Sharpedo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Carvanha",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Crunch",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yumi",
+    "boosterPacks": null,
+    "flavorText": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-12-sharpedo"
+    }
+  },
+  {
+    "id": "A3a-013",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 13,
+    "setSize": 103,
+    "name": {
+      "en": "Shinx",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-13-shinx"
+    }
+  },
+  {
+    "id": "A3a-014",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 14,
+    "setSize": 103,
+    "name": {
+      "en": "Luxio",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Shinx",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Head Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-14-luxio"
+    }
+  },
+  {
+    "id": "A3a-015",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 15,
+    "setSize": 103,
+    "name": {
+      "en": "Luxray",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Luxio",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Intimidating Fang",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electric Ball",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-15-luxray"
+    }
+  },
+  {
+    "id": "A3a-016",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 16,
+    "setSize": 103,
+    "name": {
+      "en": "Blitzle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rear Kick",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-16-blitzle"
+    }
+  },
+  {
+    "id": "A3a-017",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 17,
+    "setSize": 103,
+    "name": {
+      "en": "Zebstrika",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Blitzle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Head Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hajime Kusajima",
+    "boosterPacks": null,
+    "flavorText": "When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-17-zebstrika"
+    }
+  },
+  {
+    "id": "A3a-018",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 18,
+    "setSize": 103,
+    "name": {
+      "en": "Emolga",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Static Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-18-emolga"
+    }
+  },
+  {
+    "id": "A3a-019",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 19,
+    "setSize": 103,
+    "name": {
+      "en": "Tapu Koko ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Plasma Hurricane",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Mach Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-19-tapu-koko-ex"
+    }
+  },
+  {
+    "id": "A3a-020",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 20,
+    "setSize": 103,
+    "name": {
+      "en": "Xurkitree",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electronica",
+            "ja": null
+          },
+          "cost": ["Lightning", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-20-xurkitree"
+    }
+  },
+  {
+    "id": "A3a-021",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 21,
+    "setSize": 103,
+    "name": {
+      "en": "Zeraora",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Thunderclap Flash",
+            "ja": null
+          },
+          "text": "At the end of your first turn, take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Claw",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-21-zeraora"
+    }
+  },
+  {
+    "id": "A3a-022",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 22,
+    "setSize": 103,
+    "name": {
+      "en": "Clefairy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pound",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-22-clefairy"
+    }
+  },
+  {
+    "id": "A3a-023",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 23,
+    "setSize": 103,
+    "name": {
+      "en": "Clefable",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Clefairy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Moon Kick",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "miki kudo",
+    "boosterPacks": null,
+    "flavorText": "A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-23-clefable"
+    }
+  },
+  {
+    "id": "A3a-024",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 24,
+    "setSize": 103,
+    "name": {
+      "en": "Phantump",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spooky Shot",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-24-phantump"
+    }
+  },
+  {
+    "id": "A3a-025",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 25,
+    "setSize": 103,
+    "name": {
+      "en": "Trevenant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Phantump",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wrack Down",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it’s kind.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-25-trevenant"
+    }
+  },
+  {
+    "id": "A3a-026",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 26,
+    "setSize": 103,
+    "name": {
+      "en": "Morelull",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hook",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-26-morelull"
+    }
+  },
+  {
+    "id": "A3a-027",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 27,
+    "setSize": 103,
+    "name": {
+      "en": "Shiinotic",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Morelull",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Illuminate",
+            "ja": null
+          },
+          "text": "Once during your turn, you may put a random Pokémon from your deck into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gentle Slap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-27-shiinotic"
+    }
+  },
+  {
+    "id": "A3a-028",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 28,
+    "setSize": 103,
+    "name": {
+      "en": "Meditite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Trip Over",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-28-meditite"
+    }
+  },
+  {
+    "id": "A3a-029",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 29,
+    "setSize": 103,
+    "name": {
+      "en": "Medicham",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Meditite",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "High Jump Kick",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-29-medicham"
+    }
+  },
+  {
+    "id": "A3a-030",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 30,
+    "setSize": 103,
+    "name": {
+      "en": "Baltoy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spinning Attack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Uta",
+    "boosterPacks": null,
+    "flavorText": "It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-30-baltoy"
+    }
+  },
+  {
+    "id": "A3a-031",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 31,
+    "setSize": 103,
+    "name": {
+      "en": "Claydol",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Baltoy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Heal Block",
+            "ja": null
+          },
+          "text": "Pokémon (both yours and your opponent's) can't be healed."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Power Beam",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-31-claydol"
+    }
+  },
+  {
+    "id": "A3a-032",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 32,
+    "setSize": 103,
+    "name": {
+      "en": "Rockruff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rock Throw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is very friendly when it’s young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-32-rockruff"
+    }
+  },
+  {
+    "id": "A3a-033",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 33,
+    "setSize": 103,
+    "name": {
+      "en": "Lycanroc ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Rockruff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lycanfang",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard a {F} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-33-lycanroc-ex"
+    }
+  },
+  {
+    "id": "A3a-034",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 34,
+    "setSize": 103,
+    "name": {
+      "en": "Passimian",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Let’s Throw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If Passimian is on your Bench, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon battles by throwing hard berries. It won’t obey a Trainer who throws Poké Balls without skill.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-34-passimian"
+    }
+  },
+  {
+    "id": "A3a-035",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 35,
+    "setSize": 103,
+    "name": {
+      "en": "Sandygast",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sandy Shot",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuka Morii",
+    "boosterPacks": null,
+    "flavorText": "If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-35-sandygast"
+    }
+  },
+  {
+    "id": "A3a-036",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 36,
+    "setSize": 103,
+    "name": {
+      "en": "Palossand",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Sandygast",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sand Tomb",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless", "Colorless", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hasuno",
+    "boosterPacks": null,
+    "flavorText": "The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-36-palossand"
+    }
+  },
+  {
+    "id": "A3a-037",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 37,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Meowth",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Meddle",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard a random Pokémon Tool card from your opponent's hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "It’s accustomed to luxury because it used to live with Alolan royalty. As a result, it’s very picky about food.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-37-alolan-meowth"
+    }
+  },
+  {
+    "id": "A3a-038",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 38,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Persian",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Alolan Meowth",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fake Out",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "ryoma uratsuka",
+    "boosterPacks": null,
+    "flavorText": "The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-38-alolan-persian"
+    }
+  },
+  {
+    "id": "A3a-039",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 39,
+    "setSize": 103,
+    "name": {
+      "en": "Sandile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-39-sandile"
+    }
+  },
+  {
+    "id": "A3a-040",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 40,
+    "setSize": 103,
+    "name": {
+      "en": "Krokorok",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Sandile",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Light Punch",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-40-krokorok"
+    }
+  },
+  {
+    "id": "A3a-041",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 41,
+    "setSize": 103,
+    "name": {
+      "en": "Krookodile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Krokorok",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Poaching Fangs",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-41-krookodile"
+    }
+  },
+  {
+    "id": "A3a-042",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 42,
+    "setSize": 103,
+    "name": {
+      "en": "Nihilego",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "More Poison",
+            "ja": null
+          },
+          "text": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "New Wave",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-42-nihilego"
+    }
+  },
+  {
+    "id": "A3a-043",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 43,
+    "setSize": 103,
+    "name": {
+      "en": "Guzzlord ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Grass",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Grindcore",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": {
+            "en": "Tyrannical Hole",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-43-guzzlord-ex"
+    }
+  },
+  {
+    "id": "A3a-044",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 44,
+    "setSize": 103,
+    "name": {
+      "en": "Poipole",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "2-Step",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-44-poipole"
+    }
+  },
+  {
+    "id": "A3a-045",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 45,
+    "setSize": 103,
+    "name": {
+      "en": "Naganadel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Poipole",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electro House",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-45-naganadel"
+    }
+  },
+  {
+    "id": "A3a-046",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 46,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Diglett",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Happened to Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Megumi Mizutani",
+    "boosterPacks": null,
+    "flavorText": "The metal-rich geology of this Pokémon’s habitat caused it to develop steel whiskers on its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-46-alolan-diglett"
+    }
+  },
+  {
+    "id": "A3a-047",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 47,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Dugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Alolan Diglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triplet Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-47-alolan-dugtrio-ex"
+    }
+  },
+  {
+    "id": "A3a-048",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 48,
+    "setSize": 103,
+    "name": {
+      "en": "Aron",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-48-aron"
+    }
+  },
+  {
+    "id": "A3a-049",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 49,
+    "setSize": 103,
+    "name": {
+      "en": "Lairon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Aron",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lunge Out",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-49-lairon"
+    }
+  },
+  {
+    "id": "A3a-050",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 50,
+    "setSize": 103,
+    "name": {
+      "en": "Aggron",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Lairon",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Giga Impact",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Satoshi Shirai",
+    "boosterPacks": null,
+    "flavorText": "Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-50-aggron"
+    }
+  },
+  {
+    "id": "A3a-051",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 51,
+    "setSize": 103,
+    "name": {
+      "en": "Ferroseed",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spike Sting",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-51-ferroseed"
+    }
+  },
+  {
+    "id": "A3a-052",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 52,
+    "setSize": 103,
+    "name": {
+      "en": "Ferrothorn",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Ferroseed",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Steel Spikes",
+            "ja": null
+          },
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spinning Attack",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-52-ferrothorn"
+    }
+  },
+  {
+    "id": "A3a-053",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 53,
+    "setSize": 103,
+    "name": {
+      "en": "Stakataka",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brass Rock",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-53-stakataka"
+    }
+  },
+  {
+    "id": "A3a-054",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 54,
+    "setSize": 103,
+    "name": {
+      "en": "Lillipup",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-54-lillipup"
+    }
+  },
+  {
+    "id": "A3a-055",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 55,
+    "setSize": 103,
+    "name": {
+      "en": "Herdier",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Lillipup",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Midori Harada",
+    "boosterPacks": null,
+    "flavorText": "Herdier is a very smart and friendly Pokémon. So much so that there’s a theory that Herdier was the first Pokémon to partner with people.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-55-herdier"
+    }
+  },
+  {
+    "id": "A3a-056",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 56,
+    "setSize": 103,
+    "name": {
+      "en": "Stoutland",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Herdier",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Guard Dog Visage",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {C} more."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Fang",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-56-stoutland"
+    }
+  },
+  {
+    "id": "A3a-057",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 57,
+    "setSize": 103,
+    "name": {
+      "en": "Stufful",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-57-stufful"
+    }
+  },
+  {
+    "id": "A3a-058",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 58,
+    "setSize": 103,
+    "name": {
+      "en": "Bewear",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Stufful",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Superpowered Hug",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-58-bewear"
+    }
+  },
+  {
+    "id": "A3a-059",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 59,
+    "setSize": 103,
+    "name": {
+      "en": "Oranguru",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hammer In",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-59-oranguru"
+    }
+  },
+  {
+    "id": "A3a-060",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 60,
+    "setSize": 103,
+    "name": {
+      "en": "Type: Null",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Blow",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-60-type-null"
+    }
+  },
+  {
+    "id": "A3a-061",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 61,
+    "setSize": 103,
+    "name": {
+      "en": "Silvally",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Type: Null",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brave Buddies",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eske Yoshinob",
+    "boosterPacks": null,
+    "flavorText": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-61-silvally"
+    }
+  },
+  {
+    "id": "A3a-062",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 62,
+    "setSize": 103,
+    "name": {
+      "en": "Celesteela",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Lightning",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ultra Thrusters",
+            "ja": null
+          },
+          "text": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Moombahton",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-62-celesteela"
+    }
+  },
+  {
+    "id": "A3a-063",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 63,
+    "setSize": 103,
+    "name": {
+      "en": "Beast Wall",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "You can use this card only if your opponent hasn't gotten any points.\n\nDuring your opponent's next turn, all of your Ultra Beasts take −20 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-63-beast-wall"
+    }
+  },
+  {
+    "id": "A3a-064",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 64,
+    "setSize": 103,
+    "name": {
+      "en": "Repel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+    },
+    "illustrator": "Yoshinobu Saito",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-64-repel"
+    }
+  },
+  {
+    "id": "A3a-065",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 65,
+    "setSize": 103,
+    "name": {
+      "en": "Electrical Cord",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "If the {L} Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 {L} Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-65-electrical-cord"
+    }
+  },
+  {
+    "id": "A3a-066",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 66,
+    "setSize": 103,
+    "name": {
+      "en": "Beastite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "Attacks used by the Ultra Beast this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten."
+    },
+    "illustrator": "inose yukie",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-66-beastite"
+    }
+  },
+  {
+    "id": "A3a-067",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 67,
+    "setSize": 103,
+    "name": {
+      "en": "Gladion",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 1 random Type: Null or Silvally from your deck into your hand."
+    },
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-67-gladion"
+    }
+  },
+  {
+    "id": "A3a-068",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 68,
+    "setSize": 103,
+    "name": {
+      "en": "Looker",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Your opponent reveals all of the Supporter cards in their deck."
+    },
+    "illustrator": "Hideki Ishikawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-68-looker"
+    }
+  },
+  {
+    "id": "A3a-069",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 69,
+    "setSize": 103,
+    "name": {
+      "en": "Lusamine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon."
+    },
+    "illustrator": "Taira Akitsu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-69-lusamine"
+    }
+  },
+  {
+    "id": "A3a-070",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 70,
+    "setSize": 103,
+    "name": {
+      "en": "Rowlet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fury Attack",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-70-rowlet"
+    }
+  },
+  {
+    "id": "A3a-071",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 71,
+    "setSize": 103,
+    "name": {
+      "en": "Pheromosa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Jump Blues",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-71-pheromosa"
+    }
+  },
+  {
+    "id": "A3a-072",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 72,
+    "setSize": 103,
+    "name": {
+      "en": "Blacephalon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beat Punk",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 70 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-72-blacephalon"
+    }
+  },
+  {
+    "id": "A3a-073",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 73,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Meowth",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Meddle",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard a random Pokémon Tool card from your opponent's hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "It’s accustomed to luxury because it used to live with Alolan royalty. As a result, it’s very picky about food.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-73-alolan-meowth"
+    }
+  },
+  {
+    "id": "A3a-074",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 74,
+    "setSize": 103,
+    "name": {
+      "en": "Silvally",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Type: Null",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brave Buddies",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": "This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-74-silvally"
+    }
+  },
+  {
+    "id": "A3a-075",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 75,
+    "setSize": 103,
+    "name": {
+      "en": "Celesteela",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Lightning",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ultra Thrusters",
+            "ja": null
+          },
+          "text": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Moombahton",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "REND",
+    "boosterPacks": null,
+    "flavorText": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-75-celesteela"
+    }
+  },
+  {
+    "id": "A3a-076",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 76,
+    "setSize": 103,
+    "name": {
+      "en": "Buzzwole ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Big Beat",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't use Big Beat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-76-buzzwole-ex"
+    }
+  },
+  {
+    "id": "A3a-077",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 77,
+    "setSize": 103,
+    "name": {
+      "en": "Tapu Koko ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Plasma Hurricane",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Mach Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-77-tapu-koko-ex"
+    }
+  },
+  {
+    "id": "A3a-078",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 78,
+    "setSize": 103,
+    "name": {
+      "en": "Lycanroc ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Rockruff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lycanfang",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard a {F} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-78-lycanroc-ex"
+    }
+  },
+  {
+    "id": "A3a-079",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 79,
+    "setSize": 103,
+    "name": {
+      "en": "Guzzlord ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Grass",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Grindcore",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": {
+            "en": "Tyrannical Hole",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-79-guzzlord-ex"
+    }
+  },
+  {
+    "id": "A3a-080",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 80,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Dugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Alolan Diglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triplet Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-80-alolan-dugtrio-ex"
+    }
+  },
+  {
+    "id": "A3a-081",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 81,
+    "setSize": 103,
+    "name": {
+      "en": "Gladion",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put 1 random Type: Null or Silvally from your deck into your hand."
+    },
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-81-gladion"
+    }
+  },
+  {
+    "id": "A3a-082",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 82,
+    "setSize": 103,
+    "name": {
+      "en": "Looker",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Your opponent reveals all of the Supporter cards in their deck."
+    },
+    "illustrator": "Hideki Ishikawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-82-looker"
+    }
+  },
+  {
+    "id": "A3a-083",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 83,
+    "setSize": 103,
+    "name": {
+      "en": "Lusamine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "You can use this card only if your opponent has gotten at least 1 point.\n\nChoose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon."
+    },
+    "illustrator": "Taira Akitsu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-83-lusamine"
+    }
+  },
+  {
+    "id": "A3a-084",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 84,
+    "setSize": 103,
+    "name": {
+      "en": "Tapu Koko ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Plasma Hurricane",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "name": {
+            "en": "Mach Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Dsuke",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-84-tapu-koko-ex"
+    }
+  },
+  {
+    "id": "A3a-085",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 85,
+    "setSize": 103,
+    "name": {
+      "en": "Lycanroc ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Rockruff",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lycanfang",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard a {F} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Jiro Sasumo",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-85-lycanroc-ex"
+    }
+  },
+  {
+    "id": "A3a-086",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 86,
+    "setSize": 103,
+    "name": {
+      "en": "Guzzlord ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Grass",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Grindcore",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": {
+            "en": "Tyrannical Hole",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-86-guzzlord-ex"
+    }
+  },
+  {
+    "id": "A3a-087",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 87,
+    "setSize": 103,
+    "name": {
+      "en": "Alolan Dugtrio ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Alolan Diglett",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Triplet Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KEIICHIRO ITO",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-87-alolan-dugtrio-ex"
+    }
+  },
+  {
+    "id": "A3a-088",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 88,
+    "setSize": 103,
+    "name": {
+      "en": "Buzzwole ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Big Beat",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't use Big Beat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-88-buzzwole-ex"
+    }
+  },
+  {
+    "id": "A3a-089",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 89,
+    "setSize": 103,
+    "name": {
+      "en": "Growlithe",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-89-growlithe"
+    }
+  },
+  {
+    "id": "A3a-090",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 90,
+    "setSize": 103,
+    "name": {
+      "en": "Arcanine",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Growlithe",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Heat Tackle",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-90-arcanine"
+    }
+  },
+  {
+    "id": "A3a-091",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 91,
+    "setSize": 103,
+    "name": {
+      "en": "Froakie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flop",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-91-froakie"
+    }
+  },
+  {
+    "id": "A3a-092",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 92,
+    "setSize": 103,
+    "name": {
+      "en": "Frogadier",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Froakie",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Drip",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It can throw bubble-covered pebbles with precise  control, hitting empty cans up to a hundred feet away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-92-frogadier"
+    }
+  },
+  {
+    "id": "A3a-093",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 93,
+    "setSize": 103,
+    "name": {
+      "en": "Greninja",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage2",
+      "evolvesFrom": "Frogadier",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Water Shuriken",
+            "ja": null
+          },
+          "text": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mist Slash",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It creates throwing stars out of compressed water.  When it spins them and throws them at high speed,  these stars can split metal in two.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-93-greninja"
+    }
+  },
+  {
+    "id": "A3a-094",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 94,
+    "setSize": 103,
+    "name": {
+      "en": "Jynx",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-94-jynx"
+    }
+  },
+  {
+    "id": "A3a-095",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 95,
+    "setSize": 103,
+    "name": {
+      "en": "Pidgey",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gust",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-95-pidgey"
+    }
+  },
+  {
+    "id": "A3a-096",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 96,
+    "setSize": 103,
+    "name": {
+      "en": "Pidgeotto",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Pidgey",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gust",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-96-pidgeotto"
+    }
+  },
+  {
+    "id": "A3a-097",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 97,
+    "setSize": 103,
+    "name": {
+      "en": "Pidgeot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Pidgeotto",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Drive Off",
+            "ja": null
+          },
+          "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wing Attack",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-97-pidgeot"
+    }
+  },
+  {
+    "id": "A3a-098",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 98,
+    "setSize": 103,
+    "name": {
+      "en": "Aerodactyl",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Old Amber",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Primal Wingbeat",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-98-aerodactyl"
+    }
+  },
+  {
+    "id": "A3a-099",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 99,
+    "setSize": 103,
+    "name": {
+      "en": "Celebi ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Powerful Bloom",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-99-celebi-ex"
+    }
+  },
+  {
+    "id": "A3a-100",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 100,
+    "setSize": 103,
+    "name": {
+      "en": "Arcanine ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Growlithe",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Inferno Onrush",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Saito",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-100-arcanine-ex"
+    }
+  },
+  {
+    "id": "A3a-101",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 101,
+    "setSize": 103,
+    "name": {
+      "en": "Aerodactyl ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Old Amber",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Primeval Law",
+            "ja": null
+          },
+          "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-101-aerodactyl-ex"
+    }
+  },
+  {
+    "id": "A3a-102",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 102,
+    "setSize": 103,
+    "name": {
+      "en": "Pidgeot ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Pidgeotto",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scattering Cyclone",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-102-pidgeot-ex"
+    }
+  },
+  {
+    "id": "A3a-103",
+    "set": {
+      "code": "A3a",
+      "name": "Extradimensional Crisis",
+      "nameJa": "異次元クライシス"
+    },
+    "number": 103,
+    "setSize": 103,
+    "name": {
+      "en": "Nihilego",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": "UltraBeast",
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "More Poison",
+            "ja": null
+          },
+          "text": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "New Wave",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3a-103-nihilego"
+    }
+  }
+]
