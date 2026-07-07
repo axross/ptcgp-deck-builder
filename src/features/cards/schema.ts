@@ -29,9 +29,8 @@ export const raritySchema = z.object({
   symbol: z.string(),
   // Listed in canonical tier order (common → crown), per the pull-rarity ladder
   // in ptcgp-domain overview.md §2.5. `S`/`SSR` are the Shiny tiers (✸ / ✸✸)
-  // that first appear in Shining Revelry (A2b) and recur in B1 (Mega Rising);
-  // both rank below Immersive Rare — 1-Shiny (`S`) just above Art Rare, 2-Shiny
-  // (`SSR`) just below Immersive Rare.
+  // that first appear in Shining Revelry (A2b); both rank below Immersive Rare —
+  // 1-Shiny (`S`) just above Art Rare, 2-Shiny (`SSR`) just below Immersive Rare.
   code: z.enum(["C", "U", "R", "RR", "AR", "S", "SR", "SAR", "SSR", "IR", "CR"]),
   label: z.string(),
 });

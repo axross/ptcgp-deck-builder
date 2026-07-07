@@ -129,11 +129,11 @@ const RARITY_BY_LABEL = new Map([
   ["Art Rare", { symbol: "☆", code: "AR", label: "Art Rare" }],
   ["Super Rare", { symbol: "☆☆", code: "SR", label: "Super Rare" }],
   ["Special Art Rare", { symbol: "☆☆", code: "SAR", label: "Special Art Rare" }],
-  // Shiny tiers, first seen in Shining Revelry (A2b); recur in B1 (Mega Rising).
-  ["Shiny", { symbol: "✸", code: "S", label: "Shiny" }],
-  ["Shiny Super Rare", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
   ["Immersive Rare", { symbol: "☆☆☆", code: "IR", label: "Immersive Rare" }],
   ["Crown Rare", { symbol: "♛", code: "CR", label: "Crown Rare" }],
+  // Shiny tiers, first seen in Shining Revelry (A2b).
+  ["Shiny", { symbol: "✸", code: "S", label: "Shiny" }],
+  ["Shiny Super Rare", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
 ]);
 
 /**
