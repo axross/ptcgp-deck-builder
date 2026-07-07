@@ -1,4 +1,8 @@
 .header {
+  /* The surface fills the top safe-area inset (notch/status bar) so the header
+     reaches the true screen edge under `viewport-fit=cover`; content stays below
+     it. */
+  padding-top: env(safe-area-inset-top);
   border-bottom: 1px solid var(--color-border);
   background: var(--color-surface);
 }
@@ -12,6 +16,10 @@
   max-width: 80rem;
   margin: 0 auto;
   padding: var(--space-3);
+  /* Keep the brand and nav clear of landscape notch insets, never below the base
+     inline padding. */
+  padding-left: max(var(--space-3), env(safe-area-inset-left));
+  padding-right: max(var(--space-3), env(safe-area-inset-right));
 }
 
 .brand {
