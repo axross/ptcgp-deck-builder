@@ -44,6 +44,11 @@ body {
 }
 
 body {
+  /* A full-height flex column so the footer (margin-top: auto) rests at the
+     bottom of the viewport on short pages rather than floating mid-screen. */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   background: var(--color-background);
   color: var(--color-text);
   font-family: var(--font-sans);

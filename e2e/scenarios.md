@@ -11,6 +11,7 @@ hard-gated at 100% by `npm run test:e2e:coverage`. Titles must not contain a
 | Id | Title | Area | Priority |
 | -- | ----- | ---- | -------- |
 | home.landing | Visitor opens the app and sees the deck builder landing page | home | must |
+| app.footer.disclaimer | Visitor sees the site-wide footer clarifying the app is unofficial and not affiliated with the Pokémon rights holders | home | should |
 | cards.browse | Visitor browses the full multi-set card catalog as a grid | cards | must |
 | cards.filter | Visitor filters the catalog and the filtered view is URL-shareable | cards | must |
 | cards.filter.set | Visitor filters the catalog by expansion set and the selection is URL-shareable | cards | should |

@@ -1,0 +1,21 @@
+.footer {
+  /* Sits at the bottom of the viewport on short pages via the flex-column body
+     in globals.css; reads as chrome consistent with the header. */
+  margin-top: auto;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.inner {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: var(--space-3);
+}
+
+.text {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  text-align: center;
+}
