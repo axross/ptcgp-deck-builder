@@ -1,7 +1,10 @@
 .footer {
   /* Sits at the bottom of the viewport on short pages via the flex-column body
-     in globals.css; reads as chrome consistent with the header. */
+     in globals.css; reads as chrome consistent with the header. The surface
+     background fills the bottom safe-area inset (home indicator) so it reaches
+     the true screen edge under `viewport-fit=cover`. */
   margin-top: auto;
+  padding-bottom: env(safe-area-inset-bottom);
   border-top: 1px solid var(--color-border);
   background: var(--color-surface);
 }
@@ -10,6 +13,10 @@
   max-width: 80rem;
   margin: 0 auto;
   padding: var(--space-3);
+  /* Keep the disclaimer clear of landscape notch insets, never below the base
+     inline padding. */
+  padding-left: max(var(--space-3), env(safe-area-inset-left));
+  padding-right: max(var(--space-3), env(safe-area-inset-right));
 }
 
 .text {
