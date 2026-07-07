@@ -1,0 +1,6026 @@
+[
+  {
+    "id": "A3b-001",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 1,
+    "setSize": 107,
+    "name": {
+      "en": "Tropius",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cutting Wind",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Oswaldo KATO",
+    "boosterPacks": null,
+    "flavorText": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-1-tropius"
+    }
+  },
+  {
+    "id": "A3b-002",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 2,
+    "setSize": 107,
+    "name": {
+      "en": "Leafeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leaf Blast",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {G} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "chibi",
+    "boosterPacks": null,
+    "flavorText": "When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-2-leafeon"
+    }
+  },
+  {
+    "id": "A3b-003",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 3,
+    "setSize": 107,
+    "name": {
+      "en": "Bounsweet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flop",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuka Morii",
+    "boosterPacks": null,
+    "flavorText": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-3-bounsweet"
+    }
+  },
+  {
+    "id": "A3b-004",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 4,
+    "setSize": 107,
+    "name": {
+      "en": "Steenee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Bounsweet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leaf Step",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-4-steenee"
+    }
+  },
+  {
+    "id": "A3b-005",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 5,
+    "setSize": 107,
+    "name": {
+      "en": "Tsareena",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Steenee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Kick Down",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Your opponent reveals a random card from their hand and shuffles it into their deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-5-tsareena"
+    }
+  },
+  {
+    "id": "A3b-006",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 6,
+    "setSize": 107,
+    "name": {
+      "en": "Applin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-6-applin"
+    }
+  },
+  {
+    "id": "A3b-007",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 7,
+    "setSize": 107,
+    "name": {
+      "en": "Appletun",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Applin",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It feeds mainly on sweet apples. It will also eat small bug Pokémon that are attracted by its sweet nectar.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-7-appletun"
+    }
+  },
+  {
+    "id": "A3b-008",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 8,
+    "setSize": 107,
+    "name": {
+      "en": "Flareon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Assisting Heater",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eri Yamaki",
+    "boosterPacks": null,
+    "flavorText": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-8-flareon"
+    }
+  },
+  {
+    "id": "A3b-009",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 9,
+    "setSize": 107,
+    "name": {
+      "en": "Flareon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Combust",
+            "ja": null
+          },
+          "text": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fire Spin",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard 2 {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-9-flareon-ex"
+    }
+  },
+  {
+    "id": "A3b-010",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 10,
+    "setSize": 107,
+    "name": {
+      "en": "Torkoal",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flamethrower",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Discard a {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-10-torkoal"
+    }
+  },
+  {
+    "id": "A3b-011",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 11,
+    "setSize": 107,
+    "name": {
+      "en": "Litten",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flare",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "0313",
+    "boosterPacks": null,
+    "flavorText": "If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-11-litten"
+    }
+  },
+  {
+    "id": "A3b-012",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 12,
+    "setSize": 107,
+    "name": {
+      "en": "Torracat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Litten",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Claw Slash",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Torracat will let its Trainer coddle it once they’ve grown close, but it’s a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-12-torracat"
+    }
+  },
+  {
+    "id": "A3b-013",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 13,
+    "setSize": 107,
+    "name": {
+      "en": "Incineroar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Torracat",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Darkest Lariat",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 100,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 100 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-13-incineroar"
+    }
+  },
+  {
+    "id": "A3b-014",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 14,
+    "setSize": 107,
+    "name": {
+      "en": "Salandit",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ember",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Discard a {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "tetsuya koizumi",
+    "boosterPacks": null,
+    "flavorText": "It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-14-salandit"
+    }
+  },
+  {
+    "id": "A3b-015",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 15,
+    "setSize": 107,
+    "name": {
+      "en": "Salazzle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Salandit",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Combustion",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-15-salazzle"
+    }
+  },
+  {
+    "id": "A3b-016",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 16,
+    "setSize": 107,
+    "name": {
+      "en": "Vaporeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hyper Whirlpool",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-16-vaporeon"
+    }
+  },
+  {
+    "id": "A3b-017",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 17,
+    "setSize": 107,
+    "name": {
+      "en": "Glaceon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ice Blade",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-17-glaceon"
+    }
+  },
+  {
+    "id": "A3b-018",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 18,
+    "setSize": 107,
+    "name": {
+      "en": "Vanillite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-18-vanillite"
+    }
+  },
+  {
+    "id": "A3b-019",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 19,
+    "setSize": 107,
+    "name": {
+      "en": "Vanillish",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Vanillite",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-19-vanillish"
+    }
+  },
+  {
+    "id": "A3b-020",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 20,
+    "setSize": 107,
+    "name": {
+      "en": "Vanilluxe",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Vanillish",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Spin",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 80 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ayaka Yoshida",
+    "boosterPacks": null,
+    "flavorText": "When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-20-vanilluxe"
+    }
+  },
+  {
+    "id": "A3b-021",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 21,
+    "setSize": 107,
+    "name": {
+      "en": "Alomomola",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Pulse",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-21-alomomola"
+    }
+  },
+  {
+    "id": "A3b-022",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 22,
+    "setSize": 107,
+    "name": {
+      "en": "Popplio",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Watering",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "The balloons it inflates with its nose grow larger and larger as it practices day by day.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-22-popplio"
+    }
+  },
+  {
+    "id": "A3b-023",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 23,
+    "setSize": 107,
+    "name": {
+      "en": "Brionne",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Popplio",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "It gets excited when it sees a dance it doesn’t know. This hard worker practices diligently until it can learn that dance.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-23-brionne"
+    }
+  },
+  {
+    "id": "A3b-024",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 24,
+    "setSize": 107,
+    "name": {
+      "en": "Primarina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Brionne",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hydro Pump",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+        },
+        {
+          "name": {
+            "en": "Sparkling Aria",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-24-primarina-ex"
+    }
+  },
+  {
+    "id": "A3b-025",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 25,
+    "setSize": 107,
+    "name": {
+      "en": "Jolteon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beginning Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-25-jolteon"
+    }
+  },
+  {
+    "id": "A3b-026",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 26,
+    "setSize": 107,
+    "name": {
+      "en": "Joltik",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Jolt",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-26-joltik"
+    }
+  },
+  {
+    "id": "A3b-027",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 27,
+    "setSize": 107,
+    "name": {
+      "en": "Galvantula",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Joltik",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electric Shock",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "otumami",
+    "boosterPacks": null,
+    "flavorText": "It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-27-galvantula"
+    }
+  },
+  {
+    "id": "A3b-028",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 28,
+    "setSize": 107,
+    "name": {
+      "en": "Espeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energy Crush",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-28-espeon"
+    }
+  },
+  {
+    "id": "A3b-029",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 29,
+    "setSize": 107,
+    "name": {
+      "en": "Woobat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gust",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-29-woobat"
+    }
+  },
+  {
+    "id": "A3b-030",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 30,
+    "setSize": 107,
+    "name": {
+      "en": "Swoobat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Woobat",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "Emitting powerful sound waves tires it out. Afterward, it won’t be able to fly for a little while.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-30-swoobat"
+    }
+  },
+  {
+    "id": "A3b-031",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 31,
+    "setSize": 107,
+    "name": {
+      "en": "Swirlix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-31-swirlix"
+    }
+  },
+  {
+    "id": "A3b-032",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 32,
+    "setSize": 107,
+    "name": {
+      "en": "Slurpuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Swirlix",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-32-slurpuff"
+    }
+  },
+  {
+    "id": "A3b-033",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 33,
+    "setSize": 107,
+    "name": {
+      "en": "Sylveon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Evoharmony",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-33-sylveon"
+    }
+  },
+  {
+    "id": "A3b-034",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 34,
+    "setSize": 107,
+    "name": {
+      "en": "Sylveon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Happy Ribbon",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fairy Wind",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-34-sylveon-ex"
+    }
+  },
+  {
+    "id": "A3b-035",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 35,
+    "setSize": 107,
+    "name": {
+      "en": "Mimikyu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Try to Imitate",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Eri Yamaki",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-35-mimikyu"
+    }
+  },
+  {
+    "id": "A3b-036",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 36,
+    "setSize": 107,
+    "name": {
+      "en": "Milcery",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Relay",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-36-milcery"
+    }
+  },
+  {
+    "id": "A3b-037",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 37,
+    "setSize": 107,
+    "name": {
+      "en": "Alcremie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Milcery",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweets Overload",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 40,
+          "damageSuffix": "×",
+          "text": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "When it trusts a Trainer, it will treat them to berries it’s decorated with cream.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-37-alcremie"
+    }
+  },
+  {
+    "id": "A3b-038",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 38,
+    "setSize": 107,
+    "name": {
+      "en": "Barboach",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mud Shot",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey’s location.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-38-barboach"
+    }
+  },
+  {
+    "id": "A3b-039",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 39,
+    "setSize": 107,
+    "name": {
+      "en": "Whiscash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Barboach",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Earthquake",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shinji Kanda",
+    "boosterPacks": null,
+    "flavorText": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-39-whiscash"
+    }
+  },
+  {
+    "id": "A3b-040",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 40,
+    "setSize": 107,
+    "name": {
+      "en": "Mienfoo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Kick Shot",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-40-mienfoo"
+    }
+  },
+  {
+    "id": "A3b-041",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 41,
+    "setSize": 107,
+    "name": {
+      "en": "Mienshao",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Mienfoo",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Low Kick",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-41-mienshao"
+    }
+  },
+  {
+    "id": "A3b-042",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 42,
+    "setSize": 107,
+    "name": {
+      "en": "Carbink",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hard Roll",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": "When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-42-carbink"
+    }
+  },
+  {
+    "id": "A3b-043",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 43,
+    "setSize": 107,
+    "name": {
+      "en": "Umbreon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dark Binding",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-43-umbreon"
+    }
+  },
+  {
+    "id": "A3b-044",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 44,
+    "setSize": 107,
+    "name": {
+      "en": "Sableye",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scratch",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-44-sableye"
+    }
+  },
+  {
+    "id": "A3b-045",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 45,
+    "setSize": 107,
+    "name": {
+      "en": "Purrloin",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Playful Knockdown",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-45-purrloin"
+    }
+  },
+  {
+    "id": "A3b-046",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 46,
+    "setSize": 107,
+    "name": {
+      "en": "Liepard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Purrloin",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slashing Claw",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-46-liepard"
+    }
+  },
+  {
+    "id": "A3b-047",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 47,
+    "setSize": 107,
+    "name": {
+      "en": "Mawile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Powerful Vise",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-47-mawile"
+    }
+  },
+  {
+    "id": "A3b-048",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 48,
+    "setSize": 107,
+    "name": {
+      "en": "Togedemaru",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bristling Spikes",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Oswaldo KATO",
+    "boosterPacks": null,
+    "flavorText": "With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-48-togedemaru"
+    }
+  },
+  {
+    "id": "A3b-049",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 49,
+    "setSize": 107,
+    "name": {
+      "en": "Meltan",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": "It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-49-meltan"
+    }
+  },
+  {
+    "id": "A3b-050",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 50,
+    "setSize": 107,
+    "name": {
+      "en": "Melmetal",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Meltan",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Punch",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Metal"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "NC Empire",
+    "boosterPacks": null,
+    "flavorText": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-50-melmetal"
+    }
+  },
+  {
+    "id": "A3b-051",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 51,
+    "setSize": 107,
+    "name": {
+      "en": "Dratini",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beat",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-51-dratini"
+    }
+  },
+  {
+    "id": "A3b-052",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 52,
+    "setSize": 107,
+    "name": {
+      "en": "Dragonair",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Dratini",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Waterfall",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-52-dragonair"
+    }
+  },
+  {
+    "id": "A3b-053",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 53,
+    "setSize": 107,
+    "name": {
+      "en": "Dragonite ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Dragonair",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Giga Impact",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning", "Colorless"],
+          "damage": 180,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-53-dragonite-ex"
+    }
+  },
+  {
+    "id": "A3b-054",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 54,
+    "setSize": 107,
+    "name": {
+      "en": "Drampa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Breath",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-54-drampa"
+    }
+  },
+  {
+    "id": "A3b-055",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 55,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Collect",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoki Saito",
+    "boosterPacks": null,
+    "flavorText": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-55-eevee"
+    }
+  },
+  {
+    "id": "A3b-056",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 56,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Veevee ’volve",
+            "ja": null
+          },
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-56-eevee-ex"
+    }
+  },
+  {
+    "id": "A3b-057",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 57,
+    "setSize": 107,
+    "name": {
+      "en": "Snorlax ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Full-Mouth Manner",
+            "ja": null
+          },
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flop-Down Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Tsuji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-57-snorlax-ex"
+    }
+  },
+  {
+    "id": "A3b-058",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 58,
+    "setSize": 107,
+    "name": {
+      "en": "Aipom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Hit",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-58-aipom"
+    }
+  },
+  {
+    "id": "A3b-059",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 59,
+    "setSize": 107,
+    "name": {
+      "en": "Ambipom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Aipom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Catching Tail",
+            "ja": null
+          },
+          "text": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corkscrew Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-59-ambipom"
+    }
+  },
+  {
+    "id": "A3b-060",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 60,
+    "setSize": 107,
+    "name": {
+      "en": "Chatot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tone-Deaf",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-60-chatot"
+    }
+  },
+  {
+    "id": "A3b-061",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 61,
+    "setSize": 107,
+    "name": {
+      "en": "Audino",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Do the Wave",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "This attack does 20 damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-61-audino"
+    }
+  },
+  {
+    "id": "A3b-062",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 62,
+    "setSize": 107,
+    "name": {
+      "en": "Minccino",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pound",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-62-minccino"
+    }
+  },
+  {
+    "id": "A3b-063",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 63,
+    "setSize": 107,
+    "name": {
+      "en": "Cinccino",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Minccino",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slap",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won’t tolerate even a speck of the stuff.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-63-cinccino"
+    }
+  },
+  {
+    "id": "A3b-064",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 64,
+    "setSize": 107,
+    "name": {
+      "en": "Skwovet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-64-skwovet"
+    }
+  },
+  {
+    "id": "A3b-065",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 65,
+    "setSize": 107,
+    "name": {
+      "en": "Greedent",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Skwovet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Enhanced Fang",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kirisAki",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-65-greedent"
+    }
+  },
+  {
+    "id": "A3b-066",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 66,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee Bag",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Choose 1:\n\n① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\n② Heal 20 damage from each of your Pokémon that evolves from Eevee."
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-66-eevee-bag"
+    }
+  },
+  {
+    "id": "A3b-067",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 67,
+    "setSize": 107,
+    "name": {
+      "en": "Leftovers",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "At the end of your turn, if the Pokémon this card is attached to is in the Active Spot, heal 10 damage from that Pokémon."
+    },
+    "illustrator": "Studio Bora Inc.",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-67-leftovers"
+    }
+  },
+  {
+    "id": "A3b-068",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 68,
+    "setSize": 107,
+    "name": {
+      "en": "Hau",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-68-hau"
+    }
+  },
+  {
+    "id": "A3b-069",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 69,
+    "setSize": 107,
+    "name": {
+      "en": "Penny",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-69-penny"
+    }
+  },
+  {
+    "id": "A3b-070",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 70,
+    "setSize": 107,
+    "name": {
+      "en": "Leafeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leaf Blast",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {G} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "When you see Leafeon asleep in a patch of sunshine, you’ll know it is using photosynthesis to produce clean air.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-70-leafeon"
+    }
+  },
+  {
+    "id": "A3b-071",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 71,
+    "setSize": 107,
+    "name": {
+      "en": "Flareon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Assisting Heater",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Take a {R} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": "Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-71-flareon"
+    }
+  },
+  {
+    "id": "A3b-072",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 72,
+    "setSize": 107,
+    "name": {
+      "en": "Vaporeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hyper Whirlpool",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "chibi",
+    "boosterPacks": null,
+    "flavorText": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid’s.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-72-vaporeon"
+    }
+  },
+  {
+    "id": "A3b-073",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 73,
+    "setSize": 107,
+    "name": {
+      "en": "Glaceon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ice Blade",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Fujimoto Gold",
+    "boosterPacks": null,
+    "flavorText": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-73-glaceon"
+    }
+  },
+  {
+    "id": "A3b-074",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 74,
+    "setSize": 107,
+    "name": {
+      "en": "Jolteon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Beginning Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-74-jolteon"
+    }
+  },
+  {
+    "id": "A3b-075",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 75,
+    "setSize": 107,
+    "name": {
+      "en": "Espeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energy Crush",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "rika",
+    "boosterPacks": null,
+    "flavorText": "The tip of its forked tail quivers when it is predicting its opponent’s next move.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-75-espeon"
+    }
+  },
+  {
+    "id": "A3b-076",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 76,
+    "setSize": 107,
+    "name": {
+      "en": "Sylveon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Evoharmony",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-76-sylveon"
+    }
+  },
+  {
+    "id": "A3b-077",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 77,
+    "setSize": 107,
+    "name": {
+      "en": "Umbreon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dark Binding",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-77-umbreon"
+    }
+  },
+  {
+    "id": "A3b-078",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 78,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Collect",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Narumi Sato",
+    "boosterPacks": null,
+    "flavorText": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-78-eevee"
+    }
+  },
+  {
+    "id": "A3b-079",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 79,
+    "setSize": 107,
+    "name": {
+      "en": "Flareon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Combust",
+            "ja": null
+          },
+          "text": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fire Spin",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard 2 {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-79-flareon-ex"
+    }
+  },
+  {
+    "id": "A3b-080",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 80,
+    "setSize": 107,
+    "name": {
+      "en": "Primarina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Brionne",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hydro Pump",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+        },
+        {
+          "name": {
+            "en": "Sparkling Aria",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-80-primarina-ex"
+    }
+  },
+  {
+    "id": "A3b-081",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 81,
+    "setSize": 107,
+    "name": {
+      "en": "Sylveon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Happy Ribbon",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fairy Wind",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-81-sylveon-ex"
+    }
+  },
+  {
+    "id": "A3b-082",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 82,
+    "setSize": 107,
+    "name": {
+      "en": "Dragonite ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Dragonair",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Giga Impact",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning", "Colorless"],
+          "damage": 180,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mochizuki",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-82-dragonite-ex"
+    }
+  },
+  {
+    "id": "A3b-083",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 83,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Veevee ’volve",
+            "ja": null
+          },
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-83-eevee-ex"
+    }
+  },
+  {
+    "id": "A3b-084",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 84,
+    "setSize": 107,
+    "name": {
+      "en": "Snorlax ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Full-Mouth Manner",
+            "ja": null
+          },
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flop-Down Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-84-snorlax-ex"
+    }
+  },
+  {
+    "id": "A3b-085",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 85,
+    "setSize": 107,
+    "name": {
+      "en": "Hau",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, attacks used by your Decidueye ex, Incineroar ex, or Primarina ex do +30 damage to your opponent's Active Pokémon."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-85-hau"
+    }
+  },
+  {
+    "id": "A3b-086",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 86,
+    "setSize": 107,
+    "name": {
+      "en": "Penny",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Look at a random Supporter card that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-86-penny"
+    }
+  },
+  {
+    "id": "A3b-087",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 87,
+    "setSize": 107,
+    "name": {
+      "en": "Flareon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Combust",
+            "ja": null
+          },
+          "text": "Once during your turn, you may attach a {R} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fire Spin",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard 2 {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kuroimori",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-87-flareon-ex"
+    }
+  },
+  {
+    "id": "A3b-088",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 88,
+    "setSize": 107,
+    "name": {
+      "en": "Primarina ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Brionne",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hydro Pump",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 1 extra {W} Energy attached, this attack does 40 more damage."
+        },
+        {
+          "name": {
+            "en": "Sparkling Aria",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-88-primarina-ex"
+    }
+  },
+  {
+    "id": "A3b-089",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 89,
+    "setSize": 107,
+    "name": {
+      "en": "Sylveon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Happy Ribbon",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fairy Wind",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-89-sylveon-ex"
+    }
+  },
+  {
+    "id": "A3b-090",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 90,
+    "setSize": 107,
+    "name": {
+      "en": "Dragonite ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 180,
+      "stage": "Stage2",
+      "evolvesFrom": "Dragonair",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Giga Impact",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning", "Colorless"],
+          "damage": 180,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mori Yuu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-90-dragonite-ex"
+    }
+  },
+  {
+    "id": "A3b-091",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 91,
+    "setSize": 107,
+    "name": {
+      "en": "Snorlax ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 4,
+      "abilities": [
+        {
+          "name": {
+            "en": "Full-Mouth Manner",
+            "ja": null
+          },
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flop-Down Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mékayu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-91-snorlax-ex"
+    }
+  },
+  {
+    "id": "A3b-092",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 92,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Veevee ’volve",
+            "ja": null
+          },
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kurumitsu",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-92-eevee-ex"
+    }
+  },
+  {
+    "id": "A3b-093",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 93,
+    "setSize": 107,
+    "name": {
+      "en": "Pinsir",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Guillotine Rush",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-93-pinsir"
+    }
+  },
+  {
+    "id": "A3b-094",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 94,
+    "setSize": 107,
+    "name": {
+      "en": "Lapras",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hydro Pump",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has at least 3 extra {W} Energy attached, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nelnal",
+    "boosterPacks": null,
+    "flavorText": "A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-94-lapras"
+    }
+  },
+  {
+    "id": "A3b-095",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 95,
+    "setSize": 107,
+    "name": {
+      "en": "Voltorb",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Big Explosion",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Scav",
+    "boosterPacks": null,
+    "flavorText": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-95-voltorb"
+    }
+  },
+  {
+    "id": "A3b-096",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 96,
+    "setSize": 107,
+    "name": {
+      "en": "Electrode",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Voltorb",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rolling Attack",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Scav",
+    "boosterPacks": null,
+    "flavorText": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-96-electrode"
+    }
+  },
+  {
+    "id": "A3b-097",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 97,
+    "setSize": 107,
+    "name": {
+      "en": "Ralts",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Teleport",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "The horns on its head provide a strong power that enables it to sense people’s emotions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-97-ralts"
+    }
+  },
+  {
+    "id": "A3b-098",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 98,
+    "setSize": 107,
+    "name": {
+      "en": "Kirlia",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Ralts",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slap",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "It has a psychic power that enables it to distort the space around it and see into the future.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-98-kirlia"
+    }
+  },
+  {
+    "id": "A3b-099",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 99,
+    "setSize": 107,
+    "name": {
+      "en": "Gardevoir",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 110,
+      "stage": "Stage2",
+      "evolvesFrom": "Kirlia",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Psy Shadow",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take 1 {P} Energy from your Energy Zone and attach it to the {P} Pokémon in the Active Spot."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-99-gardevoir"
+    }
+  },
+  {
+    "id": "A3b-100",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 100,
+    "setSize": 107,
+    "name": {
+      "en": "Ekans",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "SATOSHI NAKAI",
+    "boosterPacks": null,
+    "flavorText": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-100-ekans"
+    }
+  },
+  {
+    "id": "A3b-101",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 101,
+    "setSize": 107,
+    "name": {
+      "en": "Arbok",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Ekans",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Corner",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "SATOSHI NAKAI",
+    "boosterPacks": null,
+    "flavorText": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-101-arbok"
+    }
+  },
+  {
+    "id": "A3b-102",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 102,
+    "setSize": 107,
+    "name": {
+      "en": "Farfetch'd",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Leek Slap",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-102-farfetchd"
+    }
+  },
+  {
+    "id": "A3b-103",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 103,
+    "setSize": 107,
+    "name": {
+      "en": "Moltres ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Inferno Dance",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. Take an amount of {R} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {R} Pokémon in any way you like."
+        },
+        {
+          "name": {
+            "en": "Heat Blast",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Saito",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-103-moltres-ex"
+    }
+  },
+  {
+    "id": "A3b-104",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 104,
+    "setSize": 107,
+    "name": {
+      "en": "Articuno ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ice Wing",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Blizzard",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Saito",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-104-articuno-ex"
+    }
+  },
+  {
+    "id": "A3b-105",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 105,
+    "setSize": 107,
+    "name": {
+      "en": "Zapdos ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Peck",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        },
+        {
+          "name": {
+            "en": "Thundering Hurricane",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Lightning"],
+          "damage": 50,
+          "damageSuffix": "×",
+          "text": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Saito",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-105-zapdos-ex"
+    }
+  },
+  {
+    "id": "A3b-106",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 106,
+    "setSize": 107,
+    "name": {
+      "en": "Gallade ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 170,
+      "stage": "Stage2",
+      "evolvesFrom": "Kirlia",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energized Blade",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-106-gallade-ex"
+    }
+  },
+  {
+    "id": "A3b-107",
+    "set": {
+      "code": "A3b",
+      "name": "Eevee Grove",
+      "nameJa": "イーブイガーデン"
+    },
+    "number": 107,
+    "setSize": 107,
+    "name": {
+      "en": "Eevee Bag",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Choose 1:\n\n① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.\n\n② Heal 20 damage from each of your Pokémon that evolves from Eevee."
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "a3b-107-eevee-bag"
+    }
+  }
+]

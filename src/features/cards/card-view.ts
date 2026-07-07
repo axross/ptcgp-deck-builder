@@ -61,7 +61,7 @@ export type RarityOption = { code: string; label: string };
 // Canonical tier order (mirrors the rarity codes enum in schema.ts) so the
 // filter control lists rarities from common to crown regardless of the order
 // cards happen to appear in the dataset.
-const rarityCodeOrder = ["C", "U", "R", "RR", "AR", "SR", "SAR", "IR", "CR"];
+const rarityCodeOrder = ["C", "U", "R", "RR", "AR", "S", "SR", "SAR", "SSR", "IR", "CR"];
 
 /**
  * The distinct rarities present in `cards`, in canonical tier order. Derived

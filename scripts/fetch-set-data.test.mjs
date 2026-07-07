@@ -200,13 +200,43 @@ describe("normalizeDotggCard()", () => {
   });
 
   it("passes an unknown rarity through as its own code so the schema rejects it", () => {
-    const shiny = { ...bulbasaurRaw, rarity: "Shiny" };
+    const mystery = { ...bulbasaurRaw, rarity: "Mythic Rare" };
 
-    expect(normalizeDotggCard(shiny, "A1").rarity).toEqual({
-      symbol: "Shiny",
-      code: "Shiny",
+    expect(normalizeDotggCard(mystery, "A1").rarity).toEqual({
+      symbol: "Mythic Rare",
+      code: "Mythic Rare",
+      label: "Mythic Rare",
+    });
+  });
+
+  it("maps the A2b Shiny tiers to their ✸ / ✸✸ rarity codes", () => {
+    const shiny = { ...bulbasaurRaw, rarity: "Shiny" };
+    const shinySuper = { ...bulbasaurRaw, rarity: "Shiny Super Rare" };
+
+    expect(normalizeDotggCard(shiny, "A2b").rarity).toEqual({
+      symbol: "✸",
+      code: "S",
       label: "Shiny",
     });
+    expect(normalizeDotggCard(shinySuper, "A2b").rarity).toEqual({
+      symbol: "✸✸",
+      code: "SSR",
+      label: "Shiny Super Rare",
+    });
+  });
+
+  it("classifies an Ultra Beast from its dotgg flair, leaving others null", () => {
+    const nihilego = {
+      ...bulbasaurRaw,
+      name: "Nihilego",
+      slug: "a3a-42-nihilego",
+      flairs: [
+        { flairs: [{ slug: "battleeffect-ultra-beast-flair-battle", name: "Ultra Beast Flair" }] },
+      ],
+    };
+
+    expect(normalizeDotggCard(nihilego, "A3a").pokemon.classification).toBe("UltraBeast");
+    expect(normalizeDotggCard(bulbasaurRaw, "A1").pokemon.classification).toBeNull();
   });
 
   it("produces records that pass the full transform and schema validation", () => {

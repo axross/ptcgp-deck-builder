@@ -61,6 +61,38 @@ describe("getCard()", () => {
   });
 });
 
+describe("first-of-kind mechanics across the seeded sets", () => {
+  it("types a Pokémon Tool trainer subtype (first seen in A2)", () => {
+    expect(getCard("A2-147")).toMatchObject({
+      category: "Trainer",
+      trainer: { subtype: "PokemonTool" },
+    });
+  });
+
+  it("carries the Shiny rarity tiers introduced in A2b", () => {
+    expect(getCard("A2b-097")?.rarity).toMatchObject({ symbol: "✸", code: "S", label: "Shiny" });
+    expect(getCard("A2b-107")?.rarity).toMatchObject({
+      symbol: "✸✸",
+      code: "SSR",
+      label: "Shiny Super Rare",
+    });
+  });
+
+  it("classifies an Ultra Beast, first seen in A3a", () => {
+    const nihilego = getCard("A3a-042");
+
+    expect(nihilego?.category).toBe("Pokemon");
+    expect(nihilego?.pokemon?.classification).toBe("UltraBeast");
+  });
+
+  it("leaves isBaby false everywhere — no source marks Baby Pokémon", () => {
+    const pokemon = getAllCards().filter((card) => card.category === "Pokemon");
+
+    expect(pokemon.length).toBeGreaterThan(0);
+    expect(pokemon.every((card) => card.pokemon.isBaby === false)).toBe(true);
+  });
+});
+
 describe("per-set access", () => {
   it("returns exactly a set's cards, matching the registry's card count", () => {
     const a1Count = getSet("A1")?.cardCount;

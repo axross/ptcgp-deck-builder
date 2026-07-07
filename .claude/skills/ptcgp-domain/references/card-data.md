@@ -1,7 +1,10 @@
-# PTCGP Card Data — Genetic Apex (A1)
+# PTCGP Card Data
 
-The repository's machine-readable card data lives at
-`src/features/cards/data/genetic-apex-a1.json` — a JSON **array** (converted
+The repository's machine-readable card data lives under
+`src/features/cards/data/` — one JSON file per expansion. Genetic Apex (A1) is
+the canonical worked example below; the sets seeded on top of it (A1a–A4a) and
+their per-set quirks are covered in "Seeded expansions beyond A1". The A1 file,
+`src/features/cards/data/genetic-apex-a1.json`, is a JSON **array** (converted
 from the upstream JSONL, one object per card) following the card model
 described in [`overview.md`](./overview.md) §2. The Zod implementation in
 `src/features/cards/schema.ts` is the authoritative, type-checked form of this
@@ -110,7 +113,12 @@ schema; this document explains the fields and the source's quirks.
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-(Shiny tiers `✸` / `✸✸` do not appear until Shining Revelry / A2b. Their exact `code` strings are defined by that dataset; extend the rarity `code` enum in `schema.ts` when validation rejects them during the fetch — see the ingestion pipeline below.)
+**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `code` enum and the rarity filter follow.
+
+| Code  | Symbol | Label            | First in |
+| ----- | ------ | ---------------- | -------- |
+| `S`   | ✸      | Shiny            | A2b      |
+| `SSR` | ✸✸     | Shiny Super Rare | A2b      |
 
 **`stage`:** Basic, Stage1, Stage2 · **`ruleBox`:** None, ex · **`trainer.subtype`:** Supporter, Item.
 
@@ -120,9 +128,18 @@ These are modeled now so the identical schema scales to later sets and richer so
 
 - `name.ja` and attack/ability `name.ja` — Japanese names (the source is English-only).
 - `boosterPacks` — pack-exclusivity, not exposed by the source.
-- `pokemon.classification` — `UltraBeast` arrives in A3a; `Ancient`/`Future` in B3a.
-- `pokemon.isBaby` — Baby Pokémon arrive in A4.
+- `pokemon.classification` — `UltraBeast` is populated from A3a (see the seeded-sets quirks below); `Ancient`/`Future` (from B3a) have no dotgg signal yet.
+- `pokemon.isBaby` — **not sourced.** No source (dotgg or Limitless) marks Baby Pokémon, and PTCGP does not surface "Baby" as a card mechanic — e.g. A4 Pichu is a plain Basic. The field stays `false` for every seeded card; revisit only if a source ever exposes it.
 - `pokemon.ruleBox` and `trainer.subtype` are **open enumerations**: later sets add `MegaEx`, `PokemonTool`, `Stadium`, etc. The Zod enums in `schema.ts` already include the documented future values; extend them when a new mechanic ships.
+
+## Seeded expansions beyond A1 (A1a–A4a) and their quirks
+
+The catalog seeds every A-series set through A4a; each is one JSON file under `data/`, fetched by the pipeline below and registered in `catalog.ts`. Per-set quirks, in the A1-quirks style:
+
+- **Shiny rarities (A2b, Shining Revelry).** First set with the `✸` / `✸✸` tiers — `code` `S` / `SSR` (see the rarity table above). dotgg labels them `Shiny` and `Shiny Super Rare`.
+- **UltraBeast classification (A3a, Extradimensional Crisis).** dotgg has **no classification field**; the only signal is a customization *flair* whose slug carries `ultra-beast`, present on every printing of a UB card and absent on all others. `deriveClassification` in `fetch-set-data.mjs` reads it to set `pokemon.classification = "UltraBeast"` (19 printings / 11 names in A3a). A future `Ancient`/`Future` set will need its own signal.
+- **`isBaby` (A4, Wisdom of Sea and Sky).** Despite the physical TCG's Baby mechanic, PTCGP has no Baby card mechanic and no source exposes one; `isBaby` stays `false` (see the reserved-fields note above).
+- **A4b (Deluxe Pack: ex) is not yet seeded.** dotgg models it as 379 ordinary numbered cards (no parallel-foil variant data to represent), but 33 of them carry no upstream rarity and would fail `cardSchema`. It is deferred until that upstream data is complete rather than seeded with a placeholder rarity.
 
 ## Ingestion pipeline (fetching a set)
 
@@ -163,6 +180,6 @@ Seeding a set is an automated fetch + validate step, not a hand-assembled list. 
 | `props` "Pack Point"/"Dupe Reward" | `shop.packPoints`/`shop.dupeShinedust` | Values may carry a thousands separator (`"1,250"`). |
 | `illustrator` | `illustrator` | |
 
-Game text carries light HTML (`<br>` → newline; `<strong>` / `<span class="reminder-text">` stripped, inner text kept). `boosterPacks` is not exposed by dotgg (kept null). `pokemon.isBaby` and `pokemon.classification` are not yet sourced from dotgg — revisit their mapping when seeding A4+ (Baby) and A3a+ (UltraBeast) / B3a+ (Ancient/Future).
+Game text carries light HTML (`<br>` → newline; `<strong>` / `<span class="reminder-text">` stripped, inner text kept). `boosterPacks` is not exposed by dotgg (kept null). `pokemon.classification` is derived from dotgg's `flairs` (an `ultra-beast` flair slug → `UltraBeast`, from A3a; `Ancient`/`Future` have no signal yet). `pokemon.isBaby` is not sourced by anything and stays `false` — see the reserved-fields note.
 
-**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above). An unmapped label is passed through as its own `code`, so `cardSchema` rejects it and names the card. dotgg exposes the A2b Shiny tiers as the labels **`"Shiny"`** (`✸`) and **`"Shiny Super Rare"`** (`✸✸`); add these to `RARITY_BY_LABEL` in `fetch-set-data.mjs` and to the `code` enum in `schema.ts` when seeding A2b (see the ingestion pipeline's Shiny step).
+**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above). An unmapped label is passed through as its own `code`, so `cardSchema` rejects it and names the card — the trigger that first surfaced the Shiny tiers. dotgg exposes the A2b Shiny tiers as the labels **`"Shiny"`** (`✸`, code `S`) and **`"Shiny Super Rare"`** (`✸✸`, code `SSR`); both are now in `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `code` enum (`schema.ts`).
