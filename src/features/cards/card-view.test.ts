@@ -44,10 +44,9 @@ describe("deriveRarityOptions()", () => {
       { code: "R", label: "Rare" },
       { code: "RR", label: "Double Rare" },
       { code: "AR", label: "Art Rare" },
+      { code: "S", label: "Shiny" },
       { code: "SR", label: "Super Rare" },
       { code: "SAR", label: "Special Art Rare" },
-      // The Shiny tiers enter the catalog with B1 (Mega Rising).
-      { code: "S", label: "Shiny" },
       { code: "SSR", label: "Shiny Super Rare" },
       { code: "IR", label: "Immersive Rare" },
       { code: "CR", label: "Crown Rare" },
@@ -69,6 +68,12 @@ describe("deriveSetOptions()", () => {
       { code: "A1a", label: "Mythical Island (A1a)" },
       { code: "A2", label: "Space-Time Smackdown (A2)" },
       { code: "A2a", label: "Triumphant Light (A2a)" },
+      { code: "A2b", label: "Shining Revelry (A2b)" },
+      { code: "A3", label: "Celestial Guardians (A3)" },
+      { code: "A3a", label: "Extradimensional Crisis (A3a)" },
+      { code: "A3b", label: "Eevee Grove (A3b)" },
+      { code: "A4", label: "Wisdom of Sea and Sky (A4)" },
+      { code: "A4a", label: "Secluded Springs (A4a)" },
       { code: "B1", label: "Mega Rising (B1)" },
     ]);
   });

@@ -219,30 +219,44 @@ describe("normalizeDotggCard()", () => {
     expect(normalizeDotggCard(tool, "A2").trainer.subtype).toBe("PokemonTool");
   });
 
-  it("maps the B1 Shiny tiers to their { symbol, code, label } tuples", () => {
+  it("passes an unknown rarity through as its own code so the schema rejects it", () => {
+    const mystery = { ...bulbasaurRaw, rarity: "Mythic Rare" };
+
+    expect(normalizeDotggCard(mystery, "A1").rarity).toEqual({
+      symbol: "Mythic Rare",
+      code: "Mythic Rare",
+      label: "Mythic Rare",
+    });
+  });
+
+  it("maps the A2b Shiny tiers to their ✸ / ✸✸ rarity codes", () => {
     const shiny = { ...bulbasaurRaw, rarity: "Shiny" };
     const shinySuper = { ...bulbasaurRaw, rarity: "Shiny Super Rare" };
 
-    expect(normalizeDotggCard(shiny, "B1").rarity).toEqual({
+    expect(normalizeDotggCard(shiny, "A2b").rarity).toEqual({
       symbol: "✸",
       code: "S",
       label: "Shiny",
     });
-    expect(normalizeDotggCard(shinySuper, "B1").rarity).toEqual({
+    expect(normalizeDotggCard(shinySuper, "A2b").rarity).toEqual({
       symbol: "✸✸",
       code: "SSR",
       label: "Shiny Super Rare",
     });
   });
 
-  it("passes an unknown rarity through as its own code so the schema rejects it", () => {
-    const mystery = { ...bulbasaurRaw, rarity: "Ultra Secret Rare" };
+  it("classifies an Ultra Beast from its dotgg flair, leaving others null", () => {
+    const nihilego = {
+      ...bulbasaurRaw,
+      name: "Nihilego",
+      slug: "a3a-42-nihilego",
+      flairs: [
+        { flairs: [{ slug: "battleeffect-ultra-beast-flair-battle", name: "Ultra Beast Flair" }] },
+      ],
+    };
 
-    expect(normalizeDotggCard(mystery, "A1").rarity).toEqual({
-      symbol: "Ultra Secret Rare",
-      code: "Ultra Secret Rare",
-      label: "Ultra Secret Rare",
-    });
+    expect(normalizeDotggCard(nihilego, "A3a").pokemon.classification).toBe("UltraBeast");
+    expect(normalizeDotggCard(bulbasaurRaw, "A1").pokemon.classification).toBeNull();
   });
 
   it("produces records that pass the full transform and schema validation", () => {

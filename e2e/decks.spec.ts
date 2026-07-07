@@ -19,7 +19,7 @@ const STORAGE_KEY = "ptcgp-deck-builder:decks";
 
 // The picker grid is virtualized: the mounted tile count tracks the viewport
 // (rows in view plus a small overscan; measured ~30–50 at this viewport),
-// never the 1006-card catalog. This cap mirrors MAX_MOUNTED_TILES in
+// never the 1912-card catalog. This cap mirrors MAX_MOUNTED_TILES in
 // cards.spec.ts — far above any real window, far below the catalog — so it
 // fails loudly if virtualization regresses to render-everything.
 const MAX_MOUNTED_TILES = 120;

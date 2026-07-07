@@ -1,15 +1,32 @@
 import { expect, type Page, test } from "@playwright/test";
 
-// The full catalog size — the sum of the seeded sets (A1 + A1a + A2 + A2a +
-// B1) — asserted here via the result count (the grid itself is virtualized and
-// never mounts the whole catalog) and checked against the catalog's own count
-// assertions in the unit tests. Per-set sizes drive the cross-set filter test.
+// The full catalog size — the sum of every seeded set — asserted here via the
+// result count (the grid itself is virtualized and never mounts the whole
+// catalog) and checked against the catalog's own count assertions in the unit
+// tests. Per-set sizes drive the cross-set filter test.
 const A1_SIZE = 286;
 const A1A_SIZE = 86;
 const A2_SIZE = 207;
 const A2A_SIZE = 96;
+const A2B_SIZE = 111;
+const A3_SIZE = 239;
+const A3A_SIZE = 103;
+const A3B_SIZE = 107;
+const A4_SIZE = 241;
+const A4A_SIZE = 105;
 const B1_SIZE = 331;
-const CATALOG_SIZE = A1_SIZE + A1A_SIZE + A2_SIZE + A2A_SIZE + B1_SIZE;
+const CATALOG_SIZE =
+  A1_SIZE +
+  A1A_SIZE +
+  A2_SIZE +
+  A2A_SIZE +
+  A2B_SIZE +
+  A3_SIZE +
+  A3A_SIZE +
+  A3B_SIZE +
+  A4_SIZE +
+  A4A_SIZE +
+  B1_SIZE;
 
 // The last card of the last seeded set in catalog order; scrolling to the end
 // of the grid must reach it even though the grid is windowed.

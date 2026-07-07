@@ -129,6 +129,7 @@ const RARITY_BY_LABEL = new Map([
   ["Art Rare", { symbol: "☆", code: "AR", label: "Art Rare" }],
   ["Super Rare", { symbol: "☆☆", code: "SR", label: "Super Rare" }],
   ["Special Art Rare", { symbol: "☆☆", code: "SAR", label: "Special Art Rare" }],
+  // Shiny tiers, first seen in Shining Revelry (A2b); recur in B1 (Mega Rising).
   ["Shiny", { symbol: "✸", code: "S", label: "Shiny" }],
   ["Shiny Super Rare", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
   ["Immersive Rare", { symbol: "☆☆☆", code: "IR", label: "Immersive Rare" }],
@@ -137,9 +138,10 @@ const RARITY_BY_LABEL = new Map([
 
 /**
  * Maps a dotgg rarity label to the { symbol, code, label } tuple. An unknown
- * tier (e.g. A2b's "Shiny" / "Shiny Super Rare") is passed through with the raw
- * label as its `code`, so `cardSchema` rejects it and names the offending card —
- * the intended trigger to extend the rarity enum (see card-data.md's Step 4).
+ * tier is passed through with the raw label as its `code`, so `cardSchema`
+ * rejects it and names the offending card — the intended trigger to extend the
+ * rarity enum (see card-data.md's Step 4). This is how A2b's Shiny tiers were
+ * first surfaced before being added to the map above.
  */
 function mapRarity(rawRarity) {
   const known = rawRarity == null ? undefined : RARITY_BY_LABEL.get(rawRarity);
@@ -282,6 +284,25 @@ function mapTrainerSubtype(raw) {
   }
 }
 
+// dotgg has no dedicated classification field. The one signal it exposes for an
+// Ultra Beast (first seen in Extradimensional Crisis / A3a) is a customization
+// "flair" whose slug carries `ultra-beast` — present on every printing of a UB
+// card, absent on all others. `Ancient`/`Future` (from B3a on) have no dotgg
+// signal yet; extend this when seeding them. Baby Pokémon (`isBaby`) are not
+// surfaced by any source and stay false — see card-data.md.
+const ULTRA_BEAST_FLAIR_SLUG = "ultra-beast";
+
+/** Derives a Pokémon's classification from dotgg's flair data, or null. */
+function deriveClassification(raw) {
+  const flairGroups = Array.isArray(raw.flairs) ? raw.flairs : [];
+  const isUltraBeast = flairGroups.some(
+    (group) =>
+      Array.isArray(group?.flairs) &&
+      group.flairs.some((flair) => String(flair?.slug ?? "").includes(ULTRA_BEAST_FLAIR_SLUG)),
+  );
+  return isUltraBeast ? "UltraBeast" : null;
+}
+
 function findProp(props, name) {
   if (!Array.isArray(props)) {
     return null;
@@ -330,10 +351,11 @@ export function normalizeDotggCard(raw, code) {
           stage: normalizeStage(raw.stage),
           evolvesFrom: raw.prew_stage_name ?? null,
           ruleBox: deriveRuleBox(raw),
-          // Not exposed by dotgg for the currently-seedable sets; revisit when
-          // seeding A4+ (Baby Pokémon) and A3a+ (UltraBeast/Ancient/Future).
+          // No source (dotgg or Limitless) marks Baby Pokémon, and PTCGP does
+          // not surface "Baby" as a card mechanic — so isBaby stays false. See
+          // card-data.md. `classification` is derived from dotgg's flair data.
           isBaby: false,
-          classification: null,
+          classification: deriveClassification(raw),
           weakness: normalizeWeakness(raw.weakness),
           retreatCost: Number(raw.retreat ?? 0),
           abilities: normalizeAbilities(raw.ability),

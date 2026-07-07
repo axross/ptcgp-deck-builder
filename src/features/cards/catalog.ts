@@ -1,10 +1,16 @@
 import "server-only";
 import { z } from "zod";
+import celestialGuardiansA3 from "./data/celestial-guardians-a3.json";
+import eeveeGroveA3b from "./data/eevee-grove-a3b.json";
+import extradimensionalCrisisA3a from "./data/extradimensional-crisis-a3a.json";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
 import megaRisingB1 from "./data/mega-rising-b1.json";
 import mythicalIslandA1a from "./data/mythical-island-a1a.json";
+import secludedSpringsA4a from "./data/secluded-springs-a4a.json";
+import shiningRevelryA2b from "./data/shining-revelry-a2b.json";
 import spaceTimeSmackdownA2 from "./data/space-time-smackdown-a2.json";
 import triumphantLightA2a from "./data/triumphant-light-a2a.json";
+import wisdomOfSeaAndSkyA4 from "./data/wisdom-of-sea-and-sky-a4.json";
 import { type Card, cardSchema } from "./schema";
 import { getSet, type SetCode } from "./set-registry";
 
@@ -32,6 +38,12 @@ const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "A1a", data: mythicalIslandA1a },
   { code: "A2", data: spaceTimeSmackdownA2 },
   { code: "A2a", data: triumphantLightA2a },
+  { code: "A2b", data: shiningRevelryA2b },
+  { code: "A3", data: celestialGuardiansA3 },
+  { code: "A3a", data: extradimensionalCrisisA3a },
+  { code: "A3b", data: eeveeGroveA3b },
+  { code: "A4", data: wisdomOfSeaAndSkyA4 },
+  { code: "A4a", data: secludedSpringsA4a },
   { code: "B1", data: megaRisingB1 },
 ];
 
