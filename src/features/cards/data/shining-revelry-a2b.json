@@ -1,22 +1,13 @@
 [
   {
     "id": "A2b-001",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 1,
-    "setSize": 111,
     "name": {
       "en": "Weedle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A2b-002",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 2,
-    "setSize": 111,
     "name": {
       "en": "Kakuna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A2b-003",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 3,
-    "setSize": 111,
     "name": {
       "en": "Beedrill ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A2b-004",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 4,
-    "setSize": 111,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A2b-005",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 5,
-    "setSize": 111,
     "name": {
       "en": "Sprigatito",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A2b-006",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 6,
-    "setSize": 111,
     "name": {
       "en": "Floragato",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A2b-007",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 7,
-    "setSize": 111,
     "name": {
       "en": "Meowscarada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A2b-008",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 8,
-    "setSize": 111,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A2b-009",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 9,
-    "setSize": 111,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -505,22 +424,13 @@
   },
   {
     "id": "A2b-010",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 10,
-    "setSize": 111,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -571,22 +481,13 @@
   },
   {
     "id": "A2b-011",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 11,
-    "setSize": 111,
     "name": {
       "en": "Magmar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -627,22 +528,13 @@
   },
   {
     "id": "A2b-012",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 12,
-    "setSize": 111,
     "name": {
       "en": "Magmortar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -683,22 +575,13 @@
   },
   {
     "id": "A2b-013",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 13,
-    "setSize": 111,
     "name": {
       "en": "Paldean Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -739,22 +622,13 @@
   },
   {
     "id": "A2b-014",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 14,
-    "setSize": 111,
     "name": {
       "en": "Tentacool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -795,22 +669,13 @@
   },
   {
     "id": "A2b-015",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 15,
-    "setSize": 111,
     "name": {
       "en": "Tentacruel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -851,22 +716,13 @@
   },
   {
     "id": "A2b-016",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 16,
-    "setSize": 111,
     "name": {
       "en": "Buizel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -907,22 +763,13 @@
   },
   {
     "id": "A2b-017",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 17,
-    "setSize": 111,
     "name": {
       "en": "Floatzel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -963,22 +810,13 @@
   },
   {
     "id": "A2b-018",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 18,
-    "setSize": 111,
     "name": {
       "en": "Wiglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1019,22 +857,13 @@
   },
   {
     "id": "A2b-019",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 19,
-    "setSize": 111,
     "name": {
       "en": "Wugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1075,22 +904,13 @@
   },
   {
     "id": "A2b-020",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 20,
-    "setSize": 111,
     "name": {
       "en": "Dondozo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1131,22 +951,13 @@
   },
   {
     "id": "A2b-021",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 21,
-    "setSize": 111,
     "name": {
       "en": "Tatsugiri",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1195,22 +1006,13 @@
   },
   {
     "id": "A2b-022",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 22,
-    "setSize": 111,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1251,22 +1053,13 @@
   },
   {
     "id": "A2b-023",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 23,
-    "setSize": 111,
     "name": {
       "en": "Voltorb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1307,22 +1100,13 @@
   },
   {
     "id": "A2b-024",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 24,
-    "setSize": 111,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1363,22 +1147,13 @@
   },
   {
     "id": "A2b-025",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 25,
-    "setSize": 111,
     "name": {
       "en": "Pachirisu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1419,22 +1194,13 @@
   },
   {
     "id": "A2b-026",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 26,
-    "setSize": 111,
     "name": {
       "en": "Pawmi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1475,22 +1241,13 @@
   },
   {
     "id": "A2b-027",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 27,
-    "setSize": 111,
     "name": {
       "en": "Pawmo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1531,22 +1288,13 @@
   },
   {
     "id": "A2b-028",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 28,
-    "setSize": 111,
     "name": {
       "en": "Pawmot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1595,22 +1343,13 @@
   },
   {
     "id": "A2b-029",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 29,
-    "setSize": 111,
     "name": {
       "en": "Abra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1651,22 +1390,13 @@
   },
   {
     "id": "A2b-030",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 30,
-    "setSize": 111,
     "name": {
       "en": "Kadabra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1707,22 +1437,13 @@
   },
   {
     "id": "A2b-031",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 31,
-    "setSize": 111,
     "name": {
       "en": "Alakazam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1763,22 +1484,13 @@
   },
   {
     "id": "A2b-032",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 32,
-    "setSize": 111,
     "name": {
       "en": "Mr. Mime",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1819,22 +1531,13 @@
   },
   {
     "id": "A2b-033",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 33,
-    "setSize": 111,
     "name": {
       "en": "Drifloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1875,22 +1578,13 @@
   },
   {
     "id": "A2b-034",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 34,
-    "setSize": 111,
     "name": {
       "en": "Drifblim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1931,22 +1625,13 @@
   },
   {
     "id": "A2b-035",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 35,
-    "setSize": 111,
     "name": {
       "en": "Giratina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1995,22 +1680,13 @@
   },
   {
     "id": "A2b-036",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 36,
-    "setSize": 111,
     "name": {
       "en": "Gimmighoul",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2051,22 +1727,13 @@
   },
   {
     "id": "A2b-037",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 37,
-    "setSize": 111,
     "name": {
       "en": "Machop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2107,22 +1774,13 @@
   },
   {
     "id": "A2b-038",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 38,
-    "setSize": 111,
     "name": {
       "en": "Machoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2163,22 +1821,13 @@
   },
   {
     "id": "A2b-039",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 39,
-    "setSize": 111,
     "name": {
       "en": "Machamp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2219,22 +1868,13 @@
   },
   {
     "id": "A2b-040",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 40,
-    "setSize": 111,
     "name": {
       "en": "Hitmonlee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2275,22 +1915,13 @@
   },
   {
     "id": "A2b-041",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 41,
-    "setSize": 111,
     "name": {
       "en": "Hitmonchan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2331,22 +1962,13 @@
   },
   {
     "id": "A2b-042",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 42,
-    "setSize": 111,
     "name": {
       "en": "Riolu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2387,22 +2009,13 @@
   },
   {
     "id": "A2b-043",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 43,
-    "setSize": 111,
     "name": {
       "en": "Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2443,22 +2056,13 @@
   },
   {
     "id": "A2b-044",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 44,
-    "setSize": 111,
     "name": {
       "en": "Flamigo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2499,22 +2103,13 @@
   },
   {
     "id": "A2b-045",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 45,
-    "setSize": 111,
     "name": {
       "en": "Ekans",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2555,22 +2150,13 @@
   },
   {
     "id": "A2b-046",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 46,
-    "setSize": 111,
     "name": {
       "en": "Arbok",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2611,22 +2197,13 @@
   },
   {
     "id": "A2b-047",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 47,
-    "setSize": 111,
     "name": {
       "en": "Paldean Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2667,22 +2244,13 @@
   },
   {
     "id": "A2b-048",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 48,
-    "setSize": 111,
     "name": {
       "en": "Paldean Clodsire ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2723,22 +2291,13 @@
   },
   {
     "id": "A2b-049",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 49,
-    "setSize": 111,
     "name": {
       "en": "Spiritomb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2779,22 +2338,13 @@
   },
   {
     "id": "A2b-050",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 50,
-    "setSize": 111,
     "name": {
       "en": "Shroodle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2835,22 +2385,13 @@
   },
   {
     "id": "A2b-051",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 51,
-    "setSize": 111,
     "name": {
       "en": "Grafaiai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2899,22 +2440,13 @@
   },
   {
     "id": "A2b-052",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 52,
-    "setSize": 111,
     "name": {
       "en": "Tinkatink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2955,22 +2487,13 @@
   },
   {
     "id": "A2b-053",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 53,
-    "setSize": 111,
     "name": {
       "en": "Tinkatuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3011,22 +2534,13 @@
   },
   {
     "id": "A2b-054",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 54,
-    "setSize": 111,
     "name": {
       "en": "Tinkaton ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3067,22 +2581,13 @@
   },
   {
     "id": "A2b-055",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 55,
-    "setSize": 111,
     "name": {
       "en": "Varoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3123,22 +2628,13 @@
   },
   {
     "id": "A2b-056",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 56,
-    "setSize": 111,
     "name": {
       "en": "Revavroom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3179,22 +2675,13 @@
   },
   {
     "id": "A2b-057",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 57,
-    "setSize": 111,
     "name": {
       "en": "Gholdengo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3235,22 +2722,13 @@
   },
   {
     "id": "A2b-058",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 58,
-    "setSize": 111,
     "name": {
       "en": "Rattata",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3291,22 +2769,13 @@
   },
   {
     "id": "A2b-059",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 59,
-    "setSize": 111,
     "name": {
       "en": "Raticate",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3347,22 +2816,13 @@
   },
   {
     "id": "A2b-060",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 60,
-    "setSize": 111,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3403,22 +2863,13 @@
   },
   {
     "id": "A2b-061",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 61,
-    "setSize": 111,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3467,22 +2918,13 @@
   },
   {
     "id": "A2b-062",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 62,
-    "setSize": 111,
     "name": {
       "en": "Lickitung",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3523,22 +2965,13 @@
   },
   {
     "id": "A2b-063",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 63,
-    "setSize": 111,
     "name": {
       "en": "Lickilicky",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3579,22 +3012,13 @@
   },
   {
     "id": "A2b-064",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 64,
-    "setSize": 111,
     "name": {
       "en": "Bidoof",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3635,22 +3059,13 @@
   },
   {
     "id": "A2b-065",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 65,
-    "setSize": 111,
     "name": {
       "en": "Bibarel ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3691,22 +3106,13 @@
   },
   {
     "id": "A2b-066",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 66,
-    "setSize": 111,
     "name": {
       "en": "Buneary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3747,22 +3153,13 @@
   },
   {
     "id": "A2b-067",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 67,
-    "setSize": 111,
     "name": {
       "en": "Lopunny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3803,22 +3200,13 @@
   },
   {
     "id": "A2b-068",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 68,
-    "setSize": 111,
     "name": {
       "en": "Cyclizar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3859,22 +3247,13 @@
   },
   {
     "id": "A2b-069",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 69,
-    "setSize": 111,
     "name": {
       "en": "Iono",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3895,22 +3274,13 @@
   },
   {
     "id": "A2b-070",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 70,
-    "setSize": 111,
     "name": {
       "en": "Pokémon Center Lady",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3931,22 +3301,13 @@
   },
   {
     "id": "A2b-071",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 71,
-    "setSize": 111,
     "name": {
       "en": "Red",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3967,22 +3328,13 @@
   },
   {
     "id": "A2b-072",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 72,
-    "setSize": 111,
     "name": {
       "en": "Team Rocket Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4003,22 +3355,13 @@
   },
   {
     "id": "A2b-073",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 73,
-    "setSize": 111,
     "name": {
       "en": "Meowscarada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4059,22 +3402,13 @@
   },
   {
     "id": "A2b-074",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 74,
-    "setSize": 111,
     "name": {
       "en": "Buizel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4115,22 +3449,13 @@
   },
   {
     "id": "A2b-075",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 75,
-    "setSize": 111,
     "name": {
       "en": "Tatsugiri",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4179,22 +3504,13 @@
   },
   {
     "id": "A2b-076",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 76,
-    "setSize": 111,
     "name": {
       "en": "Grafaiai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4243,22 +3559,13 @@
   },
   {
     "id": "A2b-077",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 77,
-    "setSize": 111,
     "name": {
       "en": "Gholdengo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4299,22 +3606,13 @@
   },
   {
     "id": "A2b-078",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 78,
-    "setSize": 111,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4363,22 +3661,13 @@
   },
   {
     "id": "A2b-079",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 79,
-    "setSize": 111,
     "name": {
       "en": "Beedrill ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4419,22 +3708,13 @@
   },
   {
     "id": "A2b-080",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 80,
-    "setSize": 111,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4485,22 +3765,13 @@
   },
   {
     "id": "A2b-081",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 81,
-    "setSize": 111,
     "name": {
       "en": "Wugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4541,22 +3812,13 @@
   },
   {
     "id": "A2b-082",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 82,
-    "setSize": 111,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4597,22 +3859,13 @@
   },
   {
     "id": "A2b-083",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 83,
-    "setSize": 111,
     "name": {
       "en": "Giratina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4661,22 +3914,13 @@
   },
   {
     "id": "A2b-084",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 84,
-    "setSize": 111,
     "name": {
       "en": "Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4717,22 +3961,13 @@
   },
   {
     "id": "A2b-085",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 85,
-    "setSize": 111,
     "name": {
       "en": "Paldean Clodsire ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4773,22 +4008,13 @@
   },
   {
     "id": "A2b-086",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 86,
-    "setSize": 111,
     "name": {
       "en": "Tinkaton ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4829,22 +4055,13 @@
   },
   {
     "id": "A2b-087",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 87,
-    "setSize": 111,
     "name": {
       "en": "Bibarel ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4885,22 +4102,13 @@
   },
   {
     "id": "A2b-088",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 88,
-    "setSize": 111,
     "name": {
       "en": "Iono",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4921,22 +4129,13 @@
   },
   {
     "id": "A2b-089",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 89,
-    "setSize": 111,
     "name": {
       "en": "Pokémon Center Lady",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4957,22 +4156,13 @@
   },
   {
     "id": "A2b-090",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 90,
-    "setSize": 111,
     "name": {
       "en": "Red",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4993,22 +4183,13 @@
   },
   {
     "id": "A2b-091",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 91,
-    "setSize": 111,
     "name": {
       "en": "Team Rocket Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5029,22 +4210,13 @@
   },
   {
     "id": "A2b-092",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 92,
-    "setSize": 111,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5085,22 +4257,13 @@
   },
   {
     "id": "A2b-093",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 93,
-    "setSize": 111,
     "name": {
       "en": "Paldean Clodsire ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5141,22 +4304,13 @@
   },
   {
     "id": "A2b-094",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 94,
-    "setSize": 111,
     "name": {
       "en": "Tinkaton ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5197,22 +4351,13 @@
   },
   {
     "id": "A2b-095",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 95,
-    "setSize": 111,
     "name": {
       "en": "Bibarel ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5253,22 +4398,13 @@
   },
   {
     "id": "A2b-096",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 96,
-    "setSize": 111,
     "name": {
       "en": "Giratina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5317,22 +4453,13 @@
   },
   {
     "id": "A2b-097",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 97,
-    "setSize": 111,
     "name": {
       "en": "Weedle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5373,22 +4500,13 @@
   },
   {
     "id": "A2b-098",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 98,
-    "setSize": 111,
     "name": {
       "en": "Kakuna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5429,22 +4547,13 @@
   },
   {
     "id": "A2b-099",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 99,
-    "setSize": 111,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5485,22 +4594,13 @@
   },
   {
     "id": "A2b-100",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 100,
-    "setSize": 111,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5541,22 +4641,13 @@
   },
   {
     "id": "A2b-101",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 101,
-    "setSize": 111,
     "name": {
       "en": "Wiglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5597,22 +4688,13 @@
   },
   {
     "id": "A2b-102",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 102,
-    "setSize": 111,
     "name": {
       "en": "Dondozo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5653,22 +4735,13 @@
   },
   {
     "id": "A2b-103",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 103,
-    "setSize": 111,
     "name": {
       "en": "Pachirisu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5709,22 +4782,13 @@
   },
   {
     "id": "A2b-104",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 104,
-    "setSize": 111,
     "name": {
       "en": "Riolu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5765,22 +4829,13 @@
   },
   {
     "id": "A2b-105",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 105,
-    "setSize": 111,
     "name": {
       "en": "Varoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5821,22 +4876,13 @@
   },
   {
     "id": "A2b-106",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 106,
-    "setSize": 111,
     "name": {
       "en": "Revavroom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5877,22 +4923,13 @@
   },
   {
     "id": "A2b-107",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 107,
-    "setSize": 111,
     "name": {
       "en": "Beedrill ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5933,22 +4970,13 @@
   },
   {
     "id": "A2b-108",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 108,
-    "setSize": 111,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5999,22 +5027,13 @@
   },
   {
     "id": "A2b-109",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 109,
-    "setSize": 111,
     "name": {
       "en": "Wugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -6055,22 +5074,13 @@
   },
   {
     "id": "A2b-110",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 110,
-    "setSize": 111,
     "name": {
       "en": "Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -6111,22 +5121,13 @@
   },
   {
     "id": "A2b-111",
-    "set": {
-      "code": "A2b",
-      "name": "Shining Revelry",
-      "nameJa": "シャイニングハイ"
-    },
+    "setCode": "A2b",
     "number": 111,
-    "setSize": 111,
     "name": {
       "en": "Poké Ball",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

@@ -12,11 +12,12 @@ function makePokemonCard(overrides: {
 }): Card {
   return {
     id: overrides.id,
-    set: { code: "T1", name: "Test Set", nameJa: null },
+    // A real registry code: `setCode` is registry-validated by type (the fake
+    // T1-… ids below need no matching set — deck rules never resolve the set).
+    setCode: "A1",
     number: 1,
-    setSize: 10,
     name: { en: overrides.name, ja: null },
-    rarity: { symbol: "◇", code: "C", label: "Common" },
+    rarity: "C",
     category: "Pokemon",
     pokemon: {
       type: "Grass",

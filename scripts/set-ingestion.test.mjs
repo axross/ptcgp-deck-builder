@@ -13,21 +13,16 @@ const sourceCards = JSON.parse(
 );
 const [bulbasaurSource, helixFossilSource] = sourceCards;
 
-// Stand-in for the Genetic Apex registry row the fetcher passes in.
-const geneticApex = { name: "Genetic Apex", nameJa: "最強の遺伝子" };
-const SET_SIZE = 286;
-
 describe("transformSourceCard()", () => {
   it("maps a Pokémon source record to the canonical card-data shape", () => {
-    const card = transformSourceCard(bulbasaurSource, geneticApex, SET_SIZE);
+    const card = transformSourceCard(bulbasaurSource);
 
     expect(card).toEqual({
       id: "A1-001",
-      set: { code: "A1", name: "Genetic Apex", nameJa: "最強の遺伝子" },
+      setCode: "A1",
       number: 1,
-      setSize: 286,
       name: { en: "Bulbasaur", ja: null },
-      rarity: { symbol: "◇", code: "C", label: "Common" },
+      rarity: "C",
       category: "Pokemon",
       pokemon: {
         type: "Grass",
@@ -60,7 +55,7 @@ describe("transformSourceCard()", () => {
   });
 
   it("maps a Trainer source record with its subtype and rules text", () => {
-    const card = transformSourceCard(helixFossilSource, geneticApex, SET_SIZE);
+    const card = transformSourceCard(helixFossilSource);
 
     expect(card).toMatchObject({
       id: "A1-216",
@@ -72,14 +67,12 @@ describe("transformSourceCard()", () => {
     expect(card.trainer.text).toContain("Basic {C} Pokémon");
   });
 
-  it("takes the set name from the registry row, never the source record", () => {
-    const card = transformSourceCard(
-      bulbasaurSource,
-      { name: "Renamed", nameJa: "改名" },
-      SET_SIZE,
-    );
+  it("carries only the set-code reference, no embedded set metadata", () => {
+    const card = transformSourceCard(bulbasaurSource);
 
-    expect(card.set).toEqual({ code: "A1", name: "Renamed", nameJa: "改名" });
+    expect(card.setCode).toBe("A1");
+    expect(card).not.toHaveProperty("set");
+    expect(card).not.toHaveProperty("setSize");
   });
 
   it('passes a Dragon\'s "none" weakness through verbatim for the schema to normalize', () => {
@@ -91,19 +84,17 @@ describe("transformSourceCard()", () => {
       pokemon: { ...bulbasaurSource.pokemon, type: "Dragon", weakness: "none" },
     };
 
-    expect(transformSourceCard(dragon, geneticApex, SET_SIZE).pokemon.weakness).toBe("none");
+    expect(transformSourceCard(dragon).pokemon.weakness).toBe("none");
   });
 
   it("rejects a source record with an unexpected shape, naming the problem", () => {
-    expect(() =>
-      transformSourceCard({ slug: "x", setCode: "A1" }, geneticApex, SET_SIZE),
-    ).toThrow();
+    expect(() => transformSourceCard({ slug: "x", setCode: "A1" })).toThrow();
   });
 });
 
 describe("validateCards()", () => {
   it("accepts the transformed fixture cards", () => {
-    const cards = sourceCards.map((record) => transformSourceCard(record, geneticApex, SET_SIZE));
+    const cards = sourceCards.map((record) => transformSourceCard(record));
 
     const result = validateCards(cards);
 
@@ -112,7 +103,7 @@ describe("validateCards()", () => {
   });
 
   it("rejects a card that violates the schema and names its id and violation", () => {
-    const valid = transformSourceCard(bulbasaurSource, geneticApex, SET_SIZE);
+    const valid = transformSourceCard(bulbasaurSource);
     const broken = { ...valid, id: "A1-1", pokemon: { ...valid.pokemon, hp: -5 } };
 
     const result = validateCards([valid, broken]);
@@ -121,6 +112,29 @@ describe("validateCards()", () => {
     expect(result.errors).toHaveLength(1);
     expect(result.errors[0].id).toBe("A1-1");
     expect(result.errors[0].violations.join(" ")).toContain("pokemon.hp");
+  });
+
+  it("rejects a rarity outside the code enum, naming the card", () => {
+    // The unknown-tier trigger: the fetcher passes an unmapped source value
+    // through verbatim, and the schema rejects it here by card id.
+    const valid = transformSourceCard(bulbasaurSource);
+    const unknownTier = { ...valid, rarity: "Sparkly Rare" };
+
+    const result = validateCards([unknownTier]);
+
+    expect(result.ok).toBe(false);
+    expect(result.errors[0].id).toBe("A1-001");
+    expect(result.errors[0].violations.join(" ")).toContain("rarity");
+  });
+
+  it("rejects a set code that does not resolve in the set registry", () => {
+    const valid = transformSourceCard(bulbasaurSource);
+    const unknownSet = { ...valid, setCode: "Z9" };
+
+    const result = validateCards([unknownSet]);
+
+    expect(result.ok).toBe(false);
+    expect(result.errors[0].violations.join(" ")).toContain("setCode");
   });
 
   it("names a positional index when a failing record has no id", () => {
@@ -140,13 +154,13 @@ describe("serializeCards()", () => {
   });
 
   it("is deterministic — the same cards always serialize identically", () => {
-    const cards = sourceCards.map((record) => transformSourceCard(record, geneticApex, SET_SIZE));
+    const cards = sourceCards.map((record) => transformSourceCard(record));
 
     expect(serializeCards(cards)).toBe(serializeCards(cards));
   });
 
   it("keeps primitive arrays inline and expands object arrays", () => {
-    const cards = [transformSourceCard(bulbasaurSource, geneticApex, SET_SIZE)];
+    const cards = [transformSourceCard(bulbasaurSource)];
     const output = serializeCards(cards);
 
     expect(output).toContain('"cost": ["Grass", "Colorless"]');
@@ -155,9 +169,7 @@ describe("serializeCards()", () => {
   });
 
   it("sorts cards by number regardless of input order", () => {
-    const cards = sourceCards
-      .map((record) => transformSourceCard(record, geneticApex, SET_SIZE))
-      .reverse();
+    const cards = sourceCards.map((record) => transformSourceCard(record)).reverse();
 
     expect(sortCardsByNumber(cards).map((card) => card.number)).toEqual([1, 216]);
   });

@@ -1,22 +1,13 @@
 [
   {
     "id": "B1-001",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 1,
-    "setSize": 331,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B1-002",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 2,
-    "setSize": 331,
     "name": {
       "en": "Mega Pinsir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B1-003",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 3,
-    "setSize": 331,
     "name": {
       "en": "Wurmple",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B1-004",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 4,
-    "setSize": 331,
     "name": {
       "en": "Silcoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "B1-005",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 5,
-    "setSize": 331,
     "name": {
       "en": "Beautifly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "B1-006",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 6,
-    "setSize": 331,
     "name": {
       "en": "Cascoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "B1-007",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 7,
-    "setSize": 331,
     "name": {
       "en": "Dustox",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "B1-008",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 8,
-    "setSize": 331,
     "name": {
       "en": "Seedot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "B1-009",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 9,
-    "setSize": 331,
     "name": {
       "en": "Nuzleaf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -505,22 +424,13 @@
   },
   {
     "id": "B1-010",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 10,
-    "setSize": 331,
     "name": {
       "en": "Shiftry",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -561,22 +471,13 @@
   },
   {
     "id": "B1-011",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 11,
-    "setSize": 331,
     "name": {
       "en": "Shroomish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -617,22 +518,13 @@
   },
   {
     "id": "B1-012",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 12,
-    "setSize": 331,
     "name": {
       "en": "Breloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -673,22 +565,13 @@
   },
   {
     "id": "B1-013",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 13,
-    "setSize": 331,
     "name": {
       "en": "Pansage",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -729,22 +612,13 @@
   },
   {
     "id": "B1-014",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 14,
-    "setSize": 331,
     "name": {
       "en": "Simisage",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -785,22 +659,13 @@
   },
   {
     "id": "B1-015",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 15,
-    "setSize": 331,
     "name": {
       "en": "Cottonee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -841,22 +706,13 @@
   },
   {
     "id": "B1-016",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 16,
-    "setSize": 331,
     "name": {
       "en": "Whimsicott ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -897,22 +753,13 @@
   },
   {
     "id": "B1-017",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 17,
-    "setSize": 331,
     "name": {
       "en": "Petilil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -953,22 +800,13 @@
   },
   {
     "id": "B1-018",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 18,
-    "setSize": 331,
     "name": {
       "en": "Lilligant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "B1-019",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 19,
-    "setSize": 331,
     "name": {
       "en": "Maractus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "B1-020",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 20,
-    "setSize": 331,
     "name": {
       "en": "Virizion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "B1-021",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 21,
-    "setSize": 331,
     "name": {
       "en": "Skiddo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "B1-022",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 22,
-    "setSize": 331,
     "name": {
       "en": "Gogoat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "B1-023",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 23,
-    "setSize": 331,
     "name": {
       "en": "Phantump",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "B1-024",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 24,
-    "setSize": 331,
     "name": {
       "en": "Trevenant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1353,22 +1137,13 @@
   },
   {
     "id": "B1-025",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 25,
-    "setSize": 331,
     "name": {
       "en": "Grookey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1409,22 +1184,13 @@
   },
   {
     "id": "B1-026",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 26,
-    "setSize": 331,
     "name": {
       "en": "Thwackey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1465,22 +1231,13 @@
   },
   {
     "id": "B1-027",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 27,
-    "setSize": 331,
     "name": {
       "en": "Rillaboom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1529,22 +1286,13 @@
   },
   {
     "id": "B1-028",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 28,
-    "setSize": 331,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1585,22 +1333,13 @@
   },
   {
     "id": "B1-029",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 29,
-    "setSize": 331,
     "name": {
       "en": "Arcanine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1641,22 +1380,13 @@
   },
   {
     "id": "B1-030",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 30,
-    "setSize": 331,
     "name": {
       "en": "Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1697,22 +1427,13 @@
   },
   {
     "id": "B1-031",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 31,
-    "setSize": 331,
     "name": {
       "en": "Rapidash ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1753,22 +1474,13 @@
   },
   {
     "id": "B1-032",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 32,
-    "setSize": 331,
     "name": {
       "en": "Ho-Oh",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1809,22 +1521,13 @@
   },
   {
     "id": "B1-033",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 33,
-    "setSize": 331,
     "name": {
       "en": "Torchic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1865,22 +1568,13 @@
   },
   {
     "id": "B1-034",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 34,
-    "setSize": 331,
     "name": {
       "en": "Combusken",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1921,22 +1615,13 @@
   },
   {
     "id": "B1-035",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 35,
-    "setSize": 331,
     "name": {
       "en": "Blaziken",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1977,22 +1662,13 @@
   },
   {
     "id": "B1-036",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 36,
-    "setSize": 331,
     "name": {
       "en": "Mega Blaziken ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2033,22 +1709,13 @@
   },
   {
     "id": "B1-037",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 37,
-    "setSize": 331,
     "name": {
       "en": "Pansear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2089,22 +1756,13 @@
   },
   {
     "id": "B1-038",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 38,
-    "setSize": 331,
     "name": {
       "en": "Simisear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2145,22 +1803,13 @@
   },
   {
     "id": "B1-039",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 39,
-    "setSize": 331,
     "name": {
       "en": "Darumaka",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2201,22 +1850,13 @@
   },
   {
     "id": "B1-040",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 40,
-    "setSize": 331,
     "name": {
       "en": "Darmanitan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2257,22 +1897,13 @@
   },
   {
     "id": "B1-041",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 41,
-    "setSize": 331,
     "name": {
       "en": "Litwick",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2313,22 +1944,13 @@
   },
   {
     "id": "B1-042",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 42,
-    "setSize": 331,
     "name": {
       "en": "Lampent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2369,22 +1991,13 @@
   },
   {
     "id": "B1-043",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 43,
-    "setSize": 331,
     "name": {
       "en": "Chandelure",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2433,22 +2046,13 @@
   },
   {
     "id": "B1-044",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 44,
-    "setSize": 331,
     "name": {
       "en": "Heatmor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2489,22 +2093,13 @@
   },
   {
     "id": "B1-045",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 45,
-    "setSize": 331,
     "name": {
       "en": "Litleo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2545,22 +2140,13 @@
   },
   {
     "id": "B1-046",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 46,
-    "setSize": 331,
     "name": {
       "en": "Pyroar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2601,22 +2187,13 @@
   },
   {
     "id": "B1-047",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 47,
-    "setSize": 331,
     "name": {
       "en": "Turtonator",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2657,22 +2234,13 @@
   },
   {
     "id": "B1-048",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 48,
-    "setSize": 331,
     "name": {
       "en": "Psyduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2713,22 +2281,13 @@
   },
   {
     "id": "B1-049",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 49,
-    "setSize": 331,
     "name": {
       "en": "Golduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2769,22 +2328,13 @@
   },
   {
     "id": "B1-050",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 50,
-    "setSize": 331,
     "name": {
       "en": "Magikarp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2825,22 +2375,13 @@
   },
   {
     "id": "B1-051",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 51,
-    "setSize": 331,
     "name": {
       "en": "Gyarados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2881,22 +2422,13 @@
   },
   {
     "id": "B1-052",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 52,
-    "setSize": 331,
     "name": {
       "en": "Mega Gyarados ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2937,22 +2469,13 @@
   },
   {
     "id": "B1-053",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 53,
-    "setSize": 331,
     "name": {
       "en": "Lotad",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2993,22 +2516,13 @@
   },
   {
     "id": "B1-054",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 54,
-    "setSize": 331,
     "name": {
       "en": "Lombre",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3049,22 +2563,13 @@
   },
   {
     "id": "B1-055",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 55,
-    "setSize": 331,
     "name": {
       "en": "Ludicolo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3105,22 +2610,13 @@
   },
   {
     "id": "B1-056",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 56,
-    "setSize": 331,
     "name": {
       "en": "Wailmer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3161,22 +2657,13 @@
   },
   {
     "id": "B1-057",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 57,
-    "setSize": 331,
     "name": {
       "en": "Wailord",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3217,22 +2704,13 @@
   },
   {
     "id": "B1-058",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 58,
-    "setSize": 331,
     "name": {
       "en": "Corphish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3273,22 +2751,13 @@
   },
   {
     "id": "B1-059",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 59,
-    "setSize": 331,
     "name": {
       "en": "Crawdaunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3329,22 +2798,13 @@
   },
   {
     "id": "B1-060",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 60,
-    "setSize": 331,
     "name": {
       "en": "Luvdisc",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3385,22 +2845,13 @@
   },
   {
     "id": "B1-061",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 61,
-    "setSize": 331,
     "name": {
       "en": "Panpour",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3441,22 +2892,13 @@
   },
   {
     "id": "B1-062",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 62,
-    "setSize": 331,
     "name": {
       "en": "Simipour",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3497,22 +2939,13 @@
   },
   {
     "id": "B1-063",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 63,
-    "setSize": 331,
     "name": {
       "en": "Tympole",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3553,22 +2986,13 @@
   },
   {
     "id": "B1-064",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 64,
-    "setSize": 331,
     "name": {
       "en": "Palpitoad",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3609,22 +3033,13 @@
   },
   {
     "id": "B1-065",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 65,
-    "setSize": 331,
     "name": {
       "en": "Seismitoad",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3665,22 +3080,13 @@
   },
   {
     "id": "B1-066",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 66,
-    "setSize": 331,
     "name": {
       "en": "Tirtouga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3721,22 +3127,13 @@
   },
   {
     "id": "B1-067",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 67,
-    "setSize": 331,
     "name": {
       "en": "Carracosta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3777,22 +3174,13 @@
   },
   {
     "id": "B1-068",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 68,
-    "setSize": 331,
     "name": {
       "en": "Frillish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3833,22 +3221,13 @@
   },
   {
     "id": "B1-069",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 69,
-    "setSize": 331,
     "name": {
       "en": "Jellicent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3897,22 +3276,13 @@
   },
   {
     "id": "B1-070",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 70,
-    "setSize": 331,
     "name": {
       "en": "Keldeo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3953,22 +3323,13 @@
   },
   {
     "id": "B1-071",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 71,
-    "setSize": 331,
     "name": {
       "en": "Froakie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4009,22 +3370,13 @@
   },
   {
     "id": "B1-072",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 72,
-    "setSize": 331,
     "name": {
       "en": "Frogadier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4065,22 +3417,13 @@
   },
   {
     "id": "B1-073",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 73,
-    "setSize": 331,
     "name": {
       "en": "Greninja ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4129,22 +3472,13 @@
   },
   {
     "id": "B1-074",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 74,
-    "setSize": 331,
     "name": {
       "en": "Bergmite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4185,22 +3519,13 @@
   },
   {
     "id": "B1-075",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 75,
-    "setSize": 331,
     "name": {
       "en": "Avalugg",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4241,22 +3566,13 @@
   },
   {
     "id": "B1-076",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 76,
-    "setSize": 331,
     "name": {
       "en": "Chewtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4297,22 +3613,13 @@
   },
   {
     "id": "B1-077",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 77,
-    "setSize": 331,
     "name": {
       "en": "Drednaw",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4353,22 +3660,13 @@
   },
   {
     "id": "B1-078",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 78,
-    "setSize": 331,
     "name": {
       "en": "Arrokuda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4409,22 +3707,13 @@
   },
   {
     "id": "B1-079",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 79,
-    "setSize": 331,
     "name": {
       "en": "Barraskewda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4465,22 +3754,13 @@
   },
   {
     "id": "B1-080",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 80,
-    "setSize": 331,
     "name": {
       "en": "Eiscue",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4529,22 +3809,13 @@
   },
   {
     "id": "B1-081",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 81,
-    "setSize": 331,
     "name": {
       "en": "Jolteon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4593,22 +3864,13 @@
   },
   {
     "id": "B1-082",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 82,
-    "setSize": 331,
     "name": {
       "en": "Mareep",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4649,22 +3911,13 @@
   },
   {
     "id": "B1-083",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 83,
-    "setSize": 331,
     "name": {
       "en": "Flaaffy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4705,22 +3958,13 @@
   },
   {
     "id": "B1-084",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 84,
-    "setSize": 331,
     "name": {
       "en": "Ampharos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4761,22 +4005,13 @@
   },
   {
     "id": "B1-085",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 85,
-    "setSize": 331,
     "name": {
       "en": "Mega Ampharos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4817,22 +4052,13 @@
   },
   {
     "id": "B1-086",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 86,
-    "setSize": 331,
     "name": {
       "en": "Shinx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4873,22 +4099,13 @@
   },
   {
     "id": "B1-087",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 87,
-    "setSize": 331,
     "name": {
       "en": "Luxio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4929,22 +4146,13 @@
   },
   {
     "id": "B1-088",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 88,
-    "setSize": 331,
     "name": {
       "en": "Luxray",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4985,22 +4193,13 @@
   },
   {
     "id": "B1-089",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 89,
-    "setSize": 331,
     "name": {
       "en": "Pachirisu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5041,22 +4240,13 @@
   },
   {
     "id": "B1-090",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 90,
-    "setSize": 331,
     "name": {
       "en": "Blitzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5097,22 +4287,13 @@
   },
   {
     "id": "B1-091",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 91,
-    "setSize": 331,
     "name": {
       "en": "Zebstrika",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5153,22 +4334,13 @@
   },
   {
     "id": "B1-092",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 92,
-    "setSize": 331,
     "name": {
       "en": "Joltik",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5209,22 +4381,13 @@
   },
   {
     "id": "B1-093",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 93,
-    "setSize": 331,
     "name": {
       "en": "Galvantula",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5265,22 +4428,13 @@
   },
   {
     "id": "B1-094",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 94,
-    "setSize": 331,
     "name": {
       "en": "Dedenne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5321,22 +4475,13 @@
   },
   {
     "id": "B1-095",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 95,
-    "setSize": 331,
     "name": {
       "en": "Yamper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5377,22 +4522,13 @@
   },
   {
     "id": "B1-096",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 96,
-    "setSize": 331,
     "name": {
       "en": "Boltund",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5433,22 +4569,13 @@
   },
   {
     "id": "B1-097",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 97,
-    "setSize": 331,
     "name": {
       "en": "Natu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5489,22 +4616,13 @@
   },
   {
     "id": "B1-098",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 98,
-    "setSize": 331,
     "name": {
       "en": "Xatu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5545,22 +4663,13 @@
   },
   {
     "id": "B1-099",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 99,
-    "setSize": 331,
     "name": {
       "en": "Misdreavus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5601,22 +4710,13 @@
   },
   {
     "id": "B1-100",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 100,
-    "setSize": 331,
     "name": {
       "en": "Mismagius",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5657,22 +4757,13 @@
   },
   {
     "id": "B1-101",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 101,
-    "setSize": 331,
     "name": {
       "en": "Sableye",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5713,22 +4804,13 @@
   },
   {
     "id": "B1-102",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 102,
-    "setSize": 331,
     "name": {
       "en": "Mega Altaria ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5769,22 +4851,13 @@
   },
   {
     "id": "B1-103",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 103,
-    "setSize": 331,
     "name": {
       "en": "Duskull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5825,22 +4898,13 @@
   },
   {
     "id": "B1-104",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 104,
-    "setSize": 331,
     "name": {
       "en": "Dusclops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5881,22 +4945,13 @@
   },
   {
     "id": "B1-105",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 105,
-    "setSize": 331,
     "name": {
       "en": "Dusknoir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5945,22 +5000,13 @@
   },
   {
     "id": "B1-106",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 106,
-    "setSize": 331,
     "name": {
       "en": "Jirachi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6001,22 +5047,13 @@
   },
   {
     "id": "B1-107",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 107,
-    "setSize": 331,
     "name": {
       "en": "Drifloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6057,22 +5094,13 @@
   },
   {
     "id": "B1-108",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 108,
-    "setSize": 331,
     "name": {
       "en": "Drifblim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6113,22 +5141,13 @@
   },
   {
     "id": "B1-109",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 109,
-    "setSize": 331,
     "name": {
       "en": "Chingling",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6169,22 +5188,13 @@
   },
   {
     "id": "B1-110",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 110,
-    "setSize": 331,
     "name": {
       "en": "Yamask",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6225,22 +5235,13 @@
   },
   {
     "id": "B1-111",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 111,
-    "setSize": 331,
     "name": {
       "en": "Cofagrigus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6281,22 +5282,13 @@
   },
   {
     "id": "B1-112",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 112,
-    "setSize": 331,
     "name": {
       "en": "Gothita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6337,22 +5329,13 @@
   },
   {
     "id": "B1-113",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 113,
-    "setSize": 331,
     "name": {
       "en": "Gothorita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6393,22 +5376,13 @@
   },
   {
     "id": "B1-114",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 114,
-    "setSize": 331,
     "name": {
       "en": "Gothitelle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6449,22 +5423,13 @@
   },
   {
     "id": "B1-115",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 115,
-    "setSize": 331,
     "name": {
       "en": "Spritzee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6505,22 +5470,13 @@
   },
   {
     "id": "B1-116",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 116,
-    "setSize": 331,
     "name": {
       "en": "Aromatisse",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6561,22 +5517,13 @@
   },
   {
     "id": "B1-117",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 117,
-    "setSize": 331,
     "name": {
       "en": "Swirlix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6617,22 +5564,13 @@
   },
   {
     "id": "B1-118",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 118,
-    "setSize": 331,
     "name": {
       "en": "Slurpuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6673,22 +5611,13 @@
   },
   {
     "id": "B1-119",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 119,
-    "setSize": 331,
     "name": {
       "en": "Carbink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6729,22 +5658,13 @@
   },
   {
     "id": "B1-120",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 120,
-    "setSize": 331,
     "name": {
       "en": "Klefki",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6793,22 +5713,13 @@
   },
   {
     "id": "B1-121",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 121,
-    "setSize": 331,
     "name": {
       "en": "Indeedee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6857,22 +5768,13 @@
   },
   {
     "id": "B1-122",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 122,
-    "setSize": 331,
     "name": {
       "en": "Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -6913,22 +5815,13 @@
   },
   {
     "id": "B1-123",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 123,
-    "setSize": 331,
     "name": {
       "en": "Sandslash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -6969,22 +5862,13 @@
   },
   {
     "id": "B1-124",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 124,
-    "setSize": 331,
     "name": {
       "en": "Hitmonchan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7025,22 +5909,13 @@
   },
   {
     "id": "B1-125",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 125,
-    "setSize": 331,
     "name": {
       "en": "Sudowoodo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7081,22 +5956,13 @@
   },
   {
     "id": "B1-126",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 126,
-    "setSize": 331,
     "name": {
       "en": "Makuhita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7137,22 +6003,13 @@
   },
   {
     "id": "B1-127",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 127,
-    "setSize": 331,
     "name": {
       "en": "Hariyama",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7193,22 +6050,13 @@
   },
   {
     "id": "B1-128",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 128,
-    "setSize": 331,
     "name": {
       "en": "Hippopotas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7249,22 +6097,13 @@
   },
   {
     "id": "B1-129",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 129,
-    "setSize": 331,
     "name": {
       "en": "Hippowdon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7305,22 +6144,13 @@
   },
   {
     "id": "B1-130",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 130,
-    "setSize": 331,
     "name": {
       "en": "Sandile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7361,22 +6191,13 @@
   },
   {
     "id": "B1-131",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 131,
-    "setSize": 331,
     "name": {
       "en": "Krokorok",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7417,22 +6238,13 @@
   },
   {
     "id": "B1-132",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 132,
-    "setSize": 331,
     "name": {
       "en": "Krookodile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7473,22 +6285,13 @@
   },
   {
     "id": "B1-133",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 133,
-    "setSize": 331,
     "name": {
       "en": "Archen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7529,22 +6332,13 @@
   },
   {
     "id": "B1-134",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 134,
-    "setSize": 331,
     "name": {
       "en": "Archeops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7585,22 +6379,13 @@
   },
   {
     "id": "B1-135",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 135,
-    "setSize": 331,
     "name": {
       "en": "Golett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7641,22 +6426,13 @@
   },
   {
     "id": "B1-136",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 136,
-    "setSize": 331,
     "name": {
       "en": "Golurk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7697,22 +6473,13 @@
   },
   {
     "id": "B1-137",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 137,
-    "setSize": 331,
     "name": {
       "en": "Terrakion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7753,22 +6520,13 @@
   },
   {
     "id": "B1-138",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 138,
-    "setSize": 331,
     "name": {
       "en": "Pancham",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7809,22 +6567,13 @@
   },
   {
     "id": "B1-139",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 139,
-    "setSize": 331,
     "name": {
       "en": "Crabrawler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7865,22 +6614,13 @@
   },
   {
     "id": "B1-140",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 140,
-    "setSize": 331,
     "name": {
       "en": "Crabominable",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7921,22 +6661,13 @@
   },
   {
     "id": "B1-141",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 141,
-    "setSize": 331,
     "name": {
       "en": "Stufful",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7977,22 +6708,13 @@
   },
   {
     "id": "B1-142",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 142,
-    "setSize": 331,
     "name": {
       "en": "Bewear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8033,22 +6755,13 @@
   },
   {
     "id": "B1-143",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 143,
-    "setSize": 331,
     "name": {
       "en": "Sandygast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8089,22 +6802,13 @@
   },
   {
     "id": "B1-144",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 144,
-    "setSize": 331,
     "name": {
       "en": "Palossand",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8145,22 +6849,13 @@
   },
   {
     "id": "B1-145",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 145,
-    "setSize": 331,
     "name": {
       "en": "Rolycoly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8201,22 +6896,13 @@
   },
   {
     "id": "B1-146",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 146,
-    "setSize": 331,
     "name": {
       "en": "Carkol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8257,22 +6943,13 @@
   },
   {
     "id": "B1-147",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 147,
-    "setSize": 331,
     "name": {
       "en": "Coalossal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8313,22 +6990,13 @@
   },
   {
     "id": "B1-148",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 148,
-    "setSize": 331,
     "name": {
       "en": "Murkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8369,22 +7037,13 @@
   },
   {
     "id": "B1-149",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 149,
-    "setSize": 331,
     "name": {
       "en": "Honchkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8425,22 +7084,13 @@
   },
   {
     "id": "B1-150",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 150,
-    "setSize": 331,
     "name": {
       "en": "Absol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8481,22 +7131,13 @@
   },
   {
     "id": "B1-151",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 151,
-    "setSize": 331,
     "name": {
       "en": "Mega Absol ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8537,22 +7178,13 @@
   },
   {
     "id": "B1-152",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 152,
-    "setSize": 331,
     "name": {
       "en": "Skorupi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8593,22 +7225,13 @@
   },
   {
     "id": "B1-153",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 153,
-    "setSize": 331,
     "name": {
       "en": "Drapion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8649,22 +7272,13 @@
   },
   {
     "id": "B1-154",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 154,
-    "setSize": 331,
     "name": {
       "en": "Darkrai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8705,22 +7319,13 @@
   },
   {
     "id": "B1-155",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 155,
-    "setSize": 331,
     "name": {
       "en": "Deino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8761,22 +7366,13 @@
   },
   {
     "id": "B1-156",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 156,
-    "setSize": 331,
     "name": {
       "en": "Zweilous",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8817,22 +7413,13 @@
   },
   {
     "id": "B1-157",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 157,
-    "setSize": 331,
     "name": {
       "en": "Hydreigon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8881,22 +7468,13 @@
   },
   {
     "id": "B1-158",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 158,
-    "setSize": 331,
     "name": {
       "en": "Pangoro",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8937,22 +7515,13 @@
   },
   {
     "id": "B1-159",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 159,
-    "setSize": 331,
     "name": {
       "en": "Skrelp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -8993,22 +7562,13 @@
   },
   {
     "id": "B1-160",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 160,
-    "setSize": 331,
     "name": {
       "en": "Dragalge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9057,22 +7617,13 @@
   },
   {
     "id": "B1-161",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 161,
-    "setSize": 331,
     "name": {
       "en": "Mareanie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9113,22 +7664,13 @@
   },
   {
     "id": "B1-162",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 162,
-    "setSize": 331,
     "name": {
       "en": "Toxapex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9169,22 +7711,13 @@
   },
   {
     "id": "B1-163",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 163,
-    "setSize": 331,
     "name": {
       "en": "Impidimp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9225,22 +7758,13 @@
   },
   {
     "id": "B1-164",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 164,
-    "setSize": 331,
     "name": {
       "en": "Morgrem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9281,22 +7805,13 @@
   },
   {
     "id": "B1-165",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 165,
-    "setSize": 331,
     "name": {
       "en": "Grimmsnarl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9337,22 +7852,13 @@
   },
   {
     "id": "B1-166",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 166,
-    "setSize": 331,
     "name": {
       "en": "Ferroseed",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9393,22 +7899,13 @@
   },
   {
     "id": "B1-167",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 167,
-    "setSize": 331,
     "name": {
       "en": "Ferrothorn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9449,22 +7946,13 @@
   },
   {
     "id": "B1-168",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 168,
-    "setSize": 331,
     "name": {
       "en": "Durant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9505,22 +7993,13 @@
   },
   {
     "id": "B1-169",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 169,
-    "setSize": 331,
     "name": {
       "en": "Cobalion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9561,22 +8040,13 @@
   },
   {
     "id": "B1-170",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 170,
-    "setSize": 331,
     "name": {
       "en": "Honedge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9617,22 +8087,13 @@
   },
   {
     "id": "B1-171",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 171,
-    "setSize": 331,
     "name": {
       "en": "Doublade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9673,22 +8134,13 @@
   },
   {
     "id": "B1-172",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 172,
-    "setSize": 331,
     "name": {
       "en": "Aegislash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9737,22 +8189,13 @@
   },
   {
     "id": "B1-173",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 173,
-    "setSize": 331,
     "name": {
       "en": "Meltan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9793,22 +8236,13 @@
   },
   {
     "id": "B1-174",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 174,
-    "setSize": 331,
     "name": {
       "en": "Melmetal ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9859,22 +8293,13 @@
   },
   {
     "id": "B1-175",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 175,
-    "setSize": 331,
     "name": {
       "en": "Corviknight",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9915,22 +8340,13 @@
   },
   {
     "id": "B1-176",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 176,
-    "setSize": 331,
     "name": {
       "en": "Druddigon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -9971,22 +8387,13 @@
   },
   {
     "id": "B1-177",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 177,
-    "setSize": 331,
     "name": {
       "en": "Goomy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10035,22 +8442,13 @@
   },
   {
     "id": "B1-178",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 178,
-    "setSize": 331,
     "name": {
       "en": "Sliggoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10091,22 +8489,13 @@
   },
   {
     "id": "B1-179",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 179,
-    "setSize": 331,
     "name": {
       "en": "Goodra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10147,22 +8536,13 @@
   },
   {
     "id": "B1-180",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 180,
-    "setSize": 331,
     "name": {
       "en": "Pidgey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10203,22 +8583,13 @@
   },
   {
     "id": "B1-181",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 181,
-    "setSize": 331,
     "name": {
       "en": "Pidgeotto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10259,22 +8630,13 @@
   },
   {
     "id": "B1-182",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 182,
-    "setSize": 331,
     "name": {
       "en": "Pidgeot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10315,22 +8677,13 @@
   },
   {
     "id": "B1-183",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 183,
-    "setSize": 331,
     "name": {
       "en": "Tauros ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10371,22 +8724,13 @@
   },
   {
     "id": "B1-184",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 184,
-    "setSize": 331,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10435,22 +8779,13 @@
   },
   {
     "id": "B1-185",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 185,
-    "setSize": 331,
     "name": {
       "en": "Aipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10491,22 +8826,13 @@
   },
   {
     "id": "B1-186",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 186,
-    "setSize": 331,
     "name": {
       "en": "Ambipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10547,22 +8873,13 @@
   },
   {
     "id": "B1-187",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 187,
-    "setSize": 331,
     "name": {
       "en": "Miltank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10603,22 +8920,13 @@
   },
   {
     "id": "B1-188",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 188,
-    "setSize": 331,
     "name": {
       "en": "Zigzagoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10659,22 +8967,13 @@
   },
   {
     "id": "B1-189",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 189,
-    "setSize": 331,
     "name": {
       "en": "Linoone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10715,22 +9014,13 @@
   },
   {
     "id": "B1-190",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 190,
-    "setSize": 331,
     "name": {
       "en": "Whismur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10771,22 +9061,13 @@
   },
   {
     "id": "B1-191",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 191,
-    "setSize": 331,
     "name": {
       "en": "Loudred",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10827,22 +9108,13 @@
   },
   {
     "id": "B1-192",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 192,
-    "setSize": 331,
     "name": {
       "en": "Exploud",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10883,22 +9155,13 @@
   },
   {
     "id": "B1-193",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 193,
-    "setSize": 331,
     "name": {
       "en": "Skitty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10939,22 +9202,13 @@
   },
   {
     "id": "B1-194",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 194,
-    "setSize": 331,
     "name": {
       "en": "Delcatty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11003,22 +9257,13 @@
   },
   {
     "id": "B1-195",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 195,
-    "setSize": 331,
     "name": {
       "en": "Spinda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11059,22 +9304,13 @@
   },
   {
     "id": "B1-196",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 196,
-    "setSize": 331,
     "name": {
       "en": "Swablu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11115,22 +9351,13 @@
   },
   {
     "id": "B1-197",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 197,
-    "setSize": 331,
     "name": {
       "en": "Altaria",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11171,22 +9398,13 @@
   },
   {
     "id": "B1-198",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 198,
-    "setSize": 331,
     "name": {
       "en": "Chatot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11227,22 +9445,13 @@
   },
   {
     "id": "B1-199",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 199,
-    "setSize": 331,
     "name": {
       "en": "Patrat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11283,22 +9492,13 @@
   },
   {
     "id": "B1-200",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 200,
-    "setSize": 331,
     "name": {
       "en": "Watchog",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11339,22 +9539,13 @@
   },
   {
     "id": "B1-201",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 201,
-    "setSize": 331,
     "name": {
       "en": "Lillipup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11395,22 +9586,13 @@
   },
   {
     "id": "B1-202",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 202,
-    "setSize": 331,
     "name": {
       "en": "Herdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11451,22 +9633,13 @@
   },
   {
     "id": "B1-203",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 203,
-    "setSize": 331,
     "name": {
       "en": "Stoutland",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11507,22 +9680,13 @@
   },
   {
     "id": "B1-204",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 204,
-    "setSize": 331,
     "name": {
       "en": "Rufflet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11563,22 +9727,13 @@
   },
   {
     "id": "B1-205",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 205,
-    "setSize": 331,
     "name": {
       "en": "Braviary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11619,22 +9774,13 @@
   },
   {
     "id": "B1-206",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 206,
-    "setSize": 331,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11683,22 +9829,13 @@
   },
   {
     "id": "B1-207",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 207,
-    "setSize": 331,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11747,22 +9884,13 @@
   },
   {
     "id": "B1-208",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 208,
-    "setSize": 331,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11811,22 +9939,13 @@
   },
   {
     "id": "B1-209",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 209,
-    "setSize": 331,
     "name": {
       "en": "Rookidee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11867,22 +9986,13 @@
   },
   {
     "id": "B1-210",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 210,
-    "setSize": 331,
     "name": {
       "en": "Corvisquire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11923,22 +10033,13 @@
   },
   {
     "id": "B1-211",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 211,
-    "setSize": 331,
     "name": {
       "en": "Wooloo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11979,22 +10080,13 @@
   },
   {
     "id": "B1-212",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 212,
-    "setSize": 331,
     "name": {
       "en": "Dubwool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12035,22 +10127,13 @@
   },
   {
     "id": "B1-213",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 213,
-    "setSize": 331,
     "name": {
       "en": "Prank Spinner",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12071,22 +10154,13 @@
   },
   {
     "id": "B1-214",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 214,
-    "setSize": 331,
     "name": {
       "en": "Plume Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12107,22 +10181,13 @@
   },
   {
     "id": "B1-215",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 215,
-    "setSize": 331,
     "name": {
       "en": "Hitting Hammer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12143,22 +10208,13 @@
   },
   {
     "id": "B1-216",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 216,
-    "setSize": 331,
     "name": {
       "en": "Cover Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12179,22 +10235,13 @@
   },
   {
     "id": "B1-217",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 217,
-    "setSize": 331,
     "name": {
       "en": "Flame Patch",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12215,22 +10262,13 @@
   },
   {
     "id": "B1-218",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 218,
-    "setSize": 331,
     "name": {
       "en": "Sitrus Berry",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12251,22 +10289,13 @@
   },
   {
     "id": "B1-219",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 219,
-    "setSize": 331,
     "name": {
       "en": "Heavy Helmet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12287,22 +10316,13 @@
   },
   {
     "id": "B1-220",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 220,
-    "setSize": 331,
     "name": {
       "en": "Lucky Mittens",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12323,22 +10343,13 @@
   },
   {
     "id": "B1-221",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 221,
-    "setSize": 331,
     "name": {
       "en": "Marlon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12359,22 +10370,13 @@
   },
   {
     "id": "B1-222",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 222,
-    "setSize": 331,
     "name": {
       "en": "Hala",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12395,22 +10397,13 @@
   },
   {
     "id": "B1-223",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 223,
-    "setSize": 331,
     "name": {
       "en": "May",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12431,22 +10424,13 @@
   },
   {
     "id": "B1-224",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 224,
-    "setSize": 331,
     "name": {
       "en": "Fantina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12467,22 +10451,13 @@
   },
   {
     "id": "B1-225",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 225,
-    "setSize": 331,
     "name": {
       "en": "Copycat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12503,22 +10478,13 @@
   },
   {
     "id": "B1-226",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 226,
-    "setSize": 331,
     "name": {
       "en": "Lisia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12539,22 +10505,13 @@
   },
   {
     "id": "B1-227",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 227,
-    "setSize": 331,
     "name": {
       "en": "Beautifly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12595,22 +10552,13 @@
   },
   {
     "id": "B1-228",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 228,
-    "setSize": 331,
     "name": {
       "en": "Skiddo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12651,22 +10599,13 @@
   },
   {
     "id": "B1-229",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 229,
-    "setSize": 331,
     "name": {
       "en": "Rillaboom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12715,22 +10654,13 @@
   },
   {
     "id": "B1-230",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 230,
-    "setSize": 331,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12771,22 +10701,13 @@
   },
   {
     "id": "B1-231",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 231,
-    "setSize": 331,
     "name": {
       "en": "Chandelure",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12835,22 +10756,13 @@
   },
   {
     "id": "B1-232",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 232,
-    "setSize": 331,
     "name": {
       "en": "Magikarp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12891,22 +10803,13 @@
   },
   {
     "id": "B1-233",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 233,
-    "setSize": 331,
     "name": {
       "en": "Ludicolo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12947,22 +10850,13 @@
   },
   {
     "id": "B1-234",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 234,
-    "setSize": 331,
     "name": {
       "en": "Jellicent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13011,22 +10905,13 @@
   },
   {
     "id": "B1-235",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 235,
-    "setSize": 331,
     "name": {
       "en": "Keldeo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13067,22 +10952,13 @@
   },
   {
     "id": "B1-236",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 236,
-    "setSize": 331,
     "name": {
       "en": "Eiscue",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13131,22 +11007,13 @@
   },
   {
     "id": "B1-237",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 237,
-    "setSize": 331,
     "name": {
       "en": "Luxray",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -13187,22 +11054,13 @@
   },
   {
     "id": "B1-238",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 238,
-    "setSize": 331,
     "name": {
       "en": "Cofagrigus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13243,22 +11101,13 @@
   },
   {
     "id": "B1-239",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 239,
-    "setSize": 331,
     "name": {
       "en": "Gothita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13299,22 +11148,13 @@
   },
   {
     "id": "B1-240",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 240,
-    "setSize": 331,
     "name": {
       "en": "Makuhita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13355,22 +11195,13 @@
   },
   {
     "id": "B1-241",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 241,
-    "setSize": 331,
     "name": {
       "en": "Hippowdon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13411,22 +11242,13 @@
   },
   {
     "id": "B1-242",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 242,
-    "setSize": 331,
     "name": {
       "en": "Archeops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13467,22 +11289,13 @@
   },
   {
     "id": "B1-243",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 243,
-    "setSize": 331,
     "name": {
       "en": "Pancham",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13523,22 +11336,13 @@
   },
   {
     "id": "B1-244",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 244,
-    "setSize": 331,
     "name": {
       "en": "Honchkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13579,22 +11383,13 @@
   },
   {
     "id": "B1-245",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 245,
-    "setSize": 331,
     "name": {
       "en": "Hydreigon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13643,22 +11438,13 @@
   },
   {
     "id": "B1-246",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 246,
-    "setSize": 331,
     "name": {
       "en": "Corviknight",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -13699,22 +11485,13 @@
   },
   {
     "id": "B1-247",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 247,
-    "setSize": 331,
     "name": {
       "en": "Goomy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -13763,22 +11540,13 @@
   },
   {
     "id": "B1-248",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 248,
-    "setSize": 331,
     "name": {
       "en": "Delcatty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13827,22 +11595,13 @@
   },
   {
     "id": "B1-249",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 249,
-    "setSize": 331,
     "name": {
       "en": "Stoutland",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13883,22 +11642,13 @@
   },
   {
     "id": "B1-250",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 250,
-    "setSize": 331,
     "name": {
       "en": "Rufflet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13939,22 +11689,13 @@
   },
   {
     "id": "B1-251",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 251,
-    "setSize": 331,
     "name": {
       "en": "Mega Pinsir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -13995,22 +11736,13 @@
   },
   {
     "id": "B1-252",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 252,
-    "setSize": 331,
     "name": {
       "en": "Whimsicott ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -14051,22 +11783,13 @@
   },
   {
     "id": "B1-253",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 253,
-    "setSize": 331,
     "name": {
       "en": "Rapidash ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -14107,22 +11830,13 @@
   },
   {
     "id": "B1-254",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 254,
-    "setSize": 331,
     "name": {
       "en": "Mega Blaziken ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -14163,22 +11877,13 @@
   },
   {
     "id": "B1-255",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 255,
-    "setSize": 331,
     "name": {
       "en": "Mega Gyarados ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -14219,22 +11924,13 @@
   },
   {
     "id": "B1-256",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 256,
-    "setSize": 331,
     "name": {
       "en": "Greninja ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -14283,22 +11979,13 @@
   },
   {
     "id": "B1-257",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 257,
-    "setSize": 331,
     "name": {
       "en": "Jolteon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -14347,22 +12034,13 @@
   },
   {
     "id": "B1-258",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 258,
-    "setSize": 331,
     "name": {
       "en": "Mega Ampharos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -14403,22 +12081,13 @@
   },
   {
     "id": "B1-259",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 259,
-    "setSize": 331,
     "name": {
       "en": "Mega Altaria ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -14459,22 +12128,13 @@
   },
   {
     "id": "B1-260",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 260,
-    "setSize": 331,
     "name": {
       "en": "Indeedee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -14523,22 +12183,13 @@
   },
   {
     "id": "B1-261",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 261,
-    "setSize": 331,
     "name": {
       "en": "Hitmonchan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -14579,22 +12230,13 @@
   },
   {
     "id": "B1-262",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 262,
-    "setSize": 331,
     "name": {
       "en": "Mega Absol ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -14635,22 +12277,13 @@
   },
   {
     "id": "B1-263",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 263,
-    "setSize": 331,
     "name": {
       "en": "Dragalge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -14699,22 +12332,13 @@
   },
   {
     "id": "B1-264",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 264,
-    "setSize": 331,
     "name": {
       "en": "Melmetal ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -14765,22 +12389,13 @@
   },
   {
     "id": "B1-265",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 265,
-    "setSize": 331,
     "name": {
       "en": "Tauros ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -14821,22 +12436,13 @@
   },
   {
     "id": "B1-266",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 266,
-    "setSize": 331,
     "name": {
       "en": "Marlon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14857,22 +12463,13 @@
   },
   {
     "id": "B1-267",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 267,
-    "setSize": 331,
     "name": {
       "en": "Hala",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14893,22 +12490,13 @@
   },
   {
     "id": "B1-268",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 268,
-    "setSize": 331,
     "name": {
       "en": "May",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14929,22 +12517,13 @@
   },
   {
     "id": "B1-269",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 269,
-    "setSize": 331,
     "name": {
       "en": "Fantina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14965,22 +12544,13 @@
   },
   {
     "id": "B1-270",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 270,
-    "setSize": 331,
     "name": {
       "en": "Copycat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15001,22 +12571,13 @@
   },
   {
     "id": "B1-271",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 271,
-    "setSize": 331,
     "name": {
       "en": "Lisia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15037,22 +12598,13 @@
   },
   {
     "id": "B1-272",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 272,
-    "setSize": 331,
     "name": {
       "en": "Mega Pinsir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -15093,22 +12645,13 @@
   },
   {
     "id": "B1-273",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 273,
-    "setSize": 331,
     "name": {
       "en": "Whimsicott ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -15149,22 +12692,13 @@
   },
   {
     "id": "B1-274",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 274,
-    "setSize": 331,
     "name": {
       "en": "Rapidash ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -15205,22 +12739,13 @@
   },
   {
     "id": "B1-275",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 275,
-    "setSize": 331,
     "name": {
       "en": "Greninja ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -15269,22 +12794,13 @@
   },
   {
     "id": "B1-276",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 276,
-    "setSize": 331,
     "name": {
       "en": "Jolteon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -15333,22 +12849,13 @@
   },
   {
     "id": "B1-277",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 277,
-    "setSize": 331,
     "name": {
       "en": "Mega Ampharos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -15389,22 +12896,13 @@
   },
   {
     "id": "B1-278",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 278,
-    "setSize": 331,
     "name": {
       "en": "Indeedee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -15453,22 +12951,13 @@
   },
   {
     "id": "B1-279",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 279,
-    "setSize": 331,
     "name": {
       "en": "Hitmonchan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -15509,22 +12998,13 @@
   },
   {
     "id": "B1-280",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 280,
-    "setSize": 331,
     "name": {
       "en": "Mega Absol ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -15565,22 +13045,13 @@
   },
   {
     "id": "B1-281",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 281,
-    "setSize": 331,
     "name": {
       "en": "Dragalge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -15629,22 +13100,13 @@
   },
   {
     "id": "B1-282",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 282,
-    "setSize": 331,
     "name": {
       "en": "Melmetal ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -15695,22 +13157,13 @@
   },
   {
     "id": "B1-283",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 283,
-    "setSize": 331,
     "name": {
       "en": "Tauros ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -15751,22 +13204,13 @@
   },
   {
     "id": "B1-284",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 284,
-    "setSize": 331,
     "name": {
       "en": "Mega Blaziken ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -15807,22 +13251,13 @@
   },
   {
     "id": "B1-285",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 285,
-    "setSize": 331,
     "name": {
       "en": "Mega Gyarados ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -15863,22 +13298,13 @@
   },
   {
     "id": "B1-286",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 286,
-    "setSize": 331,
     "name": {
       "en": "Mega Altaria ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -15919,22 +13345,13 @@
   },
   {
     "id": "B1-287",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 287,
-    "setSize": 331,
     "name": {
       "en": "Bellsprout",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -15975,22 +13392,13 @@
   },
   {
     "id": "B1-288",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 288,
-    "setSize": 331,
     "name": {
       "en": "Weepinbell",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -16031,22 +13439,13 @@
   },
   {
     "id": "B1-289",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 289,
-    "setSize": 331,
     "name": {
       "en": "Victreebel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -16095,22 +13494,13 @@
   },
   {
     "id": "B1-290",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 290,
-    "setSize": 331,
     "name": {
       "en": "Rowlet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -16151,22 +13541,13 @@
   },
   {
     "id": "B1-291",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 291,
-    "setSize": 331,
     "name": {
       "en": "Dartrix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -16207,22 +13588,13 @@
   },
   {
     "id": "B1-292",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 292,
-    "setSize": 331,
     "name": {
       "en": "Moltres",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -16263,22 +13635,13 @@
   },
   {
     "id": "B1-293",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 293,
-    "setSize": 331,
     "name": {
       "en": "Litten",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -16319,22 +13682,13 @@
   },
   {
     "id": "B1-294",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 294,
-    "setSize": 331,
     "name": {
       "en": "Torracat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -16375,22 +13729,13 @@
   },
   {
     "id": "B1-295",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 295,
-    "setSize": 331,
     "name": {
       "en": "Poliwag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16431,22 +13776,13 @@
   },
   {
     "id": "B1-296",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 296,
-    "setSize": 331,
     "name": {
       "en": "Poliwhirl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16487,22 +13823,13 @@
   },
   {
     "id": "B1-297",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 297,
-    "setSize": 331,
     "name": {
       "en": "Poliwrath",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16551,22 +13878,13 @@
   },
   {
     "id": "B1-298",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 298,
-    "setSize": 331,
     "name": {
       "en": "Articuno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16607,22 +13925,13 @@
   },
   {
     "id": "B1-299",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 299,
-    "setSize": 331,
     "name": {
       "en": "Manaphy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16663,22 +13972,13 @@
   },
   {
     "id": "B1-300",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 300,
-    "setSize": 331,
     "name": {
       "en": "Popplio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16719,22 +14019,13 @@
   },
   {
     "id": "B1-301",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 301,
-    "setSize": 331,
     "name": {
       "en": "Brionne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -16775,22 +14066,13 @@
   },
   {
     "id": "B1-302",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 302,
-    "setSize": 331,
     "name": {
       "en": "Zapdos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -16831,22 +14113,13 @@
   },
   {
     "id": "B1-303",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 303,
-    "setSize": 331,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -16895,22 +14168,13 @@
   },
   {
     "id": "B1-304",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 304,
-    "setSize": 331,
     "name": {
       "en": "Zeraora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -16959,22 +14223,13 @@
   },
   {
     "id": "B1-305",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 305,
-    "setSize": 331,
     "name": {
       "en": "Drowzee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -17015,22 +14270,13 @@
   },
   {
     "id": "B1-306",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 306,
-    "setSize": 331,
     "name": {
       "en": "Hypno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -17079,22 +14325,13 @@
   },
   {
     "id": "B1-307",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 307,
-    "setSize": 331,
     "name": {
       "en": "Geodude",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -17135,22 +14372,13 @@
   },
   {
     "id": "B1-308",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 308,
-    "setSize": 331,
     "name": {
       "en": "Graveler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -17191,22 +14419,13 @@
   },
   {
     "id": "B1-309",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 309,
-    "setSize": 331,
     "name": {
       "en": "Golem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -17247,22 +14466,13 @@
   },
   {
     "id": "B1-310",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 310,
-    "setSize": 331,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -17303,22 +14513,13 @@
   },
   {
     "id": "B1-311",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 311,
-    "setSize": 331,
     "name": {
       "en": "Alolan Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -17359,22 +14560,13 @@
   },
   {
     "id": "B1-312",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 312,
-    "setSize": 331,
     "name": {
       "en": "Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -17415,22 +14607,13 @@
   },
   {
     "id": "B1-313",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 313,
-    "setSize": 331,
     "name": {
       "en": "Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -17471,22 +14654,13 @@
   },
   {
     "id": "B1-314",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 314,
-    "setSize": 331,
     "name": {
       "en": "Doduo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -17527,22 +14701,13 @@
   },
   {
     "id": "B1-315",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 315,
-    "setSize": 331,
     "name": {
       "en": "Dodrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -17583,22 +14748,13 @@
   },
   {
     "id": "B1-316",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 316,
-    "setSize": 331,
     "name": {
       "en": "Bidoof",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -17639,22 +14795,13 @@
   },
   {
     "id": "B1-317",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 317,
-    "setSize": 331,
     "name": {
       "en": "Decidueye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -17705,22 +14852,13 @@
   },
   {
     "id": "B1-318",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 318,
-    "setSize": 331,
     "name": {
       "en": "Incineroar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -17771,22 +14909,13 @@
   },
   {
     "id": "B1-319",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 319,
-    "setSize": 331,
     "name": {
       "en": "Palkia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -17837,22 +14966,13 @@
   },
   {
     "id": "B1-320",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 320,
-    "setSize": 331,
     "name": {
       "en": "Primarina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -17903,22 +15023,13 @@
   },
   {
     "id": "B1-321",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 321,
-    "setSize": 331,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -17959,22 +15070,13 @@
   },
   {
     "id": "B1-322",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 322,
-    "setSize": 331,
     "name": {
       "en": "Tapu Koko ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -18025,22 +15127,13 @@
   },
   {
     "id": "B1-323",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 323,
-    "setSize": 331,
     "name": {
       "en": "Lycanroc ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -18081,22 +15174,13 @@
   },
   {
     "id": "B1-324",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 324,
-    "setSize": 331,
     "name": {
       "en": "Passimian ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -18145,22 +15229,13 @@
   },
   {
     "id": "B1-325",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 325,
-    "setSize": 331,
     "name": {
       "en": "Alolan Dugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -18201,22 +15276,13 @@
   },
   {
     "id": "B1-326",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 326,
-    "setSize": 331,
     "name": {
       "en": "Dialga ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -18267,22 +15333,13 @@
   },
   {
     "id": "B1-327",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 327,
-    "setSize": 331,
     "name": {
       "en": "Bibarel ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -18323,22 +15380,13 @@
   },
   {
     "id": "B1-328",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 328,
-    "setSize": 331,
     "name": {
       "en": "Arceus ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -18387,22 +15435,13 @@
   },
   {
     "id": "B1-329",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 329,
-    "setSize": 331,
     "name": {
       "en": "Lilligant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -18451,22 +15490,13 @@
   },
   {
     "id": "B1-330",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 330,
-    "setSize": 331,
     "name": {
       "en": "Klefki",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -18515,22 +15545,13 @@
   },
   {
     "id": "B1-331",
-    "set": {
-      "code": "B1",
-      "name": "Mega Rising",
-      "nameJa": "メガライジング"
-    },
+    "setCode": "B1",
     "number": 331,
-    "setSize": 331,
     "name": {
       "en": "Flame Patch",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

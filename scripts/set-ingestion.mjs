@@ -26,10 +26,10 @@ export const SOURCE_PROVIDER = "dotgg.gg";
  * it. A source-format drift surfaces here as a clear parse error naming the
  * offending record rather than a malformed emitted card.
  *
- * Rarity arrives as the full `{ symbol, code, label }` tuple so a set that
- * introduces a new tier (e.g. the A2b Shiny codes) flows through untouched and
- * is caught downstream by `cardSchema`, which is the intended trigger to extend
- * the rarity enum.
+ * Rarity arrives as the tier's code string. An unrecognized value (e.g. a new
+ * tier's raw source label passed through by the fetcher) flows through
+ * untouched and is caught downstream by `cardSchema`, which is the intended
+ * trigger to extend the rarity code enum.
  */
 const localizedSource = z.object({ en: z.string(), ja: z.string().nullable().default(null) });
 
@@ -73,7 +73,7 @@ export const sourceCardSchema = z
     setCode: z.string(),
     number: z.number().int().positive(),
     name: z.union([z.string(), localizedSource]),
-    rarity: z.object({ symbol: z.string(), code: z.string(), label: z.string() }),
+    rarity: z.string(),
     category: z.enum(["Pokemon", "Trainer"]),
     illustrator: z.string().nullable().default(null),
     boosterPacks: z.array(z.string()).nullable().default(null),
@@ -96,15 +96,14 @@ function localized(value) {
 /**
  * Transforms one source record into a card-data object with keys in the
  * repository's canonical order (so the serializer output diffs cleanly). Game
- * text is copied from the source verbatim — never paraphrased.
+ * text is copied from the source verbatim — never paraphrased. Set metadata is
+ * not embedded: a card carries only its `setCode` reference, resolved through
+ * the set registry by the app.
  *
  * @param {unknown} record - one source card record (validated here)
- * @param {{ name: string, nameJa: string }} set - the set's registry row,
- *   supplying the set name (never hardcoded) and JP name
- * @param {number} setSize - the set's total card count (from the registry)
  * @returns the canonical card-data object
  */
-export function transformSourceCard(record, set, setSize) {
+export function transformSourceCard(record) {
   const source = sourceCardSchema.parse(record);
 
   const pokemon =
@@ -142,11 +141,10 @@ export function transformSourceCard(record, set, setSize) {
     // Card ids are zero-padded to three digits ("A1-001"), matching the seeded
     // data and the image-URL convention; the source slug keeps the raw number.
     id: `${source.setCode}-${String(source.number).padStart(3, "0")}`,
-    set: { code: source.setCode, name: set.name, nameJa: set.nameJa },
+    setCode: source.setCode,
     number: source.number,
-    setSize,
     name: localized(source.name),
-    rarity: { symbol: source.rarity.symbol, code: source.rarity.code, label: source.rarity.label },
+    rarity: source.rarity,
     category: source.category,
     pokemon,
     trainer,

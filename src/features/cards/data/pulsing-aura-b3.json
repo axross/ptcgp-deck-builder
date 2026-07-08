@@ -1,22 +1,13 @@
 [
   {
     "id": "B3-001",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 1,
-    "setSize": 234,
     "name": {
       "en": "Tangela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B3-002",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 2,
-    "setSize": 234,
     "name": {
       "en": "Tangrowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B3-003",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 3,
-    "setSize": 234,
     "name": {
       "en": "Heracross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B3-004",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 4,
-    "setSize": 234,
     "name": {
       "en": "Celebi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -233,22 +197,13 @@
   },
   {
     "id": "B3-005",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 5,
-    "setSize": 234,
     "name": {
       "en": "Treecko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -289,22 +244,13 @@
   },
   {
     "id": "B3-006",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 6,
-    "setSize": 234,
     "name": {
       "en": "Grovyle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -345,22 +291,13 @@
   },
   {
     "id": "B3-007",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 7,
-    "setSize": 234,
     "name": {
       "en": "Sceptile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -401,22 +338,13 @@
   },
   {
     "id": "B3-008",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 8,
-    "setSize": 234,
     "name": {
       "en": "Mega Sceptile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -457,22 +385,13 @@
   },
   {
     "id": "B3-009",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 9,
-    "setSize": 234,
     "name": {
       "en": "Surskit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -513,22 +432,13 @@
   },
   {
     "id": "B3-010",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 10,
-    "setSize": 234,
     "name": {
       "en": "Masquerain",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -569,22 +479,13 @@
   },
   {
     "id": "B3-011",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 11,
-    "setSize": 234,
     "name": {
       "en": "Shroomish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -625,22 +526,13 @@
   },
   {
     "id": "B3-012",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 12,
-    "setSize": 234,
     "name": {
       "en": "Breloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -681,22 +573,13 @@
   },
   {
     "id": "B3-013",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 13,
-    "setSize": 234,
     "name": {
       "en": "Budew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -737,22 +620,13 @@
   },
   {
     "id": "B3-014",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 14,
-    "setSize": 234,
     "name": {
       "en": "Carnivine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -793,22 +667,13 @@
   },
   {
     "id": "B3-015",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 15,
-    "setSize": 234,
     "name": {
       "en": "Sewaddle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -849,22 +714,13 @@
   },
   {
     "id": "B3-016",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 16,
-    "setSize": 234,
     "name": {
       "en": "Swadloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -905,22 +761,13 @@
   },
   {
     "id": "B3-017",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 17,
-    "setSize": 234,
     "name": {
       "en": "Leavanny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -961,22 +808,13 @@
   },
   {
     "id": "B3-018",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 18,
-    "setSize": 234,
     "name": {
       "en": "Durant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "B3-019",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 19,
-    "setSize": 234,
     "name": {
       "en": "Applin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "B3-020",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 20,
-    "setSize": 234,
     "name": {
       "en": "Flapple",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "B3-021",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 21,
-    "setSize": 234,
     "name": {
       "en": "Numel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "B3-022",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 22,
-    "setSize": 234,
     "name": {
       "en": "Camerupt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "B3-023",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 23,
-    "setSize": 234,
     "name": {
       "en": "Mega Camerupt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "B3-024",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 24,
-    "setSize": 234,
     "name": {
       "en": "Castform Sunny Form",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1353,22 +1137,13 @@
   },
   {
     "id": "B3-025",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 25,
-    "setSize": 234,
     "name": {
       "en": "Victini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1417,22 +1192,13 @@
   },
   {
     "id": "B3-026",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 26,
-    "setSize": 234,
     "name": {
       "en": "Tepig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1473,22 +1239,13 @@
   },
   {
     "id": "B3-027",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 27,
-    "setSize": 234,
     "name": {
       "en": "Pignite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1529,22 +1286,13 @@
   },
   {
     "id": "B3-028",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 28,
-    "setSize": 234,
     "name": {
       "en": "Emboar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1585,22 +1333,13 @@
   },
   {
     "id": "B3-029",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 29,
-    "setSize": 234,
     "name": {
       "en": "Darumaka",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1641,22 +1380,13 @@
   },
   {
     "id": "B3-030",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 30,
-    "setSize": 234,
     "name": {
       "en": "Darmanitan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1697,22 +1427,13 @@
   },
   {
     "id": "B3-031",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 31,
-    "setSize": 234,
     "name": {
       "en": "Larvesta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1753,22 +1474,13 @@
   },
   {
     "id": "B3-032",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 32,
-    "setSize": 234,
     "name": {
       "en": "Volcarona",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1809,22 +1521,13 @@
   },
   {
     "id": "B3-033",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 33,
-    "setSize": 234,
     "name": {
       "en": "Poliwag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1865,22 +1568,13 @@
   },
   {
     "id": "B3-034",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 34,
-    "setSize": 234,
     "name": {
       "en": "Poliwhirl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1921,22 +1615,13 @@
   },
   {
     "id": "B3-035",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 35,
-    "setSize": 234,
     "name": {
       "en": "Politoed",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1977,22 +1662,13 @@
   },
   {
     "id": "B3-036",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 36,
-    "setSize": 234,
     "name": {
       "en": "Paldean Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2033,22 +1709,13 @@
   },
   {
     "id": "B3-037",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 37,
-    "setSize": 234,
     "name": {
       "en": "Vaporeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2097,22 +1764,13 @@
   },
   {
     "id": "B3-038",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 38,
-    "setSize": 234,
     "name": {
       "en": "Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2153,22 +1811,13 @@
   },
   {
     "id": "B3-039",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 39,
-    "setSize": 234,
     "name": {
       "en": "Quagsire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2209,22 +1858,13 @@
   },
   {
     "id": "B3-040",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 40,
-    "setSize": 234,
     "name": {
       "en": "Castform Rainy Form",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2265,22 +1905,13 @@
   },
   {
     "id": "B3-041",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 41,
-    "setSize": 234,
     "name": {
       "en": "Castform Snowy Form",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2321,22 +1952,13 @@
   },
   {
     "id": "B3-042",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 42,
-    "setSize": 234,
     "name": {
       "en": "Clamperl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2377,22 +1999,13 @@
   },
   {
     "id": "B3-043",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 43,
-    "setSize": 234,
     "name": {
       "en": "Huntail",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2433,22 +2046,13 @@
   },
   {
     "id": "B3-044",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 44,
-    "setSize": 234,
     "name": {
       "en": "Gorebyss",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2489,22 +2093,13 @@
   },
   {
     "id": "B3-045",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 45,
-    "setSize": 234,
     "name": {
       "en": "Regice",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2545,22 +2140,13 @@
   },
   {
     "id": "B3-046",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 46,
-    "setSize": 234,
     "name": {
       "en": "Cubchoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2601,22 +2187,13 @@
   },
   {
     "id": "B3-047",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 47,
-    "setSize": 234,
     "name": {
       "en": "Beartic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2657,22 +2234,13 @@
   },
   {
     "id": "B3-048",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 48,
-    "setSize": 234,
     "name": {
       "en": "Sobble",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2713,22 +2281,13 @@
   },
   {
     "id": "B3-049",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 49,
-    "setSize": 234,
     "name": {
       "en": "Drizzile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2777,22 +2336,13 @@
   },
   {
     "id": "B3-050",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 50,
-    "setSize": 234,
     "name": {
       "en": "Inteleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2841,22 +2391,13 @@
   },
   {
     "id": "B3-051",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 51,
-    "setSize": 234,
     "name": {
       "en": "Rapid Strike Urshifu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2905,22 +2446,13 @@
   },
   {
     "id": "B3-052",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 52,
-    "setSize": 234,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2961,22 +2493,13 @@
   },
   {
     "id": "B3-053",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 53,
-    "setSize": 234,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3017,22 +2540,13 @@
   },
   {
     "id": "B3-054",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 54,
-    "setSize": 234,
     "name": {
       "en": "Magnezone ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3073,22 +2587,13 @@
   },
   {
     "id": "B3-055",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 55,
-    "setSize": 234,
     "name": {
       "en": "Voltorb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3129,22 +2634,13 @@
   },
   {
     "id": "B3-056",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 56,
-    "setSize": 234,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3185,22 +2681,13 @@
   },
   {
     "id": "B3-057",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 57,
-    "setSize": 234,
     "name": {
       "en": "Chinchou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3241,22 +2728,13 @@
   },
   {
     "id": "B3-058",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 58,
-    "setSize": 234,
     "name": {
       "en": "Lanturn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3297,22 +2775,13 @@
   },
   {
     "id": "B3-059",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 59,
-    "setSize": 234,
     "name": {
       "en": "Zekrom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3353,22 +2822,13 @@
   },
   {
     "id": "B3-060",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 60,
-    "setSize": 234,
     "name": {
       "en": "Toxel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3409,22 +2869,13 @@
   },
   {
     "id": "B3-061",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 61,
-    "setSize": 234,
     "name": {
       "en": "Toxtricity",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3465,22 +2916,13 @@
   },
   {
     "id": "B3-062",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 62,
-    "setSize": 234,
     "name": {
       "en": "Morpeko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3521,22 +2963,13 @@
   },
   {
     "id": "B3-063",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 63,
-    "setSize": 234,
     "name": {
       "en": "Ralts",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3577,22 +3010,13 @@
   },
   {
     "id": "B3-064",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 64,
-    "setSize": 234,
     "name": {
       "en": "Kirlia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3633,22 +3057,13 @@
   },
   {
     "id": "B3-065",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 65,
-    "setSize": 234,
     "name": {
       "en": "Espurr",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3689,22 +3104,13 @@
   },
   {
     "id": "B3-066",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 66,
-    "setSize": 234,
     "name": {
       "en": "Meowstic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3753,22 +3159,13 @@
   },
   {
     "id": "B3-067",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 67,
-    "setSize": 234,
     "name": {
       "en": "Diancie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3809,22 +3206,13 @@
   },
   {
     "id": "B3-068",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 68,
-    "setSize": 234,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3865,22 +3253,13 @@
   },
   {
     "id": "B3-069",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 69,
-    "setSize": 234,
     "name": {
       "en": "Hatenna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3921,22 +3300,13 @@
   },
   {
     "id": "B3-070",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 70,
-    "setSize": 234,
     "name": {
       "en": "Hattrem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3977,22 +3347,13 @@
   },
   {
     "id": "B3-071",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 71,
-    "setSize": 234,
     "name": {
       "en": "Hatterene",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4033,22 +3394,13 @@
   },
   {
     "id": "B3-072",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 72,
-    "setSize": 234,
     "name": {
       "en": "Bramblin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4089,22 +3441,13 @@
   },
   {
     "id": "B3-073",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 73,
-    "setSize": 234,
     "name": {
       "en": "Brambleghast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4153,22 +3496,13 @@
   },
   {
     "id": "B3-074",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 74,
-    "setSize": 234,
     "name": {
       "en": "Gligar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4209,22 +3543,13 @@
   },
   {
     "id": "B3-075",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 75,
-    "setSize": 234,
     "name": {
       "en": "Gliscor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4265,22 +3590,13 @@
   },
   {
     "id": "B3-076",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 76,
-    "setSize": 234,
     "name": {
       "en": "Trapinch",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4321,22 +3637,13 @@
   },
   {
     "id": "B3-077",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 77,
-    "setSize": 234,
     "name": {
       "en": "Regirock",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4377,22 +3684,13 @@
   },
   {
     "id": "B3-078",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 78,
-    "setSize": 234,
     "name": {
       "en": "Bonsly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4433,22 +3731,13 @@
   },
   {
     "id": "B3-079",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 79,
-    "setSize": 234,
     "name": {
       "en": "Riolu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4489,22 +3778,13 @@
   },
   {
     "id": "B3-080",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 80,
-    "setSize": 234,
     "name": {
       "en": "Lucario",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4545,22 +3825,13 @@
   },
   {
     "id": "B3-081",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 81,
-    "setSize": 234,
     "name": {
       "en": "Mega Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4601,22 +3872,13 @@
   },
   {
     "id": "B3-082",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 82,
-    "setSize": 234,
     "name": {
       "en": "Croagunk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4657,22 +3919,13 @@
   },
   {
     "id": "B3-083",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 83,
-    "setSize": 234,
     "name": {
       "en": "Toxicroak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4713,22 +3966,13 @@
   },
   {
     "id": "B3-084",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 84,
-    "setSize": 234,
     "name": {
       "en": "Gallade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4769,22 +4013,13 @@
   },
   {
     "id": "B3-085",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 85,
-    "setSize": 234,
     "name": {
       "en": "Throh",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4825,22 +4060,13 @@
   },
   {
     "id": "B3-086",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 86,
-    "setSize": 234,
     "name": {
       "en": "Sawk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4881,22 +4107,13 @@
   },
   {
     "id": "B3-087",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 87,
-    "setSize": 234,
     "name": {
       "en": "Dwebble",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4937,22 +4154,13 @@
   },
   {
     "id": "B3-088",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 88,
-    "setSize": 234,
     "name": {
       "en": "Crustle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4993,22 +4201,13 @@
   },
   {
     "id": "B3-089",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 89,
-    "setSize": 234,
     "name": {
       "en": "Meloetta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5049,22 +4248,13 @@
   },
   {
     "id": "B3-090",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 90,
-    "setSize": 234,
     "name": {
       "en": "Stufful",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5105,22 +4295,13 @@
   },
   {
     "id": "B3-091",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 91,
-    "setSize": 234,
     "name": {
       "en": "Bewear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5161,22 +4342,13 @@
   },
   {
     "id": "B3-092",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 92,
-    "setSize": 234,
     "name": {
       "en": "Rolycoly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5217,22 +4389,13 @@
   },
   {
     "id": "B3-093",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 93,
-    "setSize": 234,
     "name": {
       "en": "Carkol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5273,22 +4436,13 @@
   },
   {
     "id": "B3-094",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 94,
-    "setSize": 234,
     "name": {
       "en": "Coalossal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5329,22 +4483,13 @@
   },
   {
     "id": "B3-095",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 95,
-    "setSize": 234,
     "name": {
       "en": "Silicobra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5385,22 +4530,13 @@
   },
   {
     "id": "B3-096",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 96,
-    "setSize": 234,
     "name": {
       "en": "Sandaconda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5441,22 +4577,13 @@
   },
   {
     "id": "B3-097",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 97,
-    "setSize": 234,
     "name": {
       "en": "Kubfu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5497,22 +4624,13 @@
   },
   {
     "id": "B3-098",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 98,
-    "setSize": 234,
     "name": {
       "en": "Zubat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5553,22 +4671,13 @@
   },
   {
     "id": "B3-099",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 99,
-    "setSize": 234,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5609,22 +4718,13 @@
   },
   {
     "id": "B3-100",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 100,
-    "setSize": 234,
     "name": {
       "en": "Crobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5665,22 +4765,13 @@
   },
   {
     "id": "B3-101",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 101,
-    "setSize": 234,
     "name": {
       "en": "Koffing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5721,22 +4812,13 @@
   },
   {
     "id": "B3-102",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 102,
-    "setSize": 234,
     "name": {
       "en": "Weezing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5777,22 +4859,13 @@
   },
   {
     "id": "B3-103",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 103,
-    "setSize": 234,
     "name": {
       "en": "Qwilfish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5833,22 +4906,13 @@
   },
   {
     "id": "B3-104",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 104,
-    "setSize": 234,
     "name": {
       "en": "Seviper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5889,22 +4953,13 @@
   },
   {
     "id": "B3-105",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 105,
-    "setSize": 234,
     "name": {
       "en": "Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5945,22 +5000,13 @@
   },
   {
     "id": "B3-106",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 106,
-    "setSize": 234,
     "name": {
       "en": "Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6001,22 +5047,13 @@
   },
   {
     "id": "B3-107",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 107,
-    "setSize": 234,
     "name": {
       "en": "Foongus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6057,22 +5094,13 @@
   },
   {
     "id": "B3-108",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 108,
-    "setSize": 234,
     "name": {
       "en": "Amoonguss",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6113,22 +5141,13 @@
   },
   {
     "id": "B3-109",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 109,
-    "setSize": 234,
     "name": {
       "en": "Vullaby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6169,22 +5188,13 @@
   },
   {
     "id": "B3-110",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 110,
-    "setSize": 234,
     "name": {
       "en": "Mandibuzz",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6225,22 +5235,13 @@
   },
   {
     "id": "B3-111",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 111,
-    "setSize": 234,
     "name": {
       "en": "Inkay",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6281,22 +5282,13 @@
   },
   {
     "id": "B3-112",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 112,
-    "setSize": 234,
     "name": {
       "en": "Malamar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6337,22 +5329,13 @@
   },
   {
     "id": "B3-113",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 113,
-    "setSize": 234,
     "name": {
       "en": "Single Strike Urshifu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6401,22 +5384,13 @@
   },
   {
     "id": "B3-114",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 114,
-    "setSize": 234,
     "name": {
       "en": "Zarude",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6457,22 +5431,13 @@
   },
   {
     "id": "B3-115",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 115,
-    "setSize": 234,
     "name": {
       "en": "Bombirdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6521,22 +5486,13 @@
   },
   {
     "id": "B3-116",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 116,
-    "setSize": 234,
     "name": {
       "en": "Registeel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6577,22 +5533,13 @@
   },
   {
     "id": "B3-117",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 117,
-    "setSize": 234,
     "name": {
       "en": "Bronzor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6633,22 +5580,13 @@
   },
   {
     "id": "B3-118",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 118,
-    "setSize": 234,
     "name": {
       "en": "Bronzong",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6689,22 +5627,13 @@
   },
   {
     "id": "B3-119",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 119,
-    "setSize": 234,
     "name": {
       "en": "Pawniard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6745,22 +5674,13 @@
   },
   {
     "id": "B3-120",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 120,
-    "setSize": 234,
     "name": {
       "en": "Bisharp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6801,22 +5721,13 @@
   },
   {
     "id": "B3-121",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 121,
-    "setSize": 234,
     "name": {
       "en": "Magearna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6857,22 +5768,13 @@
   },
   {
     "id": "B3-122",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 122,
-    "setSize": 234,
     "name": {
       "en": "Meltan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6913,22 +5815,13 @@
   },
   {
     "id": "B3-123",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 123,
-    "setSize": 234,
     "name": {
       "en": "Melmetal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6969,22 +5862,13 @@
   },
   {
     "id": "B3-124",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 124,
-    "setSize": 234,
     "name": {
       "en": "Corviknight ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7025,22 +5909,13 @@
   },
   {
     "id": "B3-125",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 125,
-    "setSize": 234,
     "name": {
       "en": "Vibrava",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7081,22 +5956,13 @@
   },
   {
     "id": "B3-126",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 126,
-    "setSize": 234,
     "name": {
       "en": "Flygon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7145,22 +6011,13 @@
   },
   {
     "id": "B3-127",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 127,
-    "setSize": 234,
     "name": {
       "en": "Chansey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7201,22 +6058,13 @@
   },
   {
     "id": "B3-128",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 128,
-    "setSize": 234,
     "name": {
       "en": "Blissey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7265,22 +6113,13 @@
   },
   {
     "id": "B3-129",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 129,
-    "setSize": 234,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7321,22 +6160,13 @@
   },
   {
     "id": "B3-130",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 130,
-    "setSize": 234,
     "name": {
       "en": "Dunsparce",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7377,22 +6207,13 @@
   },
   {
     "id": "B3-131",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 131,
-    "setSize": 234,
     "name": {
       "en": "Teddiursa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7433,22 +6254,13 @@
   },
   {
     "id": "B3-132",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 132,
-    "setSize": 234,
     "name": {
       "en": "Ursaring",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7489,22 +6301,13 @@
   },
   {
     "id": "B3-133",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 133,
-    "setSize": 234,
     "name": {
       "en": "Castform",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7545,22 +6348,13 @@
   },
   {
     "id": "B3-134",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 134,
-    "setSize": 234,
     "name": {
       "en": "Regigigas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7609,22 +6403,13 @@
   },
   {
     "id": "B3-135",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 135,
-    "setSize": 234,
     "name": {
       "en": "Patrat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7665,22 +6450,13 @@
   },
   {
     "id": "B3-136",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 136,
-    "setSize": 234,
     "name": {
       "en": "Watchog",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7721,22 +6497,13 @@
   },
   {
     "id": "B3-137",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 137,
-    "setSize": 234,
     "name": {
       "en": "Lillipup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7777,22 +6544,13 @@
   },
   {
     "id": "B3-138",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 138,
-    "setSize": 234,
     "name": {
       "en": "Herdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7833,22 +6591,13 @@
   },
   {
     "id": "B3-139",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 139,
-    "setSize": 234,
     "name": {
       "en": "Stoutland",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7889,22 +6638,13 @@
   },
   {
     "id": "B3-140",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 140,
-    "setSize": 234,
     "name": {
       "en": "Audino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7945,22 +6685,13 @@
   },
   {
     "id": "B3-141",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 141,
-    "setSize": 234,
     "name": {
       "en": "Mega Audino ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8001,22 +6732,13 @@
   },
   {
     "id": "B3-142",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 142,
-    "setSize": 234,
     "name": {
       "en": "Minccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8057,22 +6779,13 @@
   },
   {
     "id": "B3-143",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 143,
-    "setSize": 234,
     "name": {
       "en": "Cinccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8113,22 +6826,13 @@
   },
   {
     "id": "B3-144",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 144,
-    "setSize": 234,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8177,22 +6881,13 @@
   },
   {
     "id": "B3-145",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 145,
-    "setSize": 234,
     "name": {
       "en": "Rookidee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8233,22 +6928,13 @@
   },
   {
     "id": "B3-146",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 146,
-    "setSize": 234,
     "name": {
       "en": "Corvisquire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8289,22 +6975,13 @@
   },
   {
     "id": "B3-147",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 147,
-    "setSize": 234,
     "name": {
       "en": "Field Blower",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8325,22 +7002,13 @@
   },
   {
     "id": "B3-148",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 148,
-    "setSize": 234,
     "name": {
       "en": "Lucky Egg",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8361,22 +7029,13 @@
   },
   {
     "id": "B3-149",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 149,
-    "setSize": 234,
     "name": {
       "en": "Korrina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8397,22 +7056,13 @@
   },
   {
     "id": "B3-150",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 150,
-    "setSize": 234,
     "name": {
       "en": "Cabbie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8433,22 +7083,13 @@
   },
   {
     "id": "B3-151",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 151,
-    "setSize": 234,
     "name": {
       "en": "Cheren",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8469,22 +7110,13 @@
   },
   {
     "id": "B3-152",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 152,
-    "setSize": 234,
     "name": {
       "en": "Parasol Lady",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8505,22 +7137,13 @@
   },
   {
     "id": "B3-153",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 153,
-    "setSize": 234,
     "name": {
       "en": "Fragrant Forest",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8541,22 +7164,13 @@
   },
   {
     "id": "B3-154",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 154,
-    "setSize": 234,
     "name": {
       "en": "Arena of Antiquity",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8577,22 +7191,13 @@
   },
   {
     "id": "B3-155",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 155,
-    "setSize": 234,
     "name": {
       "en": "Bounded Field",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8613,22 +7218,13 @@
   },
   {
     "id": "B3-156",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 156,
-    "setSize": 234,
     "name": {
       "en": "Treecko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8669,22 +7265,13 @@
   },
   {
     "id": "B3-157",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 157,
-    "setSize": 234,
     "name": {
       "en": "Grovyle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8725,22 +7312,13 @@
   },
   {
     "id": "B3-158",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 158,
-    "setSize": 234,
     "name": {
       "en": "Shroomish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8781,22 +7359,13 @@
   },
   {
     "id": "B3-159",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 159,
-    "setSize": 234,
     "name": {
       "en": "Budew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8837,22 +7406,13 @@
   },
   {
     "id": "B3-160",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 160,
-    "setSize": 234,
     "name": {
       "en": "Flapple",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8893,22 +7453,13 @@
   },
   {
     "id": "B3-161",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 161,
-    "setSize": 234,
     "name": {
       "en": "Tepig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8949,22 +7500,13 @@
   },
   {
     "id": "B3-162",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 162,
-    "setSize": 234,
     "name": {
       "en": "Quagsire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9005,22 +7547,13 @@
   },
   {
     "id": "B3-163",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 163,
-    "setSize": 234,
     "name": {
       "en": "Zekrom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9061,22 +7594,13 @@
   },
   {
     "id": "B3-164",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 164,
-    "setSize": 234,
     "name": {
       "en": "Morpeko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9117,22 +7641,13 @@
   },
   {
     "id": "B3-165",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 165,
-    "setSize": 234,
     "name": {
       "en": "Meowstic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9181,22 +7696,13 @@
   },
   {
     "id": "B3-166",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 166,
-    "setSize": 234,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9237,22 +7743,13 @@
   },
   {
     "id": "B3-167",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 167,
-    "setSize": 234,
     "name": {
       "en": "Brambleghast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9301,22 +7798,13 @@
   },
   {
     "id": "B3-168",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 168,
-    "setSize": 234,
     "name": {
       "en": "Bonsly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9357,22 +7845,13 @@
   },
   {
     "id": "B3-169",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 169,
-    "setSize": 234,
     "name": {
       "en": "Riolu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9413,22 +7892,13 @@
   },
   {
     "id": "B3-170",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 170,
-    "setSize": 234,
     "name": {
       "en": "Meloetta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9469,22 +7939,13 @@
   },
   {
     "id": "B3-171",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 171,
-    "setSize": 234,
     "name": {
       "en": "Carkol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9525,22 +7986,13 @@
   },
   {
     "id": "B3-172",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 172,
-    "setSize": 234,
     "name": {
       "en": "Kubfu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9581,22 +8033,13 @@
   },
   {
     "id": "B3-173",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 173,
-    "setSize": 234,
     "name": {
       "en": "Seviper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9637,22 +8080,13 @@
   },
   {
     "id": "B3-174",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 174,
-    "setSize": 234,
     "name": {
       "en": "Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9693,22 +8127,13 @@
   },
   {
     "id": "B3-175",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 175,
-    "setSize": 234,
     "name": {
       "en": "Malamar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9749,22 +8174,13 @@
   },
   {
     "id": "B3-176",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 176,
-    "setSize": 234,
     "name": {
       "en": "Bisharp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9805,22 +8221,13 @@
   },
   {
     "id": "B3-177",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 177,
-    "setSize": 234,
     "name": {
       "en": "Meltan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9861,22 +8268,13 @@
   },
   {
     "id": "B3-178",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 178,
-    "setSize": 234,
     "name": {
       "en": "Castform",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9917,22 +8315,13 @@
   },
   {
     "id": "B3-179",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 179,
-    "setSize": 234,
     "name": {
       "en": "Cinccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9973,22 +8362,13 @@
   },
   {
     "id": "B3-180",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 180,
-    "setSize": 234,
     "name": {
       "en": "Mega Sceptile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10029,22 +8409,13 @@
   },
   {
     "id": "B3-181",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 181,
-    "setSize": 234,
     "name": {
       "en": "Mega Camerupt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10085,22 +8456,13 @@
   },
   {
     "id": "B3-182",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 182,
-    "setSize": 234,
     "name": {
       "en": "Vaporeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10149,22 +8511,13 @@
   },
   {
     "id": "B3-183",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 183,
-    "setSize": 234,
     "name": {
       "en": "Magnezone ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10205,22 +8558,13 @@
   },
   {
     "id": "B3-184",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 184,
-    "setSize": 234,
     "name": {
       "en": "Mega Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10261,22 +8605,13 @@
   },
   {
     "id": "B3-185",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 185,
-    "setSize": 234,
     "name": {
       "en": "Crustle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10317,22 +8652,13 @@
   },
   {
     "id": "B3-186",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 186,
-    "setSize": 234,
     "name": {
       "en": "Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10373,22 +8699,13 @@
   },
   {
     "id": "B3-187",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 187,
-    "setSize": 234,
     "name": {
       "en": "Corviknight ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10429,22 +8746,13 @@
   },
   {
     "id": "B3-188",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 188,
-    "setSize": 234,
     "name": {
       "en": "Flygon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10493,22 +8801,13 @@
   },
   {
     "id": "B3-189",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 189,
-    "setSize": 234,
     "name": {
       "en": "Mega Audino ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10549,22 +8848,13 @@
   },
   {
     "id": "B3-190",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 190,
-    "setSize": 234,
     "name": {
       "en": "Korrina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10585,22 +8875,13 @@
   },
   {
     "id": "B3-191",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 191,
-    "setSize": 234,
     "name": {
       "en": "Cabbie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10621,22 +8902,13 @@
   },
   {
     "id": "B3-192",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 192,
-    "setSize": 234,
     "name": {
       "en": "Cheren",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10657,22 +8929,13 @@
   },
   {
     "id": "B3-193",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 193,
-    "setSize": 234,
     "name": {
       "en": "Parasol Lady",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10693,22 +8956,13 @@
   },
   {
     "id": "B3-194",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 194,
-    "setSize": 234,
     "name": {
       "en": "Mega Sceptile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10749,22 +9003,13 @@
   },
   {
     "id": "B3-195",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 195,
-    "setSize": 234,
     "name": {
       "en": "Mega Camerupt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10805,22 +9050,13 @@
   },
   {
     "id": "B3-196",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 196,
-    "setSize": 234,
     "name": {
       "en": "Vaporeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10869,22 +9105,13 @@
   },
   {
     "id": "B3-197",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 197,
-    "setSize": 234,
     "name": {
       "en": "Magnezone ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10925,22 +9152,13 @@
   },
   {
     "id": "B3-198",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 198,
-    "setSize": 234,
     "name": {
       "en": "Crustle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10981,22 +9199,13 @@
   },
   {
     "id": "B3-199",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 199,
-    "setSize": 234,
     "name": {
       "en": "Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11037,22 +9246,13 @@
   },
   {
     "id": "B3-200",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 200,
-    "setSize": 234,
     "name": {
       "en": "Corviknight ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -11093,22 +9293,13 @@
   },
   {
     "id": "B3-201",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 201,
-    "setSize": 234,
     "name": {
       "en": "Flygon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -11157,22 +9348,13 @@
   },
   {
     "id": "B3-202",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 202,
-    "setSize": 234,
     "name": {
       "en": "Mega Audino ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11213,22 +9395,13 @@
   },
   {
     "id": "B3-203",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 203,
-    "setSize": 234,
     "name": {
       "en": "Sobble",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11269,22 +9442,13 @@
   },
   {
     "id": "B3-204",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 204,
-    "setSize": 234,
     "name": {
       "en": "Mega Lucario ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11325,22 +9489,13 @@
   },
   {
     "id": "B3-205",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 205,
-    "setSize": 234,
     "name": {
       "en": "Cottonee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11381,22 +9536,13 @@
   },
   {
     "id": "B3-206",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 206,
-    "setSize": 234,
     "name": {
       "en": "Torchic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11437,22 +9583,13 @@
   },
   {
     "id": "B3-207",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 207,
-    "setSize": 234,
     "name": {
       "en": "Combusken",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11493,22 +9630,13 @@
   },
   {
     "id": "B3-208",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 208,
-    "setSize": 234,
     "name": {
       "en": "Blaziken",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11549,22 +9677,13 @@
   },
   {
     "id": "B3-209",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 209,
-    "setSize": 234,
     "name": {
       "en": "Frillish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11605,22 +9724,13 @@
   },
   {
     "id": "B3-210",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 210,
-    "setSize": 234,
     "name": {
       "en": "Jellicent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11669,22 +9779,13 @@
   },
   {
     "id": "B3-211",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 211,
-    "setSize": 234,
     "name": {
       "en": "Onix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11725,22 +9826,13 @@
   },
   {
     "id": "B3-212",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 212,
-    "setSize": 234,
     "name": {
       "en": "Zubat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11781,22 +9873,13 @@
   },
   {
     "id": "B3-213",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 213,
-    "setSize": 234,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11837,22 +9920,13 @@
   },
   {
     "id": "B3-214",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 214,
-    "setSize": 234,
     "name": {
       "en": "Crobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11893,22 +9967,13 @@
   },
   {
     "id": "B3-215",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 215,
-    "setSize": 234,
     "name": {
       "en": "Grimer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11949,22 +10014,13 @@
   },
   {
     "id": "B3-216",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 216,
-    "setSize": 234,
     "name": {
       "en": "Muk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12005,22 +10061,13 @@
   },
   {
     "id": "B3-217",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 217,
-    "setSize": 234,
     "name": {
       "en": "Absol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12061,22 +10108,13 @@
   },
   {
     "id": "B3-218",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 218,
-    "setSize": 234,
     "name": {
       "en": "Skrelp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12117,22 +10155,13 @@
   },
   {
     "id": "B3-219",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 219,
-    "setSize": 234,
     "name": {
       "en": "Steelix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -12173,22 +10202,13 @@
   },
   {
     "id": "B3-220",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 220,
-    "setSize": 234,
     "name": {
       "en": "Chansey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12229,22 +10249,13 @@
   },
   {
     "id": "B3-221",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 221,
-    "setSize": 234,
     "name": {
       "en": "Blissey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12293,22 +10304,13 @@
   },
   {
     "id": "B3-222",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 222,
-    "setSize": 234,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12349,22 +10351,13 @@
   },
   {
     "id": "B3-223",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 223,
-    "setSize": 234,
     "name": {
       "en": "Porygon2",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12405,22 +10398,13 @@
   },
   {
     "id": "B3-224",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 224,
-    "setSize": 234,
     "name": {
       "en": "Porygon-Z",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12461,22 +10445,13 @@
   },
   {
     "id": "B3-225",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 225,
-    "setSize": 234,
     "name": {
       "en": "Whimsicott ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12517,22 +10492,13 @@
   },
   {
     "id": "B3-226",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 226,
-    "setSize": 234,
     "name": {
       "en": "Mega Blaziken ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12573,22 +10539,13 @@
   },
   {
     "id": "B3-227",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 227,
-    "setSize": 234,
     "name": {
       "en": "Greninja ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12637,22 +10594,13 @@
   },
   {
     "id": "B3-228",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 228,
-    "setSize": 234,
     "name": {
       "en": "Jolteon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -12701,22 +10649,13 @@
   },
   {
     "id": "B3-229",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 229,
-    "setSize": 234,
     "name": {
       "en": "Hitmonchan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12757,22 +10696,13 @@
   },
   {
     "id": "B3-230",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 230,
-    "setSize": 234,
     "name": {
       "en": "Mega Absol ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12813,22 +10743,13 @@
   },
   {
     "id": "B3-231",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 231,
-    "setSize": 234,
     "name": {
       "en": "Dragalge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12877,22 +10798,13 @@
   },
   {
     "id": "B3-232",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 232,
-    "setSize": 234,
     "name": {
       "en": "Mega Steelix ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -12933,22 +10845,13 @@
   },
   {
     "id": "B3-233",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 233,
-    "setSize": 234,
     "name": {
       "en": "Celebi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12997,22 +10900,13 @@
   },
   {
     "id": "B3-234",
-    "set": {
-      "code": "B3",
-      "name": "Pulsing Aura",
-      "nameJa": "波動ビート"
-    },
+    "setCode": "B3",
     "number": 234,
-    "setSize": 234,
     "name": {
       "en": "Bombirdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",

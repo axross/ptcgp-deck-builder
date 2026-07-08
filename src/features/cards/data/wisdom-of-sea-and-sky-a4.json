@@ -1,22 +1,13 @@
 [
   {
     "id": "A4-001",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 1,
-    "setSize": 241,
     "name": {
       "en": "Oddish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A4-002",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 2,
-    "setSize": 241,
     "name": {
       "en": "Gloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A4-003",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 3,
-    "setSize": 241,
     "name": {
       "en": "Bellossom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A4-004",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 4,
-    "setSize": 241,
     "name": {
       "en": "Tangela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A4-005",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 5,
-    "setSize": 241,
     "name": {
       "en": "Tangrowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A4-006",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 6,
-    "setSize": 241,
     "name": {
       "en": "Scyther",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A4-007",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 7,
-    "setSize": 241,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A4-008",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 8,
-    "setSize": 241,
     "name": {
       "en": "Chikorita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A4-009",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 9,
-    "setSize": 241,
     "name": {
       "en": "Bayleef",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -505,22 +424,13 @@
   },
   {
     "id": "A4-010",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 10,
-    "setSize": 241,
     "name": {
       "en": "Meganium",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -561,22 +471,13 @@
   },
   {
     "id": "A4-011",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 11,
-    "setSize": 241,
     "name": {
       "en": "Ledyba",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -617,22 +518,13 @@
   },
   {
     "id": "A4-012",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 12,
-    "setSize": 241,
     "name": {
       "en": "Ledian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -673,22 +565,13 @@
   },
   {
     "id": "A4-013",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 13,
-    "setSize": 241,
     "name": {
       "en": "Hoppip",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -729,22 +612,13 @@
   },
   {
     "id": "A4-014",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 14,
-    "setSize": 241,
     "name": {
       "en": "Skiploom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -785,22 +659,13 @@
   },
   {
     "id": "A4-015",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 15,
-    "setSize": 241,
     "name": {
       "en": "Jumpluff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -849,22 +714,13 @@
   },
   {
     "id": "A4-016",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 16,
-    "setSize": 241,
     "name": {
       "en": "Sunkern",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -905,22 +761,13 @@
   },
   {
     "id": "A4-017",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 17,
-    "setSize": 241,
     "name": {
       "en": "Sunflora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -961,22 +808,13 @@
   },
   {
     "id": "A4-018",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 18,
-    "setSize": 241,
     "name": {
       "en": "Yanma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "A4-019",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 19,
-    "setSize": 241,
     "name": {
       "en": "Yanmega",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "A4-020",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 20,
-    "setSize": 241,
     "name": {
       "en": "Pineco",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "A4-021",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 21,
-    "setSize": 241,
     "name": {
       "en": "Shuckle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1193,22 +1004,13 @@
   },
   {
     "id": "A4-022",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 22,
-    "setSize": 241,
     "name": {
       "en": "Heracross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1249,22 +1051,13 @@
   },
   {
     "id": "A4-023",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 23,
-    "setSize": 241,
     "name": {
       "en": "Cherubi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1313,22 +1106,13 @@
   },
   {
     "id": "A4-024",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 24,
-    "setSize": 241,
     "name": {
       "en": "Cherrim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1369,22 +1153,13 @@
   },
   {
     "id": "A4-025",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 25,
-    "setSize": 241,
     "name": {
       "en": "Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1425,22 +1200,13 @@
   },
   {
     "id": "A4-026",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 26,
-    "setSize": 241,
     "name": {
       "en": "Ninetales",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1481,22 +1247,13 @@
   },
   {
     "id": "A4-027",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 27,
-    "setSize": 241,
     "name": {
       "en": "Cyndaquil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1537,22 +1294,13 @@
   },
   {
     "id": "A4-028",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 28,
-    "setSize": 241,
     "name": {
       "en": "Quilava",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1593,22 +1341,13 @@
   },
   {
     "id": "A4-029",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 29,
-    "setSize": 241,
     "name": {
       "en": "Typhlosion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1657,22 +1396,13 @@
   },
   {
     "id": "A4-030",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 30,
-    "setSize": 241,
     "name": {
       "en": "Slugma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1713,22 +1443,13 @@
   },
   {
     "id": "A4-031",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 31,
-    "setSize": 241,
     "name": {
       "en": "Magcargo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1769,22 +1490,13 @@
   },
   {
     "id": "A4-032",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 32,
-    "setSize": 241,
     "name": {
       "en": "Magby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1825,22 +1537,13 @@
   },
   {
     "id": "A4-033",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 33,
-    "setSize": 241,
     "name": {
       "en": "Entei",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1881,22 +1584,13 @@
   },
   {
     "id": "A4-034",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 34,
-    "setSize": 241,
     "name": {
       "en": "Ho-Oh ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1937,22 +1631,13 @@
   },
   {
     "id": "A4-035",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 35,
-    "setSize": 241,
     "name": {
       "en": "Darumaka",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1993,22 +1678,13 @@
   },
   {
     "id": "A4-036",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 36,
-    "setSize": 241,
     "name": {
       "en": "Darmanitan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2049,22 +1725,13 @@
   },
   {
     "id": "A4-037",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 37,
-    "setSize": 241,
     "name": {
       "en": "Heatmor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2105,22 +1772,13 @@
   },
   {
     "id": "A4-038",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 38,
-    "setSize": 241,
     "name": {
       "en": "Poliwag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2161,22 +1819,13 @@
   },
   {
     "id": "A4-039",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 39,
-    "setSize": 241,
     "name": {
       "en": "Poliwhirl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2217,22 +1866,13 @@
   },
   {
     "id": "A4-040",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 40,
-    "setSize": 241,
     "name": {
       "en": "Politoed",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2281,22 +1921,13 @@
   },
   {
     "id": "A4-041",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 41,
-    "setSize": 241,
     "name": {
       "en": "Horsea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2337,22 +1968,13 @@
   },
   {
     "id": "A4-042",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 42,
-    "setSize": 241,
     "name": {
       "en": "Seadra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2393,22 +2015,13 @@
   },
   {
     "id": "A4-043",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 43,
-    "setSize": 241,
     "name": {
       "en": "Kingdra ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2449,22 +2062,13 @@
   },
   {
     "id": "A4-044",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 44,
-    "setSize": 241,
     "name": {
       "en": "Magikarp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2505,22 +2109,13 @@
   },
   {
     "id": "A4-045",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 45,
-    "setSize": 241,
     "name": {
       "en": "Gyarados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2561,22 +2156,13 @@
   },
   {
     "id": "A4-046",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 46,
-    "setSize": 241,
     "name": {
       "en": "Totodile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2617,22 +2203,13 @@
   },
   {
     "id": "A4-047",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 47,
-    "setSize": 241,
     "name": {
       "en": "Croconaw",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2673,22 +2250,13 @@
   },
   {
     "id": "A4-048",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 48,
-    "setSize": 241,
     "name": {
       "en": "Feraligatr",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2729,22 +2297,13 @@
   },
   {
     "id": "A4-049",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 49,
-    "setSize": 241,
     "name": {
       "en": "Marill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2785,22 +2344,13 @@
   },
   {
     "id": "A4-050",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 50,
-    "setSize": 241,
     "name": {
       "en": "Azumarill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2849,22 +2399,13 @@
   },
   {
     "id": "A4-051",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 51,
-    "setSize": 241,
     "name": {
       "en": "Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2905,22 +2446,13 @@
   },
   {
     "id": "A4-052",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 52,
-    "setSize": 241,
     "name": {
       "en": "Quagsire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2961,22 +2493,13 @@
   },
   {
     "id": "A4-053",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 53,
-    "setSize": 241,
     "name": {
       "en": "Qwilfish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3017,22 +2540,13 @@
   },
   {
     "id": "A4-054",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 54,
-    "setSize": 241,
     "name": {
       "en": "Corsola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3073,22 +2587,13 @@
   },
   {
     "id": "A4-055",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 55,
-    "setSize": 241,
     "name": {
       "en": "Remoraid",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3129,22 +2634,13 @@
   },
   {
     "id": "A4-056",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 56,
-    "setSize": 241,
     "name": {
       "en": "Octillery",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3185,22 +2681,13 @@
   },
   {
     "id": "A4-057",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 57,
-    "setSize": 241,
     "name": {
       "en": "Delibird",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3241,22 +2728,13 @@
   },
   {
     "id": "A4-058",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 58,
-    "setSize": 241,
     "name": {
       "en": "Mantine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3297,22 +2775,13 @@
   },
   {
     "id": "A4-059",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 59,
-    "setSize": 241,
     "name": {
       "en": "Suicune",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3353,22 +2822,13 @@
   },
   {
     "id": "A4-060",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 60,
-    "setSize": 241,
     "name": {
       "en": "Corphish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3409,22 +2869,13 @@
   },
   {
     "id": "A4-061",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 61,
-    "setSize": 241,
     "name": {
       "en": "Crawdaunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3473,22 +2924,13 @@
   },
   {
     "id": "A4-062",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 62,
-    "setSize": 241,
     "name": {
       "en": "Ducklett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3529,22 +2971,13 @@
   },
   {
     "id": "A4-063",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 63,
-    "setSize": 241,
     "name": {
       "en": "Swanna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3585,22 +3018,13 @@
   },
   {
     "id": "A4-064",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 64,
-    "setSize": 241,
     "name": {
       "en": "Chinchou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3641,22 +3065,13 @@
   },
   {
     "id": "A4-065",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 65,
-    "setSize": 241,
     "name": {
       "en": "Lanturn ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3697,22 +3112,13 @@
   },
   {
     "id": "A4-066",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 66,
-    "setSize": 241,
     "name": {
       "en": "Pichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3753,22 +3159,13 @@
   },
   {
     "id": "A4-067",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 67,
-    "setSize": 241,
     "name": {
       "en": "Mareep",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3809,22 +3206,13 @@
   },
   {
     "id": "A4-068",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 68,
-    "setSize": 241,
     "name": {
       "en": "Flaaffy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3865,22 +3253,13 @@
   },
   {
     "id": "A4-069",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 69,
-    "setSize": 241,
     "name": {
       "en": "Ampharos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3921,22 +3300,13 @@
   },
   {
     "id": "A4-070",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 70,
-    "setSize": 241,
     "name": {
       "en": "Elekid",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3977,22 +3347,13 @@
   },
   {
     "id": "A4-071",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 71,
-    "setSize": 241,
     "name": {
       "en": "Raikou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4033,22 +3394,13 @@
   },
   {
     "id": "A4-072",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 72,
-    "setSize": 241,
     "name": {
       "en": "Emolga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4089,22 +3441,13 @@
   },
   {
     "id": "A4-073",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 73,
-    "setSize": 241,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4145,22 +3488,13 @@
   },
   {
     "id": "A4-074",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 74,
-    "setSize": 241,
     "name": {
       "en": "Slowking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4201,22 +3535,13 @@
   },
   {
     "id": "A4-075",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 75,
-    "setSize": 241,
     "name": {
       "en": "Smoochum",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4257,22 +3582,13 @@
   },
   {
     "id": "A4-076",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 76,
-    "setSize": 241,
     "name": {
       "en": "Jynx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4313,22 +3629,13 @@
   },
   {
     "id": "A4-077",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 77,
-    "setSize": 241,
     "name": {
       "en": "Cleffa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4369,22 +3676,13 @@
   },
   {
     "id": "A4-078",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 78,
-    "setSize": 241,
     "name": {
       "en": "Togepi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4425,22 +3723,13 @@
   },
   {
     "id": "A4-079",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 79,
-    "setSize": 241,
     "name": {
       "en": "Togetic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4481,22 +3770,13 @@
   },
   {
     "id": "A4-080",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 80,
-    "setSize": 241,
     "name": {
       "en": "Togekiss",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4545,22 +3825,13 @@
   },
   {
     "id": "A4-081",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 81,
-    "setSize": 241,
     "name": {
       "en": "Natu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4601,22 +3872,13 @@
   },
   {
     "id": "A4-082",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 82,
-    "setSize": 241,
     "name": {
       "en": "Xatu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4657,22 +3919,13 @@
   },
   {
     "id": "A4-083",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 83,
-    "setSize": 241,
     "name": {
       "en": "Espeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4721,22 +3974,13 @@
   },
   {
     "id": "A4-084",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 84,
-    "setSize": 241,
     "name": {
       "en": "Unown",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4785,22 +4029,13 @@
   },
   {
     "id": "A4-085",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 85,
-    "setSize": 241,
     "name": {
       "en": "Unown",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4849,22 +4084,13 @@
   },
   {
     "id": "A4-086",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 86,
-    "setSize": 241,
     "name": {
       "en": "Wobbuffet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4905,22 +4131,13 @@
   },
   {
     "id": "A4-087",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 87,
-    "setSize": 241,
     "name": {
       "en": "Girafarig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4961,22 +4178,13 @@
   },
   {
     "id": "A4-088",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 88,
-    "setSize": 241,
     "name": {
       "en": "Snubbull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5017,22 +4225,13 @@
   },
   {
     "id": "A4-089",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 89,
-    "setSize": 241,
     "name": {
       "en": "Granbull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5073,22 +4272,13 @@
   },
   {
     "id": "A4-090",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 90,
-    "setSize": 241,
     "name": {
       "en": "Munna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5129,22 +4319,13 @@
   },
   {
     "id": "A4-091",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 91,
-    "setSize": 241,
     "name": {
       "en": "Musharna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5185,22 +4366,13 @@
   },
   {
     "id": "A4-092",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 92,
-    "setSize": 241,
     "name": {
       "en": "Onix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5241,22 +4413,13 @@
   },
   {
     "id": "A4-093",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 93,
-    "setSize": 241,
     "name": {
       "en": "Sudowoodo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5297,22 +4460,13 @@
   },
   {
     "id": "A4-094",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 94,
-    "setSize": 241,
     "name": {
       "en": "Gligar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5353,22 +4507,13 @@
   },
   {
     "id": "A4-095",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 95,
-    "setSize": 241,
     "name": {
       "en": "Gliscor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5409,22 +4554,13 @@
   },
   {
     "id": "A4-096",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 96,
-    "setSize": 241,
     "name": {
       "en": "Swinub",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5465,22 +4601,13 @@
   },
   {
     "id": "A4-097",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 97,
-    "setSize": 241,
     "name": {
       "en": "Piloswine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5521,22 +4648,13 @@
   },
   {
     "id": "A4-098",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 98,
-    "setSize": 241,
     "name": {
       "en": "Mamoswine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5577,22 +4695,13 @@
   },
   {
     "id": "A4-099",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 99,
-    "setSize": 241,
     "name": {
       "en": "Phanpy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5633,22 +4742,13 @@
   },
   {
     "id": "A4-100",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 100,
-    "setSize": 241,
     "name": {
       "en": "Donphan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5689,22 +4789,13 @@
   },
   {
     "id": "A4-101",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 101,
-    "setSize": 241,
     "name": {
       "en": "Tyrogue",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5745,22 +4836,13 @@
   },
   {
     "id": "A4-102",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 102,
-    "setSize": 241,
     "name": {
       "en": "Hitmontop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5801,22 +4883,13 @@
   },
   {
     "id": "A4-103",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 103,
-    "setSize": 241,
     "name": {
       "en": "Larvitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5857,22 +4930,13 @@
   },
   {
     "id": "A4-104",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 104,
-    "setSize": 241,
     "name": {
       "en": "Pupitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5913,22 +4977,13 @@
   },
   {
     "id": "A4-105",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 105,
-    "setSize": 241,
     "name": {
       "en": "Binacle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5969,22 +5024,13 @@
   },
   {
     "id": "A4-106",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 106,
-    "setSize": 241,
     "name": {
       "en": "Barbaracle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -6025,22 +5071,13 @@
   },
   {
     "id": "A4-107",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 107,
-    "setSize": 241,
     "name": {
       "en": "Zubat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6081,22 +5118,13 @@
   },
   {
     "id": "A4-108",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 108,
-    "setSize": 241,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6137,22 +5165,13 @@
   },
   {
     "id": "A4-109",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 109,
-    "setSize": 241,
     "name": {
       "en": "Crobat ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6193,22 +5212,13 @@
   },
   {
     "id": "A4-110",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 110,
-    "setSize": 241,
     "name": {
       "en": "Spinarak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6249,22 +5259,13 @@
   },
   {
     "id": "A4-111",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 111,
-    "setSize": 241,
     "name": {
       "en": "Ariados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6305,22 +5306,13 @@
   },
   {
     "id": "A4-112",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 112,
-    "setSize": 241,
     "name": {
       "en": "Umbreon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6369,22 +5361,13 @@
   },
   {
     "id": "A4-113",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 113,
-    "setSize": 241,
     "name": {
       "en": "Murkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6425,22 +5408,13 @@
   },
   {
     "id": "A4-114",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 114,
-    "setSize": 241,
     "name": {
       "en": "Honchkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6481,22 +5455,13 @@
   },
   {
     "id": "A4-115",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 115,
-    "setSize": 241,
     "name": {
       "en": "Sneasel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6537,22 +5502,13 @@
   },
   {
     "id": "A4-116",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 116,
-    "setSize": 241,
     "name": {
       "en": "Weavile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6593,22 +5549,13 @@
   },
   {
     "id": "A4-117",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 117,
-    "setSize": 241,
     "name": {
       "en": "Houndour",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6649,22 +5596,13 @@
   },
   {
     "id": "A4-118",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 118,
-    "setSize": 241,
     "name": {
       "en": "Houndoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6705,22 +5643,13 @@
   },
   {
     "id": "A4-119",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 119,
-    "setSize": 241,
     "name": {
       "en": "Tyranitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6769,22 +5698,13 @@
   },
   {
     "id": "A4-120",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 120,
-    "setSize": 241,
     "name": {
       "en": "Absol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6825,22 +5745,13 @@
   },
   {
     "id": "A4-121",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 121,
-    "setSize": 241,
     "name": {
       "en": "Forretress",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6881,22 +5792,13 @@
   },
   {
     "id": "A4-122",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 122,
-    "setSize": 241,
     "name": {
       "en": "Steelix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6937,22 +5839,13 @@
   },
   {
     "id": "A4-123",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 123,
-    "setSize": 241,
     "name": {
       "en": "Scizor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6993,22 +5886,13 @@
   },
   {
     "id": "A4-124",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 124,
-    "setSize": 241,
     "name": {
       "en": "Skarmory ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7049,22 +5933,13 @@
   },
   {
     "id": "A4-125",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 125,
-    "setSize": 241,
     "name": {
       "en": "Mawile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7105,22 +5980,13 @@
   },
   {
     "id": "A4-126",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 126,
-    "setSize": 241,
     "name": {
       "en": "Klink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7161,22 +6027,13 @@
   },
   {
     "id": "A4-127",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 127,
-    "setSize": 241,
     "name": {
       "en": "Klang",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7217,22 +6074,13 @@
   },
   {
     "id": "A4-128",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 128,
-    "setSize": 241,
     "name": {
       "en": "Klinklang",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7273,22 +6121,13 @@
   },
   {
     "id": "A4-129",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 129,
-    "setSize": 241,
     "name": {
       "en": "Spearow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7329,22 +6168,13 @@
   },
   {
     "id": "A4-130",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 130,
-    "setSize": 241,
     "name": {
       "en": "Fearow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7385,22 +6215,13 @@
   },
   {
     "id": "A4-131",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 131,
-    "setSize": 241,
     "name": {
       "en": "Chansey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7441,22 +6262,13 @@
   },
   {
     "id": "A4-132",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 132,
-    "setSize": 241,
     "name": {
       "en": "Blissey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7497,22 +6309,13 @@
   },
   {
     "id": "A4-133",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 133,
-    "setSize": 241,
     "name": {
       "en": "Kangaskhan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7553,22 +6356,13 @@
   },
   {
     "id": "A4-134",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 134,
-    "setSize": 241,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7609,22 +6403,13 @@
   },
   {
     "id": "A4-135",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 135,
-    "setSize": 241,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7665,22 +6450,13 @@
   },
   {
     "id": "A4-136",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 136,
-    "setSize": 241,
     "name": {
       "en": "Porygon2",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7729,22 +6505,13 @@
   },
   {
     "id": "A4-137",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 137,
-    "setSize": 241,
     "name": {
       "en": "Porygon-Z",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7785,22 +6552,13 @@
   },
   {
     "id": "A4-138",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 138,
-    "setSize": 241,
     "name": {
       "en": "Sentret",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7841,22 +6599,13 @@
   },
   {
     "id": "A4-139",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 139,
-    "setSize": 241,
     "name": {
       "en": "Furret",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7897,22 +6646,13 @@
   },
   {
     "id": "A4-140",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 140,
-    "setSize": 241,
     "name": {
       "en": "Hoothoot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7961,22 +6701,13 @@
   },
   {
     "id": "A4-141",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 141,
-    "setSize": 241,
     "name": {
       "en": "Noctowl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8017,22 +6748,13 @@
   },
   {
     "id": "A4-142",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 142,
-    "setSize": 241,
     "name": {
       "en": "Aipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8073,22 +6795,13 @@
   },
   {
     "id": "A4-143",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 143,
-    "setSize": 241,
     "name": {
       "en": "Ambipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8129,22 +6842,13 @@
   },
   {
     "id": "A4-144",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 144,
-    "setSize": 241,
     "name": {
       "en": "Dunsparce",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8185,22 +6889,13 @@
   },
   {
     "id": "A4-145",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 145,
-    "setSize": 241,
     "name": {
       "en": "Teddiursa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8241,22 +6936,13 @@
   },
   {
     "id": "A4-146",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 146,
-    "setSize": 241,
     "name": {
       "en": "Ursaring",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8297,22 +6983,13 @@
   },
   {
     "id": "A4-147",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 147,
-    "setSize": 241,
     "name": {
       "en": "Stantler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8353,22 +7030,13 @@
   },
   {
     "id": "A4-148",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 148,
-    "setSize": 241,
     "name": {
       "en": "Smeargle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8409,22 +7077,13 @@
   },
   {
     "id": "A4-149",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 149,
-    "setSize": 241,
     "name": {
       "en": "Lugia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8465,22 +7124,13 @@
   },
   {
     "id": "A4-150",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 150,
-    "setSize": 241,
     "name": {
       "en": "Bouffalant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8521,22 +7171,13 @@
   },
   {
     "id": "A4-151",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 151,
-    "setSize": 241,
     "name": {
       "en": "Elemental Switch",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8557,22 +7198,13 @@
   },
   {
     "id": "A4-152",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 152,
-    "setSize": 241,
     "name": {
       "en": "Squirt Bottle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8593,22 +7225,13 @@
   },
   {
     "id": "A4-153",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 153,
-    "setSize": 241,
     "name": {
       "en": "Steel Apron",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8629,22 +7252,13 @@
   },
   {
     "id": "A4-154",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 154,
-    "setSize": 241,
     "name": {
       "en": "Dark Pendant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8665,22 +7279,13 @@
   },
   {
     "id": "A4-155",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 155,
-    "setSize": 241,
     "name": {
       "en": "Rescue Scarf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8701,22 +7306,13 @@
   },
   {
     "id": "A4-156",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 156,
-    "setSize": 241,
     "name": {
       "en": "Will",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8737,22 +7333,13 @@
   },
   {
     "id": "A4-157",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 157,
-    "setSize": 241,
     "name": {
       "en": "Lyra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8773,22 +7360,13 @@
   },
   {
     "id": "A4-158",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 158,
-    "setSize": 241,
     "name": {
       "en": "Silver",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8809,22 +7387,13 @@
   },
   {
     "id": "A4-159",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 159,
-    "setSize": 241,
     "name": {
       "en": "Fisher",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8845,22 +7414,13 @@
   },
   {
     "id": "A4-160",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 160,
-    "setSize": 241,
     "name": {
       "en": "Jasmine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8881,22 +7441,13 @@
   },
   {
     "id": "A4-161",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 161,
-    "setSize": 241,
     "name": {
       "en": "Hiker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8917,22 +7468,13 @@
   },
   {
     "id": "A4-162",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 162,
-    "setSize": 241,
     "name": {
       "en": "Chikorita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8973,22 +7515,13 @@
   },
   {
     "id": "A4-163",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 163,
-    "setSize": 241,
     "name": {
       "en": "Bellossom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -9029,22 +7562,13 @@
   },
   {
     "id": "A4-164",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 164,
-    "setSize": 241,
     "name": {
       "en": "Heracross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -9085,22 +7609,13 @@
   },
   {
     "id": "A4-165",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 165,
-    "setSize": 241,
     "name": {
       "en": "Cyndaquil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -9141,22 +7656,13 @@
   },
   {
     "id": "A4-166",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 166,
-    "setSize": 241,
     "name": {
       "en": "Magby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -9197,22 +7703,13 @@
   },
   {
     "id": "A4-167",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 167,
-    "setSize": 241,
     "name": {
       "en": "Totodile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9253,22 +7750,13 @@
   },
   {
     "id": "A4-168",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 168,
-    "setSize": 241,
     "name": {
       "en": "Qwilfish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9309,22 +7797,13 @@
   },
   {
     "id": "A4-169",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 169,
-    "setSize": 241,
     "name": {
       "en": "Octillery",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9365,22 +7844,13 @@
   },
   {
     "id": "A4-170",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 170,
-    "setSize": 241,
     "name": {
       "en": "Delibird",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9421,22 +7891,13 @@
   },
   {
     "id": "A4-171",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 171,
-    "setSize": 241,
     "name": {
       "en": "Pichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9477,22 +7938,13 @@
   },
   {
     "id": "A4-172",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 172,
-    "setSize": 241,
     "name": {
       "en": "Ampharos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9533,22 +7985,13 @@
   },
   {
     "id": "A4-173",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 173,
-    "setSize": 241,
     "name": {
       "en": "Togepi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9589,22 +8032,13 @@
   },
   {
     "id": "A4-174",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 174,
-    "setSize": 241,
     "name": {
       "en": "Xatu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9645,22 +8079,13 @@
   },
   {
     "id": "A4-175",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 175,
-    "setSize": 241,
     "name": {
       "en": "Wobbuffet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9701,22 +8126,13 @@
   },
   {
     "id": "A4-176",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 176,
-    "setSize": 241,
     "name": {
       "en": "Gligar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9757,22 +8173,13 @@
   },
   {
     "id": "A4-177",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 177,
-    "setSize": 241,
     "name": {
       "en": "Spinarak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9813,22 +8220,13 @@
   },
   {
     "id": "A4-178",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 178,
-    "setSize": 241,
     "name": {
       "en": "Murkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9869,22 +8267,13 @@
   },
   {
     "id": "A4-179",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 179,
-    "setSize": 241,
     "name": {
       "en": "Tyranitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9933,22 +8322,13 @@
   },
   {
     "id": "A4-180",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 180,
-    "setSize": 241,
     "name": {
       "en": "Scizor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9989,22 +8369,13 @@
   },
   {
     "id": "A4-181",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 181,
-    "setSize": 241,
     "name": {
       "en": "Sentret",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10045,22 +8416,13 @@
   },
   {
     "id": "A4-182",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 182,
-    "setSize": 241,
     "name": {
       "en": "Hoothoot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10109,22 +8471,13 @@
   },
   {
     "id": "A4-183",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 183,
-    "setSize": 241,
     "name": {
       "en": "Stantler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10165,22 +8518,13 @@
   },
   {
     "id": "A4-184",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 184,
-    "setSize": 241,
     "name": {
       "en": "Smeargle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10221,22 +8565,13 @@
   },
   {
     "id": "A4-185",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 185,
-    "setSize": 241,
     "name": {
       "en": "Blissey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10277,22 +8612,13 @@
   },
   {
     "id": "A4-186",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 186,
-    "setSize": 241,
     "name": {
       "en": "Shuckle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10341,22 +8667,13 @@
   },
   {
     "id": "A4-187",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 187,
-    "setSize": 241,
     "name": {
       "en": "Ho-Oh ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10397,22 +8714,13 @@
   },
   {
     "id": "A4-188",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 188,
-    "setSize": 241,
     "name": {
       "en": "Kingdra ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10453,22 +8761,13 @@
   },
   {
     "id": "A4-189",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 189,
-    "setSize": 241,
     "name": {
       "en": "Lanturn ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10509,22 +8808,13 @@
   },
   {
     "id": "A4-190",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 190,
-    "setSize": 241,
     "name": {
       "en": "Espeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10573,22 +8863,13 @@
   },
   {
     "id": "A4-191",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 191,
-    "setSize": 241,
     "name": {
       "en": "Donphan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10629,22 +8910,13 @@
   },
   {
     "id": "A4-192",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 192,
-    "setSize": 241,
     "name": {
       "en": "Crobat ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10685,22 +8957,13 @@
   },
   {
     "id": "A4-193",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 193,
-    "setSize": 241,
     "name": {
       "en": "Umbreon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10749,22 +9012,13 @@
   },
   {
     "id": "A4-194",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 194,
-    "setSize": 241,
     "name": {
       "en": "Skarmory ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10805,22 +9059,13 @@
   },
   {
     "id": "A4-195",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 195,
-    "setSize": 241,
     "name": {
       "en": "Lugia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10861,22 +9106,13 @@
   },
   {
     "id": "A4-196",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 196,
-    "setSize": 241,
     "name": {
       "en": "Will",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10897,22 +9133,13 @@
   },
   {
     "id": "A4-197",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 197,
-    "setSize": 241,
     "name": {
       "en": "Lyra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10933,22 +9160,13 @@
   },
   {
     "id": "A4-198",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 198,
-    "setSize": 241,
     "name": {
       "en": "Silver",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10969,22 +9187,13 @@
   },
   {
     "id": "A4-199",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 199,
-    "setSize": 241,
     "name": {
       "en": "Fisher",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -11005,22 +9214,13 @@
   },
   {
     "id": "A4-200",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 200,
-    "setSize": 241,
     "name": {
       "en": "Jasmine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -11041,22 +9241,13 @@
   },
   {
     "id": "A4-201",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 201,
-    "setSize": 241,
     "name": {
       "en": "Hiker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -11077,22 +9268,13 @@
   },
   {
     "id": "A4-202",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 202,
-    "setSize": 241,
     "name": {
       "en": "Shuckle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11141,22 +9323,13 @@
   },
   {
     "id": "A4-203",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 203,
-    "setSize": 241,
     "name": {
       "en": "Kingdra ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11197,22 +9370,13 @@
   },
   {
     "id": "A4-204",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 204,
-    "setSize": 241,
     "name": {
       "en": "Lanturn ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -11253,22 +9417,13 @@
   },
   {
     "id": "A4-205",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 205,
-    "setSize": 241,
     "name": {
       "en": "Espeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11317,22 +9472,13 @@
   },
   {
     "id": "A4-206",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 206,
-    "setSize": 241,
     "name": {
       "en": "Donphan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11373,22 +9519,13 @@
   },
   {
     "id": "A4-207",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 207,
-    "setSize": 241,
     "name": {
       "en": "Crobat ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11429,22 +9566,13 @@
   },
   {
     "id": "A4-208",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 208,
-    "setSize": 241,
     "name": {
       "en": "Umbreon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11493,22 +9621,13 @@
   },
   {
     "id": "A4-209",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 209,
-    "setSize": 241,
     "name": {
       "en": "Skarmory ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -11549,22 +9668,13 @@
   },
   {
     "id": "A4-210",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 210,
-    "setSize": 241,
     "name": {
       "en": "Ho-Oh ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11605,22 +9715,13 @@
   },
   {
     "id": "A4-211",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 211,
-    "setSize": 241,
     "name": {
       "en": "Lugia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11661,22 +9762,13 @@
   },
   {
     "id": "A4-212",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 212,
-    "setSize": 241,
     "name": {
       "en": "Yanma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11717,22 +9809,13 @@
   },
   {
     "id": "A4-213",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 213,
-    "setSize": 241,
     "name": {
       "en": "Flareon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11773,22 +9856,13 @@
   },
   {
     "id": "A4-214",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 214,
-    "setSize": 241,
     "name": {
       "en": "Magikarp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11829,22 +9903,13 @@
   },
   {
     "id": "A4-215",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 215,
-    "setSize": 241,
     "name": {
       "en": "Gyarados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11885,22 +9950,13 @@
   },
   {
     "id": "A4-216",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 216,
-    "setSize": 241,
     "name": {
       "en": "Vaporeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11941,22 +9997,13 @@
   },
   {
     "id": "A4-217",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 217,
-    "setSize": 241,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -11997,22 +10044,13 @@
   },
   {
     "id": "A4-218",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 218,
-    "setSize": 241,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -12061,22 +10099,13 @@
   },
   {
     "id": "A4-219",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 219,
-    "setSize": 241,
     "name": {
       "en": "Jolteon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -12117,22 +10146,13 @@
   },
   {
     "id": "A4-220",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 220,
-    "setSize": 241,
     "name": {
       "en": "Misdreavus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12173,22 +10193,13 @@
   },
   {
     "id": "A4-221",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 221,
-    "setSize": 241,
     "name": {
       "en": "Mankey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12229,22 +10240,13 @@
   },
   {
     "id": "A4-222",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 222,
-    "setSize": 241,
     "name": {
       "en": "Primeape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12285,22 +10287,13 @@
   },
   {
     "id": "A4-223",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 223,
-    "setSize": 241,
     "name": {
       "en": "Nidoran♀",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12341,22 +10334,13 @@
   },
   {
     "id": "A4-224",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 224,
-    "setSize": 241,
     "name": {
       "en": "Nidorina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12397,22 +10381,13 @@
   },
   {
     "id": "A4-225",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 225,
-    "setSize": 241,
     "name": {
       "en": "Nidoqueen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12453,22 +10428,13 @@
   },
   {
     "id": "A4-226",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 226,
-    "setSize": 241,
     "name": {
       "en": "Nidoran♂",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12509,22 +10475,13 @@
   },
   {
     "id": "A4-227",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 227,
-    "setSize": 241,
     "name": {
       "en": "Nidorino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12565,22 +10522,13 @@
   },
   {
     "id": "A4-228",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 228,
-    "setSize": 241,
     "name": {
       "en": "Nidoking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12621,22 +10569,13 @@
   },
   {
     "id": "A4-229",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 229,
-    "setSize": 241,
     "name": {
       "en": "Sneasel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12677,22 +10616,13 @@
   },
   {
     "id": "A4-230",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 230,
-    "setSize": 241,
     "name": {
       "en": "Lickitung",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12733,22 +10663,13 @@
   },
   {
     "id": "A4-231",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 231,
-    "setSize": 241,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12789,22 +10710,13 @@
   },
   {
     "id": "A4-232",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 232,
-    "setSize": 241,
     "name": {
       "en": "Yanmega ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12845,22 +10757,13 @@
   },
   {
     "id": "A4-233",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 233,
-    "setSize": 241,
     "name": {
       "en": "Leafeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12909,22 +10812,13 @@
   },
   {
     "id": "A4-234",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 234,
-    "setSize": 241,
     "name": {
       "en": "Gyarados ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12965,22 +10859,13 @@
   },
   {
     "id": "A4-235",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 235,
-    "setSize": 241,
     "name": {
       "en": "Glaceon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13029,22 +10914,13 @@
   },
   {
     "id": "A4-236",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 236,
-    "setSize": 241,
     "name": {
       "en": "Pachirisu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -13085,22 +10961,13 @@
   },
   {
     "id": "A4-237",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 237,
-    "setSize": 241,
     "name": {
       "en": "Mismagius ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13141,22 +11008,13 @@
   },
   {
     "id": "A4-238",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 238,
-    "setSize": 241,
     "name": {
       "en": "Weavile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13197,22 +11055,13 @@
   },
   {
     "id": "A4-239",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 239,
-    "setSize": 241,
     "name": {
       "en": "Lickilicky ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13253,22 +11102,13 @@
   },
   {
     "id": "A4-240",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 240,
-    "setSize": 241,
     "name": {
       "en": "Ho-Oh ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -13309,22 +11149,13 @@
   },
   {
     "id": "A4-241",
-    "set": {
-      "code": "A4",
-      "name": "Wisdom of Sea and Sky",
-      "nameJa": "空と海の導き"
-    },
+    "setCode": "A4",
     "number": 241,
-    "setSize": 241,
     "name": {
       "en": "Lugia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",

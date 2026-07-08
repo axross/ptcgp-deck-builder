@@ -1,5 +1,6 @@
 import { getCardImageUrl } from "@/features/cards/card-images";
 import { cardKindLabel, cardTypeLabel } from "@/features/cards/card-view";
+import { getRarity } from "@/features/cards/rarity-registry";
 import type { Card, PokemonCard } from "@/features/cards/schema";
 
 /** A Pokémon evolution stage (mirrors the card schema's stage enum). */
@@ -10,7 +11,7 @@ export type PokemonStage = PokemonCard["pokemon"]["stage"];
  * A full catalog {@link Card} is structurally assignable to this, so
  * `validateDeck`/`adviseDeck` run identically on the server (with real catalog
  * cards, in unit tests) and in the browser editor — where only this projection
- * is available, keeping the ~370 KB catalog on the server tier.
+ * is available, keeping the multi-megabyte catalog on the server tier.
  */
 export type DeckCard =
   | {
@@ -53,7 +54,7 @@ export function toDeckBuilderCard(card: Card): DeckBuilderCard {
     typeLabel: cardTypeLabel(card),
     kindLabel: cardKindLabel(card),
     hp: card.category === "Pokemon" ? card.pokemon.hp : null,
-    rarityLabel: card.rarity.label,
+    rarityLabel: getRarity(card.rarity).label,
   };
   if (card.category === "Pokemon") {
     return {

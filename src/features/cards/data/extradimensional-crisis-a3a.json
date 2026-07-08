@@ -1,22 +1,13 @@
 [
   {
     "id": "A3a-001",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 1,
-    "setSize": 103,
     "name": {
       "en": "Petilil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A3a-002",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 2,
-    "setSize": 103,
     "name": {
       "en": "Lilligant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A3a-003",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 3,
-    "setSize": 103,
     "name": {
       "en": "Rowlet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A3a-004",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 4,
-    "setSize": 103,
     "name": {
       "en": "Dartrix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A3a-005",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 5,
-    "setSize": 103,
     "name": {
       "en": "Decidueye",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A3a-006",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 6,
-    "setSize": 103,
     "name": {
       "en": "Buzzwole ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -347,22 +293,13 @@
   },
   {
     "id": "A3a-007",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 7,
-    "setSize": 103,
     "name": {
       "en": "Pheromosa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -403,22 +340,13 @@
   },
   {
     "id": "A3a-008",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 8,
-    "setSize": 103,
     "name": {
       "en": "Kartana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -459,22 +387,13 @@
   },
   {
     "id": "A3a-009",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 9,
-    "setSize": 103,
     "name": {
       "en": "Blacephalon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -515,22 +434,13 @@
   },
   {
     "id": "A3a-010",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 10,
-    "setSize": 103,
     "name": {
       "en": "Mantine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -571,22 +481,13 @@
   },
   {
     "id": "A3a-011",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 11,
-    "setSize": 103,
     "name": {
       "en": "Carvanha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -627,22 +528,13 @@
   },
   {
     "id": "A3a-012",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 12,
-    "setSize": 103,
     "name": {
       "en": "Sharpedo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -683,22 +575,13 @@
   },
   {
     "id": "A3a-013",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 13,
-    "setSize": 103,
     "name": {
       "en": "Shinx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -739,22 +622,13 @@
   },
   {
     "id": "A3a-014",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 14,
-    "setSize": 103,
     "name": {
       "en": "Luxio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -795,22 +669,13 @@
   },
   {
     "id": "A3a-015",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 15,
-    "setSize": 103,
     "name": {
       "en": "Luxray",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -859,22 +724,13 @@
   },
   {
     "id": "A3a-016",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 16,
-    "setSize": 103,
     "name": {
       "en": "Blitzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -915,22 +771,13 @@
   },
   {
     "id": "A3a-017",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 17,
-    "setSize": 103,
     "name": {
       "en": "Zebstrika",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -971,22 +818,13 @@
   },
   {
     "id": "A3a-018",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 18,
-    "setSize": 103,
     "name": {
       "en": "Emolga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1027,22 +865,13 @@
   },
   {
     "id": "A3a-019",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 19,
-    "setSize": 103,
     "name": {
       "en": "Tapu Koko ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1093,22 +922,13 @@
   },
   {
     "id": "A3a-020",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 20,
-    "setSize": 103,
     "name": {
       "en": "Xurkitree",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1149,22 +969,13 @@
   },
   {
     "id": "A3a-021",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 21,
-    "setSize": 103,
     "name": {
       "en": "Zeraora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1213,22 +1024,13 @@
   },
   {
     "id": "A3a-022",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 22,
-    "setSize": 103,
     "name": {
       "en": "Clefairy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1269,22 +1071,13 @@
   },
   {
     "id": "A3a-023",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 23,
-    "setSize": 103,
     "name": {
       "en": "Clefable",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1325,22 +1118,13 @@
   },
   {
     "id": "A3a-024",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 24,
-    "setSize": 103,
     "name": {
       "en": "Phantump",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1381,22 +1165,13 @@
   },
   {
     "id": "A3a-025",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 25,
-    "setSize": 103,
     "name": {
       "en": "Trevenant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1437,22 +1212,13 @@
   },
   {
     "id": "A3a-026",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 26,
-    "setSize": 103,
     "name": {
       "en": "Morelull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1493,22 +1259,13 @@
   },
   {
     "id": "A3a-027",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 27,
-    "setSize": 103,
     "name": {
       "en": "Shiinotic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1557,22 +1314,13 @@
   },
   {
     "id": "A3a-028",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 28,
-    "setSize": 103,
     "name": {
       "en": "Meditite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1613,22 +1361,13 @@
   },
   {
     "id": "A3a-029",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 29,
-    "setSize": 103,
     "name": {
       "en": "Medicham",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1669,22 +1408,13 @@
   },
   {
     "id": "A3a-030",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 30,
-    "setSize": 103,
     "name": {
       "en": "Baltoy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1725,22 +1455,13 @@
   },
   {
     "id": "A3a-031",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 31,
-    "setSize": 103,
     "name": {
       "en": "Claydol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1789,22 +1510,13 @@
   },
   {
     "id": "A3a-032",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 32,
-    "setSize": 103,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1845,22 +1557,13 @@
   },
   {
     "id": "A3a-033",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 33,
-    "setSize": 103,
     "name": {
       "en": "Lycanroc ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1901,22 +1604,13 @@
   },
   {
     "id": "A3a-034",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 34,
-    "setSize": 103,
     "name": {
       "en": "Passimian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1957,22 +1651,13 @@
   },
   {
     "id": "A3a-035",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 35,
-    "setSize": 103,
     "name": {
       "en": "Sandygast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2013,22 +1698,13 @@
   },
   {
     "id": "A3a-036",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 36,
-    "setSize": 103,
     "name": {
       "en": "Palossand",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2069,22 +1745,13 @@
   },
   {
     "id": "A3a-037",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 37,
-    "setSize": 103,
     "name": {
       "en": "Alolan Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2125,22 +1792,13 @@
   },
   {
     "id": "A3a-038",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 38,
-    "setSize": 103,
     "name": {
       "en": "Alolan Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2181,22 +1839,13 @@
   },
   {
     "id": "A3a-039",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 39,
-    "setSize": 103,
     "name": {
       "en": "Sandile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2237,22 +1886,13 @@
   },
   {
     "id": "A3a-040",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 40,
-    "setSize": 103,
     "name": {
       "en": "Krokorok",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2293,22 +1933,13 @@
   },
   {
     "id": "A3a-041",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 41,
-    "setSize": 103,
     "name": {
       "en": "Krookodile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2349,22 +1980,13 @@
   },
   {
     "id": "A3a-042",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 42,
-    "setSize": 103,
     "name": {
       "en": "Nihilego",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2413,22 +2035,13 @@
   },
   {
     "id": "A3a-043",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 43,
-    "setSize": 103,
     "name": {
       "en": "Guzzlord ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2479,22 +2092,13 @@
   },
   {
     "id": "A3a-044",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 44,
-    "setSize": 103,
     "name": {
       "en": "Poipole",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2535,22 +2139,13 @@
   },
   {
     "id": "A3a-045",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 45,
-    "setSize": 103,
     "name": {
       "en": "Naganadel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2591,22 +2186,13 @@
   },
   {
     "id": "A3a-046",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 46,
-    "setSize": 103,
     "name": {
       "en": "Alolan Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2647,22 +2233,13 @@
   },
   {
     "id": "A3a-047",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 47,
-    "setSize": 103,
     "name": {
       "en": "Alolan Dugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2703,22 +2280,13 @@
   },
   {
     "id": "A3a-048",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 48,
-    "setSize": 103,
     "name": {
       "en": "Aron",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2759,22 +2327,13 @@
   },
   {
     "id": "A3a-049",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 49,
-    "setSize": 103,
     "name": {
       "en": "Lairon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2815,22 +2374,13 @@
   },
   {
     "id": "A3a-050",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 50,
-    "setSize": 103,
     "name": {
       "en": "Aggron",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2871,22 +2421,13 @@
   },
   {
     "id": "A3a-051",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 51,
-    "setSize": 103,
     "name": {
       "en": "Ferroseed",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2927,22 +2468,13 @@
   },
   {
     "id": "A3a-052",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 52,
-    "setSize": 103,
     "name": {
       "en": "Ferrothorn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2991,22 +2523,13 @@
   },
   {
     "id": "A3a-053",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 53,
-    "setSize": 103,
     "name": {
       "en": "Stakataka",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3047,22 +2570,13 @@
   },
   {
     "id": "A3a-054",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 54,
-    "setSize": 103,
     "name": {
       "en": "Lillipup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3103,22 +2617,13 @@
   },
   {
     "id": "A3a-055",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 55,
-    "setSize": 103,
     "name": {
       "en": "Herdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3159,22 +2664,13 @@
   },
   {
     "id": "A3a-056",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 56,
-    "setSize": 103,
     "name": {
       "en": "Stoutland",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3223,22 +2719,13 @@
   },
   {
     "id": "A3a-057",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 57,
-    "setSize": 103,
     "name": {
       "en": "Stufful",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3279,22 +2766,13 @@
   },
   {
     "id": "A3a-058",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 58,
-    "setSize": 103,
     "name": {
       "en": "Bewear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3335,22 +2813,13 @@
   },
   {
     "id": "A3a-059",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 59,
-    "setSize": 103,
     "name": {
       "en": "Oranguru",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3391,22 +2860,13 @@
   },
   {
     "id": "A3a-060",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 60,
-    "setSize": 103,
     "name": {
       "en": "Type: Null",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3447,22 +2907,13 @@
   },
   {
     "id": "A3a-061",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 61,
-    "setSize": 103,
     "name": {
       "en": "Silvally",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3503,22 +2954,13 @@
   },
   {
     "id": "A3a-062",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 62,
-    "setSize": 103,
     "name": {
       "en": "Celesteela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3567,22 +3009,13 @@
   },
   {
     "id": "A3a-063",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 63,
-    "setSize": 103,
     "name": {
       "en": "Beast Wall",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3603,22 +3036,13 @@
   },
   {
     "id": "A3a-064",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 64,
-    "setSize": 103,
     "name": {
       "en": "Repel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3639,22 +3063,13 @@
   },
   {
     "id": "A3a-065",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 65,
-    "setSize": 103,
     "name": {
       "en": "Electrical Cord",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3675,22 +3090,13 @@
   },
   {
     "id": "A3a-066",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 66,
-    "setSize": 103,
     "name": {
       "en": "Beastite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3711,22 +3117,13 @@
   },
   {
     "id": "A3a-067",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 67,
-    "setSize": 103,
     "name": {
       "en": "Gladion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3747,22 +3144,13 @@
   },
   {
     "id": "A3a-068",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 68,
-    "setSize": 103,
     "name": {
       "en": "Looker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3783,22 +3171,13 @@
   },
   {
     "id": "A3a-069",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 69,
-    "setSize": 103,
     "name": {
       "en": "Lusamine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3819,22 +3198,13 @@
   },
   {
     "id": "A3a-070",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 70,
-    "setSize": 103,
     "name": {
       "en": "Rowlet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -3875,22 +3245,13 @@
   },
   {
     "id": "A3a-071",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 71,
-    "setSize": 103,
     "name": {
       "en": "Pheromosa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -3931,22 +3292,13 @@
   },
   {
     "id": "A3a-072",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 72,
-    "setSize": 103,
     "name": {
       "en": "Blacephalon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -3987,22 +3339,13 @@
   },
   {
     "id": "A3a-073",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 73,
-    "setSize": 103,
     "name": {
       "en": "Alolan Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4043,22 +3386,13 @@
   },
   {
     "id": "A3a-074",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 74,
-    "setSize": 103,
     "name": {
       "en": "Silvally",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4099,22 +3433,13 @@
   },
   {
     "id": "A3a-075",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 75,
-    "setSize": 103,
     "name": {
       "en": "Celesteela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4163,22 +3488,13 @@
   },
   {
     "id": "A3a-076",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 76,
-    "setSize": 103,
     "name": {
       "en": "Buzzwole ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4229,22 +3545,13 @@
   },
   {
     "id": "A3a-077",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 77,
-    "setSize": 103,
     "name": {
       "en": "Tapu Koko ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4295,22 +3602,13 @@
   },
   {
     "id": "A3a-078",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 78,
-    "setSize": 103,
     "name": {
       "en": "Lycanroc ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4351,22 +3649,13 @@
   },
   {
     "id": "A3a-079",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 79,
-    "setSize": 103,
     "name": {
       "en": "Guzzlord ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4417,22 +3706,13 @@
   },
   {
     "id": "A3a-080",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 80,
-    "setSize": 103,
     "name": {
       "en": "Alolan Dugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4473,22 +3753,13 @@
   },
   {
     "id": "A3a-081",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 81,
-    "setSize": 103,
     "name": {
       "en": "Gladion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4509,22 +3780,13 @@
   },
   {
     "id": "A3a-082",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 82,
-    "setSize": 103,
     "name": {
       "en": "Looker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4545,22 +3807,13 @@
   },
   {
     "id": "A3a-083",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 83,
-    "setSize": 103,
     "name": {
       "en": "Lusamine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4581,22 +3834,13 @@
   },
   {
     "id": "A3a-084",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 84,
-    "setSize": 103,
     "name": {
       "en": "Tapu Koko ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4647,22 +3891,13 @@
   },
   {
     "id": "A3a-085",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 85,
-    "setSize": 103,
     "name": {
       "en": "Lycanroc ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4703,22 +3938,13 @@
   },
   {
     "id": "A3a-086",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 86,
-    "setSize": 103,
     "name": {
       "en": "Guzzlord ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4769,22 +3995,13 @@
   },
   {
     "id": "A3a-087",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 87,
-    "setSize": 103,
     "name": {
       "en": "Alolan Dugtrio ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4825,22 +4042,13 @@
   },
   {
     "id": "A3a-088",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 88,
-    "setSize": 103,
     "name": {
       "en": "Buzzwole ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4891,22 +4099,13 @@
   },
   {
     "id": "A3a-089",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 89,
-    "setSize": 103,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4947,22 +4146,13 @@
   },
   {
     "id": "A3a-090",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 90,
-    "setSize": 103,
     "name": {
       "en": "Arcanine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5003,22 +4193,13 @@
   },
   {
     "id": "A3a-091",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 91,
-    "setSize": 103,
     "name": {
       "en": "Froakie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5059,22 +4240,13 @@
   },
   {
     "id": "A3a-092",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 92,
-    "setSize": 103,
     "name": {
       "en": "Frogadier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5115,22 +4287,13 @@
   },
   {
     "id": "A3a-093",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 93,
-    "setSize": 103,
     "name": {
       "en": "Greninja",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5179,22 +4342,13 @@
   },
   {
     "id": "A3a-094",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 94,
-    "setSize": 103,
     "name": {
       "en": "Jynx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5235,22 +4389,13 @@
   },
   {
     "id": "A3a-095",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 95,
-    "setSize": 103,
     "name": {
       "en": "Pidgey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5291,22 +4436,13 @@
   },
   {
     "id": "A3a-096",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 96,
-    "setSize": 103,
     "name": {
       "en": "Pidgeotto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5347,22 +4483,13 @@
   },
   {
     "id": "A3a-097",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 97,
-    "setSize": 103,
     "name": {
       "en": "Pidgeot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5411,22 +4538,13 @@
   },
   {
     "id": "A3a-098",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 98,
-    "setSize": 103,
     "name": {
       "en": "Aerodactyl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5467,22 +4585,13 @@
   },
   {
     "id": "A3a-099",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 99,
-    "setSize": 103,
     "name": {
       "en": "Celebi ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5523,22 +4632,13 @@
   },
   {
     "id": "A3a-100",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 100,
-    "setSize": 103,
     "name": {
       "en": "Arcanine ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5579,22 +4679,13 @@
   },
   {
     "id": "A3a-101",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 101,
-    "setSize": 103,
     "name": {
       "en": "Aerodactyl ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5643,22 +4734,13 @@
   },
   {
     "id": "A3a-102",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 102,
-    "setSize": 103,
     "name": {
       "en": "Pidgeot ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5699,22 +4781,13 @@
   },
   {
     "id": "A3a-103",
-    "set": {
-      "code": "A3a",
-      "name": "Extradimensional Crisis",
-      "nameJa": "異次元クライシス"
-    },
+    "setCode": "A3a",
     "number": 103,
-    "setSize": 103,
     "name": {
       "en": "Nihilego",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",

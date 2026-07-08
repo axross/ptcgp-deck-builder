@@ -34,8 +34,6 @@ const bulbasaurRaw = {
   ],
 };
 
-const geneticApex = { name: "Genetic Apex", nameJa: "最強の遺伝子" };
-
 describe("normalizeDotggCard()", () => {
   it("maps a Pokémon record into the source contract", () => {
     expect(normalizeDotggCard(bulbasaurRaw, "A1")).toEqual({
@@ -43,7 +41,7 @@ describe("normalizeDotggCard()", () => {
       setCode: "A1",
       number: 1,
       name: "Bulbasaur",
-      rarity: { symbol: "◇", code: "C", label: "Common" },
+      rarity: "C",
       category: "Pokemon",
       illustrator: "Narumi Sato",
       boosterPacks: null,
@@ -226,27 +224,15 @@ describe("normalizeDotggCard()", () => {
   it("passes an unknown rarity through as its own code so the schema rejects it", () => {
     const mystery = { ...bulbasaurRaw, rarity: "Mythic Rare" };
 
-    expect(normalizeDotggCard(mystery, "A1").rarity).toEqual({
-      symbol: "Mythic Rare",
-      code: "Mythic Rare",
-      label: "Mythic Rare",
-    });
+    expect(normalizeDotggCard(mystery, "A1").rarity).toBe("Mythic Rare");
   });
 
-  it("maps the A2b Shiny tiers to their ✸ / ✸✸ rarity codes", () => {
+  it("maps the A2b Shiny tiers to their S / SSR rarity codes", () => {
     const shiny = { ...bulbasaurRaw, rarity: "Shiny" };
     const shinySuper = { ...bulbasaurRaw, rarity: "Shiny Super Rare" };
 
-    expect(normalizeDotggCard(shiny, "A2b").rarity).toEqual({
-      symbol: "✸",
-      code: "S",
-      label: "Shiny",
-    });
-    expect(normalizeDotggCard(shinySuper, "A2b").rarity).toEqual({
-      symbol: "✸✸",
-      code: "SSR",
-      label: "Shiny Super Rare",
-    });
+    expect(normalizeDotggCard(shiny, "A2b").rarity).toBe("S");
+    expect(normalizeDotggCard(shinySuper, "A2b").rarity).toBe("SSR");
   });
 
   it("classifies an Ultra Beast from its dotgg flair, leaving others null", () => {
@@ -264,9 +250,7 @@ describe("normalizeDotggCard()", () => {
   });
 
   it("produces records that pass the full transform and schema validation", () => {
-    const cards = [bulbasaurRaw].map((raw) =>
-      transformSourceCard(normalizeDotggCard(raw, "A1"), geneticApex, 286),
-    );
+    const cards = [bulbasaurRaw].map((raw) => transformSourceCard(normalizeDotggCard(raw, "A1")));
 
     expect(validateCards(cards)).toEqual({ ok: true, errors: [] });
   });
@@ -274,40 +258,29 @@ describe("normalizeDotggCard()", () => {
 
 describe("mapFlibustierRarity()", () => {
   // The flibustier index is the rarity source for the sets dotgg has not
-  // backfilled (B1a on). Its short codes map onto the app's tuples.
-  it("maps the diamond and star tiers to their app rarity tuples", () => {
-    expect(mapFlibustierRarity("C")).toEqual({ symbol: "◇", code: "C", label: "Common" });
-    expect(mapFlibustierRarity("RR")).toEqual({ symbol: "◇◇◇◇", code: "RR", label: "Double Rare" });
-    expect(mapFlibustierRarity("AR")).toEqual({ symbol: "☆", code: "AR", label: "Art Rare" });
+  // backfilled (B1a on). Its short codes map onto the app's codes.
+  it("maps the diamond and star tiers to their app rarity codes", () => {
+    expect(mapFlibustierRarity("C")).toBe("C");
+    expect(mapFlibustierRarity("RR")).toBe("RR");
+    expect(mapFlibustierRarity("AR")).toBe("AR");
   });
 
   it("renames the codes that differ from the app's — IM→IR and UR→CR", () => {
-    expect(mapFlibustierRarity("IM")).toEqual({
-      symbol: "☆☆☆",
-      code: "IR",
-      label: "Immersive Rare",
-    });
-    expect(mapFlibustierRarity("UR")).toEqual({ symbol: "♛", code: "CR", label: "Crown Rare" });
+    expect(mapFlibustierRarity("IM")).toBe("IR");
+    expect(mapFlibustierRarity("UR")).toBe("CR");
   });
 
   it("distinguishes ☆☆ Super Rare from Special Art Rare — what TCGdex could not", () => {
-    // Both share the ☆☆ symbol; the flibustier index carries them as separate
-    // codes, so the SAR alternate-art subset is labeled correctly (no collapse).
-    expect(mapFlibustierRarity("SR")).toEqual({ symbol: "☆☆", code: "SR", label: "Super Rare" });
-    expect(mapFlibustierRarity("SAR")).toEqual({
-      symbol: "☆☆",
-      code: "SAR",
-      label: "Special Art Rare",
-    });
+    // Both share the ☆☆ display symbol (see rarity-registry.ts); the flibustier
+    // index carries them as separate codes, so the SAR alternate-art subset is
+    // labeled correctly (no collapse).
+    expect(mapFlibustierRarity("SR")).toBe("SR");
+    expect(mapFlibustierRarity("SAR")).toBe("SAR");
   });
 
   it("keeps the Shiny tiers distinct", () => {
-    expect(mapFlibustierRarity("S")).toEqual({ symbol: "✸", code: "S", label: "Shiny" });
-    expect(mapFlibustierRarity("SSR")).toEqual({
-      symbol: "✸✸",
-      code: "SSR",
-      label: "Shiny Super Rare",
-    });
+    expect(mapFlibustierRarity("S")).toBe("S");
+    expect(mapFlibustierRarity("SSR")).toBe("SSR");
   });
 
   it("returns null for a missing or unrecognized code so the schema flags the card", () => {

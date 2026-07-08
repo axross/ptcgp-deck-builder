@@ -4,12 +4,15 @@
     "setCode": "A1",
     "number": 1,
     "name": "Bulbasaur",
-    "rarity": { "symbol": "◇", "code": "C", "label": "Common" },
+    "rarity": "C",
     "category": "Pokemon",
     "illustrator": "Narumi Sato",
     "boosterPacks": null,
     "flavorText": "There is a plant seed on its back right from the day this Pokémon is born.",
-    "shop": { "packPoints": 35, "dupeShinedust": 10 },
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
     "pokemon": {
       "type": "Grass",
       "hp": 70,
@@ -38,12 +41,15 @@
     "setCode": "A1",
     "number": 216,
     "name": "Helix Fossil",
-    "rarity": { "symbol": "◇", "code": "C", "label": "Common" },
+    "rarity": "C",
     "category": "Trainer",
     "illustrator": "Toyste Beach",
     "boosterPacks": null,
     "flavorText": null,
-    "shop": { "packPoints": 35, "dupeShinedust": 10 },
+    "shop": {
+      "packPoints": 35,
+      "dupeShinedust": 10
+    },
     "pokemon": null,
     "trainer": {
       "subtype": "Item",

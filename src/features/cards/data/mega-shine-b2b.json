@@ -1,22 +1,13 @@
 [
   {
     "id": "B2b-001",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 1,
-    "setSize": 117,
     "name": {
       "en": "Scyther",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B2b-002",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 2,
-    "setSize": 117,
     "name": {
       "en": "Pineco",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B2b-003",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 3,
-    "setSize": 117,
     "name": {
       "en": "Volbeat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B2b-004",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 4,
-    "setSize": 117,
     "name": {
       "en": "Illumise",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "B2b-005",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 5,
-    "setSize": 117,
     "name": {
       "en": "Phantump",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "B2b-006",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 6,
-    "setSize": 117,
     "name": {
       "en": "Trevenant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "B2b-007",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 7,
-    "setSize": 117,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -393,22 +330,13 @@
   },
   {
     "id": "B2b-008",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 8,
-    "setSize": 117,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -457,22 +385,13 @@
   },
   {
     "id": "B2b-009",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 9,
-    "setSize": 117,
     "name": {
       "en": "Mega Charizard X ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -513,22 +432,13 @@
   },
   {
     "id": "B2b-010",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 10,
-    "setSize": 117,
     "name": {
       "en": "Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -569,22 +479,13 @@
   },
   {
     "id": "B2b-011",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 11,
-    "setSize": 117,
     "name": {
       "en": "Rapidash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -625,22 +526,13 @@
   },
   {
     "id": "B2b-012",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 12,
-    "setSize": 117,
     "name": {
       "en": "Magmar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -681,22 +573,13 @@
   },
   {
     "id": "B2b-013",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 13,
-    "setSize": 117,
     "name": {
       "en": "Magmortar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -737,22 +620,13 @@
   },
   {
     "id": "B2b-014",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 14,
-    "setSize": 117,
     "name": {
       "en": "Paldean Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -793,22 +667,13 @@
   },
   {
     "id": "B2b-015",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 15,
-    "setSize": 117,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -849,22 +714,13 @@
   },
   {
     "id": "B2b-016",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 16,
-    "setSize": 117,
     "name": {
       "en": "Mega Slowbro ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -905,22 +761,13 @@
   },
   {
     "id": "B2b-017",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 17,
-    "setSize": 117,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -961,22 +808,13 @@
   },
   {
     "id": "B2b-018",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 18,
-    "setSize": 117,
     "name": {
       "en": "Piplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "B2b-019",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 19,
-    "setSize": 117,
     "name": {
       "en": "Prinplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "B2b-020",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 20,
-    "setSize": 117,
     "name": {
       "en": "Empoleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "B2b-021",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 21,
-    "setSize": 117,
     "name": {
       "en": "Phione",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "B2b-022",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 22,
-    "setSize": 117,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "B2b-023",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 23,
-    "setSize": 117,
     "name": {
       "en": "Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "B2b-024",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 24,
-    "setSize": 117,
     "name": {
       "en": "Electabuzz",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1353,22 +1137,13 @@
   },
   {
     "id": "B2b-025",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 25,
-    "setSize": 117,
     "name": {
       "en": "Electivire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1409,22 +1184,13 @@
   },
   {
     "id": "B2b-026",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 26,
-    "setSize": 117,
     "name": {
       "en": "Electrike",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1465,22 +1231,13 @@
   },
   {
     "id": "B2b-027",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 27,
-    "setSize": 117,
     "name": {
       "en": "Mega Manectric ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1521,22 +1278,13 @@
   },
   {
     "id": "B2b-028",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 28,
-    "setSize": 117,
     "name": {
       "en": "Drowzee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1577,22 +1325,13 @@
   },
   {
     "id": "B2b-029",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 29,
-    "setSize": 117,
     "name": {
       "en": "Hypno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1633,22 +1372,13 @@
   },
   {
     "id": "B2b-030",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 30,
-    "setSize": 117,
     "name": {
       "en": "Mew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1689,22 +1419,13 @@
   },
   {
     "id": "B2b-031",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 31,
-    "setSize": 117,
     "name": {
       "en": "Spoink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1745,22 +1466,13 @@
   },
   {
     "id": "B2b-032",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 32,
-    "setSize": 117,
     "name": {
       "en": "Grumpig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1801,22 +1513,13 @@
   },
   {
     "id": "B2b-033",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 33,
-    "setSize": 117,
     "name": {
       "en": "Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1857,22 +1560,13 @@
   },
   {
     "id": "B2b-034",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 34,
-    "setSize": 117,
     "name": {
       "en": "Dugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1913,22 +1607,13 @@
   },
   {
     "id": "B2b-035",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 35,
-    "setSize": 117,
     "name": {
       "en": "Groudon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1969,22 +1654,13 @@
   },
   {
     "id": "B2b-036",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 36,
-    "setSize": 117,
     "name": {
       "en": "Hawlucha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2025,22 +1701,13 @@
   },
   {
     "id": "B2b-037",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 37,
-    "setSize": 117,
     "name": {
       "en": "Gastly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2081,22 +1748,13 @@
   },
   {
     "id": "B2b-038",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 38,
-    "setSize": 117,
     "name": {
       "en": "Haunter",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2137,22 +1795,13 @@
   },
   {
     "id": "B2b-039",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 39,
-    "setSize": 117,
     "name": {
       "en": "Mega Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2193,22 +1842,13 @@
   },
   {
     "id": "B2b-040",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 40,
-    "setSize": 117,
     "name": {
       "en": "Darkrai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2257,22 +1897,13 @@
   },
   {
     "id": "B2b-041",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 41,
-    "setSize": 117,
     "name": {
       "en": "Trubbish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2313,22 +1944,13 @@
   },
   {
     "id": "B2b-042",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 42,
-    "setSize": 117,
     "name": {
       "en": "Garbodor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2369,22 +1991,13 @@
   },
   {
     "id": "B2b-043",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 43,
-    "setSize": 117,
     "name": {
       "en": "Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2425,22 +2038,13 @@
   },
   {
     "id": "B2b-044",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 44,
-    "setSize": 117,
     "name": {
       "en": "Zoroark",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2481,22 +2085,13 @@
   },
   {
     "id": "B2b-045",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 45,
-    "setSize": 117,
     "name": {
       "en": "Morpeko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2537,22 +2132,13 @@
   },
   {
     "id": "B2b-046",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 46,
-    "setSize": 117,
     "name": {
       "en": "Forretress",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2593,22 +2179,13 @@
   },
   {
     "id": "B2b-047",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 47,
-    "setSize": 117,
     "name": {
       "en": "Mega Scizor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2649,22 +2226,13 @@
   },
   {
     "id": "B2b-048",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 48,
-    "setSize": 117,
     "name": {
       "en": "Kartana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2705,22 +2273,13 @@
   },
   {
     "id": "B2b-049",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 49,
-    "setSize": 117,
     "name": {
       "en": "Varoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2761,22 +2320,13 @@
   },
   {
     "id": "B2b-050",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 50,
-    "setSize": 117,
     "name": {
       "en": "Revavroom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2825,22 +2375,13 @@
   },
   {
     "id": "B2b-051",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 51,
-    "setSize": 117,
     "name": {
       "en": "Dratini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2881,22 +2422,13 @@
   },
   {
     "id": "B2b-052",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 52,
-    "setSize": 117,
     "name": {
       "en": "Dragonair",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2937,22 +2469,13 @@
   },
   {
     "id": "B2b-053",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 53,
-    "setSize": 117,
     "name": {
       "en": "Dragonite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2993,22 +2516,13 @@
   },
   {
     "id": "B2b-054",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 54,
-    "setSize": 117,
     "name": {
       "en": "Axew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3049,22 +2563,13 @@
   },
   {
     "id": "B2b-055",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 55,
-    "setSize": 117,
     "name": {
       "en": "Fraxure",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3105,22 +2610,13 @@
   },
   {
     "id": "B2b-056",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 56,
-    "setSize": 117,
     "name": {
       "en": "Haxorus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3161,22 +2657,13 @@
   },
   {
     "id": "B2b-057",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 57,
-    "setSize": 117,
     "name": {
       "en": "Druddigon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3217,22 +2704,13 @@
   },
   {
     "id": "B2b-058",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 58,
-    "setSize": 117,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3273,22 +2751,13 @@
   },
   {
     "id": "B2b-059",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 59,
-    "setSize": 117,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3329,22 +2798,13 @@
   },
   {
     "id": "B2b-060",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 60,
-    "setSize": 117,
     "name": {
       "en": "Miltank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3385,22 +2845,13 @@
   },
   {
     "id": "B2b-061",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 61,
-    "setSize": 117,
     "name": {
       "en": "Chatot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3441,22 +2892,13 @@
   },
   {
     "id": "B2b-062",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 62,
-    "setSize": 117,
     "name": {
       "en": "Minccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3497,22 +2939,13 @@
   },
   {
     "id": "B2b-063",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 63,
-    "setSize": 117,
     "name": {
       "en": "Cinccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3553,22 +2986,13 @@
   },
   {
     "id": "B2b-064",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 64,
-    "setSize": 117,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3617,22 +3041,13 @@
   },
   {
     "id": "B2b-065",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 65,
-    "setSize": 117,
     "name": {
       "en": "Nasty Notice",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3653,22 +3068,13 @@
   },
   {
     "id": "B2b-066",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 66,
-    "setSize": 117,
     "name": {
       "en": "Maintenance",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3689,22 +3095,13 @@
   },
   {
     "id": "B2b-067",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 67,
-    "setSize": 117,
     "name": {
       "en": "Iris",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3725,22 +3122,13 @@
   },
   {
     "id": "B2b-068",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 68,
-    "setSize": 117,
     "name": {
       "en": "Calem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3761,22 +3149,13 @@
   },
   {
     "id": "B2b-069",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 69,
-    "setSize": 117,
     "name": {
       "en": "Hiking Trail",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3797,22 +3176,13 @@
   },
   {
     "id": "B2b-070",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 70,
-    "setSize": 117,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3853,22 +3223,13 @@
   },
   {
     "id": "B2b-071",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 71,
-    "setSize": 117,
     "name": {
       "en": "Empoleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3909,22 +3270,13 @@
   },
   {
     "id": "B2b-072",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 72,
-    "setSize": 117,
     "name": {
       "en": "Groudon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3965,22 +3317,13 @@
   },
   {
     "id": "B2b-073",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 73,
-    "setSize": 117,
     "name": {
       "en": "Morpeko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4021,22 +3364,13 @@
   },
   {
     "id": "B2b-074",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 74,
-    "setSize": 117,
     "name": {
       "en": "Revavroom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4085,22 +3419,13 @@
   },
   {
     "id": "B2b-075",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 75,
-    "setSize": 117,
     "name": {
       "en": "Miltank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4141,22 +3466,13 @@
   },
   {
     "id": "B2b-076",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 76,
-    "setSize": 117,
     "name": {
       "en": "Mega Charizard X ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4197,22 +3513,13 @@
   },
   {
     "id": "B2b-077",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 77,
-    "setSize": 117,
     "name": {
       "en": "Mega Slowbro ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4253,22 +3560,13 @@
   },
   {
     "id": "B2b-078",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 78,
-    "setSize": 117,
     "name": {
       "en": "Mega Manectric ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4309,22 +3607,13 @@
   },
   {
     "id": "B2b-079",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 79,
-    "setSize": 117,
     "name": {
       "en": "Mega Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4365,22 +3654,13 @@
   },
   {
     "id": "B2b-080",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 80,
-    "setSize": 117,
     "name": {
       "en": "Mega Scizor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4421,22 +3701,13 @@
   },
   {
     "id": "B2b-081",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 81,
-    "setSize": 117,
     "name": {
       "en": "Iris",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4457,22 +3728,13 @@
   },
   {
     "id": "B2b-082",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 82,
-    "setSize": 117,
     "name": {
       "en": "Calem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4493,22 +3755,13 @@
   },
   {
     "id": "B2b-083",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 83,
-    "setSize": 117,
     "name": {
       "en": "Mega Slowbro ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4549,22 +3802,13 @@
   },
   {
     "id": "B2b-084",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 84,
-    "setSize": 117,
     "name": {
       "en": "Mega Manectric ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4605,22 +3849,13 @@
   },
   {
     "id": "B2b-085",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 85,
-    "setSize": 117,
     "name": {
       "en": "Mew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4661,22 +3896,13 @@
   },
   {
     "id": "B2b-086",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 86,
-    "setSize": 117,
     "name": {
       "en": "Mew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4717,22 +3943,13 @@
   },
   {
     "id": "B2b-087",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 87,
-    "setSize": 117,
     "name": {
       "en": "Scyther",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4773,22 +3990,13 @@
   },
   {
     "id": "B2b-088",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 88,
-    "setSize": 117,
     "name": {
       "en": "Pineco",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4829,22 +4037,13 @@
   },
   {
     "id": "B2b-089",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 89,
-    "setSize": 117,
     "name": {
       "en": "Phantump",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4885,22 +4084,13 @@
   },
   {
     "id": "B2b-090",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 90,
-    "setSize": 117,
     "name": {
       "en": "Trevenant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4941,22 +4131,13 @@
   },
   {
     "id": "B2b-091",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 91,
-    "setSize": 117,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4997,22 +4178,13 @@
   },
   {
     "id": "B2b-092",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 92,
-    "setSize": 117,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5061,22 +4233,13 @@
   },
   {
     "id": "B2b-093",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 93,
-    "setSize": 117,
     "name": {
       "en": "Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5117,22 +4280,13 @@
   },
   {
     "id": "B2b-094",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 94,
-    "setSize": 117,
     "name": {
       "en": "Rapidash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5173,22 +4327,13 @@
   },
   {
     "id": "B2b-095",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 95,
-    "setSize": 117,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5229,22 +4374,13 @@
   },
   {
     "id": "B2b-096",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 96,
-    "setSize": 117,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5285,22 +4421,13 @@
   },
   {
     "id": "B2b-097",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 97,
-    "setSize": 117,
     "name": {
       "en": "Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5341,22 +4468,13 @@
   },
   {
     "id": "B2b-098",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 98,
-    "setSize": 117,
     "name": {
       "en": "Electrike",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5397,22 +4515,13 @@
   },
   {
     "id": "B2b-099",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 99,
-    "setSize": 117,
     "name": {
       "en": "Hawlucha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5453,22 +4562,13 @@
   },
   {
     "id": "B2b-100",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 100,
-    "setSize": 117,
     "name": {
       "en": "Gastly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5509,22 +4609,13 @@
   },
   {
     "id": "B2b-101",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 101,
-    "setSize": 117,
     "name": {
       "en": "Haunter",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5565,22 +4656,13 @@
   },
   {
     "id": "B2b-102",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 102,
-    "setSize": 117,
     "name": {
       "en": "Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5621,22 +4703,13 @@
   },
   {
     "id": "B2b-103",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 103,
-    "setSize": 117,
     "name": {
       "en": "Zoroark",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5677,22 +4750,13 @@
   },
   {
     "id": "B2b-104",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 104,
-    "setSize": 117,
     "name": {
       "en": "Forretress",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5733,22 +4797,13 @@
   },
   {
     "id": "B2b-105",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 105,
-    "setSize": 117,
     "name": {
       "en": "Dratini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -5789,22 +4844,13 @@
   },
   {
     "id": "B2b-106",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 106,
-    "setSize": 117,
     "name": {
       "en": "Dragonair",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -5845,22 +4891,13 @@
   },
   {
     "id": "B2b-107",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 107,
-    "setSize": 117,
     "name": {
       "en": "Dragonite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -5901,22 +4938,13 @@
   },
   {
     "id": "B2b-108",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 108,
-    "setSize": 117,
     "name": {
       "en": "Axew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -5957,22 +4985,13 @@
   },
   {
     "id": "B2b-109",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 109,
-    "setSize": 117,
     "name": {
       "en": "Fraxure",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6013,22 +5032,13 @@
   },
   {
     "id": "B2b-110",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 110,
-    "setSize": 117,
     "name": {
       "en": "Haxorus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6069,22 +5079,13 @@
   },
   {
     "id": "B2b-111",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 111,
-    "setSize": 117,
     "name": {
       "en": "Mega Charizard X ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -6125,22 +5126,13 @@
   },
   {
     "id": "B2b-112",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 112,
-    "setSize": 117,
     "name": {
       "en": "Mega Slowbro ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -6181,22 +5173,13 @@
   },
   {
     "id": "B2b-113",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 113,
-    "setSize": 117,
     "name": {
       "en": "Mega Manectric ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6237,22 +5220,13 @@
   },
   {
     "id": "B2b-114",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 114,
-    "setSize": 117,
     "name": {
       "en": "Mega Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6293,22 +5267,13 @@
   },
   {
     "id": "B2b-115",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 115,
-    "setSize": 117,
     "name": {
       "en": "Mega Scizor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6349,22 +5314,13 @@
   },
   {
     "id": "B2b-116",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 116,
-    "setSize": 117,
     "name": {
       "en": "Arboliva",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -6413,22 +5369,13 @@
   },
   {
     "id": "B2b-117",
-    "set": {
-      "code": "B2b",
-      "name": "Mega Shine",
-      "nameJa": "シャイニングメガ"
-    },
+    "setCode": "B2b",
     "number": 117,
-    "setSize": 117,
     "name": {
       "en": "Metal Core Barrier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

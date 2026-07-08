@@ -1,22 +1,13 @@
 [
   {
     "id": "A4a-001",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 1,
-    "setSize": 105,
     "name": {
       "en": "Hoppip",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A4a-002",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 2,
-    "setSize": 105,
     "name": {
       "en": "Skiploom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A4a-003",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 3,
-    "setSize": 105,
     "name": {
       "en": "Jumpluff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A4a-004",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 4,
-    "setSize": 105,
     "name": {
       "en": "Sunkern",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A4a-005",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 5,
-    "setSize": 105,
     "name": {
       "en": "Sunflora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A4a-006",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 6,
-    "setSize": 105,
     "name": {
       "en": "Celebi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A4a-007",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 7,
-    "setSize": 105,
     "name": {
       "en": "Durant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A4a-008",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 8,
-    "setSize": 105,
     "name": {
       "en": "Slugma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A4a-009",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 9,
-    "setSize": 105,
     "name": {
       "en": "Magcargo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -505,22 +424,13 @@
   },
   {
     "id": "A4a-010",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 10,
-    "setSize": 105,
     "name": {
       "en": "Entei ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -569,22 +479,13 @@
   },
   {
     "id": "A4a-011",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 11,
-    "setSize": 105,
     "name": {
       "en": "Fletchinder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -625,22 +526,13 @@
   },
   {
     "id": "A4a-012",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 12,
-    "setSize": 105,
     "name": {
       "en": "Talonflame",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -681,22 +573,13 @@
   },
   {
     "id": "A4a-013",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 13,
-    "setSize": 105,
     "name": {
       "en": "Poliwag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -737,22 +620,13 @@
   },
   {
     "id": "A4a-014",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 14,
-    "setSize": 105,
     "name": {
       "en": "Poliwhirl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -793,22 +667,13 @@
   },
   {
     "id": "A4a-015",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 15,
-    "setSize": 105,
     "name": {
       "en": "Tentacool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -849,22 +714,13 @@
   },
   {
     "id": "A4a-016",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 16,
-    "setSize": 105,
     "name": {
       "en": "Tentacruel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -905,22 +761,13 @@
   },
   {
     "id": "A4a-017",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 17,
-    "setSize": 105,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -961,22 +808,13 @@
   },
   {
     "id": "A4a-018",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 18,
-    "setSize": 105,
     "name": {
       "en": "Slowking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "A4a-019",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 19,
-    "setSize": 105,
     "name": {
       "en": "Jynx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "A4a-020",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 20,
-    "setSize": 105,
     "name": {
       "en": "Suicune ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1137,22 +957,13 @@
   },
   {
     "id": "A4a-021",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 21,
-    "setSize": 105,
     "name": {
       "en": "Feebas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1193,22 +1004,13 @@
   },
   {
     "id": "A4a-022",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 22,
-    "setSize": 105,
     "name": {
       "en": "Milotic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1257,22 +1059,13 @@
   },
   {
     "id": "A4a-023",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 23,
-    "setSize": 105,
     "name": {
       "en": "Mantyke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1313,22 +1106,13 @@
   },
   {
     "id": "A4a-024",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 24,
-    "setSize": 105,
     "name": {
       "en": "Cryogonal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1369,22 +1153,13 @@
   },
   {
     "id": "A4a-025",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 25,
-    "setSize": 105,
     "name": {
       "en": "Raikou ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1433,22 +1208,13 @@
   },
   {
     "id": "A4a-026",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 26,
-    "setSize": 105,
     "name": {
       "en": "Tynamo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1489,22 +1255,13 @@
   },
   {
     "id": "A4a-027",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 27,
-    "setSize": 105,
     "name": {
       "en": "Eelektrik",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1545,22 +1302,13 @@
   },
   {
     "id": "A4a-028",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 28,
-    "setSize": 105,
     "name": {
       "en": "Eelektross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1601,22 +1349,13 @@
   },
   {
     "id": "A4a-029",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 29,
-    "setSize": 105,
     "name": {
       "en": "Stunfisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1657,22 +1396,13 @@
   },
   {
     "id": "A4a-030",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 30,
-    "setSize": 105,
     "name": {
       "en": "Yamper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1713,22 +1443,13 @@
   },
   {
     "id": "A4a-031",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 31,
-    "setSize": 105,
     "name": {
       "en": "Boltund",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1769,22 +1490,13 @@
   },
   {
     "id": "A4a-032",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 32,
-    "setSize": 105,
     "name": {
       "en": "Misdreavus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1833,22 +1545,13 @@
   },
   {
     "id": "A4a-033",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 33,
-    "setSize": 105,
     "name": {
       "en": "Mismagius",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1889,22 +1592,13 @@
   },
   {
     "id": "A4a-034",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 34,
-    "setSize": 105,
     "name": {
       "en": "Galarian Corsola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1945,22 +1639,13 @@
   },
   {
     "id": "A4a-035",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 35,
-    "setSize": 105,
     "name": {
       "en": "Galarian Cursola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2009,22 +1694,13 @@
   },
   {
     "id": "A4a-036",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 36,
-    "setSize": 105,
     "name": {
       "en": "Latias",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2065,22 +1741,13 @@
   },
   {
     "id": "A4a-037",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 37,
-    "setSize": 105,
     "name": {
       "en": "Latios",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2129,22 +1796,13 @@
   },
   {
     "id": "A4a-038",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 38,
-    "setSize": 105,
     "name": {
       "en": "Frillish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2185,22 +1843,13 @@
   },
   {
     "id": "A4a-039",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 39,
-    "setSize": 105,
     "name": {
       "en": "Jellicent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2241,22 +1890,13 @@
   },
   {
     "id": "A4a-040",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 40,
-    "setSize": 105,
     "name": {
       "en": "Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2297,22 +1937,13 @@
   },
   {
     "id": "A4a-041",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 41,
-    "setSize": 105,
     "name": {
       "en": "Dugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2353,22 +1984,13 @@
   },
   {
     "id": "A4a-042",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 42,
-    "setSize": 105,
     "name": {
       "en": "Poliwrath ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2409,22 +2031,13 @@
   },
   {
     "id": "A4a-043",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 43,
-    "setSize": 105,
     "name": {
       "en": "Phanpy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2465,22 +2078,13 @@
   },
   {
     "id": "A4a-044",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 44,
-    "setSize": 105,
     "name": {
       "en": "Donphan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2529,22 +2133,13 @@
   },
   {
     "id": "A4a-045",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 45,
-    "setSize": 105,
     "name": {
       "en": "Relicanth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2585,22 +2180,13 @@
   },
   {
     "id": "A4a-046",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 46,
-    "setSize": 105,
     "name": {
       "en": "Dwebble",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2641,22 +2227,13 @@
   },
   {
     "id": "A4a-047",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 47,
-    "setSize": 105,
     "name": {
       "en": "Crustle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2697,22 +2274,13 @@
   },
   {
     "id": "A4a-048",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 48,
-    "setSize": 105,
     "name": {
       "en": "Seviper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2753,22 +2321,13 @@
   },
   {
     "id": "A4a-049",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 49,
-    "setSize": 105,
     "name": {
       "en": "Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2809,22 +2368,13 @@
   },
   {
     "id": "A4a-050",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 50,
-    "setSize": 105,
     "name": {
       "en": "Zoroark",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2873,22 +2423,13 @@
   },
   {
     "id": "A4a-051",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 51,
-    "setSize": 105,
     "name": {
       "en": "Inkay",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2929,22 +2470,13 @@
   },
   {
     "id": "A4a-052",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 52,
-    "setSize": 105,
     "name": {
       "en": "Malamar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2985,22 +2517,13 @@
   },
   {
     "id": "A4a-053",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 53,
-    "setSize": 105,
     "name": {
       "en": "Skrelp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3041,22 +2564,13 @@
   },
   {
     "id": "A4a-054",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 54,
-    "setSize": 105,
     "name": {
       "en": "Dragalge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3097,22 +2611,13 @@
   },
   {
     "id": "A4a-055",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 55,
-    "setSize": 105,
     "name": {
       "en": "Altaria",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3153,22 +2658,13 @@
   },
   {
     "id": "A4a-056",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 56,
-    "setSize": 105,
     "name": {
       "en": "Farfetch'd",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3209,22 +2705,13 @@
   },
   {
     "id": "A4a-057",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 57,
-    "setSize": 105,
     "name": {
       "en": "Lickitung",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3265,22 +2752,13 @@
   },
   {
     "id": "A4a-058",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 58,
-    "setSize": 105,
     "name": {
       "en": "Lickilicky",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3321,22 +2799,13 @@
   },
   {
     "id": "A4a-059",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 59,
-    "setSize": 105,
     "name": {
       "en": "Igglybuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3377,22 +2846,13 @@
   },
   {
     "id": "A4a-060",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 60,
-    "setSize": 105,
     "name": {
       "en": "Teddiursa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3433,22 +2893,13 @@
   },
   {
     "id": "A4a-061",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 61,
-    "setSize": 105,
     "name": {
       "en": "Ursaring",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3489,22 +2940,13 @@
   },
   {
     "id": "A4a-062",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 62,
-    "setSize": 105,
     "name": {
       "en": "Miltank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3545,22 +2987,13 @@
   },
   {
     "id": "A4a-063",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 63,
-    "setSize": 105,
     "name": {
       "en": "Azurill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3601,22 +3034,13 @@
   },
   {
     "id": "A4a-064",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 64,
-    "setSize": 105,
     "name": {
       "en": "Swablu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3657,22 +3081,13 @@
   },
   {
     "id": "A4a-065",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 65,
-    "setSize": 105,
     "name": {
       "en": "Zangoose",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3721,22 +3136,13 @@
   },
   {
     "id": "A4a-066",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 66,
-    "setSize": 105,
     "name": {
       "en": "Fletchling",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3777,22 +3183,13 @@
   },
   {
     "id": "A4a-067",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 67,
-    "setSize": 105,
     "name": {
       "en": "Inflatable Boat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3813,22 +3210,13 @@
   },
   {
     "id": "A4a-068",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 68,
-    "setSize": 105,
     "name": {
       "en": "Memory Light",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3849,22 +3237,13 @@
   },
   {
     "id": "A4a-069",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 69,
-    "setSize": 105,
     "name": {
       "en": "Whitney",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3885,22 +3264,13 @@
   },
   {
     "id": "A4a-070",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 70,
-    "setSize": 105,
     "name": {
       "en": "Traveling Merchant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3921,22 +3291,13 @@
   },
   {
     "id": "A4a-071",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 71,
-    "setSize": 105,
     "name": {
       "en": "Morty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3957,22 +3318,13 @@
   },
   {
     "id": "A4a-072",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 72,
-    "setSize": 105,
     "name": {
       "en": "Milotic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4021,22 +3373,13 @@
   },
   {
     "id": "A4a-073",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 73,
-    "setSize": 105,
     "name": {
       "en": "Stunfisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4077,22 +3420,13 @@
   },
   {
     "id": "A4a-074",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 74,
-    "setSize": 105,
     "name": {
       "en": "Yamper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4133,22 +3467,13 @@
   },
   {
     "id": "A4a-075",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 75,
-    "setSize": 105,
     "name": {
       "en": "Latios",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4197,22 +3522,13 @@
   },
   {
     "id": "A4a-076",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 76,
-    "setSize": 105,
     "name": {
       "en": "Phanpy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4253,22 +3569,13 @@
   },
   {
     "id": "A4a-077",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 77,
-    "setSize": 105,
     "name": {
       "en": "Azurill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4309,22 +3616,13 @@
   },
   {
     "id": "A4a-078",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 78,
-    "setSize": 105,
     "name": {
       "en": "Jumpluff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4365,22 +3663,13 @@
   },
   {
     "id": "A4a-079",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 79,
-    "setSize": 105,
     "name": {
       "en": "Entei ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4429,22 +3718,13 @@
   },
   {
     "id": "A4a-080",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 80,
-    "setSize": 105,
     "name": {
       "en": "Suicune ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4493,22 +3773,13 @@
   },
   {
     "id": "A4a-081",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 81,
-    "setSize": 105,
     "name": {
       "en": "Raikou ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4557,22 +3828,13 @@
   },
   {
     "id": "A4a-082",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 82,
-    "setSize": 105,
     "name": {
       "en": "Poliwrath ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4613,22 +3875,13 @@
   },
   {
     "id": "A4a-083",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 83,
-    "setSize": 105,
     "name": {
       "en": "Whitney",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4649,22 +3902,13 @@
   },
   {
     "id": "A4a-084",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 84,
-    "setSize": 105,
     "name": {
       "en": "Traveling Merchant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4685,22 +3929,13 @@
   },
   {
     "id": "A4a-085",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 85,
-    "setSize": 105,
     "name": {
       "en": "Morty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4721,22 +3956,13 @@
   },
   {
     "id": "A4a-086",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 86,
-    "setSize": 105,
     "name": {
       "en": "Jumpluff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4777,22 +4003,13 @@
   },
   {
     "id": "A4a-087",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 87,
-    "setSize": 105,
     "name": {
       "en": "Entei ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4841,22 +4058,13 @@
   },
   {
     "id": "A4a-088",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 88,
-    "setSize": 105,
     "name": {
       "en": "Raikou ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4905,22 +4113,13 @@
   },
   {
     "id": "A4a-089",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 89,
-    "setSize": 105,
     "name": {
       "en": "Poliwrath ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4961,22 +4160,13 @@
   },
   {
     "id": "A4a-090",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 90,
-    "setSize": 105,
     "name": {
       "en": "Suicune ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5025,22 +4215,13 @@
   },
   {
     "id": "A4a-091",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 91,
-    "setSize": 105,
     "name": {
       "en": "Chimchar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5081,22 +4262,13 @@
   },
   {
     "id": "A4a-092",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 92,
-    "setSize": 105,
     "name": {
       "en": "Monferno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5137,22 +4309,13 @@
   },
   {
     "id": "A4a-093",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 93,
-    "setSize": 105,
     "name": {
       "en": "Psyduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5193,22 +4356,13 @@
   },
   {
     "id": "A4a-094",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 94,
-    "setSize": 105,
     "name": {
       "en": "Golduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5249,22 +4403,13 @@
   },
   {
     "id": "A4a-095",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 95,
-    "setSize": 105,
     "name": {
       "en": "Krabby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5305,22 +4450,13 @@
   },
   {
     "id": "A4a-096",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 96,
-    "setSize": 105,
     "name": {
       "en": "Kingler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5361,22 +4497,13 @@
   },
   {
     "id": "A4a-097",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 97,
-    "setSize": 105,
     "name": {
       "en": "Pyukumuku",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5425,22 +4552,13 @@
   },
   {
     "id": "A4a-098",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 98,
-    "setSize": 105,
     "name": {
       "en": "Gible",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5481,22 +4599,13 @@
   },
   {
     "id": "A4a-099",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 99,
-    "setSize": 105,
     "name": {
       "en": "Gabite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5537,22 +4646,13 @@
   },
   {
     "id": "A4a-100",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 100,
-    "setSize": 105,
     "name": {
       "en": "Paldean Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5593,22 +4693,13 @@
   },
   {
     "id": "A4a-101",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 101,
-    "setSize": 105,
     "name": {
       "en": "Infernape ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5649,22 +4740,13 @@
   },
   {
     "id": "A4a-102",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 102,
-    "setSize": 105,
     "name": {
       "en": "Mew ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5715,22 +4797,13 @@
   },
   {
     "id": "A4a-103",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 103,
-    "setSize": 105,
     "name": {
       "en": "Garchomp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5781,22 +4854,13 @@
   },
   {
     "id": "A4a-104",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 104,
-    "setSize": 105,
     "name": {
       "en": "Paldean Clodsire ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5837,22 +4901,13 @@
   },
   {
     "id": "A4a-105",
-    "set": {
-      "code": "A4a",
-      "name": "Secluded Springs",
-      "nameJa": "未知なる水域"
-    },
+    "setCode": "A4a",
     "number": 105,
-    "setSize": 105,
     "name": {
       "en": "Mantyke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",

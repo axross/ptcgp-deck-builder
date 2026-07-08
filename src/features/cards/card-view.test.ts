@@ -89,11 +89,7 @@ describe("deriveSetOptions()", () => {
     const a1 = fixture("A1-001");
     // Synthesize a card from a later set to prove ordering and presence-gating
     // without seeding real data.
-    const b1 = {
-      ...a1,
-      id: "B1-001",
-      set: { code: "B1", name: "Mega Rising", nameJa: "メガライジング" },
-    };
+    const b1 = { ...a1, id: "B1-001", setCode: "B1" as const };
 
     expect(deriveSetOptions([b1, a1])).toEqual([
       { code: "A1", label: "Genetic Apex (A1)" },

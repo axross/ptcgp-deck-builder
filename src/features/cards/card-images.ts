@@ -13,5 +13,5 @@ export const CARD_IMAGE_BASE_URL = "https://limitlesstcg.nyc3.cdn.digitaloceansp
 /** Returns the full-size English card image URL for a card. */
 export function getCardImageUrl(card: Card): string {
   const number = String(card.number).padStart(3, "0");
-  return `${CARD_IMAGE_BASE_URL}/${card.set.code}/${card.set.code}_${number}_EN.webp`;
+  return `${CARD_IMAGE_BASE_URL}/${card.setCode}/${card.setCode}_${number}_EN.webp`;
 }

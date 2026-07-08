@@ -1,22 +1,13 @@
 [
   {
     "id": "B1a-001",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 1,
-    "setSize": 103,
     "name": {
       "en": "Bulbasaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B1a-002",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 2,
-    "setSize": 103,
     "name": {
       "en": "Ivysaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B1a-003",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 3,
-    "setSize": 103,
     "name": {
       "en": "Venusaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B1a-004",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 4,
-    "setSize": 103,
     "name": {
       "en": "Mega Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "B1a-005",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 5,
-    "setSize": 103,
     "name": {
       "en": "Spinarak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "B1a-006",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 6,
-    "setSize": 103,
     "name": {
       "en": "Ariados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -345,22 +291,13 @@
   },
   {
     "id": "B1a-007",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 7,
-    "setSize": 103,
     "name": {
       "en": "Sunkern",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -401,22 +338,13 @@
   },
   {
     "id": "B1a-008",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 8,
-    "setSize": 103,
     "name": {
       "en": "Sunflora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -457,22 +385,13 @@
   },
   {
     "id": "B1a-009",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 9,
-    "setSize": 103,
     "name": {
       "en": "Burmy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -513,22 +432,13 @@
   },
   {
     "id": "B1a-010",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 10,
-    "setSize": 103,
     "name": {
       "en": "Mothim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -569,22 +479,13 @@
   },
   {
     "id": "B1a-011",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 11,
-    "setSize": 103,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -625,22 +526,13 @@
   },
   {
     "id": "B1a-012",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 12,
-    "setSize": 103,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -689,22 +581,13 @@
   },
   {
     "id": "B1a-013",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 13,
-    "setSize": 103,
     "name": {
       "en": "Charizard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -745,22 +628,13 @@
   },
   {
     "id": "B1a-014",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 14,
-    "setSize": 103,
     "name": {
       "en": "Mega Charizard Y ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -801,22 +675,13 @@
   },
   {
     "id": "B1a-015",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 15,
-    "setSize": 103,
     "name": {
       "en": "Houndour",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -857,22 +722,13 @@
   },
   {
     "id": "B1a-016",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 16,
-    "setSize": 103,
     "name": {
       "en": "Houndoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -913,22 +769,13 @@
   },
   {
     "id": "B1a-017",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 17,
-    "setSize": 103,
     "name": {
       "en": "Squirtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -969,22 +816,13 @@
   },
   {
     "id": "B1a-018",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 18,
-    "setSize": 103,
     "name": {
       "en": "Wartortle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1033,22 +871,13 @@
   },
   {
     "id": "B1a-019",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 19,
-    "setSize": 103,
     "name": {
       "en": "Blastoise",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1089,22 +918,13 @@
   },
   {
     "id": "B1a-020",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 20,
-    "setSize": 103,
     "name": {
       "en": "Mega Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1145,22 +965,13 @@
   },
   {
     "id": "B1a-021",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 21,
-    "setSize": 103,
     "name": {
       "en": "Basculin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1201,22 +1012,13 @@
   },
   {
     "id": "B1a-022",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 22,
-    "setSize": 103,
     "name": {
       "en": "Clauncher",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1257,22 +1059,13 @@
   },
   {
     "id": "B1a-023",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 23,
-    "setSize": 103,
     "name": {
       "en": "Clawitzer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1313,22 +1106,13 @@
   },
   {
     "id": "B1a-024",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 24,
-    "setSize": 103,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1369,22 +1153,13 @@
   },
   {
     "id": "B1a-025",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 25,
-    "setSize": 103,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1425,22 +1200,13 @@
   },
   {
     "id": "B1a-026",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 26,
-    "setSize": 103,
     "name": {
       "en": "Magnezone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1481,22 +1247,13 @@
   },
   {
     "id": "B1a-027",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 27,
-    "setSize": 103,
     "name": {
       "en": "Emolga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1537,22 +1294,13 @@
   },
   {
     "id": "B1a-028",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 28,
-    "setSize": 103,
     "name": {
       "en": "Helioptile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1593,22 +1341,13 @@
   },
   {
     "id": "B1a-029",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 29,
-    "setSize": 103,
     "name": {
       "en": "Heliolisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1649,22 +1388,13 @@
   },
   {
     "id": "B1a-030",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 30,
-    "setSize": 103,
     "name": {
       "en": "Misdreavus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1705,22 +1435,13 @@
   },
   {
     "id": "B1a-031",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 31,
-    "setSize": 103,
     "name": {
       "en": "Mismagius",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1761,22 +1482,13 @@
   },
   {
     "id": "B1a-032",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 32,
-    "setSize": 103,
     "name": {
       "en": "Solosis",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1817,22 +1529,13 @@
   },
   {
     "id": "B1a-033",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 33,
-    "setSize": 103,
     "name": {
       "en": "Duosion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1873,22 +1576,13 @@
   },
   {
     "id": "B1a-034",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 34,
-    "setSize": 103,
     "name": {
       "en": "Reuniclus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1937,22 +1631,13 @@
   },
   {
     "id": "B1a-035",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 35,
-    "setSize": 103,
     "name": {
       "en": "Spritzee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1993,22 +1678,13 @@
   },
   {
     "id": "B1a-036",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 36,
-    "setSize": 103,
     "name": {
       "en": "Aromatisse",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2049,22 +1725,13 @@
   },
   {
     "id": "B1a-037",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 37,
-    "setSize": 103,
     "name": {
       "en": "Xerneas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2105,22 +1772,13 @@
   },
   {
     "id": "B1a-038",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 38,
-    "setSize": 103,
     "name": {
       "en": "Onix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2161,22 +1819,13 @@
   },
   {
     "id": "B1a-039",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 39,
-    "setSize": 103,
     "name": {
       "en": "Makuhita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2217,22 +1866,13 @@
   },
   {
     "id": "B1a-040",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 40,
-    "setSize": 103,
     "name": {
       "en": "Hariyama",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2273,22 +1913,13 @@
   },
   {
     "id": "B1a-041",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 41,
-    "setSize": 103,
     "name": {
       "en": "Nosepass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2329,22 +1960,13 @@
   },
   {
     "id": "B1a-042",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 42,
-    "setSize": 103,
     "name": {
       "en": "Mega Lopunny ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2385,22 +2007,13 @@
   },
   {
     "id": "B1a-043",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 43,
-    "setSize": 103,
     "name": {
       "en": "Mienfoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2441,22 +2054,13 @@
   },
   {
     "id": "B1a-044",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 44,
-    "setSize": 103,
     "name": {
       "en": "Mienshao",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2497,22 +2101,13 @@
   },
   {
     "id": "B1a-045",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 45,
-    "setSize": 103,
     "name": {
       "en": "Grimer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2553,22 +2148,13 @@
   },
   {
     "id": "B1a-046",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 46,
-    "setSize": 103,
     "name": {
       "en": "Muk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2609,22 +2195,13 @@
   },
   {
     "id": "B1a-047",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 47,
-    "setSize": 103,
     "name": {
       "en": "Purrloin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2665,22 +2242,13 @@
   },
   {
     "id": "B1a-048",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 48,
-    "setSize": 103,
     "name": {
       "en": "Liepard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2721,22 +2289,13 @@
   },
   {
     "id": "B1a-049",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 49,
-    "setSize": 103,
     "name": {
       "en": "Trubbish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2777,22 +2336,13 @@
   },
   {
     "id": "B1a-050",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 50,
-    "setSize": 103,
     "name": {
       "en": "Garbodor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2833,22 +2383,13 @@
   },
   {
     "id": "B1a-051",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 51,
-    "setSize": 103,
     "name": {
       "en": "Steelix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2889,22 +2430,13 @@
   },
   {
     "id": "B1a-052",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 52,
-    "setSize": 103,
     "name": {
       "en": "Mega Steelix ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2945,22 +2477,13 @@
   },
   {
     "id": "B1a-053",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 53,
-    "setSize": 103,
     "name": {
       "en": "Probopass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3001,22 +2524,13 @@
   },
   {
     "id": "B1a-054",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 54,
-    "setSize": 103,
     "name": {
       "en": "Genesect",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3057,22 +2571,13 @@
   },
   {
     "id": "B1a-055",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 55,
-    "setSize": 103,
     "name": {
       "en": "Ditto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3113,22 +2618,13 @@
   },
   {
     "id": "B1a-056",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 56,
-    "setSize": 103,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3169,22 +2665,13 @@
   },
   {
     "id": "B1a-057",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 57,
-    "setSize": 103,
     "name": {
       "en": "Porygon2",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3225,22 +2712,13 @@
   },
   {
     "id": "B1a-058",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 58,
-    "setSize": 103,
     "name": {
       "en": "Porygon-Z",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3281,22 +2759,13 @@
   },
   {
     "id": "B1a-059",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 59,
-    "setSize": 103,
     "name": {
       "en": "Starly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3337,22 +2806,13 @@
   },
   {
     "id": "B1a-060",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 60,
-    "setSize": 103,
     "name": {
       "en": "Staravia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3393,22 +2853,13 @@
   },
   {
     "id": "B1a-061",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 61,
-    "setSize": 103,
     "name": {
       "en": "Staraptor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3449,22 +2900,13 @@
   },
   {
     "id": "B1a-062",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 62,
-    "setSize": 103,
     "name": {
       "en": "Buneary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3505,22 +2947,13 @@
   },
   {
     "id": "B1a-063",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 63,
-    "setSize": 103,
     "name": {
       "en": "Lopunny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3561,22 +2994,13 @@
   },
   {
     "id": "B1a-064",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 64,
-    "setSize": 103,
     "name": {
       "en": "Bouffalant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3617,22 +3041,13 @@
   },
   {
     "id": "B1a-065",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 65,
-    "setSize": 103,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3681,22 +3096,13 @@
   },
   {
     "id": "B1a-066",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 66,
-    "setSize": 103,
     "name": {
       "en": "Clemont's Backpack",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3717,22 +3123,13 @@
   },
   {
     "id": "B1a-067",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 67,
-    "setSize": 103,
     "name": {
       "en": "Quick-Grow Extract",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3753,22 +3150,13 @@
   },
   {
     "id": "B1a-068",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 68,
-    "setSize": 103,
     "name": {
       "en": "Clemont",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3789,22 +3177,13 @@
   },
   {
     "id": "B1a-069",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 69,
-    "setSize": 103,
     "name": {
       "en": "Serena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3825,22 +3204,13 @@
   },
   {
     "id": "B1a-070",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 70,
-    "setSize": 103,
     "name": {
       "en": "Ariados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -3889,22 +3259,13 @@
   },
   {
     "id": "B1a-071",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 71,
-    "setSize": 103,
     "name": {
       "en": "Sunflora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -3945,22 +3306,13 @@
   },
   {
     "id": "B1a-072",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 72,
-    "setSize": 103,
     "name": {
       "en": "Reuniclus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4009,22 +3361,13 @@
   },
   {
     "id": "B1a-073",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 73,
-    "setSize": 103,
     "name": {
       "en": "Xerneas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4065,22 +3408,13 @@
   },
   {
     "id": "B1a-074",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 74,
-    "setSize": 103,
     "name": {
       "en": "Trubbish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4121,22 +3455,13 @@
   },
   {
     "id": "B1a-075",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 75,
-    "setSize": 103,
     "name": {
       "en": "Buneary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4177,22 +3502,13 @@
   },
   {
     "id": "B1a-076",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 76,
-    "setSize": 103,
     "name": {
       "en": "Mega Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4233,22 +3549,13 @@
   },
   {
     "id": "B1a-077",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 77,
-    "setSize": 103,
     "name": {
       "en": "Mega Charizard Y ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4289,22 +3596,13 @@
   },
   {
     "id": "B1a-078",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 78,
-    "setSize": 103,
     "name": {
       "en": "Mega Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4345,22 +3643,13 @@
   },
   {
     "id": "B1a-079",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 79,
-    "setSize": 103,
     "name": {
       "en": "Mega Lopunny ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4401,22 +3690,13 @@
   },
   {
     "id": "B1a-080",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 80,
-    "setSize": 103,
     "name": {
       "en": "Mega Steelix ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4457,22 +3737,13 @@
   },
   {
     "id": "B1a-081",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 81,
-    "setSize": 103,
     "name": {
       "en": "Clemont",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4493,22 +3764,13 @@
   },
   {
     "id": "B1a-082",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 82,
-    "setSize": 103,
     "name": {
       "en": "Serena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4529,22 +3791,13 @@
   },
   {
     "id": "B1a-083",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 83,
-    "setSize": 103,
     "name": {
       "en": "Mega Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4585,22 +3838,13 @@
   },
   {
     "id": "B1a-084",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 84,
-    "setSize": 103,
     "name": {
       "en": "Mega Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4641,22 +3885,13 @@
   },
   {
     "id": "B1a-085",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 85,
-    "setSize": 103,
     "name": {
       "en": "Mega Lopunny ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4697,22 +3932,13 @@
   },
   {
     "id": "B1a-086",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 86,
-    "setSize": 103,
     "name": {
       "en": "Mega Steelix ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4753,22 +3979,13 @@
   },
   {
     "id": "B1a-087",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 87,
-    "setSize": 103,
     "name": {
       "en": "Mega Charizard Y ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4809,22 +4026,13 @@
   },
   {
     "id": "B1a-088",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 88,
-    "setSize": 103,
     "name": {
       "en": "Oddish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4865,22 +4073,13 @@
   },
   {
     "id": "B1a-089",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 89,
-    "setSize": 103,
     "name": {
       "en": "Gloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4921,22 +4120,13 @@
   },
   {
     "id": "B1a-090",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 90,
-    "setSize": 103,
     "name": {
       "en": "Vileplume",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4977,22 +4167,13 @@
   },
   {
     "id": "B1a-091",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 91,
-    "setSize": 103,
     "name": {
       "en": "Charizard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5033,22 +4214,13 @@
   },
   {
     "id": "B1a-092",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 92,
-    "setSize": 103,
     "name": {
       "en": "Shellder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5089,22 +4261,13 @@
   },
   {
     "id": "B1a-093",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 93,
-    "setSize": 103,
     "name": {
       "en": "Cloyster",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5145,22 +4308,13 @@
   },
   {
     "id": "B1a-094",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 94,
-    "setSize": 103,
     "name": {
       "en": "Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5201,22 +4355,13 @@
   },
   {
     "id": "B1a-095",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 95,
-    "setSize": 103,
     "name": {
       "en": "Sandslash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5257,22 +4402,13 @@
   },
   {
     "id": "B1a-096",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 96,
-    "setSize": 103,
     "name": {
       "en": "Type: Null",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5313,22 +4449,13 @@
   },
   {
     "id": "B1a-097",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 97,
-    "setSize": 103,
     "name": {
       "en": "Silvally",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5369,22 +4496,13 @@
   },
   {
     "id": "B1a-098",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 98,
-    "setSize": 103,
     "name": {
       "en": "Buzzwole ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5435,22 +4553,13 @@
   },
   {
     "id": "B1a-099",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 99,
-    "setSize": 103,
     "name": {
       "en": "Lunala ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5499,22 +4608,13 @@
   },
   {
     "id": "B1a-100",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 100,
-    "setSize": 103,
     "name": {
       "en": "Guzzlord ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5565,22 +4665,13 @@
   },
   {
     "id": "B1a-101",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 101,
-    "setSize": 103,
     "name": {
       "en": "Solgaleo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5629,22 +4720,13 @@
   },
   {
     "id": "B1a-102",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 102,
-    "setSize": 103,
     "name": {
       "en": "Aegislash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5693,22 +4775,13 @@
   },
   {
     "id": "B1a-103",
-    "set": {
-      "code": "B1a",
-      "name": "Crimson Blaze",
-      "nameJa": "紅蓮ブレイズ"
-    },
+    "setCode": "B1a",
     "number": 103,
-    "setSize": 103,
     "name": {
       "en": "Quick-Grow Extract",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

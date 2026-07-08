@@ -1,22 +1,13 @@
 [
   {
     "id": "A3-001",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 1,
-    "setSize": 239,
     "name": {
       "en": "Exeggcute",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A3-002",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 2,
-    "setSize": 239,
     "name": {
       "en": "Alolan Exeggutor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A3-003",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 3,
-    "setSize": 239,
     "name": {
       "en": "Surskit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A3-004",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 4,
-    "setSize": 239,
     "name": {
       "en": "Masquerain",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A3-005",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 5,
-    "setSize": 239,
     "name": {
       "en": "Maractus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A3-006",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 6,
-    "setSize": 239,
     "name": {
       "en": "Karrablast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A3-007",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 7,
-    "setSize": 239,
     "name": {
       "en": "Phantump",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A3-008",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 8,
-    "setSize": 239,
     "name": {
       "en": "Trevenant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A3-009",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 9,
-    "setSize": 239,
     "name": {
       "en": "Rowlet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -505,22 +424,13 @@
   },
   {
     "id": "A3-010",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 10,
-    "setSize": 239,
     "name": {
       "en": "Rowlet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -561,22 +471,13 @@
   },
   {
     "id": "A3-011",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 11,
-    "setSize": 239,
     "name": {
       "en": "Dartrix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -617,22 +518,13 @@
   },
   {
     "id": "A3-012",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 12,
-    "setSize": 239,
     "name": {
       "en": "Decidueye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -683,22 +575,13 @@
   },
   {
     "id": "A3-013",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 13,
-    "setSize": 239,
     "name": {
       "en": "Grubbin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -739,22 +622,13 @@
   },
   {
     "id": "A3-014",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 14,
-    "setSize": 239,
     "name": {
       "en": "Fomantis",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -795,22 +669,13 @@
   },
   {
     "id": "A3-015",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 15,
-    "setSize": 239,
     "name": {
       "en": "Lurantis",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -851,22 +716,13 @@
   },
   {
     "id": "A3-016",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 16,
-    "setSize": 239,
     "name": {
       "en": "Morelull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -907,22 +763,13 @@
   },
   {
     "id": "A3-017",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 17,
-    "setSize": 239,
     "name": {
       "en": "Shiinotic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -963,22 +810,13 @@
   },
   {
     "id": "A3-018",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 18,
-    "setSize": 239,
     "name": {
       "en": "Bounsweet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1019,22 +857,13 @@
   },
   {
     "id": "A3-019",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 19,
-    "setSize": 239,
     "name": {
       "en": "Steenee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1075,22 +904,13 @@
   },
   {
     "id": "A3-020",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 20,
-    "setSize": 239,
     "name": {
       "en": "Tsareena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1131,22 +951,13 @@
   },
   {
     "id": "A3-021",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 21,
-    "setSize": 239,
     "name": {
       "en": "Wimpod",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1195,22 +1006,13 @@
   },
   {
     "id": "A3-022",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 22,
-    "setSize": 239,
     "name": {
       "en": "Golisopod",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1251,22 +1053,13 @@
   },
   {
     "id": "A3-023",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 23,
-    "setSize": 239,
     "name": {
       "en": "Dhelmise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1307,22 +1100,13 @@
   },
   {
     "id": "A3-024",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 24,
-    "setSize": 239,
     "name": {
       "en": "Tapu Bulu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1363,22 +1147,13 @@
   },
   {
     "id": "A3-025",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 25,
-    "setSize": 239,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1419,22 +1194,13 @@
   },
   {
     "id": "A3-026",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 26,
-    "setSize": 239,
     "name": {
       "en": "Arcanine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1475,22 +1241,13 @@
   },
   {
     "id": "A3-027",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 27,
-    "setSize": 239,
     "name": {
       "en": "Alolan Marowak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1531,22 +1288,13 @@
   },
   {
     "id": "A3-028",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 28,
-    "setSize": 239,
     "name": {
       "en": "Fletchinder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1587,22 +1335,13 @@
   },
   {
     "id": "A3-029",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 29,
-    "setSize": 239,
     "name": {
       "en": "Talonflame",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1643,22 +1382,13 @@
   },
   {
     "id": "A3-030",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 30,
-    "setSize": 239,
     "name": {
       "en": "Litten",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1699,22 +1429,13 @@
   },
   {
     "id": "A3-031",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 31,
-    "setSize": 239,
     "name": {
       "en": "Litten",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1755,22 +1476,13 @@
   },
   {
     "id": "A3-032",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 32,
-    "setSize": 239,
     "name": {
       "en": "Torracat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1811,22 +1523,13 @@
   },
   {
     "id": "A3-033",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 33,
-    "setSize": 239,
     "name": {
       "en": "Incineroar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1877,22 +1580,13 @@
   },
   {
     "id": "A3-034",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 34,
-    "setSize": 239,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1933,22 +1627,13 @@
   },
   {
     "id": "A3-035",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 35,
-    "setSize": 239,
     "name": {
       "en": "Salandit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1989,22 +1674,13 @@
   },
   {
     "id": "A3-036",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 36,
-    "setSize": 239,
     "name": {
       "en": "Salazzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2045,22 +1721,13 @@
   },
   {
     "id": "A3-037",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 37,
-    "setSize": 239,
     "name": {
       "en": "Turtonator",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2101,22 +1768,13 @@
   },
   {
     "id": "A3-038",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 38,
-    "setSize": 239,
     "name": {
       "en": "Alolan Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2157,22 +1815,13 @@
   },
   {
     "id": "A3-039",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 39,
-    "setSize": 239,
     "name": {
       "en": "Alolan Sandslash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2213,22 +1862,13 @@
   },
   {
     "id": "A3-040",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 40,
-    "setSize": 239,
     "name": {
       "en": "Alolan Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2269,22 +1909,13 @@
   },
   {
     "id": "A3-041",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 41,
-    "setSize": 239,
     "name": {
       "en": "Alolan Ninetales",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2325,22 +1956,13 @@
   },
   {
     "id": "A3-042",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 42,
-    "setSize": 239,
     "name": {
       "en": "Shellder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2381,22 +2003,13 @@
   },
   {
     "id": "A3-043",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 43,
-    "setSize": 239,
     "name": {
       "en": "Cloyster",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2437,22 +2050,13 @@
   },
   {
     "id": "A3-044",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 44,
-    "setSize": 239,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2493,22 +2097,13 @@
   },
   {
     "id": "A3-045",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 45,
-    "setSize": 239,
     "name": {
       "en": "Popplio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2549,22 +2144,13 @@
   },
   {
     "id": "A3-046",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 46,
-    "setSize": 239,
     "name": {
       "en": "Popplio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2605,22 +2191,13 @@
   },
   {
     "id": "A3-047",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 47,
-    "setSize": 239,
     "name": {
       "en": "Brionne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2661,22 +2238,13 @@
   },
   {
     "id": "A3-048",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 48,
-    "setSize": 239,
     "name": {
       "en": "Primarina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2725,22 +2293,13 @@
   },
   {
     "id": "A3-049",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 49,
-    "setSize": 239,
     "name": {
       "en": "Crabominable ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2781,22 +2340,13 @@
   },
   {
     "id": "A3-050",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 50,
-    "setSize": 239,
     "name": {
       "en": "Wishiwashi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2837,22 +2387,13 @@
   },
   {
     "id": "A3-051",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 51,
-    "setSize": 239,
     "name": {
       "en": "Wishiwashi ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2893,22 +2434,13 @@
   },
   {
     "id": "A3-052",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 52,
-    "setSize": 239,
     "name": {
       "en": "Dewpider",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2949,22 +2481,13 @@
   },
   {
     "id": "A3-053",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 53,
-    "setSize": 239,
     "name": {
       "en": "Araquanid",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3005,22 +2528,13 @@
   },
   {
     "id": "A3-054",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 54,
-    "setSize": 239,
     "name": {
       "en": "Pyukumuku",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3069,22 +2583,13 @@
   },
   {
     "id": "A3-055",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 55,
-    "setSize": 239,
     "name": {
       "en": "Bruxish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3125,22 +2630,13 @@
   },
   {
     "id": "A3-056",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 56,
-    "setSize": 239,
     "name": {
       "en": "Tapu Fini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3181,22 +2677,13 @@
   },
   {
     "id": "A3-057",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 57,
-    "setSize": 239,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3237,22 +2724,13 @@
   },
   {
     "id": "A3-058",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 58,
-    "setSize": 239,
     "name": {
       "en": "Alolan Raichu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3293,22 +2771,13 @@
   },
   {
     "id": "A3-059",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 59,
-    "setSize": 239,
     "name": {
       "en": "Alolan Geodude",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3349,22 +2818,13 @@
   },
   {
     "id": "A3-060",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 60,
-    "setSize": 239,
     "name": {
       "en": "Alolan Graveler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3405,22 +2865,13 @@
   },
   {
     "id": "A3-061",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 61,
-    "setSize": 239,
     "name": {
       "en": "Alolan Golem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3461,22 +2912,13 @@
   },
   {
     "id": "A3-062",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 62,
-    "setSize": 239,
     "name": {
       "en": "Helioptile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3517,22 +2959,13 @@
   },
   {
     "id": "A3-063",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 63,
-    "setSize": 239,
     "name": {
       "en": "Heliolisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3573,22 +3006,13 @@
   },
   {
     "id": "A3-064",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 64,
-    "setSize": 239,
     "name": {
       "en": "Charjabug",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3629,22 +3053,13 @@
   },
   {
     "id": "A3-065",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 65,
-    "setSize": 239,
     "name": {
       "en": "Vikavolt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3685,22 +3100,13 @@
   },
   {
     "id": "A3-066",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 66,
-    "setSize": 239,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3749,22 +3155,13 @@
   },
   {
     "id": "A3-067",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 67,
-    "setSize": 239,
     "name": {
       "en": "Togedemaru",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3805,22 +3202,13 @@
   },
   {
     "id": "A3-068",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 68,
-    "setSize": 239,
     "name": {
       "en": "Tapu Koko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3861,22 +3249,13 @@
   },
   {
     "id": "A3-069",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 69,
-    "setSize": 239,
     "name": {
       "en": "Mr. Mime",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3917,22 +3296,13 @@
   },
   {
     "id": "A3-070",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 70,
-    "setSize": 239,
     "name": {
       "en": "Sableye",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3973,22 +3343,13 @@
   },
   {
     "id": "A3-071",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 71,
-    "setSize": 239,
     "name": {
       "en": "Spoink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4029,22 +3390,13 @@
   },
   {
     "id": "A3-072",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 72,
-    "setSize": 239,
     "name": {
       "en": "Grumpig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4085,22 +3437,13 @@
   },
   {
     "id": "A3-073",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 73,
-    "setSize": 239,
     "name": {
       "en": "Lunatone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4141,22 +3484,13 @@
   },
   {
     "id": "A3-074",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 74,
-    "setSize": 239,
     "name": {
       "en": "Shuppet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4197,22 +3531,13 @@
   },
   {
     "id": "A3-075",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 75,
-    "setSize": 239,
     "name": {
       "en": "Banette",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4253,22 +3578,13 @@
   },
   {
     "id": "A3-076",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 76,
-    "setSize": 239,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4309,22 +3625,13 @@
   },
   {
     "id": "A3-077",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 77,
-    "setSize": 239,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4365,22 +3672,13 @@
   },
   {
     "id": "A3-078",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 78,
-    "setSize": 239,
     "name": {
       "en": "Cutiefly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4421,22 +3719,13 @@
   },
   {
     "id": "A3-079",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 79,
-    "setSize": 239,
     "name": {
       "en": "Ribombee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4477,22 +3766,13 @@
   },
   {
     "id": "A3-080",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 80,
-    "setSize": 239,
     "name": {
       "en": "Comfey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4541,22 +3821,13 @@
   },
   {
     "id": "A3-081",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 81,
-    "setSize": 239,
     "name": {
       "en": "Sandygast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4597,22 +3868,13 @@
   },
   {
     "id": "A3-082",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 82,
-    "setSize": 239,
     "name": {
       "en": "Palossand",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4653,22 +3915,13 @@
   },
   {
     "id": "A3-083",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 83,
-    "setSize": 239,
     "name": {
       "en": "Mimikyu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4709,22 +3962,13 @@
   },
   {
     "id": "A3-084",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 84,
-    "setSize": 239,
     "name": {
       "en": "Tapu Lele",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4765,22 +4009,13 @@
   },
   {
     "id": "A3-085",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 85,
-    "setSize": 239,
     "name": {
       "en": "Cosmog",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4821,22 +4056,13 @@
   },
   {
     "id": "A3-086",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 86,
-    "setSize": 239,
     "name": {
       "en": "Cosmoem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4877,22 +4103,13 @@
   },
   {
     "id": "A3-087",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 87,
-    "setSize": 239,
     "name": {
       "en": "Lunala ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4941,22 +4158,13 @@
   },
   {
     "id": "A3-088",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 88,
-    "setSize": 239,
     "name": {
       "en": "Necrozma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4997,22 +4205,13 @@
   },
   {
     "id": "A3-089",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 89,
-    "setSize": 239,
     "name": {
       "en": "Cubone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5053,22 +4252,13 @@
   },
   {
     "id": "A3-090",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 90,
-    "setSize": 239,
     "name": {
       "en": "Makuhita",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5109,22 +4299,13 @@
   },
   {
     "id": "A3-091",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 91,
-    "setSize": 239,
     "name": {
       "en": "Hariyama",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5165,22 +4346,13 @@
   },
   {
     "id": "A3-092",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 92,
-    "setSize": 239,
     "name": {
       "en": "Solrock",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5221,22 +4393,13 @@
   },
   {
     "id": "A3-093",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 93,
-    "setSize": 239,
     "name": {
       "en": "Drilbur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5277,22 +4440,13 @@
   },
   {
     "id": "A3-094",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 94,
-    "setSize": 239,
     "name": {
       "en": "Timburr",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5333,22 +4487,13 @@
   },
   {
     "id": "A3-095",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 95,
-    "setSize": 239,
     "name": {
       "en": "Gurdurr",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5389,22 +4534,13 @@
   },
   {
     "id": "A3-096",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 96,
-    "setSize": 239,
     "name": {
       "en": "Conkeldurr",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5453,22 +4589,13 @@
   },
   {
     "id": "A3-097",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 97,
-    "setSize": 239,
     "name": {
       "en": "Crabrawler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5509,22 +4636,13 @@
   },
   {
     "id": "A3-098",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 98,
-    "setSize": 239,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5565,22 +4683,13 @@
   },
   {
     "id": "A3-099",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 99,
-    "setSize": 239,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5621,22 +4730,13 @@
   },
   {
     "id": "A3-100",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 100,
-    "setSize": 239,
     "name": {
       "en": "Lycanroc",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5677,22 +4777,13 @@
   },
   {
     "id": "A3-101",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 101,
-    "setSize": 239,
     "name": {
       "en": "Lycanroc",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5733,22 +4824,13 @@
   },
   {
     "id": "A3-102",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 102,
-    "setSize": 239,
     "name": {
       "en": "Mudbray",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5789,22 +4871,13 @@
   },
   {
     "id": "A3-103",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 103,
-    "setSize": 239,
     "name": {
       "en": "Mudsdale",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5845,22 +4918,13 @@
   },
   {
     "id": "A3-104",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 104,
-    "setSize": 239,
     "name": {
       "en": "Passimian ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5909,22 +4973,13 @@
   },
   {
     "id": "A3-105",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 105,
-    "setSize": 239,
     "name": {
       "en": "Minior",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5965,22 +5020,13 @@
   },
   {
     "id": "A3-106",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 106,
-    "setSize": 239,
     "name": {
       "en": "Alolan Rattata",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6021,22 +5067,13 @@
   },
   {
     "id": "A3-107",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 107,
-    "setSize": 239,
     "name": {
       "en": "Alolan Raticate",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6077,22 +5114,13 @@
   },
   {
     "id": "A3-108",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 108,
-    "setSize": 239,
     "name": {
       "en": "Alolan Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6133,22 +5161,13 @@
   },
   {
     "id": "A3-109",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 109,
-    "setSize": 239,
     "name": {
       "en": "Alolan Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6197,22 +5216,13 @@
   },
   {
     "id": "A3-110",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 110,
-    "setSize": 239,
     "name": {
       "en": "Alolan Grimer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6253,22 +5263,13 @@
   },
   {
     "id": "A3-111",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 111,
-    "setSize": 239,
     "name": {
       "en": "Alolan Muk ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6309,22 +5310,13 @@
   },
   {
     "id": "A3-112",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 112,
-    "setSize": 239,
     "name": {
       "en": "Absol",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6365,22 +5357,13 @@
   },
   {
     "id": "A3-113",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 113,
-    "setSize": 239,
     "name": {
       "en": "Trubbish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6421,22 +5404,13 @@
   },
   {
     "id": "A3-114",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 114,
-    "setSize": 239,
     "name": {
       "en": "Garbodor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6477,22 +5451,13 @@
   },
   {
     "id": "A3-115",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 115,
-    "setSize": 239,
     "name": {
       "en": "Mareanie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6533,22 +5498,13 @@
   },
   {
     "id": "A3-116",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 116,
-    "setSize": 239,
     "name": {
       "en": "Toxapex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6589,22 +5545,13 @@
   },
   {
     "id": "A3-117",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 117,
-    "setSize": 239,
     "name": {
       "en": "Alolan Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6645,22 +5592,13 @@
   },
   {
     "id": "A3-118",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 118,
-    "setSize": 239,
     "name": {
       "en": "Alolan Dugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6701,22 +5639,13 @@
   },
   {
     "id": "A3-119",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 119,
-    "setSize": 239,
     "name": {
       "en": "Excadrill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6757,22 +5686,13 @@
   },
   {
     "id": "A3-120",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 120,
-    "setSize": 239,
     "name": {
       "en": "Escavalier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6813,22 +5733,13 @@
   },
   {
     "id": "A3-121",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 121,
-    "setSize": 239,
     "name": {
       "en": "Klefki",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6869,22 +5780,13 @@
   },
   {
     "id": "A3-122",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 122,
-    "setSize": 239,
     "name": {
       "en": "Solgaleo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6933,22 +5835,13 @@
   },
   {
     "id": "A3-123",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 123,
-    "setSize": 239,
     "name": {
       "en": "Magearna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6989,22 +5882,13 @@
   },
   {
     "id": "A3-124",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 124,
-    "setSize": 239,
     "name": {
       "en": "Drampa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7045,22 +5929,13 @@
   },
   {
     "id": "A3-125",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 125,
-    "setSize": 239,
     "name": {
       "en": "Jangmo-o",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7101,22 +5976,13 @@
   },
   {
     "id": "A3-126",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 126,
-    "setSize": 239,
     "name": {
       "en": "Hakamo-o",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7157,22 +6023,13 @@
   },
   {
     "id": "A3-127",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 127,
-    "setSize": 239,
     "name": {
       "en": "Kommo-o",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -7213,22 +6070,13 @@
   },
   {
     "id": "A3-128",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 128,
-    "setSize": 239,
     "name": {
       "en": "Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7269,22 +6117,13 @@
   },
   {
     "id": "A3-129",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 129,
-    "setSize": 239,
     "name": {
       "en": "Skitty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7325,22 +6164,13 @@
   },
   {
     "id": "A3-130",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 130,
-    "setSize": 239,
     "name": {
       "en": "Delcatty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7381,22 +6211,13 @@
   },
   {
     "id": "A3-131",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 131,
-    "setSize": 239,
     "name": {
       "en": "Fletchling",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7437,22 +6258,13 @@
   },
   {
     "id": "A3-132",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 132,
-    "setSize": 239,
     "name": {
       "en": "Hawlucha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7493,22 +6305,13 @@
   },
   {
     "id": "A3-133",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 133,
-    "setSize": 239,
     "name": {
       "en": "Pikipek",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7549,22 +6352,13 @@
   },
   {
     "id": "A3-134",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 134,
-    "setSize": 239,
     "name": {
       "en": "Trumbeak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7605,22 +6399,13 @@
   },
   {
     "id": "A3-135",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 135,
-    "setSize": 239,
     "name": {
       "en": "Toucannon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7661,22 +6446,13 @@
   },
   {
     "id": "A3-136",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 136,
-    "setSize": 239,
     "name": {
       "en": "Yungoos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7717,22 +6493,13 @@
   },
   {
     "id": "A3-137",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 137,
-    "setSize": 239,
     "name": {
       "en": "Gumshoos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7773,22 +6540,13 @@
   },
   {
     "id": "A3-138",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 138,
-    "setSize": 239,
     "name": {
       "en": "Stufful",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7829,22 +6587,13 @@
   },
   {
     "id": "A3-139",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 139,
-    "setSize": 239,
     "name": {
       "en": "Bewear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7885,22 +6634,13 @@
   },
   {
     "id": "A3-140",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 140,
-    "setSize": 239,
     "name": {
       "en": "Oranguru",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7941,22 +6681,13 @@
   },
   {
     "id": "A3-141",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 141,
-    "setSize": 239,
     "name": {
       "en": "Komala",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8005,22 +6736,13 @@
   },
   {
     "id": "A3-142",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 142,
-    "setSize": 239,
     "name": {
       "en": "Big Malasada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8041,22 +6763,13 @@
   },
   {
     "id": "A3-143",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 143,
-    "setSize": 239,
     "name": {
       "en": "Fishing Net",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8077,22 +6790,13 @@
   },
   {
     "id": "A3-144",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 144,
-    "setSize": 239,
     "name": {
       "en": "Rare Candy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8113,22 +6817,13 @@
   },
   {
     "id": "A3-145",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 145,
-    "setSize": 239,
     "name": {
       "en": "Rotom Dex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8149,22 +6844,13 @@
   },
   {
     "id": "A3-146",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 146,
-    "setSize": 239,
     "name": {
       "en": "Poison Barb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8185,22 +6871,13 @@
   },
   {
     "id": "A3-147",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 147,
-    "setSize": 239,
     "name": {
       "en": "Leaf Cape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8221,22 +6898,13 @@
   },
   {
     "id": "A3-148",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 148,
-    "setSize": 239,
     "name": {
       "en": "Acerola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8257,22 +6925,13 @@
   },
   {
     "id": "A3-149",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 149,
-    "setSize": 239,
     "name": {
       "en": "Ilima",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8293,22 +6952,13 @@
   },
   {
     "id": "A3-150",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 150,
-    "setSize": 239,
     "name": {
       "en": "Kiawe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8329,22 +6979,13 @@
   },
   {
     "id": "A3-151",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 151,
-    "setSize": 239,
     "name": {
       "en": "Guzma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8365,22 +7006,13 @@
   },
   {
     "id": "A3-152",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 152,
-    "setSize": 239,
     "name": {
       "en": "Lana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8401,22 +7033,13 @@
   },
   {
     "id": "A3-153",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 153,
-    "setSize": 239,
     "name": {
       "en": "Sophocles",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8437,22 +7060,13 @@
   },
   {
     "id": "A3-154",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 154,
-    "setSize": 239,
     "name": {
       "en": "Mallow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8473,22 +7087,13 @@
   },
   {
     "id": "A3-155",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 155,
-    "setSize": 239,
     "name": {
       "en": "Lillie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8509,22 +7114,13 @@
   },
   {
     "id": "A3-156",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 156,
-    "setSize": 239,
     "name": {
       "en": "Alolan Exeggutor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8565,22 +7161,13 @@
   },
   {
     "id": "A3-157",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 157,
-    "setSize": 239,
     "name": {
       "en": "Morelull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8621,22 +7208,13 @@
   },
   {
     "id": "A3-158",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 158,
-    "setSize": 239,
     "name": {
       "en": "Tsareena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8677,22 +7255,13 @@
   },
   {
     "id": "A3-159",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 159,
-    "setSize": 239,
     "name": {
       "en": "Tapu Bulu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8733,22 +7302,13 @@
   },
   {
     "id": "A3-160",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 160,
-    "setSize": 239,
     "name": {
       "en": "Alolan Marowak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8789,22 +7349,13 @@
   },
   {
     "id": "A3-161",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 161,
-    "setSize": 239,
     "name": {
       "en": "Turtonator",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8845,22 +7396,13 @@
   },
   {
     "id": "A3-162",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 162,
-    "setSize": 239,
     "name": {
       "en": "Alolan Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -8901,22 +7443,13 @@
   },
   {
     "id": "A3-163",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 163,
-    "setSize": 239,
     "name": {
       "en": "Pyukumuku",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -8965,22 +7498,13 @@
   },
   {
     "id": "A3-164",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 164,
-    "setSize": 239,
     "name": {
       "en": "Tapu Fini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9021,22 +7545,13 @@
   },
   {
     "id": "A3-165",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 165,
-    "setSize": 239,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9085,22 +7600,13 @@
   },
   {
     "id": "A3-166",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 166,
-    "setSize": 239,
     "name": {
       "en": "Tapu Koko",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9141,22 +7647,13 @@
   },
   {
     "id": "A3-167",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 167,
-    "setSize": 239,
     "name": {
       "en": "Cutiefly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9197,22 +7694,13 @@
   },
   {
     "id": "A3-168",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 168,
-    "setSize": 239,
     "name": {
       "en": "Comfey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9261,22 +7749,13 @@
   },
   {
     "id": "A3-169",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 169,
-    "setSize": 239,
     "name": {
       "en": "Sandygast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9317,22 +7796,13 @@
   },
   {
     "id": "A3-170",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 170,
-    "setSize": 239,
     "name": {
       "en": "Tapu Lele",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9373,22 +7843,13 @@
   },
   {
     "id": "A3-171",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 171,
-    "setSize": 239,
     "name": {
       "en": "Cosmog",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9429,22 +7890,13 @@
   },
   {
     "id": "A3-172",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 172,
-    "setSize": 239,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9485,22 +7937,13 @@
   },
   {
     "id": "A3-173",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 173,
-    "setSize": 239,
     "name": {
       "en": "Mudsdale",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9541,22 +7984,13 @@
   },
   {
     "id": "A3-174",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 174,
-    "setSize": 239,
     "name": {
       "en": "Minior",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9597,22 +8031,13 @@
   },
   {
     "id": "A3-175",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 175,
-    "setSize": 239,
     "name": {
       "en": "Magearna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9653,22 +8078,13 @@
   },
   {
     "id": "A3-176",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 176,
-    "setSize": 239,
     "name": {
       "en": "Drampa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -9709,22 +8125,13 @@
   },
   {
     "id": "A3-177",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 177,
-    "setSize": 239,
     "name": {
       "en": "Pikipek",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9765,22 +8172,13 @@
   },
   {
     "id": "A3-178",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 178,
-    "setSize": 239,
     "name": {
       "en": "Bewear",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9821,22 +8219,13 @@
   },
   {
     "id": "A3-179",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 179,
-    "setSize": 239,
     "name": {
       "en": "Komala",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9885,22 +8274,13 @@
   },
   {
     "id": "A3-180",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 180,
-    "setSize": 239,
     "name": {
       "en": "Decidueye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -9951,22 +8331,13 @@
   },
   {
     "id": "A3-181",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 181,
-    "setSize": 239,
     "name": {
       "en": "Dhelmise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10007,22 +8378,13 @@
   },
   {
     "id": "A3-182",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 182,
-    "setSize": 239,
     "name": {
       "en": "Incineroar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10073,22 +8435,13 @@
   },
   {
     "id": "A3-183",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 183,
-    "setSize": 239,
     "name": {
       "en": "Crabominable ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10129,22 +8482,13 @@
   },
   {
     "id": "A3-184",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 184,
-    "setSize": 239,
     "name": {
       "en": "Wishiwashi ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10185,22 +8529,13 @@
   },
   {
     "id": "A3-185",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 185,
-    "setSize": 239,
     "name": {
       "en": "Alolan Raichu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10241,22 +8576,13 @@
   },
   {
     "id": "A3-186",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 186,
-    "setSize": 239,
     "name": {
       "en": "Lunala ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10305,22 +8631,13 @@
   },
   {
     "id": "A3-187",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 187,
-    "setSize": 239,
     "name": {
       "en": "Passimian ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10369,22 +8686,13 @@
   },
   {
     "id": "A3-188",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 188,
-    "setSize": 239,
     "name": {
       "en": "Alolan Muk ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10425,22 +8733,13 @@
   },
   {
     "id": "A3-189",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 189,
-    "setSize": 239,
     "name": {
       "en": "Solgaleo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10489,22 +8788,13 @@
   },
   {
     "id": "A3-190",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 190,
-    "setSize": 239,
     "name": {
       "en": "Acerola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10525,22 +8815,13 @@
   },
   {
     "id": "A3-191",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 191,
-    "setSize": 239,
     "name": {
       "en": "Ilima",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10561,22 +8842,13 @@
   },
   {
     "id": "A3-192",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 192,
-    "setSize": 239,
     "name": {
       "en": "Kiawe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10597,22 +8869,13 @@
   },
   {
     "id": "A3-193",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 193,
-    "setSize": 239,
     "name": {
       "en": "Guzma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10633,22 +8896,13 @@
   },
   {
     "id": "A3-194",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 194,
-    "setSize": 239,
     "name": {
       "en": "Lana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10669,22 +8923,13 @@
   },
   {
     "id": "A3-195",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 195,
-    "setSize": 239,
     "name": {
       "en": "Sophocles",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10705,22 +8950,13 @@
   },
   {
     "id": "A3-196",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 196,
-    "setSize": 239,
     "name": {
       "en": "Mallow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10741,22 +8977,13 @@
   },
   {
     "id": "A3-197",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 197,
-    "setSize": 239,
     "name": {
       "en": "Lillie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10777,22 +9004,13 @@
   },
   {
     "id": "A3-198",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 198,
-    "setSize": 239,
     "name": {
       "en": "Decidueye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10843,22 +9061,13 @@
   },
   {
     "id": "A3-199",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 199,
-    "setSize": 239,
     "name": {
       "en": "Dhelmise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10899,22 +9108,13 @@
   },
   {
     "id": "A3-200",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 200,
-    "setSize": 239,
     "name": {
       "en": "Incineroar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10965,22 +9165,13 @@
   },
   {
     "id": "A3-201",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 201,
-    "setSize": 239,
     "name": {
       "en": "Crabominable ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11021,22 +9212,13 @@
   },
   {
     "id": "A3-202",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 202,
-    "setSize": 239,
     "name": {
       "en": "Wishiwashi ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11077,22 +9259,13 @@
   },
   {
     "id": "A3-203",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 203,
-    "setSize": 239,
     "name": {
       "en": "Alolan Raichu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -11133,22 +9306,13 @@
   },
   {
     "id": "A3-204",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 204,
-    "setSize": 239,
     "name": {
       "en": "Lunala ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11197,22 +9361,13 @@
   },
   {
     "id": "A3-205",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 205,
-    "setSize": 239,
     "name": {
       "en": "Passimian ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11261,22 +9416,13 @@
   },
   {
     "id": "A3-206",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 206,
-    "setSize": 239,
     "name": {
       "en": "Alolan Muk ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11317,22 +9463,13 @@
   },
   {
     "id": "A3-207",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 207,
-    "setSize": 239,
     "name": {
       "en": "Solgaleo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -11381,22 +9518,13 @@
   },
   {
     "id": "A3-208",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 208,
-    "setSize": 239,
     "name": {
       "en": "Guzma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -11417,22 +9545,13 @@
   },
   {
     "id": "A3-209",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 209,
-    "setSize": 239,
     "name": {
       "en": "Lillie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -11453,22 +9572,13 @@
   },
   {
     "id": "A3-210",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 210,
-    "setSize": 239,
     "name": {
       "en": "Bulbasaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11509,22 +9619,13 @@
   },
   {
     "id": "A3-211",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 211,
-    "setSize": 239,
     "name": {
       "en": "Ivysaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11565,22 +9666,13 @@
   },
   {
     "id": "A3-212",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 212,
-    "setSize": 239,
     "name": {
       "en": "Venusaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11621,22 +9713,13 @@
   },
   {
     "id": "A3-213",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 213,
-    "setSize": 239,
     "name": {
       "en": "Exeggcute",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11677,22 +9760,13 @@
   },
   {
     "id": "A3-214",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 214,
-    "setSize": 239,
     "name": {
       "en": "Exeggutor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11733,22 +9807,13 @@
   },
   {
     "id": "A3-215",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 215,
-    "setSize": 239,
     "name": {
       "en": "Squirtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11789,22 +9854,13 @@
   },
   {
     "id": "A3-216",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 216,
-    "setSize": 239,
     "name": {
       "en": "Wartortle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11845,22 +9901,13 @@
   },
   {
     "id": "A3-217",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 217,
-    "setSize": 239,
     "name": {
       "en": "Blastoise",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11901,22 +9948,13 @@
   },
   {
     "id": "A3-218",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 218,
-    "setSize": 239,
     "name": {
       "en": "Staryu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11957,22 +9995,13 @@
   },
   {
     "id": "A3-219",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 219,
-    "setSize": 239,
     "name": {
       "en": "Starmie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12013,22 +10042,13 @@
   },
   {
     "id": "A3-220",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 220,
-    "setSize": 239,
     "name": {
       "en": "Gastly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12069,22 +10089,13 @@
   },
   {
     "id": "A3-221",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 221,
-    "setSize": 239,
     "name": {
       "en": "Haunter",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12125,22 +10136,13 @@
   },
   {
     "id": "A3-222",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 222,
-    "setSize": 239,
     "name": {
       "en": "Gengar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12181,22 +10183,13 @@
   },
   {
     "id": "A3-223",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 223,
-    "setSize": 239,
     "name": {
       "en": "Machop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12237,22 +10230,13 @@
   },
   {
     "id": "A3-224",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 224,
-    "setSize": 239,
     "name": {
       "en": "Machoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12293,22 +10277,13 @@
   },
   {
     "id": "A3-225",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 225,
-    "setSize": 239,
     "name": {
       "en": "Machamp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12349,22 +10324,13 @@
   },
   {
     "id": "A3-226",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 226,
-    "setSize": 239,
     "name": {
       "en": "Cubone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12405,22 +10371,13 @@
   },
   {
     "id": "A3-227",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 227,
-    "setSize": 239,
     "name": {
       "en": "Marowak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12461,22 +10418,13 @@
   },
   {
     "id": "A3-228",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 228,
-    "setSize": 239,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12517,22 +10465,13 @@
   },
   {
     "id": "A3-229",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 229,
-    "setSize": 239,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12581,22 +10520,13 @@
   },
   {
     "id": "A3-230",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 230,
-    "setSize": 239,
     "name": {
       "en": "Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12647,22 +10577,13 @@
   },
   {
     "id": "A3-231",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 231,
-    "setSize": 239,
     "name": {
       "en": "Exeggutor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12703,22 +10624,13 @@
   },
   {
     "id": "A3-232",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 232,
-    "setSize": 239,
     "name": {
       "en": "Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12769,22 +10681,13 @@
   },
   {
     "id": "A3-233",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 233,
-    "setSize": 239,
     "name": {
       "en": "Starmie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12825,22 +10728,13 @@
   },
   {
     "id": "A3-234",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 234,
-    "setSize": 239,
     "name": {
       "en": "Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12889,22 +10783,13 @@
   },
   {
     "id": "A3-235",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 235,
-    "setSize": 239,
     "name": {
       "en": "Machamp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12945,22 +10830,13 @@
   },
   {
     "id": "A3-236",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 236,
-    "setSize": 239,
     "name": {
       "en": "Marowak ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13001,22 +10877,13 @@
   },
   {
     "id": "A3-237",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 237,
-    "setSize": 239,
     "name": {
       "en": "Wigglytuff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13057,22 +10924,13 @@
   },
   {
     "id": "A3-238",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 238,
-    "setSize": 239,
     "name": {
       "en": "Lunala ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13121,22 +10979,13 @@
   },
   {
     "id": "A3-239",
-    "set": {
-      "code": "A3",
-      "name": "Celestial Guardians",
-      "nameJa": "双天の守護者"
-    },
+    "setCode": "A3",
     "number": 239,
-    "setSize": 239,
     "name": {
       "en": "Solgaleo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",

@@ -81,10 +81,10 @@ function getCatalog(): Catalog {
           `getCatalog() failed to validate the bundled "${code}" card data: ${result.error.message}`,
         );
       }
-      const mismatched = result.data.find((card) => card.set.code !== code);
+      const mismatched = result.data.find((card) => card.setCode !== code);
       if (mismatched !== undefined) {
         throw new Error(
-          `getCatalog() found card "${mismatched.id}" (set ${mismatched.set.code}) in the "${code}" data file.`,
+          `getCatalog() found card "${mismatched.id}" (set ${mismatched.setCode}) in the "${code}" data file.`,
         );
       }
       const expected = getSet(code)?.cardCount;

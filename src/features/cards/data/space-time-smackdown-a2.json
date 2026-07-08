@@ -1,22 +1,13 @@
 [
   {
     "id": "A2-001",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 1,
-    "setSize": 207,
     "name": {
       "en": "Oddish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A2-002",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 2,
-    "setSize": 207,
     "name": {
       "en": "Gloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A2-003",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 3,
-    "setSize": 207,
     "name": {
       "en": "Bellossom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A2-004",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 4,
-    "setSize": 207,
     "name": {
       "en": "Tangela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A2-005",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 5,
-    "setSize": 207,
     "name": {
       "en": "Tangrowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A2-006",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 6,
-    "setSize": 207,
     "name": {
       "en": "Yanma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A2-007",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 7,
-    "setSize": 207,
     "name": {
       "en": "Yanmega ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A2-008",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 8,
-    "setSize": 207,
     "name": {
       "en": "Roselia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A2-009",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 9,
-    "setSize": 207,
     "name": {
       "en": "Roserade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -505,22 +424,13 @@
   },
   {
     "id": "A2-010",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 10,
-    "setSize": 207,
     "name": {
       "en": "Turtwig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -561,22 +471,13 @@
   },
   {
     "id": "A2-011",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 11,
-    "setSize": 207,
     "name": {
       "en": "Grotle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -617,22 +518,13 @@
   },
   {
     "id": "A2-012",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 12,
-    "setSize": 207,
     "name": {
       "en": "Torterra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -673,22 +565,13 @@
   },
   {
     "id": "A2-013",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 13,
-    "setSize": 207,
     "name": {
       "en": "Kricketot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -729,22 +612,13 @@
   },
   {
     "id": "A2-014",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 14,
-    "setSize": 207,
     "name": {
       "en": "Kricketune",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -785,22 +659,13 @@
   },
   {
     "id": "A2-015",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 15,
-    "setSize": 207,
     "name": {
       "en": "Burmy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -841,22 +706,13 @@
   },
   {
     "id": "A2-016",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 16,
-    "setSize": 207,
     "name": {
       "en": "Wormadam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -897,22 +753,13 @@
   },
   {
     "id": "A2-017",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 17,
-    "setSize": 207,
     "name": {
       "en": "Combee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -953,22 +800,13 @@
   },
   {
     "id": "A2-018",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 18,
-    "setSize": 207,
     "name": {
       "en": "Vespiquen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1009,22 +847,13 @@
   },
   {
     "id": "A2-019",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 19,
-    "setSize": 207,
     "name": {
       "en": "Carnivine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1065,22 +894,13 @@
   },
   {
     "id": "A2-020",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 20,
-    "setSize": 207,
     "name": {
       "en": "Leafeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1121,22 +941,13 @@
   },
   {
     "id": "A2-021",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 21,
-    "setSize": 207,
     "name": {
       "en": "Mow Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1177,22 +988,13 @@
   },
   {
     "id": "A2-022",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 22,
-    "setSize": 207,
     "name": {
       "en": "Shaymin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "A2-023",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 23,
-    "setSize": 207,
     "name": {
       "en": "Magmar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "A2-024",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 24,
-    "setSize": 207,
     "name": {
       "en": "Magmortar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1353,22 +1137,13 @@
   },
   {
     "id": "A2-025",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 25,
-    "setSize": 207,
     "name": {
       "en": "Slugma",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1409,22 +1184,13 @@
   },
   {
     "id": "A2-026",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 26,
-    "setSize": 207,
     "name": {
       "en": "Magcargo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1465,22 +1231,13 @@
   },
   {
     "id": "A2-027",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 27,
-    "setSize": 207,
     "name": {
       "en": "Chimchar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1521,22 +1278,13 @@
   },
   {
     "id": "A2-028",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 28,
-    "setSize": 207,
     "name": {
       "en": "Monferno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1577,22 +1325,13 @@
   },
   {
     "id": "A2-029",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 29,
-    "setSize": 207,
     "name": {
       "en": "Infernape ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1633,22 +1372,13 @@
   },
   {
     "id": "A2-030",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 30,
-    "setSize": 207,
     "name": {
       "en": "Heat Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1689,22 +1419,13 @@
   },
   {
     "id": "A2-031",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 31,
-    "setSize": 207,
     "name": {
       "en": "Swinub",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1745,22 +1466,13 @@
   },
   {
     "id": "A2-032",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 32,
-    "setSize": 207,
     "name": {
       "en": "Piloswine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1809,22 +1521,13 @@
   },
   {
     "id": "A2-033",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 33,
-    "setSize": 207,
     "name": {
       "en": "Mamoswine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1873,22 +1576,13 @@
   },
   {
     "id": "A2-034",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 34,
-    "setSize": 207,
     "name": {
       "en": "Regice",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1937,22 +1631,13 @@
   },
   {
     "id": "A2-035",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 35,
-    "setSize": 207,
     "name": {
       "en": "Piplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1993,22 +1678,13 @@
   },
   {
     "id": "A2-036",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 36,
-    "setSize": 207,
     "name": {
       "en": "Prinplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2049,22 +1725,13 @@
   },
   {
     "id": "A2-037",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 37,
-    "setSize": 207,
     "name": {
       "en": "Empoleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2105,22 +1772,13 @@
   },
   {
     "id": "A2-038",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 38,
-    "setSize": 207,
     "name": {
       "en": "Buizel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2161,22 +1819,13 @@
   },
   {
     "id": "A2-039",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 39,
-    "setSize": 207,
     "name": {
       "en": "Floatzel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2217,22 +1866,13 @@
   },
   {
     "id": "A2-040",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 40,
-    "setSize": 207,
     "name": {
       "en": "Shellos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2273,22 +1913,13 @@
   },
   {
     "id": "A2-041",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 41,
-    "setSize": 207,
     "name": {
       "en": "Gastrodon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2329,22 +1960,13 @@
   },
   {
     "id": "A2-042",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 42,
-    "setSize": 207,
     "name": {
       "en": "Finneon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2385,22 +2007,13 @@
   },
   {
     "id": "A2-043",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 43,
-    "setSize": 207,
     "name": {
       "en": "Lumineon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2441,22 +2054,13 @@
   },
   {
     "id": "A2-044",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 44,
-    "setSize": 207,
     "name": {
       "en": "Snover",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2497,22 +2101,13 @@
   },
   {
     "id": "A2-045",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 45,
-    "setSize": 207,
     "name": {
       "en": "Abomasnow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2553,22 +2148,13 @@
   },
   {
     "id": "A2-046",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 46,
-    "setSize": 207,
     "name": {
       "en": "Glaceon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2609,22 +2195,13 @@
   },
   {
     "id": "A2-047",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 47,
-    "setSize": 207,
     "name": {
       "en": "Wash Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2665,22 +2242,13 @@
   },
   {
     "id": "A2-048",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 48,
-    "setSize": 207,
     "name": {
       "en": "Frost Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2721,22 +2289,13 @@
   },
   {
     "id": "A2-049",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 49,
-    "setSize": 207,
     "name": {
       "en": "Palkia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2787,22 +2346,13 @@
   },
   {
     "id": "A2-050",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 50,
-    "setSize": 207,
     "name": {
       "en": "Manaphy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2843,22 +2393,13 @@
   },
   {
     "id": "A2-051",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 51,
-    "setSize": 207,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2899,22 +2440,13 @@
   },
   {
     "id": "A2-052",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 52,
-    "setSize": 207,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2955,22 +2487,13 @@
   },
   {
     "id": "A2-053",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 53,
-    "setSize": 207,
     "name": {
       "en": "Magnezone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3011,22 +2534,13 @@
   },
   {
     "id": "A2-054",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 54,
-    "setSize": 207,
     "name": {
       "en": "Voltorb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3067,22 +2581,13 @@
   },
   {
     "id": "A2-055",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 55,
-    "setSize": 207,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3123,22 +2628,13 @@
   },
   {
     "id": "A2-056",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 56,
-    "setSize": 207,
     "name": {
       "en": "Electabuzz",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3179,22 +2675,13 @@
   },
   {
     "id": "A2-057",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 57,
-    "setSize": 207,
     "name": {
       "en": "Electivire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3235,22 +2722,13 @@
   },
   {
     "id": "A2-058",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 58,
-    "setSize": 207,
     "name": {
       "en": "Shinx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3291,22 +2769,13 @@
   },
   {
     "id": "A2-059",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 59,
-    "setSize": 207,
     "name": {
       "en": "Luxio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3347,22 +2816,13 @@
   },
   {
     "id": "A2-060",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 60,
-    "setSize": 207,
     "name": {
       "en": "Luxray",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3403,22 +2863,13 @@
   },
   {
     "id": "A2-061",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 61,
-    "setSize": 207,
     "name": {
       "en": "Pachirisu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3459,22 +2910,13 @@
   },
   {
     "id": "A2-062",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 62,
-    "setSize": 207,
     "name": {
       "en": "Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3515,22 +2957,13 @@
   },
   {
     "id": "A2-063",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 63,
-    "setSize": 207,
     "name": {
       "en": "Togepi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3571,22 +3004,13 @@
   },
   {
     "id": "A2-064",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 64,
-    "setSize": 207,
     "name": {
       "en": "Togetic",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3627,22 +3051,13 @@
   },
   {
     "id": "A2-065",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 65,
-    "setSize": 207,
     "name": {
       "en": "Togekiss",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3683,22 +3098,13 @@
   },
   {
     "id": "A2-066",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 66,
-    "setSize": 207,
     "name": {
       "en": "Misdreavus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3739,22 +3145,13 @@
   },
   {
     "id": "A2-067",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 67,
-    "setSize": 207,
     "name": {
       "en": "Mismagius ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3795,22 +3192,13 @@
   },
   {
     "id": "A2-068",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 68,
-    "setSize": 207,
     "name": {
       "en": "Ralts",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3851,22 +3239,13 @@
   },
   {
     "id": "A2-069",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 69,
-    "setSize": 207,
     "name": {
       "en": "Kirlia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3907,22 +3286,13 @@
   },
   {
     "id": "A2-070",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 70,
-    "setSize": 207,
     "name": {
       "en": "Duskull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3963,22 +3333,13 @@
   },
   {
     "id": "A2-071",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 71,
-    "setSize": 207,
     "name": {
       "en": "Dusclops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4019,22 +3380,13 @@
   },
   {
     "id": "A2-072",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 72,
-    "setSize": 207,
     "name": {
       "en": "Dusknoir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4083,22 +3435,13 @@
   },
   {
     "id": "A2-073",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 73,
-    "setSize": 207,
     "name": {
       "en": "Drifloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4139,22 +3482,13 @@
   },
   {
     "id": "A2-074",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 74,
-    "setSize": 207,
     "name": {
       "en": "Drifblim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4195,22 +3529,13 @@
   },
   {
     "id": "A2-075",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 75,
-    "setSize": 207,
     "name": {
       "en": "Uxie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4251,22 +3576,13 @@
   },
   {
     "id": "A2-076",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 76,
-    "setSize": 207,
     "name": {
       "en": "Mesprit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4307,22 +3623,13 @@
   },
   {
     "id": "A2-077",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 77,
-    "setSize": 207,
     "name": {
       "en": "Azelf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4363,22 +3670,13 @@
   },
   {
     "id": "A2-078",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 78,
-    "setSize": 207,
     "name": {
       "en": "Giratina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4427,22 +3725,13 @@
   },
   {
     "id": "A2-079",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 79,
-    "setSize": 207,
     "name": {
       "en": "Cresselia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4483,22 +3772,13 @@
   },
   {
     "id": "A2-080",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 80,
-    "setSize": 207,
     "name": {
       "en": "Rhyhorn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4539,22 +3819,13 @@
   },
   {
     "id": "A2-081",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 81,
-    "setSize": 207,
     "name": {
       "en": "Rhydon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4595,22 +3866,13 @@
   },
   {
     "id": "A2-082",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 82,
-    "setSize": 207,
     "name": {
       "en": "Rhyperior",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4651,22 +3913,13 @@
   },
   {
     "id": "A2-083",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 83,
-    "setSize": 207,
     "name": {
       "en": "Gligar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4707,22 +3960,13 @@
   },
   {
     "id": "A2-084",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 84,
-    "setSize": 207,
     "name": {
       "en": "Gliscor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4763,22 +4007,13 @@
   },
   {
     "id": "A2-085",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 85,
-    "setSize": 207,
     "name": {
       "en": "Hitmontop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4819,22 +4054,13 @@
   },
   {
     "id": "A2-086",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 86,
-    "setSize": 207,
     "name": {
       "en": "Nosepass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4875,22 +4101,13 @@
   },
   {
     "id": "A2-087",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 87,
-    "setSize": 207,
     "name": {
       "en": "Regirock",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4939,22 +4156,13 @@
   },
   {
     "id": "A2-088",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 88,
-    "setSize": 207,
     "name": {
       "en": "Cranidos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4995,22 +4203,13 @@
   },
   {
     "id": "A2-089",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 89,
-    "setSize": 207,
     "name": {
       "en": "Rampardos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5051,22 +4250,13 @@
   },
   {
     "id": "A2-090",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 90,
-    "setSize": 207,
     "name": {
       "en": "Wormadam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5107,22 +4297,13 @@
   },
   {
     "id": "A2-091",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 91,
-    "setSize": 207,
     "name": {
       "en": "Riolu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5163,22 +4344,13 @@
   },
   {
     "id": "A2-092",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 92,
-    "setSize": 207,
     "name": {
       "en": "Lucario",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5227,22 +4399,13 @@
   },
   {
     "id": "A2-093",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 93,
-    "setSize": 207,
     "name": {
       "en": "Hippopotas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5283,22 +4446,13 @@
   },
   {
     "id": "A2-094",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 94,
-    "setSize": 207,
     "name": {
       "en": "Hippowdon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5339,22 +4493,13 @@
   },
   {
     "id": "A2-095",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 95,
-    "setSize": 207,
     "name": {
       "en": "Gallade ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5395,22 +4540,13 @@
   },
   {
     "id": "A2-096",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 96,
-    "setSize": 207,
     "name": {
       "en": "Murkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5451,22 +4587,13 @@
   },
   {
     "id": "A2-097",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 97,
-    "setSize": 207,
     "name": {
       "en": "Honchkrow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5507,22 +4634,13 @@
   },
   {
     "id": "A2-098",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 98,
-    "setSize": 207,
     "name": {
       "en": "Sneasel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5563,22 +4681,13 @@
   },
   {
     "id": "A2-099",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 99,
-    "setSize": 207,
     "name": {
       "en": "Weavile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5619,22 +4728,13 @@
   },
   {
     "id": "A2-100",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 100,
-    "setSize": 207,
     "name": {
       "en": "Poochyena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5675,22 +4775,13 @@
   },
   {
     "id": "A2-101",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 101,
-    "setSize": 207,
     "name": {
       "en": "Mightyena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5731,22 +4822,13 @@
   },
   {
     "id": "A2-102",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 102,
-    "setSize": 207,
     "name": {
       "en": "Stunky",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5787,22 +4869,13 @@
   },
   {
     "id": "A2-103",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 103,
-    "setSize": 207,
     "name": {
       "en": "Skuntank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5843,22 +4916,13 @@
   },
   {
     "id": "A2-104",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 104,
-    "setSize": 207,
     "name": {
       "en": "Spiritomb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5899,22 +4963,13 @@
   },
   {
     "id": "A2-105",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 105,
-    "setSize": 207,
     "name": {
       "en": "Skorupi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5955,22 +5010,13 @@
   },
   {
     "id": "A2-106",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 106,
-    "setSize": 207,
     "name": {
       "en": "Drapion",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6011,22 +5057,13 @@
   },
   {
     "id": "A2-107",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 107,
-    "setSize": 207,
     "name": {
       "en": "Croagunk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6067,22 +5104,13 @@
   },
   {
     "id": "A2-108",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 108,
-    "setSize": 207,
     "name": {
       "en": "Toxicroak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6123,22 +5151,13 @@
   },
   {
     "id": "A2-109",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 109,
-    "setSize": 207,
     "name": {
       "en": "Darkrai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6179,22 +5198,13 @@
   },
   {
     "id": "A2-110",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 110,
-    "setSize": 207,
     "name": {
       "en": "Darkrai ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6243,22 +5253,13 @@
   },
   {
     "id": "A2-111",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 111,
-    "setSize": 207,
     "name": {
       "en": "Skarmory",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6299,22 +5300,13 @@
   },
   {
     "id": "A2-112",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 112,
-    "setSize": 207,
     "name": {
       "en": "Registeel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6355,22 +5347,13 @@
   },
   {
     "id": "A2-113",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 113,
-    "setSize": 207,
     "name": {
       "en": "Shieldon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6411,22 +5394,13 @@
   },
   {
     "id": "A2-114",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 114,
-    "setSize": 207,
     "name": {
       "en": "Bastiodon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6475,22 +5449,13 @@
   },
   {
     "id": "A2-115",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 115,
-    "setSize": 207,
     "name": {
       "en": "Wormadam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6531,22 +5496,13 @@
   },
   {
     "id": "A2-116",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 116,
-    "setSize": 207,
     "name": {
       "en": "Bronzor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6587,22 +5543,13 @@
   },
   {
     "id": "A2-117",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 117,
-    "setSize": 207,
     "name": {
       "en": "Bronzong",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6643,22 +5590,13 @@
   },
   {
     "id": "A2-118",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 118,
-    "setSize": 207,
     "name": {
       "en": "Probopass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6699,22 +5637,13 @@
   },
   {
     "id": "A2-119",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 119,
-    "setSize": 207,
     "name": {
       "en": "Dialga ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6765,22 +5694,13 @@
   },
   {
     "id": "A2-120",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 120,
-    "setSize": 207,
     "name": {
       "en": "Heatran",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6821,22 +5741,13 @@
   },
   {
     "id": "A2-121",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 121,
-    "setSize": 207,
     "name": {
       "en": "Gible",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6877,22 +5788,13 @@
   },
   {
     "id": "A2-122",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 122,
-    "setSize": 207,
     "name": {
       "en": "Gabite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6933,22 +5835,13 @@
   },
   {
     "id": "A2-123",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 123,
-    "setSize": 207,
     "name": {
       "en": "Garchomp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6997,22 +5890,13 @@
   },
   {
     "id": "A2-124",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 124,
-    "setSize": 207,
     "name": {
       "en": "Lickitung",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7053,22 +5937,13 @@
   },
   {
     "id": "A2-125",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 125,
-    "setSize": 207,
     "name": {
       "en": "Lickilicky ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7109,22 +5984,13 @@
   },
   {
     "id": "A2-126",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 126,
-    "setSize": 207,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7165,22 +6031,13 @@
   },
   {
     "id": "A2-127",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 127,
-    "setSize": 207,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7221,22 +6078,13 @@
   },
   {
     "id": "A2-128",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 128,
-    "setSize": 207,
     "name": {
       "en": "Porygon2",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7277,22 +6125,13 @@
   },
   {
     "id": "A2-129",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 129,
-    "setSize": 207,
     "name": {
       "en": "Porygon-Z",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7333,22 +6172,13 @@
   },
   {
     "id": "A2-130",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 130,
-    "setSize": 207,
     "name": {
       "en": "Aipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7389,22 +6219,13 @@
   },
   {
     "id": "A2-131",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 131,
-    "setSize": 207,
     "name": {
       "en": "Ambipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7445,22 +6266,13 @@
   },
   {
     "id": "A2-132",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 132,
-    "setSize": 207,
     "name": {
       "en": "Starly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7501,22 +6313,13 @@
   },
   {
     "id": "A2-133",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 133,
-    "setSize": 207,
     "name": {
       "en": "Staravia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7557,22 +6360,13 @@
   },
   {
     "id": "A2-134",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 134,
-    "setSize": 207,
     "name": {
       "en": "Staraptor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7613,22 +6407,13 @@
   },
   {
     "id": "A2-135",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 135,
-    "setSize": 207,
     "name": {
       "en": "Bidoof",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7669,22 +6454,13 @@
   },
   {
     "id": "A2-136",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 136,
-    "setSize": 207,
     "name": {
       "en": "Bibarel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7725,22 +6501,13 @@
   },
   {
     "id": "A2-137",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 137,
-    "setSize": 207,
     "name": {
       "en": "Buneary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7781,22 +6548,13 @@
   },
   {
     "id": "A2-138",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 138,
-    "setSize": 207,
     "name": {
       "en": "Lopunny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7837,22 +6595,13 @@
   },
   {
     "id": "A2-139",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 139,
-    "setSize": 207,
     "name": {
       "en": "Glameow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7893,22 +6642,13 @@
   },
   {
     "id": "A2-140",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 140,
-    "setSize": 207,
     "name": {
       "en": "Purugly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7949,22 +6689,13 @@
   },
   {
     "id": "A2-141",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 141,
-    "setSize": 207,
     "name": {
       "en": "Chatot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8005,22 +6736,13 @@
   },
   {
     "id": "A2-142",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 142,
-    "setSize": 207,
     "name": {
       "en": "Fan Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8061,22 +6783,13 @@
   },
   {
     "id": "A2-143",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 143,
-    "setSize": 207,
     "name": {
       "en": "Regigigas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8117,22 +6830,13 @@
   },
   {
     "id": "A2-144",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 144,
-    "setSize": 207,
     "name": {
       "en": "Skull Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8153,22 +6857,13 @@
   },
   {
     "id": "A2-145",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 145,
-    "setSize": 207,
     "name": {
       "en": "Armor Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8189,22 +6884,13 @@
   },
   {
     "id": "A2-146",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 146,
-    "setSize": 207,
     "name": {
       "en": "Pokémon Communication",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8225,22 +6911,13 @@
   },
   {
     "id": "A2-147",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 147,
-    "setSize": 207,
     "name": {
       "en": "Giant Cape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8261,22 +6938,13 @@
   },
   {
     "id": "A2-148",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 148,
-    "setSize": 207,
     "name": {
       "en": "Rocky Helmet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8297,22 +6965,13 @@
   },
   {
     "id": "A2-149",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 149,
-    "setSize": 207,
     "name": {
       "en": "Lum Berry",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8333,22 +6992,13 @@
   },
   {
     "id": "A2-150",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 150,
-    "setSize": 207,
     "name": {
       "en": "Cyrus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8369,22 +7019,13 @@
   },
   {
     "id": "A2-151",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 151,
-    "setSize": 207,
     "name": {
       "en": "Team Galactic Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8405,22 +7046,13 @@
   },
   {
     "id": "A2-152",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 152,
-    "setSize": 207,
     "name": {
       "en": "Cynthia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8441,22 +7073,13 @@
   },
   {
     "id": "A2-153",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 153,
-    "setSize": 207,
     "name": {
       "en": "Volkner",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8477,22 +7100,13 @@
   },
   {
     "id": "A2-154",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 154,
-    "setSize": 207,
     "name": {
       "en": "Dawn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8513,22 +7127,13 @@
   },
   {
     "id": "A2-155",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 155,
-    "setSize": 207,
     "name": {
       "en": "Mars",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8549,22 +7154,13 @@
   },
   {
     "id": "A2-156",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 156,
-    "setSize": 207,
     "name": {
       "en": "Tangrowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8605,22 +7201,13 @@
   },
   {
     "id": "A2-157",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 157,
-    "setSize": 207,
     "name": {
       "en": "Combee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8661,22 +7248,13 @@
   },
   {
     "id": "A2-158",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 158,
-    "setSize": 207,
     "name": {
       "en": "Carnivine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8717,22 +7295,13 @@
   },
   {
     "id": "A2-159",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 159,
-    "setSize": 207,
     "name": {
       "en": "Shaymin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8781,22 +7350,13 @@
   },
   {
     "id": "A2-160",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 160,
-    "setSize": 207,
     "name": {
       "en": "Mamoswine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -8845,22 +7405,13 @@
   },
   {
     "id": "A2-161",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 161,
-    "setSize": 207,
     "name": {
       "en": "Gastrodon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -8901,22 +7452,13 @@
   },
   {
     "id": "A2-162",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 162,
-    "setSize": 207,
     "name": {
       "en": "Manaphy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -8957,22 +7499,13 @@
   },
   {
     "id": "A2-163",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 163,
-    "setSize": 207,
     "name": {
       "en": "Shinx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9013,22 +7546,13 @@
   },
   {
     "id": "A2-164",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 164,
-    "setSize": 207,
     "name": {
       "en": "Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9069,22 +7593,13 @@
   },
   {
     "id": "A2-165",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 165,
-    "setSize": 207,
     "name": {
       "en": "Drifloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9125,22 +7640,13 @@
   },
   {
     "id": "A2-166",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 166,
-    "setSize": 207,
     "name": {
       "en": "Mesprit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9181,22 +7687,13 @@
   },
   {
     "id": "A2-167",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 167,
-    "setSize": 207,
     "name": {
       "en": "Giratina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9245,22 +7742,13 @@
   },
   {
     "id": "A2-168",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 168,
-    "setSize": 207,
     "name": {
       "en": "Cresselia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9301,22 +7789,13 @@
   },
   {
     "id": "A2-169",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 169,
-    "setSize": 207,
     "name": {
       "en": "Rhyperior",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9357,22 +7836,13 @@
   },
   {
     "id": "A2-170",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 170,
-    "setSize": 207,
     "name": {
       "en": "Lucario",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9421,22 +7891,13 @@
   },
   {
     "id": "A2-171",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 171,
-    "setSize": 207,
     "name": {
       "en": "Hippopotas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9477,22 +7938,13 @@
   },
   {
     "id": "A2-172",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 172,
-    "setSize": 207,
     "name": {
       "en": "Spiritomb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9533,22 +7985,13 @@
   },
   {
     "id": "A2-173",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 173,
-    "setSize": 207,
     "name": {
       "en": "Croagunk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9589,22 +8032,13 @@
   },
   {
     "id": "A2-174",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 174,
-    "setSize": 207,
     "name": {
       "en": "Heatran",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9645,22 +8079,13 @@
   },
   {
     "id": "A2-175",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 175,
-    "setSize": 207,
     "name": {
       "en": "Garchomp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -9709,22 +8134,13 @@
   },
   {
     "id": "A2-176",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 176,
-    "setSize": 207,
     "name": {
       "en": "Staraptor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9765,22 +8181,13 @@
   },
   {
     "id": "A2-177",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 177,
-    "setSize": 207,
     "name": {
       "en": "Bidoof",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9821,22 +8228,13 @@
   },
   {
     "id": "A2-178",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 178,
-    "setSize": 207,
     "name": {
       "en": "Glameow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9877,22 +8275,13 @@
   },
   {
     "id": "A2-179",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 179,
-    "setSize": 207,
     "name": {
       "en": "Regigigas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9933,22 +8322,13 @@
   },
   {
     "id": "A2-180",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 180,
-    "setSize": 207,
     "name": {
       "en": "Yanmega ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -9989,22 +8369,13 @@
   },
   {
     "id": "A2-181",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 181,
-    "setSize": 207,
     "name": {
       "en": "Infernape ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10045,22 +8416,13 @@
   },
   {
     "id": "A2-182",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 182,
-    "setSize": 207,
     "name": {
       "en": "Palkia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10111,22 +8473,13 @@
   },
   {
     "id": "A2-183",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 183,
-    "setSize": 207,
     "name": {
       "en": "Pachirisu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10167,22 +8520,13 @@
   },
   {
     "id": "A2-184",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 184,
-    "setSize": 207,
     "name": {
       "en": "Mismagius ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10223,22 +8567,13 @@
   },
   {
     "id": "A2-185",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 185,
-    "setSize": 207,
     "name": {
       "en": "Gallade ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10279,22 +8614,13 @@
   },
   {
     "id": "A2-186",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 186,
-    "setSize": 207,
     "name": {
       "en": "Weavile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10335,22 +8661,13 @@
   },
   {
     "id": "A2-187",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 187,
-    "setSize": 207,
     "name": {
       "en": "Darkrai ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10399,22 +8716,13 @@
   },
   {
     "id": "A2-188",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 188,
-    "setSize": 207,
     "name": {
       "en": "Dialga ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10465,22 +8773,13 @@
   },
   {
     "id": "A2-189",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 189,
-    "setSize": 207,
     "name": {
       "en": "Lickilicky ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10521,22 +8820,13 @@
   },
   {
     "id": "A2-190",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 190,
-    "setSize": 207,
     "name": {
       "en": "Cyrus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10557,22 +8847,13 @@
   },
   {
     "id": "A2-191",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 191,
-    "setSize": 207,
     "name": {
       "en": "Team Galactic Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10593,22 +8874,13 @@
   },
   {
     "id": "A2-192",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 192,
-    "setSize": 207,
     "name": {
       "en": "Cynthia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10629,22 +8901,13 @@
   },
   {
     "id": "A2-193",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 193,
-    "setSize": 207,
     "name": {
       "en": "Volkner",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10665,22 +8928,13 @@
   },
   {
     "id": "A2-194",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 194,
-    "setSize": 207,
     "name": {
       "en": "Dawn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10701,22 +8955,13 @@
   },
   {
     "id": "A2-195",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 195,
-    "setSize": 207,
     "name": {
       "en": "Mars",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10737,22 +8982,13 @@
   },
   {
     "id": "A2-196",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 196,
-    "setSize": 207,
     "name": {
       "en": "Yanmega ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10793,22 +9029,13 @@
   },
   {
     "id": "A2-197",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 197,
-    "setSize": 207,
     "name": {
       "en": "Infernape ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10849,22 +9076,13 @@
   },
   {
     "id": "A2-198",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 198,
-    "setSize": 207,
     "name": {
       "en": "Pachirisu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10905,22 +9123,13 @@
   },
   {
     "id": "A2-199",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 199,
-    "setSize": 207,
     "name": {
       "en": "Mismagius ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10961,22 +9170,13 @@
   },
   {
     "id": "A2-200",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 200,
-    "setSize": 207,
     "name": {
       "en": "Gallade ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11017,22 +9217,13 @@
   },
   {
     "id": "A2-201",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 201,
-    "setSize": 207,
     "name": {
       "en": "Weavile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11073,22 +9264,13 @@
   },
   {
     "id": "A2-202",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 202,
-    "setSize": 207,
     "name": {
       "en": "Darkrai ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -11137,22 +9319,13 @@
   },
   {
     "id": "A2-203",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 203,
-    "setSize": 207,
     "name": {
       "en": "Lickilicky ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11193,22 +9366,13 @@
   },
   {
     "id": "A2-204",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 204,
-    "setSize": 207,
     "name": {
       "en": "Palkia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11259,22 +9423,13 @@
   },
   {
     "id": "A2-205",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 205,
-    "setSize": 207,
     "name": {
       "en": "Dialga ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -11325,22 +9480,13 @@
   },
   {
     "id": "A2-206",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 206,
-    "setSize": 207,
     "name": {
       "en": "Palkia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11391,22 +9537,13 @@
   },
   {
     "id": "A2-207",
-    "set": {
-      "code": "A2",
-      "name": "Space-Time Smackdown",
-      "nameJa": "時空の激闘"
-    },
+    "setCode": "A2",
     "number": 207,
-    "setSize": 207,
     "name": {
       "en": "Dialga ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",

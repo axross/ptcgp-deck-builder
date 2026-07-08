@@ -1,22 +1,13 @@
 [
   {
     "id": "B2a-001",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 1,
-    "setSize": 131,
     "name": {
       "en": "Sprigatito",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B2a-002",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 2,
-    "setSize": 131,
     "name": {
       "en": "Floragato",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B2a-003",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 3,
-    "setSize": 131,
     "name": {
       "en": "Meowscarada ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -179,22 +152,13 @@
   },
   {
     "id": "B2a-004",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 4,
-    "setSize": 131,
     "name": {
       "en": "Tarountula",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -235,22 +199,13 @@
   },
   {
     "id": "B2a-005",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 5,
-    "setSize": 131,
     "name": {
       "en": "Spidops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -291,22 +246,13 @@
   },
   {
     "id": "B2a-006",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 6,
-    "setSize": 131,
     "name": {
       "en": "Nymble",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -347,22 +293,13 @@
   },
   {
     "id": "B2a-007",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 7,
-    "setSize": 131,
     "name": {
       "en": "Smoliv",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -403,22 +340,13 @@
   },
   {
     "id": "B2a-008",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 8,
-    "setSize": 131,
     "name": {
       "en": "Dolliv",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -459,22 +387,13 @@
   },
   {
     "id": "B2a-009",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 9,
-    "setSize": 131,
     "name": {
       "en": "Arboliva",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -523,22 +442,13 @@
   },
   {
     "id": "B2a-010",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 10,
-    "setSize": 131,
     "name": {
       "en": "Bramblin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -579,22 +489,13 @@
   },
   {
     "id": "B2a-011",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 11,
-    "setSize": 131,
     "name": {
       "en": "Brambleghast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -635,22 +536,13 @@
   },
   {
     "id": "B2a-012",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 12,
-    "setSize": 131,
     "name": {
       "en": "Capsakid",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -691,22 +583,13 @@
   },
   {
     "id": "B2a-013",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 13,
-    "setSize": 131,
     "name": {
       "en": "Scovillain",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -747,22 +630,13 @@
   },
   {
     "id": "B2a-014",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 14,
-    "setSize": 131,
     "name": {
       "en": "Rellor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -803,22 +677,13 @@
   },
   {
     "id": "B2a-015",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 15,
-    "setSize": 131,
     "name": {
       "en": "Wo-Chien",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -859,22 +724,13 @@
   },
   {
     "id": "B2a-016",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 16,
-    "setSize": 131,
     "name": {
       "en": "Fuecoco",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -915,22 +771,13 @@
   },
   {
     "id": "B2a-017",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 17,
-    "setSize": 131,
     "name": {
       "en": "Crocalor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -971,22 +818,13 @@
   },
   {
     "id": "B2a-018",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 18,
-    "setSize": 131,
     "name": {
       "en": "Skeledirge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1035,22 +873,13 @@
   },
   {
     "id": "B2a-019",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 19,
-    "setSize": 131,
     "name": {
       "en": "Charcadet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1091,22 +920,13 @@
   },
   {
     "id": "B2a-020",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 20,
-    "setSize": 131,
     "name": {
       "en": "Armarouge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1155,22 +975,13 @@
   },
   {
     "id": "B2a-021",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 21,
-    "setSize": 131,
     "name": {
       "en": "Chi-Yu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1211,22 +1022,13 @@
   },
   {
     "id": "B2a-022",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 22,
-    "setSize": 131,
     "name": {
       "en": "Quaxly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1267,22 +1069,13 @@
   },
   {
     "id": "B2a-023",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 23,
-    "setSize": 131,
     "name": {
       "en": "Quaxwell",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1323,22 +1116,13 @@
   },
   {
     "id": "B2a-024",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 24,
-    "setSize": 131,
     "name": {
       "en": "Quaquaval",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1387,22 +1171,13 @@
   },
   {
     "id": "B2a-025",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 25,
-    "setSize": 131,
     "name": {
       "en": "Wiglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1443,22 +1218,13 @@
   },
   {
     "id": "B2a-026",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 26,
-    "setSize": 131,
     "name": {
       "en": "Wugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1499,22 +1265,13 @@
   },
   {
     "id": "B2a-027",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 27,
-    "setSize": 131,
     "name": {
       "en": "Finizen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1555,22 +1312,13 @@
   },
   {
     "id": "B2a-028",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 28,
-    "setSize": 131,
     "name": {
       "en": "Palafin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1611,22 +1359,13 @@
   },
   {
     "id": "B2a-029",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 29,
-    "setSize": 131,
     "name": {
       "en": "Cetoddle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1667,22 +1406,13 @@
   },
   {
     "id": "B2a-030",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 30,
-    "setSize": 131,
     "name": {
       "en": "Cetitan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1723,22 +1453,13 @@
   },
   {
     "id": "B2a-031",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 31,
-    "setSize": 131,
     "name": {
       "en": "Veluza",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1779,22 +1500,13 @@
   },
   {
     "id": "B2a-032",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 32,
-    "setSize": 131,
     "name": {
       "en": "Dondozo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1835,22 +1547,13 @@
   },
   {
     "id": "B2a-033",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 33,
-    "setSize": 131,
     "name": {
       "en": "Tatsugiri",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1891,22 +1594,13 @@
   },
   {
     "id": "B2a-034",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 34,
-    "setSize": 131,
     "name": {
       "en": "Frigibax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1947,22 +1641,13 @@
   },
   {
     "id": "B2a-035",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 35,
-    "setSize": 131,
     "name": {
       "en": "Arctibax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2003,22 +1688,13 @@
   },
   {
     "id": "B2a-036",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 36,
-    "setSize": 131,
     "name": {
       "en": "Baxcalibur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2067,22 +1743,13 @@
   },
   {
     "id": "B2a-037",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 37,
-    "setSize": 131,
     "name": {
       "en": "Chien-Pao ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2133,22 +1800,13 @@
   },
   {
     "id": "B2a-038",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 38,
-    "setSize": 131,
     "name": {
       "en": "Pawmi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2189,22 +1847,13 @@
   },
   {
     "id": "B2a-039",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 39,
-    "setSize": 131,
     "name": {
       "en": "Pawmo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2245,22 +1894,13 @@
   },
   {
     "id": "B2a-040",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 40,
-    "setSize": 131,
     "name": {
       "en": "Pawmot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2301,22 +1941,13 @@
   },
   {
     "id": "B2a-041",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 41,
-    "setSize": 131,
     "name": {
       "en": "Tadbulb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2357,22 +1988,13 @@
   },
   {
     "id": "B2a-042",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 42,
-    "setSize": 131,
     "name": {
       "en": "Bellibolt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2413,22 +2035,13 @@
   },
   {
     "id": "B2a-043",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 43,
-    "setSize": 131,
     "name": {
       "en": "Wattrel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2469,22 +2082,13 @@
   },
   {
     "id": "B2a-044",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 44,
-    "setSize": 131,
     "name": {
       "en": "Kilowattrel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2525,22 +2129,13 @@
   },
   {
     "id": "B2a-045",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 45,
-    "setSize": 131,
     "name": {
       "en": "Miraidon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2581,22 +2176,13 @@
   },
   {
     "id": "B2a-046",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 46,
-    "setSize": 131,
     "name": {
       "en": "Fidough",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2637,22 +2223,13 @@
   },
   {
     "id": "B2a-047",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 47,
-    "setSize": 131,
     "name": {
       "en": "Dachsbun",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2693,22 +2270,13 @@
   },
   {
     "id": "B2a-048",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 48,
-    "setSize": 131,
     "name": {
       "en": "Ceruledge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2749,22 +2317,13 @@
   },
   {
     "id": "B2a-049",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 49,
-    "setSize": 131,
     "name": {
       "en": "Rabsca",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2805,22 +2364,13 @@
   },
   {
     "id": "B2a-050",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 50,
-    "setSize": 131,
     "name": {
       "en": "Flittle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2861,22 +2411,13 @@
   },
   {
     "id": "B2a-051",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 51,
-    "setSize": 131,
     "name": {
       "en": "Espathra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2917,22 +2458,13 @@
   },
   {
     "id": "B2a-052",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 52,
-    "setSize": 131,
     "name": {
       "en": "Greavard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2973,22 +2505,13 @@
   },
   {
     "id": "B2a-053",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 53,
-    "setSize": 131,
     "name": {
       "en": "Houndstone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3029,22 +2552,13 @@
   },
   {
     "id": "B2a-054",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 54,
-    "setSize": 131,
     "name": {
       "en": "Gimmighoul",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3085,22 +2599,13 @@
   },
   {
     "id": "B2a-055",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 55,
-    "setSize": 131,
     "name": {
       "en": "Mankey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3141,22 +2646,13 @@
   },
   {
     "id": "B2a-056",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 56,
-    "setSize": 131,
     "name": {
       "en": "Primeape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3197,22 +2693,13 @@
   },
   {
     "id": "B2a-057",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 57,
-    "setSize": 131,
     "name": {
       "en": "Annihilape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3253,22 +2740,13 @@
   },
   {
     "id": "B2a-058",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 58,
-    "setSize": 131,
     "name": {
       "en": "Paldean Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3309,22 +2787,13 @@
   },
   {
     "id": "B2a-059",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 59,
-    "setSize": 131,
     "name": {
       "en": "Toedscool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3365,22 +2834,13 @@
   },
   {
     "id": "B2a-060",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 60,
-    "setSize": 131,
     "name": {
       "en": "Toedscruel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3421,22 +2881,13 @@
   },
   {
     "id": "B2a-061",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 61,
-    "setSize": 131,
     "name": {
       "en": "Klawf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3477,22 +2928,13 @@
   },
   {
     "id": "B2a-062",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 62,
-    "setSize": 131,
     "name": {
       "en": "Ting-Lu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3533,22 +2975,13 @@
   },
   {
     "id": "B2a-063",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 63,
-    "setSize": 131,
     "name": {
       "en": "Koraidon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -3589,22 +3022,13 @@
   },
   {
     "id": "B2a-064",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 64,
-    "setSize": 131,
     "name": {
       "en": "Paldean Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3645,22 +3069,13 @@
   },
   {
     "id": "B2a-065",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 65,
-    "setSize": 131,
     "name": {
       "en": "Paldean Clodsire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3701,22 +3116,13 @@
   },
   {
     "id": "B2a-066",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 66,
-    "setSize": 131,
     "name": {
       "en": "Lokix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3757,22 +3163,13 @@
   },
   {
     "id": "B2a-067",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 67,
-    "setSize": 131,
     "name": {
       "en": "Maschiff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3813,22 +3210,13 @@
   },
   {
     "id": "B2a-068",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 68,
-    "setSize": 131,
     "name": {
       "en": "Mabosstiff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3869,22 +3257,13 @@
   },
   {
     "id": "B2a-069",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 69,
-    "setSize": 131,
     "name": {
       "en": "Shroodle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3925,22 +3304,13 @@
   },
   {
     "id": "B2a-070",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 70,
-    "setSize": 131,
     "name": {
       "en": "Grafaiai",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3981,22 +3351,13 @@
   },
   {
     "id": "B2a-071",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 71,
-    "setSize": 131,
     "name": {
       "en": "Bombirdier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4037,22 +3398,13 @@
   },
   {
     "id": "B2a-072",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 72,
-    "setSize": 131,
     "name": {
       "en": "Tinkatink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4093,22 +3445,13 @@
   },
   {
     "id": "B2a-073",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 73,
-    "setSize": 131,
     "name": {
       "en": "Tinkatuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4149,22 +3492,13 @@
   },
   {
     "id": "B2a-074",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 74,
-    "setSize": 131,
     "name": {
       "en": "Tinkaton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4205,22 +3539,13 @@
   },
   {
     "id": "B2a-075",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 75,
-    "setSize": 131,
     "name": {
       "en": "Varoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4261,22 +3586,13 @@
   },
   {
     "id": "B2a-076",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 76,
-    "setSize": 131,
     "name": {
       "en": "Revavroom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4317,22 +3633,13 @@
   },
   {
     "id": "B2a-077",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 77,
-    "setSize": 131,
     "name": {
       "en": "Orthworm",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4373,22 +3680,13 @@
   },
   {
     "id": "B2a-078",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 78,
-    "setSize": 131,
     "name": {
       "en": "Gholdengo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4429,22 +3727,13 @@
   },
   {
     "id": "B2a-079",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 79,
-    "setSize": 131,
     "name": {
       "en": "Lechonk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4485,22 +3774,13 @@
   },
   {
     "id": "B2a-080",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 80,
-    "setSize": 131,
     "name": {
       "en": "Oinkologne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4541,22 +3821,13 @@
   },
   {
     "id": "B2a-081",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 81,
-    "setSize": 131,
     "name": {
       "en": "Tandemaus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4597,22 +3868,13 @@
   },
   {
     "id": "B2a-082",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 82,
-    "setSize": 131,
     "name": {
       "en": "Maushold",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4653,22 +3915,13 @@
   },
   {
     "id": "B2a-083",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 83,
-    "setSize": 131,
     "name": {
       "en": "Squawkabilly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4709,22 +3962,13 @@
   },
   {
     "id": "B2a-084",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 84,
-    "setSize": 131,
     "name": {
       "en": "Cyclizar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4765,22 +4009,13 @@
   },
   {
     "id": "B2a-085",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 85,
-    "setSize": 131,
     "name": {
       "en": "Flamigo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4821,22 +4056,13 @@
   },
   {
     "id": "B2a-086",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 86,
-    "setSize": 131,
     "name": {
       "en": "Electric Generator",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4857,22 +4083,13 @@
   },
   {
     "id": "B2a-087",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 87,
-    "setSize": 131,
     "name": {
       "en": "Big Air Balloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4893,22 +4110,13 @@
   },
   {
     "id": "B2a-088",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 88,
-    "setSize": 131,
     "name": {
       "en": "Team Star Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4929,22 +4137,13 @@
   },
   {
     "id": "B2a-089",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 89,
-    "setSize": 131,
     "name": {
       "en": "Iono",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4965,22 +4164,13 @@
   },
   {
     "id": "B2a-090",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 90,
-    "setSize": 131,
     "name": {
       "en": "Nemona",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5001,22 +4191,13 @@
   },
   {
     "id": "B2a-091",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 91,
-    "setSize": 131,
     "name": {
       "en": "Arven",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5037,22 +4218,13 @@
   },
   {
     "id": "B2a-092",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 92,
-    "setSize": 131,
     "name": {
       "en": "Penny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5073,22 +4245,13 @@
   },
   {
     "id": "B2a-093",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 93,
-    "setSize": 131,
     "name": {
       "en": "Mesagoza",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5109,22 +4272,13 @@
   },
   {
     "id": "B2a-094",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 94,
-    "setSize": 131,
     "name": {
       "en": "Fuecoco",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5165,22 +4319,13 @@
   },
   {
     "id": "B2a-095",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 95,
-    "setSize": 131,
     "name": {
       "en": "Greavard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5221,22 +4366,13 @@
   },
   {
     "id": "B2a-096",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 96,
-    "setSize": 131,
     "name": {
       "en": "Gimmighoul",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5277,22 +4413,13 @@
   },
   {
     "id": "B2a-097",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 97,
-    "setSize": 131,
     "name": {
       "en": "Paldean Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5333,22 +4460,13 @@
   },
   {
     "id": "B2a-098",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 98,
-    "setSize": 131,
     "name": {
       "en": "Orthworm",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5389,22 +4507,13 @@
   },
   {
     "id": "B2a-099",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 99,
-    "setSize": 131,
     "name": {
       "en": "Maushold",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5445,22 +4554,13 @@
   },
   {
     "id": "B2a-100",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 100,
-    "setSize": 131,
     "name": {
       "en": "Meowscarada ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5511,22 +4611,13 @@
   },
   {
     "id": "B2a-101",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 101,
-    "setSize": 131,
     "name": {
       "en": "Armarouge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5575,22 +4666,13 @@
   },
   {
     "id": "B2a-102",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 102,
-    "setSize": 131,
     "name": {
       "en": "Chien-Pao ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5641,22 +4723,13 @@
   },
   {
     "id": "B2a-103",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 103,
-    "setSize": 131,
     "name": {
       "en": "Bellibolt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5697,22 +4770,13 @@
   },
   {
     "id": "B2a-104",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 104,
-    "setSize": 131,
     "name": {
       "en": "Gholdengo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5753,22 +4817,13 @@
   },
   {
     "id": "B2a-105",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 105,
-    "setSize": 131,
     "name": {
       "en": "Team Star Grunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5789,22 +4844,13 @@
   },
   {
     "id": "B2a-106",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 106,
-    "setSize": 131,
     "name": {
       "en": "Iono",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5825,22 +4871,13 @@
   },
   {
     "id": "B2a-107",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 107,
-    "setSize": 131,
     "name": {
       "en": "Nemona",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5861,22 +4898,13 @@
   },
   {
     "id": "B2a-108",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 108,
-    "setSize": 131,
     "name": {
       "en": "Arven",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5897,22 +4925,13 @@
   },
   {
     "id": "B2a-109",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 109,
-    "setSize": 131,
     "name": {
       "en": "Penny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5933,22 +4952,13 @@
   },
   {
     "id": "B2a-110",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 110,
-    "setSize": 131,
     "name": {
       "en": "Meowscarada ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5999,22 +5009,13 @@
   },
   {
     "id": "B2a-111",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 111,
-    "setSize": 131,
     "name": {
       "en": "Armarouge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -6063,22 +5064,13 @@
   },
   {
     "id": "B2a-112",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 112,
-    "setSize": 131,
     "name": {
       "en": "Chien-Pao ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -6129,22 +5121,13 @@
   },
   {
     "id": "B2a-113",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 113,
-    "setSize": 131,
     "name": {
       "en": "Bellibolt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6185,22 +5168,13 @@
   },
   {
     "id": "B2a-114",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 114,
-    "setSize": 131,
     "name": {
       "en": "Gholdengo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6241,22 +5215,13 @@
   },
   {
     "id": "B2a-115",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 115,
-    "setSize": 131,
     "name": {
       "en": "Arven",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -6277,22 +5242,13 @@
   },
   {
     "id": "B2a-116",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 116,
-    "setSize": 131,
     "name": {
       "en": "Sprigatito",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -6333,22 +5289,13 @@
   },
   {
     "id": "B2a-117",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 117,
-    "setSize": 131,
     "name": {
       "en": "Floragato",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -6389,22 +5336,13 @@
   },
   {
     "id": "B2a-118",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 118,
-    "setSize": 131,
     "name": {
       "en": "Meowscarada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -6445,22 +5383,13 @@
   },
   {
     "id": "B2a-119",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 119,
-    "setSize": 131,
     "name": {
       "en": "Pawmi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6501,22 +5430,13 @@
   },
   {
     "id": "B2a-120",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 120,
-    "setSize": 131,
     "name": {
       "en": "Pawmo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6557,22 +5477,13 @@
   },
   {
     "id": "B2a-121",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 121,
-    "setSize": 131,
     "name": {
       "en": "Pawmot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6613,22 +5524,13 @@
   },
   {
     "id": "B2a-122",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 122,
-    "setSize": 131,
     "name": {
       "en": "Gimmighoul",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6669,22 +5571,13 @@
   },
   {
     "id": "B2a-123",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 123,
-    "setSize": 131,
     "name": {
       "en": "Tinkatink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6725,22 +5618,13 @@
   },
   {
     "id": "B2a-124",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 124,
-    "setSize": 131,
     "name": {
       "en": "Tinkatuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6781,22 +5665,13 @@
   },
   {
     "id": "B2a-125",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 125,
-    "setSize": 131,
     "name": {
       "en": "Gholdengo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6837,22 +5712,13 @@
   },
   {
     "id": "B2a-126",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 126,
-    "setSize": 131,
     "name": {
       "en": "Entei ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -6901,22 +5767,13 @@
   },
   {
     "id": "B2a-127",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 127,
-    "setSize": 131,
     "name": {
       "en": "Suicune ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -6965,22 +5822,13 @@
   },
   {
     "id": "B2a-128",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 128,
-    "setSize": 131,
     "name": {
       "en": "Raikou ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -7029,22 +5877,13 @@
   },
   {
     "id": "B2a-129",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 129,
-    "setSize": 131,
     "name": {
       "en": "Tinkaton ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -7085,22 +5924,13 @@
   },
   {
     "id": "B2a-130",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 130,
-    "setSize": 131,
     "name": {
       "en": "Baxcalibur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -7149,22 +5979,13 @@
   },
   {
     "id": "B2a-131",
-    "set": {
-      "code": "B2a",
-      "name": "Paldean Wonders",
-      "nameJa": "パルデアワンダー"
-    },
+    "setCode": "B2a",
     "number": 131,
-    "setSize": 131,
     "name": {
       "en": "Electric Generator",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

@@ -54,8 +54,9 @@ Recorded 2026-07 with the project owner:
 
 ## Card Data and Schemas
 
-- `src/features/cards/schema.ts` — Zod schemas and enums (types, rarity codes, stages, rule boxes, classifications, trainer subtypes). It is the type-checked form of [card-data.md](./references/card-data.md).
+- `src/features/cards/schema.ts` — Zod schemas and enums (types, rarity codes, stages, rule boxes, classifications, trainer subtypes). It is the type-checked form of [card-data.md](./references/card-data.md). A card is normalized: it carries only its `setCode` (validated against the set registry) and its rarity code — no embedded set metadata or rarity display fields. `rarityCodes` owns the canonical tier order.
 - `src/features/cards/set-registry.ts` — the **single source of set metadata** (code, EN/JA names, release date, card count) for every published set (A1–B3b). Client-safe (not `server-only`); components read set names/labels from here rather than hardcoding them.
+- `src/features/cards/rarity-registry.ts` — the **single source of rarity display facts** (symbol, label) keyed by the schema's rarity codes; client-safe like the set registry. `getRarity(code)` resolves a card's rarity for display — never hardcode a tier's symbol or label.
 - `src/features/cards/catalog.ts` — validated, cached, **set-aware** access to the seeded datasets. `getAllCards()` spans every seeded set; `getCard(id)` looks up by global id; `getCardsBySet(code)` / `getSetCardCount(code)` / `getSeededSetCodes()` give per-set access so a route can load only the sets it needs. It throws on schema mismatch, a wrong-set card, or a count that disagrees with the registry (defects, not user input).
 - `src/features/cards/data/<set-name>-<code>.json` — one file per seeded set (e.g. `genetic-apex-a1.json`, 286 cards). Ids stay globally unique via the set-code prefix.
 

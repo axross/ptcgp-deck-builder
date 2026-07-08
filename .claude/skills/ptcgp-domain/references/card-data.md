@@ -48,11 +48,10 @@ schema; this document explains the fields and the source's quirks.
 | Field          | Type           | Notes                                                                                                                                                         |
 | -------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `id`           | string         | Stable key, `"A1-280"`.                                                                                                                                       |
-| `set`          | object         | `{ code, name, nameJa }` — e.g., `A1` / Genetic Apex / 最強の遺伝子.                                                                                          |
+| `setCode`      | string         | Set-registry reference, e.g. `"A1"` — names, dates, and counts resolve through `set-registry.ts`; the schema rejects a code the registry does not know.       |
 | `number`       | integer        | Card number within the set (1–286).                                                                                                                           |
-| `setSize`      | integer        | Base set size (286).                                                                                                                                          |
 | `name`         | object         | `{ en, ja }` — `ja` is `null` here (see reserved fields).                                                                                                     |
-| `rarity`       | object         | `{ symbol, code, label }` — see the rarity enum below.                                                                                                        |
+| `rarity`       | string         | The tier's code, e.g. `"C"`, `"SAR"` — see the rarity enum below; display symbol/label resolve through `rarity-registry.ts`.                                  |
 | `category`     | string         | `"Pokemon"` or `"Trainer"`.                                                                                                                                   |
 | `pokemon`      | object \| null | Present when `category = "Pokemon"`, else `null`.                                                                                                             |
 | `trainer`      | object \| null | Present when `category = "Trainer"`, else `null`.                                                                                                             |
@@ -106,7 +105,7 @@ schema; this document explains the fields and the source's quirks.
 
 **Energy types (`type`, `weakness`, `cost` entries):** Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Dragon, Colorless. (Note: there is no Dragon energy — Dragon attacks cost other types; Colorless costs accept any energy. A deck's Energy Zone registers only the 8 generatable types — see `registrableEnergyTypes` in `src/features/decks/schema.ts`.)
 
-**Rarity (`rarity.code` → `symbol` / `label`):**
+**Rarity (`rarity` code → `symbol` / `label`, per `rarity-registry.ts`):**
 
 | Code  | Symbol | Label            | In A1 |
 | ----- | ------ | ---------------- | ----- |
@@ -120,7 +119,7 @@ schema; this document explains the fields and the source's quirks.
 | `IR`  | ☆☆☆    | Immersive Rare   | 4     |
 | `CR`  | ♛      | Crown Rare       | 3     |
 
-**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `rarity.code` enum (`schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `code` enum and the rarity filter follow. They recur in **B1 (Mega Rising)** — 30 `Shiny` + 12 `Shiny Super Rare`.
+**Shiny tiers (Shining Revelry / A2b on):** dotgg exposes them as the labels `Shiny` (`✸`) and `Shiny Super Rare` (`✸✸`); they are mapped to the `code` strings **`S`** and **`SSR`** in both `RARITY_CODE_BY_LABEL` (`fetch-set-data.mjs`) and the rarity code enum (`rarityCodes` in `schema.ts`). In the pull-rarity ladder (see [overview.md §2.5](./overview.md)) they rank *below* Immersive Rare, not above: common → crown is `…, RR, AR, S, SR, SAR, SSR, IR, CR` — which is the canonical order the `rarityCodes` enum and the rarity filter follow. They recur in **B1 (Mega Rising)** — 30 `Shiny` + 12 `Shiny Super Rare`.
 
 | Code  | Symbol | Label            | First in |
 | ----- | ------ | ---------------- | -------- |
@@ -157,7 +156,7 @@ The catalog seeds every A-series set through A4a and the whole released B-series
 Seeding a set is an automated fetch + validate step, not a hand-assembled list. The tooling lives in `scripts/` and never ships to the app bundle. It runs under plain `node` — Node's default TypeScript type-stripping lets these `.mjs` scripts import the authoritative `cardSchema` from `schema.ts`, so validity is defined in exactly one place.
 
 - **`scripts/set-ingestion.mjs`** — pure, network-free core (unit-tested in `set-ingestion.test.mjs`):
-  - `transformSourceCard(record, set, setSize)` maps one source record (the `sourceCardSchema` contract) into the canonical card-data object above, taking the set name from the registry and stamping `source` provenance. Game text is copied verbatim.
+  - `transformSourceCard(record)` maps one source record (the `sourceCardSchema` contract) into the canonical card-data object above, stamping `source` provenance. A card embeds no set metadata — only its `setCode` reference. Game text is copied verbatim.
   - `validateCards(cards)` runs every card through `cardSchema` and returns each failure by card id and violation path — the trigger for extending an enum.
   - `serializeCards(cards)` emits the deterministic JSON: two-space indent, canonical key order, primitive arrays inline (`["Grass", "Colorless"]`) and object arrays expanded. It reproduces the checked-in A1 file byte-for-byte, so re-fetches diff cleanly.
 - **`scripts/fetch-set-data.mjs`** (`npm run fetch:set -- <CODE> [--dry-run] [--no-flavor]`) — the network CLI: downloads the card database, filters to one set, enriches flavor per card, transforms → validates → writes `data/<set-name>-<code>.json`. Sequential requests, identifying user agent, spacing delay. `--dry-run` validates and reports the count without writing; `--no-flavor` skips the Limitless enrichment (faster iteration on the dotgg mapping). Fails with an explicit network-policy message (not a stack trace) when a source host is blocked, and aborts rather than writing a partial set if the count disagrees with the registry.
@@ -178,7 +177,7 @@ Seeding a set is an automated fetch + validate step, not a hand-assembled list. 
 | `slug` | `source.slug` | e.g. `a1-4-venusaur-ex` (raw, unpadded number). |
 | `setId` + `number` | `id` | Zero-padded: `A1-004`. |
 | `name` | `name.en` | English-only source; `name.ja` stays null. |
-| `rarity` (label) | `rarity` | Label → `{ symbol, code, label }` lookup (see below). |
+| `rarity` (label) | `rarity` | Label → code lookup (see below). |
 | `type` | `category` / `trainer.subtype` | `Pokemon` → Pokémon; otherwise Trainer. |
 | `color` | `pokemon.type` | Energy type. |
 | `hp`, `retreat` | `pokemon.hp`, `pokemon.retreatCost` | Numeric strings. |
@@ -194,4 +193,4 @@ Seeding a set is an automated fetch + validate step, not a hand-assembled list. 
 
 Game text carries light HTML (`<br>` → newline; `<strong>` / `<span class="reminder-text">` stripped, inner text kept). `boosterPacks` is not exposed by dotgg (kept null). `pokemon.classification` is derived from dotgg's `flairs` (an `ultra-beast` flair slug → `UltraBeast`, from A3a; `Ancient`/`Future` have no signal yet). `pokemon.isBaby` is not sourced by anything and stays `false` — see the reserved-fields note.
 
-**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above). An unmapped label is passed through as its own `code`, so `cardSchema` rejects it and names the card — the trigger that first surfaced the Shiny tiers. dotgg exposes the A2b Shiny tiers as the labels **`"Shiny"`** (`✸`, code `S`) and **`"Shiny Super Rare"`** (`✸✸`, code `SSR`); both are now in `RARITY_BY_LABEL` (`fetch-set-data.mjs`) and the `code` enum (`schema.ts`). When rarity comes from the **flibustier index** instead (B1a on), its short codes map onto the same tuples via `FLIBUSTIER_RARITY_BY_CODE` / `mapFlibustierRarity` — most codes match ours, with `IM`→`IR`, `UR`→`CR`, and distinct `SR`/`SAR` (so the `☆☆` tier is split correctly, unlike the earlier TCGdex attempt).
+**Rarity labels → codes.** `Common`→C, `Uncommon`→U, `Rare`→R, `Double Rare`→RR, `Art Rare`→AR, `Super Rare`→SR, `Special Art Rare`→SAR, `Immersive Rare`→IR, `Crown Rare`→CR (symbols/labels per the rarity table above, owned by `rarity-registry.ts`). An unmapped label is passed through as its own code, so `cardSchema` rejects it and names the card — the trigger that first surfaced the Shiny tiers. dotgg exposes the A2b Shiny tiers as the labels **`"Shiny"`** (`✸`, code `S`) and **`"Shiny Super Rare"`** (`✸✸`, code `SSR`); both are now in `RARITY_CODE_BY_LABEL` (`fetch-set-data.mjs`) and the `rarityCodes` enum (`schema.ts`). When rarity comes from the **flibustier index** instead (B1a on), its short codes map onto the same app codes via `FLIBUSTIER_RARITY_BY_CODE` / `mapFlibustierRarity` — most codes match ours, with `IM`→`IR`, `UR`→`CR`, and distinct `SR`/`SAR` (so the `☆☆` tier is split correctly, unlike the earlier TCGdex attempt).
