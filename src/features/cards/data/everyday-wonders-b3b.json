@@ -1,0 +1,5858 @@
+[
+  {
+    "id": "B3b-001",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 1,
+    "setSize": 106,
+    "name": {
+      "en": "Caterpie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Quick Growth",
+            "ja": null
+          },
+          "text": "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hook",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-001-caterpie"
+    }
+  },
+  {
+    "id": "B3b-002",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 2,
+    "setSize": 106,
+    "name": {
+      "en": "Metapod",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Caterpie",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Asako Ito",
+    "boosterPacks": null,
+    "flavorText": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-002-metapod"
+    }
+  },
+  {
+    "id": "B3b-003",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 3,
+    "setSize": 106,
+    "name": {
+      "en": "Butterfree",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Metapod",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sunny Wind",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "ryoma uratsuka",
+    "boosterPacks": null,
+    "flavorText": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-003-butterfree"
+    }
+  },
+  {
+    "id": "B3b-004",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 4,
+    "setSize": 106,
+    "name": {
+      "en": "Cacnea",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spike Sting",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "It lives in arid locations. Its yellow flowers bloom once a year.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-004-cacnea"
+    }
+  },
+  {
+    "id": "B3b-005",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 5,
+    "setSize": 106,
+    "name": {
+      "en": "Tropius",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-005-tropius"
+    }
+  },
+  {
+    "id": "B3b-006",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 6,
+    "setSize": 106,
+    "name": {
+      "en": "Petilil",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Spin",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": "If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-006-petilil"
+    }
+  },
+  {
+    "id": "B3b-007",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 7,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Lilligant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Petilil",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dress Up",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has a Pokémon Tool attached, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-007-hisuian-lilligant"
+    }
+  },
+  {
+    "id": "B3b-008",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 8,
+    "setSize": 106,
+    "name": {
+      "en": "Vulpix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hold Still",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masako Yamashita",
+    "boosterPacks": null,
+    "flavorText": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-008-vulpix"
+    }
+  },
+  {
+    "id": "B3b-009",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 9,
+    "setSize": 106,
+    "name": {
+      "en": "Ninetales",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Vulpix",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ember Dance",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip 9 coins. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ken Sugimori",
+    "boosterPacks": null,
+    "flavorText": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-009-ninetales"
+    }
+  },
+  {
+    "id": "B3b-010",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 10,
+    "setSize": 106,
+    "name": {
+      "en": "Growlithe",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Puppy Pile",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Makura Tami",
+    "boosterPacks": null,
+    "flavorText": "It’s very friendly and faithful to people. It will try to repel enemies by barking and biting.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-010-growlithe"
+    }
+  },
+  {
+    "id": "B3b-011",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 11,
+    "setSize": 106,
+    "name": {
+      "en": "Psyduck",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Confusion Wave",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Both Active Pokémon are now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-011-psyduck"
+    }
+  },
+  {
+    "id": "B3b-012",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 12,
+    "setSize": 106,
+    "name": {
+      "en": "Goldeen",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Horn Attack",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "SATOSHI NAKAI",
+    "boosterPacks": null,
+    "flavorText": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-012-goldeen"
+    }
+  },
+  {
+    "id": "B3b-013",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 13,
+    "setSize": 106,
+    "name": {
+      "en": "Seaking",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Goldeen",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aqua Bullet",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-013-seaking"
+    }
+  },
+  {
+    "id": "B3b-014",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 14,
+    "setSize": 106,
+    "name": {
+      "en": "Feebas",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 30,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Splash",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It is the shabbiest Pokémon of all. It forms schools and lives at the bottom of rivers that teem with plant life.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-014-feebas"
+    }
+  },
+  {
+    "id": "B3b-015",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 15,
+    "setSize": 106,
+    "name": {
+      "en": "Milotic ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Feebas",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Aqua Charge",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Pulse",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-015-milotic-ex"
+    }
+  },
+  {
+    "id": "B3b-016",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 16,
+    "setSize": 106,
+    "name": {
+      "en": "Snorunt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It is said that a home visited by a Snorunt will prosper. It can withstand cold of −150 degrees Fahrenheit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-016-snorunt"
+    }
+  },
+  {
+    "id": "B3b-017",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 17,
+    "setSize": 106,
+    "name": {
+      "en": "Froslass",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Snorunt",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Soul Shot",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Discard a card from your hand. If you can't, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It freezes prey by blowing its −58 degree Fahrenheit breath. It is said to then secretly display its prey.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-017-froslass"
+    }
+  },
+  {
+    "id": "B3b-018",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 18,
+    "setSize": 106,
+    "name": {
+      "en": "Luvdisc",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "ryoma uratsuka",
+    "boosterPacks": null,
+    "flavorText": "During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-018-luvdisc"
+    }
+  },
+  {
+    "id": "B3b-019",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 19,
+    "setSize": 106,
+    "name": {
+      "en": "Piplup",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bubble Beam",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-019-piplup"
+    }
+  },
+  {
+    "id": "B3b-020",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 20,
+    "setSize": 106,
+    "name": {
+      "en": "Iron Bundle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bundled Pump",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 50 more damage. If tails, this Pokémon also does 50 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Lee HyunJung",
+    "boosterPacks": null,
+    "flavorText": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-020-iron-bundle"
+    }
+  },
+  {
+    "id": "B3b-021",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 21,
+    "setSize": 106,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electro Ball",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-021-pikachu"
+    }
+  },
+  {
+    "id": "B3b-022",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 22,
+    "setSize": 106,
+    "name": {
+      "en": "Raichu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Pikachu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mach Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Aya Kusube",
+    "boosterPacks": null,
+    "flavorText": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-022-raichu"
+    }
+  },
+  {
+    "id": "B3b-023",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 23,
+    "setSize": 106,
+    "name": {
+      "en": "Emolga",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Windup Thunder",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 30,
+          "damageSuffix": "×",
+          "text": "This attack does 30 damage for each Pokémon Tool attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-023-emolga"
+    }
+  },
+  {
+    "id": "B3b-024",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 24,
+    "setSize": 106,
+    "name": {
+      "en": "Dedenne ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dede-Circuit",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": "×",
+          "text": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-024-dedenne-ex"
+    }
+  },
+  {
+    "id": "B3b-025",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 25,
+    "setSize": 106,
+    "name": {
+      "en": "Yamper",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Puppy Pile",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Jerky",
+    "boosterPacks": null,
+    "flavorText": "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-025-yamper"
+    }
+  },
+  {
+    "id": "B3b-026",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 26,
+    "setSize": 106,
+    "name": {
+      "en": "Slowpoke",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Growl",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-026-slowpoke"
+    }
+  },
+  {
+    "id": "B3b-027",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 27,
+    "setSize": 106,
+    "name": {
+      "en": "Slowbro",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psybeam",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-027-slowbro"
+    }
+  },
+  {
+    "id": "B3b-028",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 28,
+    "setSize": 106,
+    "name": {
+      "en": "Munna",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yoko Hishida",
+    "boosterPacks": null,
+    "flavorText": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-028-munna"
+    }
+  },
+  {
+    "id": "B3b-029",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 29,
+    "setSize": 106,
+    "name": {
+      "en": "Musharna",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Munna",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Zen Headbutt",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-029-musharna"
+    }
+  },
+  {
+    "id": "B3b-030",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 30,
+    "setSize": 106,
+    "name": {
+      "en": "Sylveon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Soothing Ribbon",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Magical Shot",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-030-sylveon"
+    }
+  },
+  {
+    "id": "B3b-031",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 31,
+    "setSize": 106,
+    "name": {
+      "en": "Carbink",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Glittering Gift",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a {P} Energy from your Energy Zone and attach it to that Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-031-carbink"
+    }
+  },
+  {
+    "id": "B3b-032",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 32,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Diancie ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brilliant Storm",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {P} Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-032-mega-diancie-ex"
+    }
+  },
+  {
+    "id": "B3b-033",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 33,
+    "setSize": 106,
+    "name": {
+      "en": "Enamorus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Smitten Strike",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If this Pokémon and your opponent's Active Pokémon have 1 or more of the same type of Energy attached, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Jiro Sasumo",
+    "boosterPacks": null,
+    "flavorText": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon’s love gives rise to the budding of fresh life across Hisui.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-033-enamorus"
+    }
+  },
+  {
+    "id": "B3b-034",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 34,
+    "setSize": 106,
+    "name": {
+      "en": "Fidough",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Puppy Pile",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shimaris Yukichi",
+    "boosterPacks": null,
+    "flavorText": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-034-fidough"
+    }
+  },
+  {
+    "id": "B3b-035",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 35,
+    "setSize": 106,
+    "name": {
+      "en": "Flutter Mane",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hexing Flight",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "If this Pokémon didn't move from the Bench to the Active Spot this turn, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-035-flutter-mane"
+    }
+  },
+  {
+    "id": "B3b-036",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 36,
+    "setSize": 106,
+    "name": {
+      "en": "Wooper",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mud Shot",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "When it walks around on land, it coats its body with a slimy, poisonous film.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-036-wooper"
+    }
+  },
+  {
+    "id": "B3b-037",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 37,
+    "setSize": 106,
+    "name": {
+      "en": "Quagsire",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Wooper",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Amnesia",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Active Pokémon's attacks is chosen at random. During your opponent's next turn, that Pokémon can't use the chosen attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-037-quagsire"
+    }
+  },
+  {
+    "id": "B3b-038",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 38,
+    "setSize": 106,
+    "name": {
+      "en": "Rockruff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Puppy Pile",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Reveal all of your Pokémon in play and in your hand that have the Puppy Pile attack, and this attack does 20 damage for each Pokémon you revealed in this way."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MINAMINAMI Take",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon travels in a pack with others until it grows up. When its mood turns sour, it starts striking the ground with the rocks on its neck.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-038-rockruff"
+    }
+  },
+  {
+    "id": "B3b-039",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 39,
+    "setSize": 106,
+    "name": {
+      "en": "Sandygast",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sand Spray",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "It flings sand into the eyes of its prey and tries to close in on them while they’re blinded, but since Sandygast is so slow, the prey tends to escape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-039-sandygast"
+    }
+  },
+  {
+    "id": "B3b-040",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 40,
+    "setSize": 106,
+    "name": {
+      "en": "Palossand",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Sandygast",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ambush",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-040-palossand"
+    }
+  },
+  {
+    "id": "B3b-041",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 41,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Sableye ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cursed Jewel",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-041-mega-sableye-ex"
+    }
+  },
+  {
+    "id": "B3b-042",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 42,
+    "setSize": 106,
+    "name": {
+      "en": "Cacturne",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Cacnea",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Finishing Blow",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert’s heat.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-042-cacturne"
+    }
+  },
+  {
+    "id": "B3b-043",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 43,
+    "setSize": 106,
+    "name": {
+      "en": "Spiritomb",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dark Slumber",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Naoyo Kimura",
+    "boosterPacks": null,
+    "flavorText": "It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-043-spiritomb"
+    }
+  },
+  {
+    "id": "B3b-044",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 44,
+    "setSize": 106,
+    "name": {
+      "en": "Scraggy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Low Kick",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sowsow",
+    "boosterPacks": null,
+    "flavorText": "It will abruptly headbutt anyone that makes eye contact with it. Its skull is extremely hard.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-044-scraggy"
+    }
+  },
+  {
+    "id": "B3b-045",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 45,
+    "setSize": 106,
+    "name": {
+      "en": "Scrafty",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Scraggy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "High Jump Kick",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-045-scrafty"
+    }
+  },
+  {
+    "id": "B3b-046",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 46,
+    "setSize": 106,
+    "name": {
+      "en": "Mareanie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they’re not suitable as food.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-046-mareanie"
+    }
+  },
+  {
+    "id": "B3b-047",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 47,
+    "setSize": 106,
+    "name": {
+      "en": "Toxapex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Mareanie",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Severe Poison",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned. Do 40 damage to this Pokémon instead of the usual amount for this Special Condition."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kirisAki",
+    "boosterPacks": null,
+    "flavorText": "Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-047-toxapex"
+    }
+  },
+  {
+    "id": "B3b-048",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 48,
+    "setSize": 106,
+    "name": {
+      "en": "Goomy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stampede",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": "Goomy’s horns are excellent sensory organs that cover all five of Goomy’s senses. Goomy picks up on danger from the movement of the air.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-048-goomy"
+    }
+  },
+  {
+    "id": "B3b-049",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 49,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Sliggoo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Goomy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hammer In",
+            "ja": null
+          },
+          "cost": ["Water", "Metal"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui’s water.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-049-hisuian-sliggoo"
+    }
+  },
+  {
+    "id": "B3b-050",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 50,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Goodra",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Hisuian Sliggoo",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Securely Sheltered",
+            "ja": null
+          },
+          "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −80 damage from that attack."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Heavy Impact",
+            "ja": null
+          },
+          "cost": ["Water", "Metal", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-050-hisuian-goodra"
+    }
+  },
+  {
+    "id": "B3b-051",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 51,
+    "setSize": 106,
+    "name": {
+      "en": "Jigglypuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stompy Stomp",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-051-jigglypuff"
+    }
+  },
+  {
+    "id": "B3b-052",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 52,
+    "setSize": 106,
+    "name": {
+      "en": "Wigglytuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Jigglypuff",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Expand",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Lee HyunJung",
+    "boosterPacks": null,
+    "flavorText": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can’t stop touching it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-052-wigglytuff"
+    }
+  },
+  {
+    "id": "B3b-053",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 53,
+    "setSize": 106,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gnaw",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-053-eevee"
+    }
+  },
+  {
+    "id": "B3b-054",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 54,
+    "setSize": 106,
+    "name": {
+      "en": "Munchlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "{0} Hungrily Draw",
+            "ja": null
+          },
+          "cost": [],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sowsow",
+    "boosterPacks": null,
+    "flavorText": "When it is voraciously gulping down food, it forgets about the food it has hidden under its fur.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-054-munchlax"
+    }
+  },
+  {
+    "id": "B3b-055",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 55,
+    "setSize": 106,
+    "name": {
+      "en": "Snorlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Massive Body",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "Its stomach’s digestive juices can dissolve any kind of poison. Eating things off the ground doesn’t bother it at all.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-055-snorlax"
+    }
+  },
+  {
+    "id": "B3b-056",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 56,
+    "setSize": 106,
+    "name": {
+      "en": "Teddiursa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Charm",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "Its paws are soaked in oodles of honey. When nervous, Teddiursa will lick its paws and soon have a smile back on its face.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-056-teddiursa"
+    }
+  },
+  {
+    "id": "B3b-057",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 57,
+    "setSize": 106,
+    "name": {
+      "en": "Ursaring",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Teddiursa",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Confront",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hiroki Asanuma",
+    "boosterPacks": null,
+    "flavorText": "It is quite skilled at climbing trees. If it comes across a Primeape while searching for berries in the treetops, trouble will surely ensue.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-057-ursaring"
+    }
+  },
+  {
+    "id": "B3b-058",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 58,
+    "setSize": 106,
+    "name": {
+      "en": "Ursaluna",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Ursaring",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Guts",
+            "ja": null
+          },
+          "text": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hammer Arm",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless", "Colorless"],
+          "damage": 110,
+          "damageSuffix": null,
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "I believe it was Hisui’s swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-058-ursaluna"
+    }
+  },
+  {
+    "id": "B3b-059",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 59,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Zorua",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Run Around",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-059-hisuian-zorua"
+    }
+  },
+  {
+    "id": "B3b-060",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 60,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Zoroark ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Hisuian Zorua",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spiteful Illusion",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Pokémon in your discard pile."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-060-hisuian-zoroark-ex"
+    }
+  },
+  {
+    "id": "B3b-061",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 61,
+    "setSize": 106,
+    "name": {
+      "en": "Furfrou",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fur Coat",
+            "ja": null
+          },
+          "text": "This Pokémon takes −20 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Headbutt",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 30,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "osare",
+    "boosterPacks": null,
+    "flavorText": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-061-furfrou"
+    }
+  },
+  {
+    "id": "B3b-062",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 62,
+    "setSize": 106,
+    "name": {
+      "en": "Skwovet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "No matter how much it stuffs its belly with food, it is always anxious about getting hungry again. So, it stashes berries in its cheeks and tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-062-skwovet"
+    }
+  },
+  {
+    "id": "B3b-063",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 63,
+    "setSize": 106,
+    "name": {
+      "en": "Greedent",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Skwovet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Collapse",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-063-greedent"
+    }
+  },
+  {
+    "id": "B3b-064",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 64,
+    "setSize": 106,
+    "name": {
+      "en": "Small Balloon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "The Retreat Cost of the Basic Pokémon this card is attached to is 1 less."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-064-small-balloon"
+    }
+  },
+  {
+    "id": "B3b-065",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 65,
+    "setSize": 106,
+    "name": {
+      "en": "Elegant Cape",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "The Stage 1 Pokémon this card is attached to gets +30 HP."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-065-elegant-cape"
+    }
+  },
+  {
+    "id": "B3b-066",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 66,
+    "setSize": 106,
+    "name": {
+      "en": "Elesa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Return all Pokémon Tools attached to each Pokémon (both yours and your opponent's) to their owner's hand."
+    },
+    "illustrator": "Nobusawa/Mochipuyo",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-066-elesa"
+    }
+  },
+  {
+    "id": "B3b-067",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 67,
+    "setSize": 106,
+    "name": {
+      "en": "Puppy-Loving Girl",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-067-puppy-loving-girl"
+    }
+  },
+  {
+    "id": "B3b-068",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 68,
+    "setSize": 106,
+    "name": {
+      "en": "Wallace",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Choose 1 of your {W} Pokémon in play with a maximum HP of 50 or less. Put a random {W} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it."
+    },
+    "illustrator": "GIDORA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-068-wallace"
+    }
+  },
+  {
+    "id": "B3b-069",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 69,
+    "setSize": 106,
+    "name": {
+      "en": "Kid's Room",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Stadium",
+      "text": "Once during each player's turn, that player may choose a card in their hand and switch it with a random Pokémon Tool card in their deck."
+    },
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-069-kid-s-room"
+    }
+  },
+  {
+    "id": "B3b-070",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 70,
+    "setSize": 106,
+    "name": {
+      "en": "Vulpix",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hold Still",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Teeziro",
+    "boosterPacks": null,
+    "flavorText": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-070-vulpix"
+    }
+  },
+  {
+    "id": "B3b-071",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 71,
+    "setSize": 106,
+    "name": {
+      "en": "Piplup",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bubble Beam",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "HYOGONOSUKE",
+    "boosterPacks": null,
+    "flavorText": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-071-piplup"
+    }
+  },
+  {
+    "id": "B3b-072",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 72,
+    "setSize": 106,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electro Ball",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yoshimi Miyoshi",
+    "boosterPacks": null,
+    "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-072-pikachu"
+    }
+  },
+  {
+    "id": "B3b-073",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 73,
+    "setSize": 106,
+    "name": {
+      "en": "Sylveon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Soothing Ribbon",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon has a Pokémon Tool attached, you may heal 30 damage from 1 of your Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Magical Shot",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "booota",
+    "boosterPacks": null,
+    "flavorText": "Sylveon cuts an elegant figure as it dances lightly around, feelers fluttering, but its piercing moves aim straight for its opponents’ weak spots.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-073-sylveon"
+    }
+  },
+  {
+    "id": "B3b-074",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 74,
+    "setSize": 106,
+    "name": {
+      "en": "Mareanie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venoshock",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Terada Tera",
+    "boosterPacks": null,
+    "flavorText": "It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they’re not suitable as food.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-074-mareanie"
+    }
+  },
+  {
+    "id": "B3b-075",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 75,
+    "setSize": 106,
+    "name": {
+      "en": "Jigglypuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stompy Stomp",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kanami Ogata",
+    "boosterPacks": null,
+    "flavorText": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-075-jigglypuff"
+    }
+  },
+  {
+    "id": "B3b-076",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 76,
+    "setSize": 106,
+    "name": {
+      "en": "Snorlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Massive Body",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "okayamatakatoshi",
+    "boosterPacks": null,
+    "flavorText": "Its stomach’s digestive juices can dissolve any kind of poison. Eating things off the ground doesn’t bother it at all.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-076-snorlax"
+    }
+  },
+  {
+    "id": "B3b-077",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 77,
+    "setSize": 106,
+    "name": {
+      "en": "Greedent",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Skwovet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Collapse",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukihiro Tada",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-077-greedent"
+    }
+  },
+  {
+    "id": "B3b-078",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 78,
+    "setSize": 106,
+    "name": {
+      "en": "Milotic ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Feebas",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Aqua Charge",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Pulse",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-078-milotic-ex"
+    }
+  },
+  {
+    "id": "B3b-079",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 79,
+    "setSize": 106,
+    "name": {
+      "en": "Dedenne ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dede-Circuit",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": "×",
+          "text": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-079-dedenne-ex"
+    }
+  },
+  {
+    "id": "B3b-080",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 80,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Diancie ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brilliant Storm",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {P} Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-080-mega-diancie-ex"
+    }
+  },
+  {
+    "id": "B3b-081",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 81,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Sableye ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cursed Jewel",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-081-mega-sableye-ex"
+    }
+  },
+  {
+    "id": "B3b-082",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 82,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Zoroark ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Hisuian Zorua",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spiteful Illusion",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Pokémon in your discard pile."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-082-hisuian-zoroark-ex"
+    }
+  },
+  {
+    "id": "B3b-083",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 83,
+    "setSize": 106,
+    "name": {
+      "en": "Elesa",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Return all Pokémon Tools attached to each Pokémon (both yours and your opponent's) to their owner's hand."
+    },
+    "illustrator": "Nobusawa/Mochipuyo",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-083-elesa"
+    }
+  },
+  {
+    "id": "B3b-084",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 84,
+    "setSize": 106,
+    "name": {
+      "en": "Puppy-Loving Girl",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Look at the top 4 cards of your deck. Put all Pokémon you find there that have the Puppy Pile attack into your hand. Shuffle the other cards back into your deck."
+    },
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-084-puppy-loving-girl"
+    }
+  },
+  {
+    "id": "B3b-085",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 85,
+    "setSize": 106,
+    "name": {
+      "en": "Wallace",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Choose 1 of your {W} Pokémon in play with a maximum HP of 50 or less. Put a random {W} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it."
+    },
+    "illustrator": "GIDORA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-085-wallace"
+    }
+  },
+  {
+    "id": "B3b-086",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 86,
+    "setSize": 106,
+    "name": {
+      "en": "Milotic ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Feebas",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Aqua Charge",
+            "ja": null
+          },
+          "text": "Once during your turn, you may take a {W} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Pulse",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Raita Kazama",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-086-milotic-ex"
+    }
+  },
+  {
+    "id": "B3b-087",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 87,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Diancie ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brilliant Storm",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {P} Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "REND",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-087-mega-diancie-ex"
+    }
+  },
+  {
+    "id": "B3b-088",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 88,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Sableye ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 170,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cursed Jewel",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yano Keiji",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-088-mega-sableye-ex"
+    }
+  },
+  {
+    "id": "B3b-089",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 89,
+    "setSize": 106,
+    "name": {
+      "en": "Hisuian Zoroark ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Stage1",
+      "evolvesFrom": "Hisuian Zorua",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spiteful Illusion",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Pokémon in your discard pile."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yoshioka",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-089-hisuian-zoroark-ex"
+    }
+  },
+  {
+    "id": "B3b-090",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 90,
+    "setSize": 106,
+    "name": {
+      "en": "Dedenne ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dede-Circuit",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": "×",
+          "text": "This attack does 40 damage for each Pokémon Tool attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-090-dedenne-ex"
+    }
+  },
+  {
+    "id": "B3b-091",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 91,
+    "setSize": 106,
+    "name": {
+      "en": "Caterpie",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Quick Growth",
+            "ja": null
+          },
+          "text": "At the end of your opponent's turn, if this Pokémon is in the Active Spot, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hook",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-091-caterpie"
+    }
+  },
+  {
+    "id": "B3b-092",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 92,
+    "setSize": 106,
+    "name": {
+      "en": "Metapod",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Caterpie",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-092-metapod"
+    }
+  },
+  {
+    "id": "B3b-093",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 93,
+    "setSize": 106,
+    "name": {
+      "en": "Butterfree",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Metapod",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sunny Wind",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-093-butterfree"
+    }
+  },
+  {
+    "id": "B3b-094",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 94,
+    "setSize": 106,
+    "name": {
+      "en": "Mareep",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rear Kick",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-094-mareep"
+    }
+  },
+  {
+    "id": "B3b-095",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 95,
+    "setSize": 106,
+    "name": {
+      "en": "Flaaffy",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Mareep",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Electric Punch",
+            "ja": null
+          },
+          "cost": ["Lightning", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-095-flaaffy"
+    }
+  },
+  {
+    "id": "B3b-096",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 96,
+    "setSize": 106,
+    "name": {
+      "en": "Ampharos",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Flaaffy",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Zapping Bullet",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean’s surface.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-096-ampharos"
+    }
+  },
+  {
+    "id": "B3b-097",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 97,
+    "setSize": 106,
+    "name": {
+      "en": "Slowbro",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psybeam",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "If the tail-biting Shellder is thrown off in a harsh battle, this Pokémon reverts to being an ordinary Slowpoke.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-097-slowbro"
+    }
+  },
+  {
+    "id": "B3b-098",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 98,
+    "setSize": 106,
+    "name": {
+      "en": "Kangaskhan",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Steady Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "There are records of a lost human child being raised by a childless Kangaskhan.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-098-kangaskhan"
+    }
+  },
+  {
+    "id": "B3b-099",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 99,
+    "setSize": 106,
+    "name": {
+      "en": "Ditto",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Copy a Friend",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It can freely recombine its own cellular structure to transform into other life-forms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-099-ditto"
+    }
+  },
+  {
+    "id": "B3b-100",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 100,
+    "setSize": 106,
+    "name": {
+      "en": "Snorlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Massive Body",
+            "ja": null
+          },
+          "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Punch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Its stomach’s digestive juices can dissolve any kind of poison. Eating things off the ground doesn’t bother it at all.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-100-snorlax"
+    }
+  },
+  {
+    "id": "B3b-101",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 101,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Gyarados ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 210,
+      "stage": "Stage1",
+      "evolvesFrom": "Magikarp",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Blaster",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water", "Colorless"],
+          "damage": 140,
+          "damageSuffix": null,
+          "text": "Discard the top 3 cards of your opponent's deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-101-mega-gyarados-ex"
+    }
+  },
+  {
+    "id": "B3b-102",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 102,
+    "setSize": 106,
+    "name": {
+      "en": "Vaporeon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Frozen Flow",
+            "ja": null
+          },
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wave Splash",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-102-vaporeon-ex"
+    }
+  },
+  {
+    "id": "B3b-103",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 103,
+    "setSize": 106,
+    "name": {
+      "en": "Mega Ampharos ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 210,
+      "stage": "Stage2",
+      "evolvesFrom": "Flaaffy",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Lancer",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-103-mega-ampharos-ex"
+    }
+  },
+  {
+    "id": "B3b-104",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 104,
+    "setSize": 106,
+    "name": {
+      "en": "Indeedee ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Watch Over",
+            "ja": null
+          },
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-104-indeedee-ex"
+    }
+  },
+  {
+    "id": "B3b-105",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 105,
+    "setSize": 106,
+    "name": {
+      "en": "Munchlax",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "{0} Hungrily Draw",
+            "ja": null
+          },
+          "cost": [],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ayaka Yoshida",
+    "boosterPacks": null,
+    "flavorText": "When it is voraciously gulping down food, it forgets about the food it has hidden under its fur.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-105-munchlax"
+    }
+  },
+  {
+    "id": "B3b-106",
+    "set": {
+      "code": "B3b",
+      "name": "Everyday Wonders",
+      "nameJa": "ミラクルデイズ"
+    },
+    "number": 106,
+    "setSize": 106,
+    "name": {
+      "en": "Small Balloon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "The Retreat Cost of the Basic Pokémon this card is attached to is 1 less."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3b-106-small-balloon"
+    }
+  }
+]

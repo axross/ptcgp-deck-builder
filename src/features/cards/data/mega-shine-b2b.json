@@ -1,0 +1,6450 @@
+[
+  {
+    "id": "B2b-001",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 1,
+    "setSize": 117,
+    "name": {
+      "en": "Scyther",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "U-turn",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GIDORA",
+    "boosterPacks": null,
+    "flavorText": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-001-scyther"
+    }
+  },
+  {
+    "id": "B2b-002",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 2,
+    "setSize": 117,
+    "name": {
+      "en": "Pineco",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hang Down",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-002-pineco"
+    }
+  },
+  {
+    "id": "B2b-003",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 3,
+    "setSize": 117,
+    "name": {
+      "en": "Volbeat",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Confuse Ray",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-003-volbeat"
+    }
+  },
+  {
+    "id": "B2b-004",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 4,
+    "setSize": 117,
+    "name": {
+      "en": "Illumise",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mental Crush",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-004-illumise"
+    }
+  },
+  {
+    "id": "B2b-005",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 5,
+    "setSize": 117,
+    "name": {
+      "en": "Phantump",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon came to be when the spirit of a deceased child possessed a tree stump. It now wanders the forest searching for friends.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-005-phantump"
+    }
+  },
+  {
+    "id": "B2b-006",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 6,
+    "setSize": 117,
+    "name": {
+      "en": "Trevenant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Phantump",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rumble Stomp",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Narumi Sato",
+    "boosterPacks": null,
+    "flavorText": "Trevenant is very kind to Pokémon living in the forest. It doesn’t even care if these Pokémon take up residence in the greenery on its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-006-trevenant"
+    }
+  },
+  {
+    "id": "B2b-007",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 7,
+    "setSize": 117,
+    "name": {
+      "en": "Charmander",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flame Tail",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Masakazu Fukuda",
+    "boosterPacks": null,
+    "flavorText": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-007-charmander"
+    }
+  },
+  {
+    "id": "B2b-008",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 8,
+    "setSize": 117,
+    "name": {
+      "en": "Charmeleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Charmander",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ignition",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slash",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-008-charmeleon"
+    }
+  },
+  {
+    "id": "B2b-009",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 9,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Charizard X ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raging Blaze",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-009-mega-charizard-x-ex"
+    }
+  },
+  {
+    "id": "B2b-010",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 10,
+    "setSize": 117,
+    "name": {
+      "en": "Ponyta",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Singe",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-010-ponyta"
+    }
+  },
+  {
+    "id": "B2b-011",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 11,
+    "setSize": 117,
+    "name": {
+      "en": "Rapidash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Ponyta",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Overdrive Smash",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Lee HyunJung",
+    "boosterPacks": null,
+    "flavorText": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-011-rapidash"
+    }
+  },
+  {
+    "id": "B2b-012",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 12,
+    "setSize": 117,
+    "name": {
+      "en": "Magmar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Whap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "Wavering flames similar to those of the sun appear on the surface of this Pokémon’s body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-012-magmar"
+    }
+  },
+  {
+    "id": "B2b-013",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 13,
+    "setSize": 117,
+    "name": {
+      "en": "Magmortar",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Magmar",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thundering Volcano",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "If Electivire is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "They dwell in volcanic craters. It’s said that only a single pair of Magmortar will inhabit any given volcano.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-013-magmortar"
+    }
+  },
+  {
+    "id": "B2b-014",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 14,
+    "setSize": 117,
+    "name": {
+      "en": "Paldean Tauros",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Take Down",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-014-paldean-tauros"
+    }
+  },
+  {
+    "id": "B2b-015",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 15,
+    "setSize": 117,
+    "name": {
+      "en": "Slowpoke",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Narumi Sato",
+    "boosterPacks": null,
+    "flavorText": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-015-slowpoke"
+    }
+  },
+  {
+    "id": "B2b-016",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 16,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Slowbro ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Laundry-Go-Round",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-016-mega-slowbro-ex"
+    }
+  },
+  {
+    "id": "B2b-017",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 17,
+    "setSize": 117,
+    "name": {
+      "en": "Lapras",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raging Freeze",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "buchi",
+    "boosterPacks": null,
+    "flavorText": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-017-lapras"
+    }
+  },
+  {
+    "id": "B2b-018",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 18,
+    "setSize": 117,
+    "name": {
+      "en": "Piplup",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Gun",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shibuzoh.",
+    "boosterPacks": null,
+    "flavorText": "It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-018-piplup"
+    }
+  },
+  {
+    "id": "B2b-019",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 19,
+    "setSize": 117,
+    "name": {
+      "en": "Prinplup",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Piplup",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Water Splash",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Suwama Chiaki",
+    "boosterPacks": null,
+    "flavorText": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-019-prinplup"
+    }
+  },
+  {
+    "id": "B2b-020",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 20,
+    "setSize": 117,
+    "name": {
+      "en": "Empoleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Prinplup",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Emperor’s Strike",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It avoids unnecessary disputes, but it will mercilessly decimate anything that threatens the safety of its colony.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-020-empoleon"
+    }
+  },
+  {
+    "id": "B2b-021",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 21,
+    "setSize": 117,
+    "name": {
+      "en": "Phione",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aqua Turbo",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Take a {W} Energy from your Energy Zone and attach it to 1 of your Benched {W} Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-021-phione"
+    }
+  },
+  {
+    "id": "B2b-022",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 22,
+    "setSize": 117,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Static Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-022-pikachu"
+    }
+  },
+  {
+    "id": "B2b-023",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 23,
+    "setSize": 117,
+    "name": {
+      "en": "Raichu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Pikachu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Megumi Mizutani",
+    "boosterPacks": null,
+    "flavorText": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-023-raichu"
+    }
+  },
+  {
+    "id": "B2b-024",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 24,
+    "setSize": 117,
+    "name": {
+      "en": "Electabuzz",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Head Bolt",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OKACHEKE",
+    "boosterPacks": null,
+    "flavorText": "Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-024-electabuzz"
+    }
+  },
+  {
+    "id": "B2b-025",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 25,
+    "setSize": 117,
+    "name": {
+      "en": "Electivire",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Electabuzz",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Incendiary Thunder",
+            "ja": null
+          },
+          "cost": ["Lightning", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If Magmortar is on your Bench, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-025-electivire"
+    }
+  },
+  {
+    "id": "B2b-026",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 26,
+    "setSize": 117,
+    "name": {
+      "en": "Electrike",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Attack",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-026-electrike"
+    }
+  },
+  {
+    "id": "B2b-027",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 27,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Manectric ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Electrike",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Accelerator",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-027-mega-manectric-ex"
+    }
+  },
+  {
+    "id": "B2b-028",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 28,
+    "setSize": 117,
+    "name": {
+      "en": "Drowzee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hypnosis",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-028-drowzee"
+    }
+  },
+  {
+    "id": "B2b-029",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 29,
+    "setSize": 117,
+    "name": {
+      "en": "Hypno",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Drowzee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hypnoblast",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "OOYAMA",
+    "boosterPacks": null,
+    "flavorText": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-029-hypno"
+    }
+  },
+  {
+    "id": "B2b-030",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 30,
+    "setSize": 117,
+    "name": {
+      "en": "Mew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Miraculous Memory",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Atsuko Nishida",
+    "boosterPacks": null,
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-030-mew"
+    }
+  },
+  {
+    "id": "B2b-031",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 31,
+    "setSize": 117,
+    "name": {
+      "en": "Spoink",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psyshot",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-031-spoink"
+    }
+  },
+  {
+    "id": "B2b-032",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 32,
+    "setSize": 117,
+    "name": {
+      "en": "Grumpig",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Spoink",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Swaying Dance",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sanosuke Sakuma",
+    "boosterPacks": null,
+    "flavorText": "It uses black pearls to amplify its psychic power. It does a strange dance to control foes’ minds.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-032-grumpig"
+    }
+  },
+  {
+    "id": "B2b-033",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 33,
+    "setSize": 117,
+    "name": {
+      "en": "Diglett",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slight Intrusion",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-033-diglett"
+    }
+  },
+  {
+    "id": "B2b-034",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 34,
+    "setSize": 117,
+    "name": {
+      "en": "Dugtrio",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Diglett",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mud Bomb",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kyoko Umemoto",
+    "boosterPacks": null,
+    "flavorText": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-034-dugtrio"
+    }
+  },
+  {
+    "id": "B2b-035",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 35,
+    "setSize": 117,
+    "name": {
+      "en": "Groudon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gaia Blast",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Uta",
+    "boosterPacks": null,
+    "flavorText": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-035-groudon"
+    }
+  },
+  {
+    "id": "B2b-036",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 36,
+    "setSize": 117,
+    "name": {
+      "en": "Hawlucha",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Take Down",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GOSSAN",
+    "boosterPacks": null,
+    "flavorText": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-036-hawlucha"
+    }
+  },
+  {
+    "id": "B2b-037",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 37,
+    "setSize": 117,
+    "name": {
+      "en": "Gastly",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mumble",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nobuhiro Imagawa",
+    "boosterPacks": null,
+    "flavorText": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-037-gastly"
+    }
+  },
+  {
+    "id": "B2b-038",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 38,
+    "setSize": 117,
+    "name": {
+      "en": "Haunter",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Gastly",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spin Turn",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-038-haunter"
+    }
+  },
+  {
+    "id": "B2b-039",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 39,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Gengar ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 210,
+      "stage": "Stage2",
+      "evolvesFrom": "Haunter",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Labyrinth of Shadows",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-039-mega-gengar-ex"
+    }
+  },
+  {
+    "id": "B2b-040",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 40,
+    "setSize": 117,
+    "name": {
+      "en": "Darkrai",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Bad Dreams",
+            "ja": null
+          },
+          "text": "At the end of each turn, if your opponent's Active Pokémon is Asleep, do 20 damage to that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dark Slumber",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-040-darkrai"
+    }
+  },
+  {
+    "id": "B2b-041",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 41,
+    "setSize": 117,
+    "name": {
+      "en": "Trubbish",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sludge Toss",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-041-trubbish"
+    }
+  },
+  {
+    "id": "B2b-042",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 42,
+    "setSize": 117,
+    "name": {
+      "en": "Garbodor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Trubbish",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sludge Whirlpool",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sui",
+    "boosterPacks": null,
+    "flavorText": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-042-garbodor"
+    }
+  },
+  {
+    "id": "B2b-043",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 43,
+    "setSize": 117,
+    "name": {
+      "en": "Zorua",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Surprise Attack",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-043-zorua"
+    }
+  },
+  {
+    "id": "B2b-044",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 44,
+    "setSize": 117,
+    "name": {
+      "en": "Zoroark",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Zorua",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energy Crush",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-044-zoroark"
+    }
+  },
+  {
+    "id": "B2b-045",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 45,
+    "setSize": 117,
+    "name": {
+      "en": "Morpeko",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energizer Wheel",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": "Hunger has disrupted this Pokémon’s hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-045-morpeko"
+    }
+  },
+  {
+    "id": "B2b-046",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 46,
+    "setSize": 117,
+    "name": {
+      "en": "Forretress",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Pineco",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Enormous Explosion",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Metal"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Lee HyunJung",
+    "boosterPacks": null,
+    "flavorText": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-046-forretress"
+    }
+  },
+  {
+    "id": "B2b-047",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 47,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Scizor ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Scyther",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bullet Slugger",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-047-mega-scizor-ex"
+    }
+  },
+  {
+    "id": "B2b-048",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 48,
+    "setSize": 117,
+    "name": {
+      "en": "Kartana",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thrash Metal",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-048-kartana"
+    }
+  },
+  {
+    "id": "B2b-049",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 49,
+    "setSize": 117,
+    "name": {
+      "en": "Varoom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Suffocating Gas",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-049-varoom"
+    }
+  },
+  {
+    "id": "B2b-050",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 50,
+    "setSize": 117,
+    "name": {
+      "en": "Revavroom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Varoom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Metal Transport",
+            "ja": null
+          },
+          "text": "Once during your turn, you may switch your Active {M} Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Outta-Control Dash",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "DOM",
+    "boosterPacks": null,
+    "flavorText": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-050-revavroom"
+    }
+  },
+  {
+    "id": "B2b-051",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 51,
+    "setSize": 117,
+    "name": {
+      "en": "Dratini",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Strike",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-051-dratini"
+    }
+  },
+  {
+    "id": "B2b-052",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 52,
+    "setSize": 117,
+    "name": {
+      "en": "Dragonair",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Dratini",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sky’s Blessing",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take a {W} and a {L} Energy from your Energy Zone and attach them to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-052-dragonair"
+    }
+  },
+  {
+    "id": "B2b-053",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 53,
+    "setSize": 117,
+    "name": {
+      "en": "Dragonite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Dragonair",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Wave",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "Discard a {W} and a {L} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-053-dragonite"
+    }
+  },
+  {
+    "id": "B2b-054",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 54,
+    "setSize": 117,
+    "name": {
+      "en": "Axew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Fang",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yukiko Baba",
+    "boosterPacks": null,
+    "flavorText": "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-054-axew"
+    }
+  },
+  {
+    "id": "B2b-055",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 55,
+    "setSize": 117,
+    "name": {
+      "en": "Fraxure",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Axew",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hataya",
+    "boosterPacks": null,
+    "flavorText": "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-055-fraxure"
+    }
+  },
+  {
+    "id": "B2b-056",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 56,
+    "setSize": 117,
+    "name": {
+      "en": "Haxorus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Fraxure",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Frenzied Blade",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-056-haxorus"
+    }
+  },
+  {
+    "id": "B2b-057",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 57,
+    "setSize": 117,
+    "name": {
+      "en": "Druddigon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Clutch",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-057-druddigon"
+    }
+  },
+  {
+    "id": "B2b-058",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 58,
+    "setSize": 117,
+    "name": {
+      "en": "Jigglypuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Stampede",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-058-jigglypuff"
+    }
+  },
+  {
+    "id": "B2b-059",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 59,
+    "setSize": 117,
+    "name": {
+      "en": "Wigglytuff",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Jigglypuff",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hammer In",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Asako Ito",
+    "boosterPacks": null,
+    "flavorText": "The rich, fluffy fur that covers its body feels so good that anyone who feels it can’t stop touching it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-059-wigglytuff"
+    }
+  },
+  {
+    "id": "B2b-060",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 60,
+    "setSize": 117,
+    "name": {
+      "en": "Miltank",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rout",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-060-miltank"
+    }
+  },
+  {
+    "id": "B2b-061",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 61,
+    "setSize": 117,
+    "name": {
+      "en": "Chatot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spinning Draw",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Draw a card."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "It can learn and speak human words. If they gather, they all learn the same saying.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-061-chatot"
+    }
+  },
+  {
+    "id": "B2b-062",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 62,
+    "setSize": 117,
+    "name": {
+      "en": "Minccino",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Play Rough",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kirisAki",
+    "boosterPacks": null,
+    "flavorText": "These Pokémon like things neat and tidy. They are always sweeping and dusting their habitat, using their tails as brooms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-062-minccino"
+    }
+  },
+  {
+    "id": "B2b-063",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 63,
+    "setSize": 117,
+    "name": {
+      "en": "Cinccino",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Minccino",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gentle Slap",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-063-cinccino"
+    }
+  },
+  {
+    "id": "B2b-064",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 64,
+    "setSize": 117,
+    "name": {
+      "en": "Furfrou",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Fur Coat",
+            "ja": null
+          },
+          "text": "This Pokémon takes −20 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Blow",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-064-furfrou"
+    }
+  },
+  {
+    "id": "B2b-065",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 65,
+    "setSize": 117,
+    "name": {
+      "en": "Nasty Notice",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Your opponent discards cards from their hand until they have 4 cards in their hand."
+    },
+    "illustrator": "Studio Bora Inc.",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-065-nasty-notice"
+    }
+  },
+  {
+    "id": "B2b-066",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 66,
+    "setSize": 117,
+    "name": {
+      "en": "Maintenance",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Item",
+      "text": "Shuffle 2 cards from your hand into your deck. Draw a card. If you can't shuffle in 2 cards, you can't use this card."
+    },
+    "illustrator": "Toyste Beach",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-066-maintenance"
+    }
+  },
+  {
+    "id": "B2b-067",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 67,
+    "setSize": 117,
+    "name": {
+      "en": "Iris",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-067-iris"
+    }
+  },
+  {
+    "id": "B2b-068",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 68,
+    "setSize": 117,
+    "name": {
+      "en": "Calem",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Draw a card for each Mega Evolution Pokémon ex in play (both yours and your opponent's)."
+    },
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-068-calem"
+    }
+  },
+  {
+    "id": "B2b-069",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 69,
+    "setSize": 117,
+    "name": {
+      "en": "Hiking Trail",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Stadium",
+      "text": "At the end of each player's turn, that player draws cards until they have 3 cards in their hand."
+    },
+    "illustrator": "AYUMI ODASHIMA",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-069-hiking-trail"
+    }
+  },
+  {
+    "id": "B2b-070",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 70,
+    "setSize": 117,
+    "name": {
+      "en": "Lapras",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raging Freeze",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "zig",
+    "boosterPacks": null,
+    "flavorText": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-070-lapras"
+    }
+  },
+  {
+    "id": "B2b-071",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 71,
+    "setSize": 117,
+    "name": {
+      "en": "Empoleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Prinplup",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Emperor’s Strike",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It avoids unnecessary disputes, but it will mercilessly decimate anything that threatens the safety of its colony.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-071-empoleon"
+    }
+  },
+  {
+    "id": "B2b-072",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 72,
+    "setSize": 117,
+    "name": {
+      "en": "Groudon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gaia Blast",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless", "Colorless"],
+          "damage": 130,
+          "damageSuffix": null,
+          "text": "Discard 2 random Energy from among the Energy attached to all of your Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-072-groudon"
+    }
+  },
+  {
+    "id": "B2b-073",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 73,
+    "setSize": 117,
+    "name": {
+      "en": "Morpeko",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energizer Wheel",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Move 2 {D} Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "Hunger has disrupted this Pokémon’s hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-073-morpeko"
+    }
+  },
+  {
+    "id": "B2b-074",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 74,
+    "setSize": 117,
+    "name": {
+      "en": "Revavroom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Varoom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Metal Transport",
+            "ja": null
+          },
+          "text": "Once during your turn, you may switch your Active {M} Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Outta-Control Dash",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Rianti Hidayat",
+    "boosterPacks": null,
+    "flavorText": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-074-revavroom"
+    }
+  },
+  {
+    "id": "B2b-075",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 75,
+    "setSize": 117,
+    "name": {
+      "en": "Miltank",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rout",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yuu Nishida",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-075-miltank"
+    }
+  },
+  {
+    "id": "B2b-076",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 76,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Charizard X ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raging Blaze",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-076-mega-charizard-x-ex"
+    }
+  },
+  {
+    "id": "B2b-077",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 77,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Slowbro ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Laundry-Go-Round",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-077-mega-slowbro-ex"
+    }
+  },
+  {
+    "id": "B2b-078",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 78,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Manectric ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Electrike",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Accelerator",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-078-mega-manectric-ex"
+    }
+  },
+  {
+    "id": "B2b-079",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 79,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Gengar ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 210,
+      "stage": "Stage2",
+      "evolvesFrom": "Haunter",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Labyrinth of Shadows",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-079-mega-gengar-ex"
+    }
+  },
+  {
+    "id": "B2b-080",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 80,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Scizor ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Scyther",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bullet Slugger",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-080-mega-scizor-ex"
+    }
+  },
+  {
+    "id": "B2b-081",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 81,
+    "setSize": 117,
+    "name": {
+      "en": "Iris",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your Haxorus, you get 1 more point."
+    },
+    "illustrator": "Susumu Maeya",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-081-iris"
+    }
+  },
+  {
+    "id": "B2b-082",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 82,
+    "setSize": 117,
+    "name": {
+      "en": "Calem",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Draw a card for each Mega Evolution Pokémon ex in play (both yours and your opponent's)."
+    },
+    "illustrator": "Ryuta Fuse",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-082-calem"
+    }
+  },
+  {
+    "id": "B2b-083",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 83,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Slowbro ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Laundry-Go-Round",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "USGMEN",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-083-mega-slowbro-ex"
+    }
+  },
+  {
+    "id": "B2b-084",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 84,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Manectric ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Electrike",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Accelerator",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GOSSAN",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-084-mega-manectric-ex"
+    }
+  },
+  {
+    "id": "B2b-085",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 85,
+    "setSize": 117,
+    "name": {
+      "en": "Mew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Miraculous Memory",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-085-mew"
+    }
+  },
+  {
+    "id": "B2b-086",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 86,
+    "setSize": 117,
+    "name": {
+      "en": "Mew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Miraculous Memory",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-086-mew"
+    }
+  },
+  {
+    "id": "B2b-087",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 87,
+    "setSize": 117,
+    "name": {
+      "en": "Scyther",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "U-turn",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-087-scyther"
+    }
+  },
+  {
+    "id": "B2b-088",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 88,
+    "setSize": 117,
+    "name": {
+      "en": "Pineco",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hang Down",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "It spits out a fluid that it uses to glue tree bark to its body. The fluid hardens when it touches air.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-088-pineco"
+    }
+  },
+  {
+    "id": "B2b-089",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 89,
+    "setSize": 117,
+    "name": {
+      "en": "Phantump",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tackle",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon came to be when the spirit of a deceased child possessed a tree stump. It now wanders the forest searching for friends.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-089-phantump"
+    }
+  },
+  {
+    "id": "B2b-090",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 90,
+    "setSize": 117,
+    "name": {
+      "en": "Trevenant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Phantump",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rumble Stomp",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "Trevenant is very kind to Pokémon living in the forest. It doesn’t even care if these Pokémon take up residence in the greenery on its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-090-trevenant"
+    }
+  },
+  {
+    "id": "B2b-091",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 91,
+    "setSize": 117,
+    "name": {
+      "en": "Charmander",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flame Tail",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-091-charmander"
+    }
+  },
+  {
+    "id": "B2b-092",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 92,
+    "setSize": 117,
+    "name": {
+      "en": "Charmeleon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Charmander",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ignition",
+            "ja": null
+          },
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {R} Energy from your Energy Zone and attach it to your Active {R} Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slash",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-092-charmeleon"
+    }
+  },
+  {
+    "id": "B2b-093",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 93,
+    "setSize": 117,
+    "name": {
+      "en": "Ponyta",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Singe",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "If you’ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-093-ponyta"
+    }
+  },
+  {
+    "id": "B2b-094",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 94,
+    "setSize": 117,
+    "name": {
+      "en": "Rapidash",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Ponyta",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Overdrive Smash",
+            "ja": null
+          },
+          "cost": ["Fire"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does +30 damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-094-rapidash"
+    }
+  },
+  {
+    "id": "B2b-095",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 95,
+    "setSize": 117,
+    "name": {
+      "en": "Slowpoke",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-095-slowpoke"
+    }
+  },
+  {
+    "id": "B2b-096",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 96,
+    "setSize": 117,
+    "name": {
+      "en": "Pikachu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Static Shock",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-096-pikachu"
+    }
+  },
+  {
+    "id": "B2b-097",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 97,
+    "setSize": 117,
+    "name": {
+      "en": "Raichu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Pikachu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thunder",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "If the electric pouches in its cheeks become fully charged, both ears will stand straight up.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-097-raichu"
+    }
+  },
+  {
+    "id": "B2b-098",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 98,
+    "setSize": 117,
+    "name": {
+      "en": "Electrike",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Attack",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-098-electrike"
+    }
+  },
+  {
+    "id": "B2b-099",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 99,
+    "setSize": 117,
+    "name": {
+      "en": "Hawlucha",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Take Down",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-099-hawlucha"
+    }
+  },
+  {
+    "id": "B2b-100",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 100,
+    "setSize": 117,
+    "name": {
+      "en": "Gastly",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mumble",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-100-gastly"
+    }
+  },
+  {
+    "id": "B2b-101",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 101,
+    "setSize": 117,
+    "name": {
+      "en": "Haunter",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Gastly",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spin Turn",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-101-haunter"
+    }
+  },
+  {
+    "id": "B2b-102",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 102,
+    "setSize": 117,
+    "name": {
+      "en": "Zorua",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Surprise Attack",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-102-zorua"
+    }
+  },
+  {
+    "id": "B2b-103",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 103,
+    "setSize": 117,
+    "name": {
+      "en": "Zoroark",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Zorua",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Energy Crush",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Krgc",
+    "boosterPacks": null,
+    "flavorText": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-103-zoroark"
+    }
+  },
+  {
+    "id": "B2b-104",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 104,
+    "setSize": 117,
+    "name": {
+      "en": "Forretress",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Pineco",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Enormous Explosion",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Metal"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-104-forretress"
+    }
+  },
+  {
+    "id": "B2b-105",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 105,
+    "setSize": 117,
+    "name": {
+      "en": "Dratini",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Strike",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-105-dratini"
+    }
+  },
+  {
+    "id": "B2b-106",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 106,
+    "setSize": 117,
+    "name": {
+      "en": "Dragonair",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Dratini",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sky’s Blessing",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take a {W} and a {L} Energy from your Energy Zone and attach them to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-106-dragonair"
+    }
+  },
+  {
+    "id": "B2b-107",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 107,
+    "setSize": 117,
+    "name": {
+      "en": "Dragonite",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Dragonair",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Wave",
+            "ja": null
+          },
+          "cost": ["Water", "Lightning", "Colorless"],
+          "damage": 150,
+          "damageSuffix": null,
+          "text": "Discard a {W} and a {L} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-107-dragonite"
+    }
+  },
+  {
+    "id": "B2b-108",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 108,
+    "setSize": 117,
+    "name": {
+      "en": "Axew",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Fang",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-108-axew"
+    }
+  },
+  {
+    "id": "B2b-109",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 109,
+    "setSize": 117,
+    "name": {
+      "en": "Fraxure",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Axew",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dragon Claw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-109-fraxure"
+    }
+  },
+  {
+    "id": "B2b-110",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 110,
+    "setSize": 117,
+    "name": {
+      "en": "Haxorus",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Fraxure",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Frenzied Blade",
+            "ja": null
+          },
+          "cost": ["Fighting", "Metal", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-110-haxorus"
+    }
+  },
+  {
+    "id": "B2b-111",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 111,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Charizard X ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 220,
+      "stage": "Stage2",
+      "evolvesFrom": "Charmeleon",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raging Blaze",
+            "ja": null
+          },
+          "cost": ["Fire", "Fire", "Fire"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-111-mega-charizard-x-ex"
+    }
+  },
+  {
+    "id": "B2b-112",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 112,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Slowbro ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Slowpoke",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Laundry-Go-Round",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-112-mega-slowbro-ex"
+    }
+  },
+  {
+    "id": "B2b-113",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 113,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Manectric ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 180,
+      "stage": "Stage1",
+      "evolvesFrom": "Electrike",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lightning Accelerator",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each point you have gotten."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-113-mega-manectric-ex"
+    }
+  },
+  {
+    "id": "B2b-114",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 114,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Gengar ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 210,
+      "stage": "Stage2",
+      "evolvesFrom": "Haunter",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Labyrinth of Shadows",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Darkness", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, they can't play any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-114-mega-gengar-ex"
+    }
+  },
+  {
+    "id": "B2b-115",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 115,
+    "setSize": 117,
+    "name": {
+      "en": "Mega Scizor ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 200,
+      "stage": "Stage1",
+      "evolvesFrom": "Scyther",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bullet Slugger",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 100,
+          "damageSuffix": "+",
+          "text": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-115-mega-scizor-ex"
+    }
+  },
+  {
+    "id": "B2b-116",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 116,
+    "setSize": 117,
+    "name": {
+      "en": "Arboliva",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Dolliv",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Extra Heal",
+            "ja": null
+          },
+          "text": "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Seed Bomb",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": "This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-116-arboliva"
+    }
+  },
+  {
+    "id": "B2b-117",
+    "set": {
+      "code": "B2b",
+      "name": "Mega Shine",
+      "nameJa": "シャイニングメガ"
+    },
+    "number": 117,
+    "setSize": 117,
+    "name": {
+      "en": "Metal Core Barrier",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.\n\nThe {M} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon."
+    },
+    "illustrator": "Studio Bora Inc.",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b2b-117-metal-core-barrier"
+    }
+  }
+]

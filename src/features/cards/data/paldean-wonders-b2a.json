@@ -1735,9 +1735,9 @@
       "ja": null
     },
     "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -3993,9 +3993,9 @@
       "ja": null
     },
     "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -5946,8 +5946,8 @@
     },
     "rarity": {
       "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
+      "code": "SAR",
+      "label": "Special Art Rare"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -6012,8 +6012,8 @@
     },
     "rarity": {
       "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
+      "code": "SAR",
+      "label": "Special Art Rare"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -6076,8 +6076,8 @@
     },
     "rarity": {
       "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
+      "code": "SAR",
+      "label": "Special Art Rare"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -6142,8 +6142,8 @@
     },
     "rarity": {
       "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
+      "code": "SAR",
+      "label": "Special Art Rare"
     },
     "category": "Pokemon",
     "pokemon": {
@@ -6198,8 +6198,8 @@
     },
     "rarity": {
       "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
+      "code": "SAR",
+      "label": "Special Art Rare"
     },
     "category": "Pokemon",
     "pokemon": {
