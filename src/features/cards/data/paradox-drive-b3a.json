@@ -1,0 +1,6056 @@
+[
+  {
+    "id": "B3a-001",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 1,
+    "setSize": 109,
+    "name": {
+      "en": "Surskit",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Yoriyuki Ikegami",
+    "boosterPacks": null,
+    "flavorText": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-001-surskit"
+    }
+  },
+  {
+    "id": "B3a-002",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 2,
+    "setSize": 109,
+    "name": {
+      "en": "Masquerain",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Surskit",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Air Slash",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "Discard a random Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kantaro",
+    "boosterPacks": null,
+    "flavorText": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-002-masquerain"
+    }
+  },
+  {
+    "id": "B3a-003",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 3,
+    "setSize": 109,
+    "name": {
+      "en": "Brute Bonnet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spirited Smack",
+            "ja": null
+          },
+          "cost": ["Grass", "Colorless"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-003-brute-bonnet"
+    }
+  },
+  {
+    "id": "B3a-004",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 4,
+    "setSize": 109,
+    "name": {
+      "en": "Slither Wing",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wildly Writhe",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 60 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-004-slither-wing"
+    }
+  },
+  {
+    "id": "B3a-005",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 5,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Moth",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Thermal Gust",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 more damage. If all of them are heads, this attack does 120 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-005-iron-moth"
+    }
+  },
+  {
+    "id": "B3a-006",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 6,
+    "setSize": 109,
+    "name": {
+      "en": "Psyduck",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ram",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-006-psyduck"
+    }
+  },
+  {
+    "id": "B3a-007",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 7,
+    "setSize": 109,
+    "name": {
+      "en": "Golduck",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Psyduck",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psychic",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taira Akitsu",
+    "boosterPacks": null,
+    "flavorText": "It swims gracefully along on the quiet, slow- moving rivers and lakes of which it is so fond.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-007-golduck"
+    }
+  },
+  {
+    "id": "B3a-008",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 8,
+    "setSize": 109,
+    "name": {
+      "en": "Vaporeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Impound",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kirisAki",
+    "boosterPacks": null,
+    "flavorText": "Its cell composition is similar to water molecules. As a result, it can’t be seen when it melts away into water.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-008-vaporeon"
+    }
+  },
+  {
+    "id": "B3a-009",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 9,
+    "setSize": 109,
+    "name": {
+      "en": "Buizel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Surf",
+            "ja": null
+          },
+          "cost": ["Water", "Water"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sekio",
+    "boosterPacks": null,
+    "flavorText": "It inflates its flotation sac, keeping its face above water in order to watch for prey movement.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-009-buizel"
+    }
+  },
+  {
+    "id": "B3a-010",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 10,
+    "setSize": 109,
+    "name": {
+      "en": "Floatzel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Buizel",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Waterfall",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Water"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kodama",
+    "boosterPacks": null,
+    "flavorText": "It is a common sight around fishing ports. It is known to rescue people and help fishers carry what they caught.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-010-floatzel"
+    }
+  },
+  {
+    "id": "B3a-011",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 11,
+    "setSize": 109,
+    "name": {
+      "en": "Snom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gnaw",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-011-snom"
+    }
+  },
+  {
+    "id": "B3a-012",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 12,
+    "setSize": 109,
+    "name": {
+      "en": "Frosmoth",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Snom",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Aurora Beam",
+            "ja": null
+          },
+          "cost": ["Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "It causes blizzards as it flies around with its huge, chill-emanating wings. Clean meltwater is its favorite thing to drink.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-012-frosmoth"
+    }
+  },
+  {
+    "id": "B3a-013",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 13,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Bundle ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cold Start",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ultimateinudog",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-013-iron-bundle-ex"
+    }
+  },
+  {
+    "id": "B3a-014",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 14,
+    "setSize": 109,
+    "name": {
+      "en": "Pawmi",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Bite",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-014-pawmi"
+    }
+  },
+  {
+    "id": "B3a-015",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 15,
+    "setSize": 109,
+    "name": {
+      "en": "Pawmo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Pawmi",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spark",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-015-pawmo"
+    }
+  },
+  {
+    "id": "B3a-016",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 16,
+    "setSize": 109,
+    "name": {
+      "en": "Pawmot",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 130,
+      "stage": "Stage2",
+      "evolvesFrom": "Pawmo",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Volt Wave",
+            "ja": null
+          },
+          "cost": ["Lightning"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "GIDORA",
+    "boosterPacks": null,
+    "flavorText": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-016-pawmot"
+    }
+  },
+  {
+    "id": "B3a-017",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 17,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Hands",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Successive Slapping",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning", "Colorless"],
+          "damage": 70,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 70 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nisota Niso",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-017-iron-hands"
+    }
+  },
+  {
+    "id": "B3a-018",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 18,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Thorns",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Binary Thunder",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-018-iron-thorns"
+    }
+  },
+  {
+    "id": "B3a-019",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 19,
+    "setSize": 109,
+    "name": {
+      "en": "Miraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hadron Ray",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {L} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-019-miraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-020",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 20,
+    "setSize": 109,
+    "name": {
+      "en": "Espeon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hypnoblast",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mizue",
+    "boosterPacks": null,
+    "flavorText": "It uses the fine hair that covers its body to sense air currents and predict its enemy’s actions.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-020-espeon"
+    }
+  },
+  {
+    "id": "B3a-021",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 21,
+    "setSize": 109,
+    "name": {
+      "en": "Flittle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psy Bolt",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tika Matsuno",
+    "boosterPacks": null,
+    "flavorText": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-021-flittle"
+    }
+  },
+  {
+    "id": "B3a-022",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 22,
+    "setSize": 109,
+    "name": {
+      "en": "Espathra",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Flittle",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Lumina Crash",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "During your next turn, the Defending Pokémon takes +50 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-022-espathra"
+    }
+  },
+  {
+    "id": "B3a-023",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 23,
+    "setSize": 109,
+    "name": {
+      "en": "Greavard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sharp Fang",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-023-greavard"
+    }
+  },
+  {
+    "id": "B3a-024",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 24,
+    "setSize": 109,
+    "name": {
+      "en": "Houndstone",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Stage1",
+      "evolvesFrom": "Greavard",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spooky Shot",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Saya Tsuruta",
+    "boosterPacks": null,
+    "flavorText": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-024-houndstone"
+    }
+  },
+  {
+    "id": "B3a-025",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 25,
+    "setSize": 109,
+    "name": {
+      "en": "Scream Tail",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Shooing Shout",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ryota Murayama",
+    "boosterPacks": null,
+    "flavorText": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-025-scream-tail"
+    }
+  },
+  {
+    "id": "B3a-026",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 26,
+    "setSize": 109,
+    "name": {
+      "en": "Flutter Mane ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spellbinding Start",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-026-flutter-mane-ex"
+    }
+  },
+  {
+    "id": "B3a-027",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 27,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Valiant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Future System",
+            "ja": null
+          },
+          "text": "Attacks used by your Future Pokémon cost 1 less {C} Energy."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slicing Blade",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "AKIRA EGAWA",
+    "boosterPacks": null,
+    "flavorText": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-027-iron-valiant"
+    }
+  },
+  {
+    "id": "B3a-028",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 28,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Leaves",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Avenging Edge",
+            "ja": null
+          },
+          "cost": ["Psychic", "Colorless", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kazumasa Yasukuni",
+    "boosterPacks": null,
+    "flavorText": "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-028-iron-leaves"
+    }
+  },
+  {
+    "id": "B3a-029",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 29,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Boulder",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Modular Axe",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tonji Matsuno",
+    "boosterPacks": null,
+    "flavorText": "It was named after a mysterious object recorded in an old book. Its body seems to be metallic.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-029-iron-boulder"
+    }
+  },
+  {
+    "id": "B3a-030",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 30,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Crown",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Enumerating Blade",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Natsumi Miyanose",
+    "boosterPacks": null,
+    "flavorText": "There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-030-iron-crown"
+    }
+  },
+  {
+    "id": "B3a-031",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 31,
+    "setSize": 109,
+    "name": {
+      "en": "Nacli",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbutt",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ounishi",
+    "boosterPacks": null,
+    "flavorText": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-031-nacli"
+    }
+  },
+  {
+    "id": "B3a-032",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 32,
+    "setSize": 109,
+    "name": {
+      "en": "Naclstack",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 110,
+      "stage": "Stage1",
+      "evolvesFrom": "Nacli",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rock Throw",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KEIICHIRO ITO",
+    "boosterPacks": null,
+    "flavorText": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-032-naclstack"
+    }
+  },
+  {
+    "id": "B3a-033",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 33,
+    "setSize": 109,
+    "name": {
+      "en": "Garganacl",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Stage2",
+      "evolvesFrom": "Naclstack",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [
+        {
+          "name": {
+            "en": "Blessed Salt",
+            "ja": null
+          },
+          "text": "During Pokémon Checkup, heal 10 damage from each of your Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Land Crush",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "Many Pokémon gather around Garganacl, hoping to lick at its mineral-rich salt.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-033-garganacl"
+    }
+  },
+  {
+    "id": "B3a-034",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 34,
+    "setSize": 109,
+    "name": {
+      "en": "Great Tusk",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Shaking Stomp",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This attack also does 20 damage to each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomoki Sone",
+    "boosterPacks": null,
+    "flavorText": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-034-great-tusk"
+    }
+  },
+  {
+    "id": "B3a-035",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 35,
+    "setSize": 109,
+    "name": {
+      "en": "Sandy Shocks",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Pull In and Pound",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-035-sandy-shocks"
+    }
+  },
+  {
+    "id": "B3a-036",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 36,
+    "setSize": 109,
+    "name": {
+      "en": "Koraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "World Wrecker",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 110,
+          "damageSuffix": null,
+          "text": "Discard the top card of your deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "aky CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-036-koraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-037",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 37,
+    "setSize": 109,
+    "name": {
+      "en": "Umbreon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Eevee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Confuse Ray",
+            "ja": null
+          },
+          "cost": ["Darkness", "Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "rika",
+    "boosterPacks": null,
+    "flavorText": "When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-037-umbreon"
+    }
+  },
+  {
+    "id": "B3a-038",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 38,
+    "setSize": 109,
+    "name": {
+      "en": "Sneasel",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Quick Attack",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kagemaru Himeno",
+    "boosterPacks": null,
+    "flavorText": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-038-sneasel"
+    }
+  },
+  {
+    "id": "B3a-039",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 39,
+    "setSize": 109,
+    "name": {
+      "en": "Weavile",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Sneasel",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Raid",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "If this Pokémon evolved from Sneasel during this turn, this attack does 20 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Misa Tsutsui",
+    "boosterPacks": null,
+    "flavorText": "They travel in groups of four or five, leaving signs for one another on trees and rocks. They bring down their prey with coordinated attacks.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-039-weavile"
+    }
+  },
+  {
+    "id": "B3a-040",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 40,
+    "setSize": 109,
+    "name": {
+      "en": "Sableye",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Jeweled Gift",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take a random Energy from among {G}, {R}, {W}, {L}, {P}, {F}, {D}, and {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KEIICHIRO ITO",
+    "boosterPacks": null,
+    "flavorText": "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-040-sableye"
+    }
+  },
+  {
+    "id": "B3a-041",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 41,
+    "setSize": 109,
+    "name": {
+      "en": "Pawniard",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slash",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Sumiyoshi Kizuki",
+    "boosterPacks": null,
+    "flavorText": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-041-pawniard"
+    }
+  },
+  {
+    "id": "B3a-042",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 42,
+    "setSize": 109,
+    "name": {
+      "en": "Bisharp",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Pawniard",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Dark Cutter",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kouki Saitou",
+    "boosterPacks": null,
+    "flavorText": "It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-042-bisharp"
+    }
+  },
+  {
+    "id": "B3a-043",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 43,
+    "setSize": 109,
+    "name": {
+      "en": "Kingambit",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Bisharp",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Overlord’s Blade",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Anesaki Dynamic",
+    "boosterPacks": null,
+    "flavorText": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-043-kingambit"
+    }
+  },
+  {
+    "id": "B3a-044",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 44,
+    "setSize": 109,
+    "name": {
+      "en": "Glimmet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hang Down",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "sowsow",
+    "boosterPacks": null,
+    "flavorText": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-044-glimmet"
+    }
+  },
+  {
+    "id": "B3a-045",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 45,
+    "setSize": 109,
+    "name": {
+      "en": "Glimmora",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Glimmet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Shattering Crystal",
+            "ja": null
+          },
+          "text": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venomous Hit",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shin Nagasawa",
+    "boosterPacks": null,
+    "flavorText": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-045-glimmora"
+    }
+  },
+  {
+    "id": "B3a-046",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 46,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Jugulis",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Automated Combat",
+            "ja": null
+          },
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Blasting Wind",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-046-iron-jugulis"
+    }
+  },
+  {
+    "id": "B3a-047",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 47,
+    "setSize": 109,
+    "name": {
+      "en": "Roaring Moon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ancient Roar",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wind of Darkness",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Takeshi Nakamura",
+    "boosterPacks": null,
+    "flavorText": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-047-roaring-moon"
+    }
+  },
+  {
+    "id": "B3a-048",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 48,
+    "setSize": 109,
+    "name": {
+      "en": "Corviknight",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 140,
+      "stage": "Stage2",
+      "evolvesFrom": "Corvisquire",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Metal Claw",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal"],
+          "damage": 90,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Scav",
+    "boosterPacks": null,
+    "flavorText": "Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-048-corviknight"
+    }
+  },
+  {
+    "id": "B3a-049",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 49,
+    "setSize": 109,
+    "name": {
+      "en": "Cufant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Strength",
+            "ja": null
+          },
+          "cost": ["Metal", "Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-049-cufant"
+    }
+  },
+  {
+    "id": "B3a-050",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 50,
+    "setSize": 109,
+    "name": {
+      "en": "Copperajah",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 170,
+      "stage": "Stage1",
+      "evolvesFrom": "Cufant",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 4,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Iron Swing",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 100 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-050-copperajah"
+    }
+  },
+  {
+    "id": "B3a-051",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 51,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Treads",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Roll and Release",
+            "ja": null
+          },
+          "cost": ["Metal", "Metal", "Colorless"],
+          "damage": 50,
+          "damageSuffix": "+",
+          "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "nagimiso",
+    "boosterPacks": null,
+    "flavorText": "Sightings of this Pokémon have occurred in recent years. It resembles a mysterious object described in an old expedition journal.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-051-iron-treads"
+    }
+  },
+  {
+    "id": "B3a-052",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 52,
+    "setSize": 109,
+    "name": {
+      "en": "Altaria",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Swablu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fly",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kurumitsu",
+    "boosterPacks": null,
+    "flavorText": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-052-altaria"
+    }
+  },
+  {
+    "id": "B3a-053",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 53,
+    "setSize": 109,
+    "name": {
+      "en": "Walking Wake",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sweeping Billow",
+            "ja": null
+          },
+          "cost": ["Fire", "Water"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "Discard an Energy from this Pokémon, and this attack also does 20 damage to each of your opponent's Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kawayoo",
+    "boosterPacks": null,
+    "flavorText": "It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient Suicune.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-053-walking-wake"
+    }
+  },
+  {
+    "id": "B3a-054",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 54,
+    "setSize": 109,
+    "name": {
+      "en": "Gouging Fire",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 110,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Scorching Interruption",
+            "ja": null
+          },
+          "cost": ["Fire", "Lightning", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "Discard 2 Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Uninori",
+    "boosterPacks": null,
+    "flavorText": "It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-054-gouging-fire"
+    }
+  },
+  {
+    "id": "B3a-055",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 55,
+    "setSize": 109,
+    "name": {
+      "en": "Raging Bolt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Baneful Boom",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Lightning", "Lightning", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou’s ancestor.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-055-raging-bolt"
+    }
+  },
+  {
+    "id": "B3a-056",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 56,
+    "setSize": 109,
+    "name": {
+      "en": "Eevee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Tail Whip",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "saino misaki",
+    "boosterPacks": null,
+    "flavorText": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-056-eevee"
+    }
+  },
+  {
+    "id": "B3a-057",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 57,
+    "setSize": 109,
+    "name": {
+      "en": "Girafarig",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Headbang",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Mina Nakai",
+    "boosterPacks": null,
+    "flavorText": "Girafarig’s tail has a small head. It instinctively bites at any foe that approaches the Pokémon from behind.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-057-girafarig"
+    }
+  },
+  {
+    "id": "B3a-058",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 58,
+    "setSize": 109,
+    "name": {
+      "en": "Farigiraf",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Girafarig",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Double Hit",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "×",
+          "text": "Flip 2 coins. This attack does 60 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ounishi",
+    "boosterPacks": null,
+    "flavorText": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-058-farigiraf"
+    }
+  },
+  {
+    "id": "B3a-059",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 59,
+    "setSize": 109,
+    "name": {
+      "en": "Dunsparce",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Rollout",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "ryoma uratsuka",
+    "boosterPacks": null,
+    "flavorText": "If spotted, it escapes by burrowing with its tail. It can float just slightly using its wings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-059-dunsparce"
+    }
+  },
+  {
+    "id": "B3a-060",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 60,
+    "setSize": 109,
+    "name": {
+      "en": "Dudunsparce",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇",
+      "code": "R",
+      "label": "Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Dunsparce",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sudden Drilling",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ounishi",
+    "boosterPacks": null,
+    "flavorText": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-060-dudunsparce"
+    }
+  },
+  {
+    "id": "B3a-061",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 61,
+    "setSize": 109,
+    "name": {
+      "en": "Swablu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Fury Attack",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Lee HyunJung",
+    "boosterPacks": null,
+    "flavorText": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-061-swablu"
+    }
+  },
+  {
+    "id": "B3a-062",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 62,
+    "setSize": 109,
+    "name": {
+      "en": "Rufflet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Peck",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Tomokazu Komiya",
+    "boosterPacks": null,
+    "flavorText": "With its sharp claws, this Pokémon pierces its prey, and then it pecks at them. Although it also consumes berries, it’s a carnivore at heart.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-062-rufflet"
+    }
+  },
+  {
+    "id": "B3a-063",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 63,
+    "setSize": 109,
+    "name": {
+      "en": "Braviary",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 120,
+      "stage": "Stage1",
+      "evolvesFrom": "Rufflet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Brave Bird",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 100,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "match",
+    "boosterPacks": null,
+    "flavorText": "For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-063-braviary"
+    }
+  },
+  {
+    "id": "B3a-064",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 64,
+    "setSize": 109,
+    "name": {
+      "en": "Hawlucha",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Acrobatics",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Miki Tanaka",
+    "boosterPacks": null,
+    "flavorText": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-064-hawlucha"
+    }
+  },
+  {
+    "id": "B3a-065",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 65,
+    "setSize": 109,
+    "name": {
+      "en": "Rookidee",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Claw",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Hitoshi Ariga",
+    "boosterPacks": null,
+    "flavorText": "The females are fussier than the males. If another creature dirties a female Rookidee’s wings, it’ll peck the offender relentlessly in a burning rage.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-065-rookidee"
+    }
+  },
+  {
+    "id": "B3a-066",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 66,
+    "setSize": 109,
+    "name": {
+      "en": "Corvisquire",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 70,
+      "stage": "Stage1",
+      "evolvesFrom": "Rookidee",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flap",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 40,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "kirisAki",
+    "boosterPacks": null,
+    "flavorText": "This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-066-corvisquire"
+    }
+  },
+  {
+    "id": "B3a-067",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 67,
+    "setSize": 109,
+    "name": {
+      "en": "Flamigo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇",
+      "code": "C",
+      "label": "Common"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 90,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Nosedive",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ounishi",
+    "boosterPacks": null,
+    "flavorText": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-067-flamigo"
+    }
+  },
+  {
+    "id": "B3a-068",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 68,
+    "setSize": 109,
+    "name": {
+      "en": "Terapagos ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇◇◇",
+      "code": "RR",
+      "label": "Double Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Prism Impact",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-068-terapagos-ex"
+    }
+  },
+  {
+    "id": "B3a-069",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 69,
+    "setSize": 109,
+    "name": {
+      "en": "Ancient Booster Energy Capsule",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "The Ancient Pokémon this card is attached to gets +40 HP."
+    },
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-069-ancient-booster-energy-capsule"
+    }
+  },
+  {
+    "id": "B3a-070",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 70,
+    "setSize": 109,
+    "name": {
+      "en": "Future Booster Energy Capsule",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "PokemonTool",
+      "text": "Attacks used by the Future Pokémon this card is attached to do +20 damage to your opponent's Active Pokémon."
+    },
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-070-future-booster-energy-capsule"
+    }
+  },
+  {
+    "id": "B3a-071",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 71,
+    "setSize": 109,
+    "name": {
+      "en": "Juliana",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put a random Stage 2 Pokémon from your deck into your hand."
+    },
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-071-juliana"
+    }
+  },
+  {
+    "id": "B3a-072",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 72,
+    "setSize": 109,
+    "name": {
+      "en": "Professor Sada",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Attach 3 different types of Energy from your discard pile to your Ancient Pokémon in any way you like."
+    },
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-072-professor-sada"
+    }
+  },
+  {
+    "id": "B3a-073",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 73,
+    "setSize": 109,
+    "name": {
+      "en": "Professor Turo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Shuffle 1 of your Future Pokémon in play into your deck."
+    },
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-073-professor-turo"
+    }
+  },
+  {
+    "id": "B3a-074",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 74,
+    "setSize": 109,
+    "name": {
+      "en": "Area Zero",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "◇◇",
+      "code": "U",
+      "label": "Uncommon"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Stadium",
+      "text": "Once during each player's turn, that player may shuffle a Basic Pokémon from their hand into their deck. If they do, they draw a card."
+    },
+    "illustrator": "MARINA Chikazawa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-074-area-zero"
+    }
+  },
+  {
+    "id": "B3a-075",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 75,
+    "setSize": 109,
+    "name": {
+      "en": "Snom",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Gnaw",
+            "ja": null
+          },
+          "cost": ["Water"],
+          "damage": 20,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shinya Komatsu",
+    "boosterPacks": null,
+    "flavorText": "Within its internal organs, Snom amplifies the frigid air it gets from eating snow and then uses this amplified air to create icicle-like spikes.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-075-snom"
+    }
+  },
+  {
+    "id": "B3a-076",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 76,
+    "setSize": 109,
+    "name": {
+      "en": "Flittle",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 40,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psy Bolt",
+            "ja": null
+          },
+          "cost": ["Psychic"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kanami Ogata",
+    "boosterPacks": null,
+    "flavorText": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-076-flittle"
+    }
+  },
+  {
+    "id": "B3a-077",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 77,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Boulder",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 120,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Modular Axe",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "toriyufu",
+    "boosterPacks": null,
+    "flavorText": "It was named after a mysterious object recorded in an old book. Its body seems to be metallic.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-077-iron-boulder"
+    }
+  },
+  {
+    "id": "B3a-078",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 78,
+    "setSize": 109,
+    "name": {
+      "en": "Glimmora",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 90,
+      "stage": "Stage1",
+      "evolvesFrom": "Glimmet",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Shattering Crystal",
+            "ja": null
+          },
+          "text": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Venomous Hit",
+            "ja": null
+          },
+          "cost": ["Darkness"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "takashi shiraishi",
+    "boosterPacks": null,
+    "flavorText": "Glimmora’s petals are made of crystallized poison energy. It has recently become evident that these petals resemble Tera Jewels.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-078-glimmora"
+    }
+  },
+  {
+    "id": "B3a-079",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 79,
+    "setSize": 109,
+    "name": {
+      "en": "Raging Bolt",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Dragon",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "none",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Baneful Boom",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Lightning", "Lightning", "Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Kazumasa Yasukuni",
+    "boosterPacks": null,
+    "flavorText": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou’s ancestor.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-079-raging-bolt"
+    }
+  },
+  {
+    "id": "B3a-080",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 80,
+    "setSize": 109,
+    "name": {
+      "en": "Hawlucha",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆",
+      "code": "AR",
+      "label": "Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 80,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Acrobatics",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": "+",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Shigenori Negishi",
+    "boosterPacks": null,
+    "flavorText": "Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-080-hawlucha"
+    }
+  },
+  {
+    "id": "B3a-081",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 81,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Bundle ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cold Start",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Ultimateinudog",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-081-iron-bundle-ex"
+    }
+  },
+  {
+    "id": "B3a-082",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 82,
+    "setSize": 109,
+    "name": {
+      "en": "Miraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hadron Ray",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {L} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-082-miraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-083",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 83,
+    "setSize": 109,
+    "name": {
+      "en": "Flutter Mane ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spellbinding Start",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-083-flutter-mane-ex"
+    }
+  },
+  {
+    "id": "B3a-084",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 84,
+    "setSize": 109,
+    "name": {
+      "en": "Koraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "World Wrecker",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 110,
+          "damageSuffix": null,
+          "text": "Discard the top card of your deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "aky CG Works",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-084-koraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-085",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 85,
+    "setSize": 109,
+    "name": {
+      "en": "Terapagos ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Prism Impact",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-085-terapagos-ex"
+    }
+  },
+  {
+    "id": "B3a-086",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 86,
+    "setSize": 109,
+    "name": {
+      "en": "Juliana",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Put a random Stage 2 Pokémon from your deck into your hand."
+    },
+    "illustrator": "Cona Nitanda",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-086-juliana"
+    }
+  },
+  {
+    "id": "B3a-087",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 87,
+    "setSize": 109,
+    "name": {
+      "en": "Professor Sada",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Attach 3 different types of Energy from your discard pile to your Ancient Pokémon in any way you like."
+    },
+    "illustrator": "hncl",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-087-professor-sada"
+    }
+  },
+  {
+    "id": "B3a-088",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 88,
+    "setSize": 109,
+    "name": {
+      "en": "Professor Turo",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SR",
+      "label": "Super Rare"
+    },
+    "category": "Trainer",
+    "pokemon": null,
+    "trainer": {
+      "subtype": "Supporter",
+      "text": "Shuffle 1 of your Future Pokémon in play into your deck."
+    },
+    "illustrator": "akagi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-088-professor-turo"
+    }
+  },
+  {
+    "id": "B3a-089",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 89,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Bundle ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Water",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Cold Start",
+            "ja": null
+          },
+          "cost": ["Water", "Water", "Colorless"],
+          "damage": 60,
+          "damageSuffix": "+",
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Akira Komayama",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-089-iron-bundle-ex"
+    }
+  },
+  {
+    "id": "B3a-090",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 90,
+    "setSize": 109,
+    "name": {
+      "en": "Miraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 140,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Hadron Ray",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each {L} Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-090-miraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-091",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 91,
+    "setSize": 109,
+    "name": {
+      "en": "Flutter Mane ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 130,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Spellbinding Start",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "matazo",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-091-flutter-mane-ex"
+    }
+  },
+  {
+    "id": "B3a-092",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 92,
+    "setSize": 109,
+    "name": {
+      "en": "Koraidon ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆",
+      "code": "SAR",
+      "label": "Special Art Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Psychic",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Legendary Drive",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "World Wrecker",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting", "Fighting"],
+          "damage": 110,
+          "damageSuffix": null,
+          "text": "Discard the top card of your deck."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Nurikabe",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-092-koraidon-ex"
+    }
+  },
+  {
+    "id": "B3a-093",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 93,
+    "setSize": 109,
+    "name": {
+      "en": "Terapagos ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "☆☆☆",
+      "code": "IR",
+      "label": "Immersive Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 150,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 2,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Prism Impact",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless", "Colorless"],
+          "damage": 80,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "KASSEN",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-093-terapagos-ex"
+    }
+  },
+  {
+    "id": "B3a-094",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 94,
+    "setSize": 109,
+    "name": {
+      "en": "Rellor",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Ball Roll",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 20,
+          "damageSuffix": "×",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-094-rellor"
+    }
+  },
+  {
+    "id": "B3a-095",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 95,
+    "setSize": 109,
+    "name": {
+      "en": "Charcadet",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Punch",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-095-charcadet"
+    }
+  },
+  {
+    "id": "B3a-096",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 96,
+    "setSize": 109,
+    "name": {
+      "en": "Tadbulb",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Charge",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Take a {L} Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-096-tadbulb"
+    }
+  },
+  {
+    "id": "B3a-097",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 97,
+    "setSize": 109,
+    "name": {
+      "en": "Rabsca",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 70,
+      "stage": "Stage1",
+      "evolvesFrom": "Rellor",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Darkness",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Psybeam",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-097-rabsca"
+    }
+  },
+  {
+    "id": "B3a-098",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 98,
+    "setSize": 109,
+    "name": {
+      "en": "Diglett",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 60,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slight Intrusion",
+            "ja": null
+          },
+          "cost": ["Fighting"],
+          "damage": 30,
+          "damageSuffix": null,
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-098-diglett"
+    }
+  },
+  {
+    "id": "B3a-099",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 99,
+    "setSize": 109,
+    "name": {
+      "en": "Dugtrio",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 80,
+      "stage": "Stage1",
+      "evolvesFrom": "Diglett",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 0,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mud Bomb",
+            "ja": null
+          },
+          "cost": ["Fighting", "Colorless"],
+          "damage": 60,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Taiga Kasai",
+    "boosterPacks": null,
+    "flavorText": "In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-099-dugtrio"
+    }
+  },
+  {
+    "id": "B3a-100",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 100,
+    "setSize": 109,
+    "name": {
+      "en": "Klawf",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fighting",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Adrenaline Hammer",
+            "ja": null
+          },
+          "cost": ["Fighting", "Fighting"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": "This Pokémon is now Confused."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "MAHOU",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-100-klawf"
+    }
+  },
+  {
+    "id": "B3a-101",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 101,
+    "setSize": 109,
+    "name": {
+      "en": "Orthworm",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Metal",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Iron Supply",
+            "ja": null
+          },
+          "cost": ["Metal"],
+          "damage": 10,
+          "damageSuffix": null,
+          "text": "Take a {M} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "Souichirou Gunjima",
+    "boosterPacks": null,
+    "flavorText": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-101-orthworm"
+    }
+  },
+  {
+    "id": "B3a-102",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 102,
+    "setSize": 109,
+    "name": {
+      "en": "Swablu",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 50,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Sing",
+            "ja": null
+          },
+          "cost": ["Colorless"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-102-swablu"
+    }
+  },
+  {
+    "id": "B3a-103",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 103,
+    "setSize": 109,
+    "name": {
+      "en": "Altaria",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸",
+      "code": "S",
+      "label": "Shiny"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Colorless",
+      "hp": 100,
+      "stage": "Stage1",
+      "evolvesFrom": "Swablu",
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Lightning",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Do the Wave",
+            "ja": null
+          },
+          "cost": ["Colorless", "Colorless"],
+          "damage": 20,
+          "damageSuffix": "+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "whomor Inc.",
+    "boosterPacks": null,
+    "flavorText": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-103-altaria"
+    }
+  },
+  {
+    "id": "B3a-104",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 104,
+    "setSize": 109,
+    "name": {
+      "en": "Meowscarada ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Grass",
+      "hp": 160,
+      "stage": "Stage2",
+      "evolvesFrom": "Floragato",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fire",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Flower Trick",
+            "ja": null
+          },
+          "cost": ["Grass"],
+          "damage": null,
+          "damageSuffix": null,
+          "text": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+        },
+        {
+          "name": {
+            "en": "Solar Beam",
+            "ja": null
+          },
+          "cost": ["Grass", "Grass"],
+          "damage": 80,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "5ban Graphics",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-104-meowscarada-ex"
+    }
+  },
+  {
+    "id": "B3a-105",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 105,
+    "setSize": 109,
+    "name": {
+      "en": "Armarouge ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Fire",
+      "hp": 140,
+      "stage": "Stage1",
+      "evolvesFrom": "Charcadet",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Water",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Armor",
+            "ja": null
+          },
+          "text": "This Pokémon takes −30 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Armor Cannon",
+            "ja": null
+          },
+          "cost": ["Fire", "Colorless", "Colorless"],
+          "damage": 120,
+          "damageSuffix": null,
+          "text": "Discard a {R} Energy from this Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "takuyoa",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-105-armarouge-ex"
+    }
+  },
+  {
+    "id": "B3a-106",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 106,
+    "setSize": 109,
+    "name": {
+      "en": "Bellibolt ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Lightning",
+      "hp": 160,
+      "stage": "Stage1",
+      "evolvesFrom": "Tadbulb",
+      "ruleBox": "ex",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Fighting",
+      "retreatCost": 3,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "High-Voltage Cannon",
+            "ja": null
+          },
+          "cost": ["Lightning", "Lightning"],
+          "damage": 70,
+          "damageSuffix": "+",
+          "text": "If you have 4 or more {L} Energy in play, this attack does 70 more damage."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Yamashita",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-106-bellibolt-ex"
+    }
+  },
+  {
+    "id": "B3a-107",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 107,
+    "setSize": 109,
+    "name": {
+      "en": "Mega Altaria ex",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "✸✸",
+      "code": "SSR",
+      "label": "Shiny Super Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 190,
+      "stage": "Stage1",
+      "evolvesFrom": "Swablu",
+      "ruleBox": "MegaEx",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 1,
+      "abilities": [],
+      "attacks": [
+        {
+          "name": {
+            "en": "Mega Harmony",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 40,
+          "damageSuffix": "+",
+          "text": "This attack does 30 more damage for each of your Benched Pokémon."
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": null,
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-107-mega-altaria-ex"
+    }
+  },
+  {
+    "id": "B3a-108",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 108,
+    "setSize": 109,
+    "name": {
+      "en": "Iron Valiant",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Psychic",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Metal",
+      "retreatCost": 2,
+      "abilities": [
+        {
+          "name": {
+            "en": "Future System",
+            "ja": null
+          },
+          "text": "Attacks used by your Future Pokémon cost 1 less {C} Energy."
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Slicing Blade",
+            "ja": null
+          },
+          "cost": ["Psychic", "Psychic"],
+          "damage": 50,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Igarashi",
+    "boosterPacks": null,
+    "flavorText": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-108-iron-valiant"
+    }
+  },
+  {
+    "id": "B3a-109",
+    "set": {
+      "code": "B3a",
+      "name": "Paradox Drive",
+      "nameJa": "進撃パラドックス"
+    },
+    "number": 109,
+    "setSize": 109,
+    "name": {
+      "en": "Roaring Moon",
+      "ja": null
+    },
+    "rarity": {
+      "symbol": "♛",
+      "code": "CR",
+      "label": "Crown Rare"
+    },
+    "category": "Pokemon",
+    "pokemon": {
+      "type": "Darkness",
+      "hp": 100,
+      "stage": "Basic",
+      "evolvesFrom": null,
+      "ruleBox": "None",
+      "isBaby": false,
+      "classification": null,
+      "weakness": "Grass",
+      "retreatCost": 1,
+      "abilities": [
+        {
+          "name": {
+            "en": "Ancient Roar",
+            "ja": null
+          },
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "name": {
+            "en": "Wind of Darkness",
+            "ja": null
+          },
+          "cost": ["Darkness", "Darkness", "Colorless"],
+          "damage": 70,
+          "damageSuffix": null,
+          "text": null
+        }
+      ]
+    },
+    "trainer": null,
+    "illustrator": "PLANETA Mamiya",
+    "boosterPacks": null,
+    "flavorText": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.",
+    "shop": {
+      "packPoints": null,
+      "dupeShinedust": null
+    },
+    "source": {
+      "provider": "dotgg.gg",
+      "slug": "b3a-109-roaring-moon"
+    }
+  }
+]

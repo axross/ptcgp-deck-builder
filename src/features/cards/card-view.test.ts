@@ -78,6 +78,10 @@ describe("deriveSetOptions()", () => {
       { code: "B1a", label: "Crimson Blaze (B1a)" },
       { code: "B2", label: "Fantastical Parade (B2)" },
       { code: "B2a", label: "Paldean Wonders (B2a)" },
+      { code: "B2b", label: "Mega Shine (B2b)" },
+      { code: "B3", label: "Pulsing Aura (B3)" },
+      { code: "B3a", label: "Paradox Drive (B3a)" },
+      { code: "B3b", label: "Everyday Wonders (B3b)" },
     ]);
   });
 

@@ -3,12 +3,16 @@ import { z } from "zod";
 import celestialGuardiansA3 from "./data/celestial-guardians-a3.json";
 import crimsonBlazeB1a from "./data/crimson-blaze-b1a.json";
 import eeveeGroveA3b from "./data/eevee-grove-a3b.json";
+import everydayWondersB3b from "./data/everyday-wonders-b3b.json";
 import extradimensionalCrisisA3a from "./data/extradimensional-crisis-a3a.json";
 import fantasticalParadeB2 from "./data/fantastical-parade-b2.json";
 import geneticApexA1 from "./data/genetic-apex-a1.json";
 import megaRisingB1 from "./data/mega-rising-b1.json";
+import megaShineB2b from "./data/mega-shine-b2b.json";
 import mythicalIslandA1a from "./data/mythical-island-a1a.json";
 import paldeanWondersB2a from "./data/paldean-wonders-b2a.json";
+import paradoxDriveB3a from "./data/paradox-drive-b3a.json";
+import pulsingAuraB3 from "./data/pulsing-aura-b3.json";
 import secludedSpringsA4a from "./data/secluded-springs-a4a.json";
 import shiningRevelryA2b from "./data/shining-revelry-a2b.json";
 import spaceTimeSmackdownA2 from "./data/space-time-smackdown-a2.json";
@@ -51,6 +55,10 @@ const seededSets: readonly { code: SetCode; data: unknown }[] = [
   { code: "B1a", data: crimsonBlazeB1a },
   { code: "B2", data: fantasticalParadeB2 },
   { code: "B2a", data: paldeanWondersB2a },
+  { code: "B2b", data: megaShineB2b },
+  { code: "B3", data: pulsingAuraB3 },
+  { code: "B3a", data: paradoxDriveB3a },
+  { code: "B3b", data: everydayWondersB3b },
 ];
 
 type Catalog = {

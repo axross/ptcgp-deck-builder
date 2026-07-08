@@ -125,17 +125,26 @@ describe("first-of-kind mechanics across the seeded sets", () => {
     });
   });
 
-  it("labels every ☆☆ card in the TCGdex-sourced B-sets Super Rare", () => {
-    // B1a, B2, B2a source rarity from TCGdex, which reports Super Rare and
-    // Special Art Rare identically as "Two Star". The whole ☆☆ tier is therefore
-    // labeled Super Rare; the SAR alternate-art subset is knowingly not
-    // distinguished for these sets (see card-data.md).
-    const twoStar = (["B1a", "B2", "B2a"] as const)
+  it("distinguishes ☆☆ Super Rare from Special Art Rare across the flibustier-sourced B-sets", () => {
+    // B1a onward source rarity from the flibustier index, which carries SR and
+    // SAR as distinct codes — unlike the earlier attempt that could only collapse
+    // the whole ☆☆ tier to Super Rare (see card-data.md).
+    const twoStar = (["B1a", "B2", "B2a", "B2b", "B3", "B3a", "B3b"] as const)
       .flatMap((code) => getCardsBySet(code))
       .filter((card) => card.rarity.symbol === "☆☆");
 
     expect(twoStar.length).toBeGreaterThan(0);
-    expect(twoStar.every((card) => card.rarity.code === "SR")).toBe(true);
+    expect(new Set(twoStar.map((card) => card.rarity.code))).toEqual(new Set(["SR", "SAR"]));
+  });
+
+  it("leaves Ancient/Future classification null in B3a — no source exposes it", () => {
+    // Paradox Drive (B3a) debuts the Ancient/Future classifications in-game, but
+    // neither dotgg nor the flibustier index carries them, so classification stays
+    // null for every B3a Pokémon (see card-data.md).
+    const b3a = getCardsBySet("B3a").filter((card) => card.category === "Pokemon");
+
+    expect(b3a.length).toBeGreaterThan(0);
+    expect(b3a.every((card) => card.pokemon.classification === null)).toBe(true);
   });
 
   it("leaves isBaby false everywhere — no source marks Baby Pokémon", () => {
@@ -157,8 +166,10 @@ describe("per-set access", () => {
   });
 
   it("reports an unseeded set as empty without throwing", () => {
-    expect(getCardsBySet("B3b")).toEqual([]);
-    expect(getSetCardCount("B3b")).toBe(0);
+    // A4b (Deluxe Pack: ex) is registered but not seeded — 33 of its cards carry
+    // no upstream rarity, so it stays deferred (see card-data.md).
+    expect(getCardsBySet("A4b")).toEqual([]);
+    expect(getSetCardCount("A4b")).toBe(0);
   });
 
   it("lists the seeded set codes in registry order", () => {

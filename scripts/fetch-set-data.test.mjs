@@ -1,5 +1,9 @@
 import { describe, expect, it } from "vitest";
-import { mapTcgdexRarity, normalizeDotggCard, parseLimitlessFlavor } from "./fetch-set-data.mjs";
+import {
+  mapFlibustierRarity,
+  normalizeDotggCard,
+  parseLimitlessFlavor,
+} from "./fetch-set-data.mjs";
 import { transformSourceCard, validateCards } from "./set-ingestion.mjs";
 
 // Raw dotgg.gg (`game=pokepocket`) records, trimmed to the fields the adapter
@@ -268,45 +272,48 @@ describe("normalizeDotggCard()", () => {
   });
 });
 
-describe("mapTcgdexRarity()", () => {
-  // TCGdex is the rarity source for the sets dotgg has not backfilled (B1a on).
-  // Its rarity names differ from dotgg's and map onto the same tuples.
+describe("mapFlibustierRarity()", () => {
+  // The flibustier index is the rarity source for the sets dotgg has not
+  // backfilled (B1a on). Its short codes map onto the app's tuples.
   it("maps the diamond and star tiers to their app rarity tuples", () => {
-    expect(mapTcgdexRarity("One Diamond")).toEqual({ symbol: "◇", code: "C", label: "Common" });
-    expect(mapTcgdexRarity("Four Diamond")).toEqual({
-      symbol: "◇◇◇◇",
-      code: "RR",
-      label: "Double Rare",
-    });
-    expect(mapTcgdexRarity("One Star")).toEqual({ symbol: "☆", code: "AR", label: "Art Rare" });
-    expect(mapTcgdexRarity("Three Star")).toEqual({
+    expect(mapFlibustierRarity("C")).toEqual({ symbol: "◇", code: "C", label: "Common" });
+    expect(mapFlibustierRarity("RR")).toEqual({ symbol: "◇◇◇◇", code: "RR", label: "Double Rare" });
+    expect(mapFlibustierRarity("AR")).toEqual({ symbol: "☆", code: "AR", label: "Art Rare" });
+  });
+
+  it("renames the codes that differ from the app's — IM→IR and UR→CR", () => {
+    expect(mapFlibustierRarity("IM")).toEqual({
       symbol: "☆☆☆",
       code: "IR",
       label: "Immersive Rare",
     });
-    expect(mapTcgdexRarity("Crown")).toEqual({ symbol: "♛", code: "CR", label: "Crown Rare" });
+    expect(mapFlibustierRarity("UR")).toEqual({ symbol: "♛", code: "CR", label: "Crown Rare" });
   });
 
-  it("keeps the Shiny tiers distinct — the collision that made Limitless unusable", () => {
-    expect(mapTcgdexRarity("One Shiny")).toEqual({ symbol: "✸", code: "S", label: "Shiny" });
-    expect(mapTcgdexRarity("Two Shiny")).toEqual({
+  it("distinguishes ☆☆ Super Rare from Special Art Rare — what TCGdex could not", () => {
+    // Both share the ☆☆ symbol; the flibustier index carries them as separate
+    // codes, so the SAR alternate-art subset is labeled correctly (no collapse).
+    expect(mapFlibustierRarity("SR")).toEqual({ symbol: "☆☆", code: "SR", label: "Super Rare" });
+    expect(mapFlibustierRarity("SAR")).toEqual({
+      symbol: "☆☆",
+      code: "SAR",
+      label: "Special Art Rare",
+    });
+  });
+
+  it("keeps the Shiny tiers distinct", () => {
+    expect(mapFlibustierRarity("S")).toEqual({ symbol: "✸", code: "S", label: "Shiny" });
+    expect(mapFlibustierRarity("SSR")).toEqual({
       symbol: "✸✸",
       code: "SSR",
       label: "Shiny Super Rare",
     });
   });
 
-  it("collapses the ambiguous ☆☆ 'Two Star' tier to Super Rare", () => {
-    // TCGdex reports both Super Rare and Special Art Rare as "Two Star" with no
-    // field to tell them apart, so every Two Star card is labeled Super Rare;
-    // the SAR alternate-art subset is knowingly not distinguished. See card-data.md.
-    expect(mapTcgdexRarity("Two Star")).toEqual({ symbol: "☆☆", code: "SR", label: "Super Rare" });
-  });
-
-  it("returns null for a missing or unrecognized rarity so the schema flags the card", () => {
-    expect(mapTcgdexRarity(null)).toBeNull();
-    expect(mapTcgdexRarity(undefined)).toBeNull();
-    expect(mapTcgdexRarity("Ultra Secret Rare")).toBeNull();
+  it("returns null for a missing or unrecognized code so the schema flags the card", () => {
+    expect(mapFlibustierRarity(null)).toBeNull();
+    expect(mapFlibustierRarity(undefined)).toBeNull();
+    expect(mapFlibustierRarity("XYZ")).toBeNull();
   });
 });
 
