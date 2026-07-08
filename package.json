@@ -9,7 +9,7 @@
     "format": "biome format --write .",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
-    "check:links": "node scripts/check-doc-links.mjs",
+    "check:links": "bash .claude/skills/agent-skills-best-practices/scripts/check-links.sh",
     "fetch:set": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/fetch-set-data.mjs",
     "validate:set": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/validate-set-data.mjs",
     "typecheck": "tsc --noEmit",
