@@ -39,6 +39,6 @@ describe("validate-set-data fixture", () => {
     expect(ok).toBe(false);
     expect(errors).toHaveLength(1);
     expect(errors[0].id).toBe("A1-999");
-    expect(errors[0].violations.join(" ")).toContain("rarity.code");
+    expect(errors[0].violations.join(" ")).toContain("rarity");
   });
 });

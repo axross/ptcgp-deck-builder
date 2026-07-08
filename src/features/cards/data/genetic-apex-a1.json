@@ -1,22 +1,13 @@
 [
   {
     "id": "A1-001",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 1,
-    "setSize": 286,
     "name": {
       "en": "Bulbasaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A1-002",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 2,
-    "setSize": 286,
     "name": {
       "en": "Ivysaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A1-003",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 3,
-    "setSize": 286,
     "name": {
       "en": "Venusaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A1-004",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 4,
-    "setSize": 286,
     "name": {
       "en": "Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -235,22 +199,13 @@
   },
   {
     "id": "A1-005",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 5,
-    "setSize": 286,
     "name": {
       "en": "Caterpie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -291,22 +246,13 @@
   },
   {
     "id": "A1-006",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 6,
-    "setSize": 286,
     "name": {
       "en": "Metapod",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -347,22 +293,13 @@
   },
   {
     "id": "A1-007",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 7,
-    "setSize": 286,
     "name": {
       "en": "Butterfree",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -411,22 +348,13 @@
   },
   {
     "id": "A1-008",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 8,
-    "setSize": 286,
     "name": {
       "en": "Weedle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -467,22 +395,13 @@
   },
   {
     "id": "A1-009",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 9,
-    "setSize": 286,
     "name": {
       "en": "Kakuna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -523,22 +442,13 @@
   },
   {
     "id": "A1-010",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 10,
-    "setSize": 286,
     "name": {
       "en": "Beedrill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -579,22 +489,13 @@
   },
   {
     "id": "A1-011",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 11,
-    "setSize": 286,
     "name": {
       "en": "Oddish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -635,22 +536,13 @@
   },
   {
     "id": "A1-012",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 12,
-    "setSize": 286,
     "name": {
       "en": "Gloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -691,22 +583,13 @@
   },
   {
     "id": "A1-013",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 13,
-    "setSize": 286,
     "name": {
       "en": "Vileplume",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -747,22 +630,13 @@
   },
   {
     "id": "A1-014",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 14,
-    "setSize": 286,
     "name": {
       "en": "Paras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -803,22 +677,13 @@
   },
   {
     "id": "A1-015",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 15,
-    "setSize": 286,
     "name": {
       "en": "Parasect",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -859,22 +724,13 @@
   },
   {
     "id": "A1-016",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 16,
-    "setSize": 286,
     "name": {
       "en": "Venonat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -915,22 +771,13 @@
   },
   {
     "id": "A1-017",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 17,
-    "setSize": 286,
     "name": {
       "en": "Venomoth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -971,22 +818,13 @@
   },
   {
     "id": "A1-018",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 18,
-    "setSize": 286,
     "name": {
       "en": "Bellsprout",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1027,22 +865,13 @@
   },
   {
     "id": "A1-019",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 19,
-    "setSize": 286,
     "name": {
       "en": "Weepinbell",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1083,22 +912,13 @@
   },
   {
     "id": "A1-020",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 20,
-    "setSize": 286,
     "name": {
       "en": "Victreebel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1147,22 +967,13 @@
   },
   {
     "id": "A1-021",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 21,
-    "setSize": 286,
     "name": {
       "en": "Exeggcute",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1203,22 +1014,13 @@
   },
   {
     "id": "A1-022",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 22,
-    "setSize": 286,
     "name": {
       "en": "Exeggutor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1259,22 +1061,13 @@
   },
   {
     "id": "A1-023",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 23,
-    "setSize": 286,
     "name": {
       "en": "Exeggutor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1315,22 +1108,13 @@
   },
   {
     "id": "A1-024",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 24,
-    "setSize": 286,
     "name": {
       "en": "Tangela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1371,22 +1155,13 @@
   },
   {
     "id": "A1-025",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 25,
-    "setSize": 286,
     "name": {
       "en": "Scyther",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1427,22 +1202,13 @@
   },
   {
     "id": "A1-026",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 26,
-    "setSize": 286,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1483,22 +1249,13 @@
   },
   {
     "id": "A1-027",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 27,
-    "setSize": 286,
     "name": {
       "en": "Cottonee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1539,22 +1296,13 @@
   },
   {
     "id": "A1-028",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 28,
-    "setSize": 286,
     "name": {
       "en": "Whimsicott",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1595,22 +1343,13 @@
   },
   {
     "id": "A1-029",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 29,
-    "setSize": 286,
     "name": {
       "en": "Petilil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1651,22 +1390,13 @@
   },
   {
     "id": "A1-030",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 30,
-    "setSize": 286,
     "name": {
       "en": "Lilligant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1707,22 +1437,13 @@
   },
   {
     "id": "A1-031",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 31,
-    "setSize": 286,
     "name": {
       "en": "Skiddo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1763,22 +1484,13 @@
   },
   {
     "id": "A1-032",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 32,
-    "setSize": 286,
     "name": {
       "en": "Gogoat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -1819,22 +1531,13 @@
   },
   {
     "id": "A1-033",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 33,
-    "setSize": 286,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1875,22 +1578,13 @@
   },
   {
     "id": "A1-034",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 34,
-    "setSize": 286,
     "name": {
       "en": "Charmeleon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1931,22 +1625,13 @@
   },
   {
     "id": "A1-035",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 35,
-    "setSize": 286,
     "name": {
       "en": "Charizard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1987,22 +1672,13 @@
   },
   {
     "id": "A1-036",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 36,
-    "setSize": 286,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2053,22 +1729,13 @@
   },
   {
     "id": "A1-037",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 37,
-    "setSize": 286,
     "name": {
       "en": "Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2109,22 +1776,13 @@
   },
   {
     "id": "A1-038",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 38,
-    "setSize": 286,
     "name": {
       "en": "Ninetales",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2165,22 +1823,13 @@
   },
   {
     "id": "A1-039",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 39,
-    "setSize": 286,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2221,22 +1870,13 @@
   },
   {
     "id": "A1-040",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 40,
-    "setSize": 286,
     "name": {
       "en": "Arcanine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2277,22 +1917,13 @@
   },
   {
     "id": "A1-041",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 41,
-    "setSize": 286,
     "name": {
       "en": "Arcanine ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2333,22 +1964,13 @@
   },
   {
     "id": "A1-042",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 42,
-    "setSize": 286,
     "name": {
       "en": "Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2389,22 +2011,13 @@
   },
   {
     "id": "A1-043",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 43,
-    "setSize": 286,
     "name": {
       "en": "Rapidash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2445,22 +2058,13 @@
   },
   {
     "id": "A1-044",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 44,
-    "setSize": 286,
     "name": {
       "en": "Magmar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2501,22 +2105,13 @@
   },
   {
     "id": "A1-045",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 45,
-    "setSize": 286,
     "name": {
       "en": "Flareon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2557,22 +2152,13 @@
   },
   {
     "id": "A1-046",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 46,
-    "setSize": 286,
     "name": {
       "en": "Moltres",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2613,22 +2199,13 @@
   },
   {
     "id": "A1-047",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 47,
-    "setSize": 286,
     "name": {
       "en": "Moltres ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2679,22 +2256,13 @@
   },
   {
     "id": "A1-048",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 48,
-    "setSize": 286,
     "name": {
       "en": "Heatmor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2735,22 +2303,13 @@
   },
   {
     "id": "A1-049",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 49,
-    "setSize": 286,
     "name": {
       "en": "Salandit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2791,22 +2350,13 @@
   },
   {
     "id": "A1-050",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 50,
-    "setSize": 286,
     "name": {
       "en": "Salazzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2847,22 +2397,13 @@
   },
   {
     "id": "A1-051",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 51,
-    "setSize": 286,
     "name": {
       "en": "Sizzlipede",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2903,22 +2444,13 @@
   },
   {
     "id": "A1-052",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 52,
-    "setSize": 286,
     "name": {
       "en": "Centiskorch",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -2959,22 +2491,13 @@
   },
   {
     "id": "A1-053",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 53,
-    "setSize": 286,
     "name": {
       "en": "Squirtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3015,22 +2538,13 @@
   },
   {
     "id": "A1-054",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 54,
-    "setSize": 286,
     "name": {
       "en": "Wartortle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3071,22 +2585,13 @@
   },
   {
     "id": "A1-055",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 55,
-    "setSize": 286,
     "name": {
       "en": "Blastoise",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3127,22 +2632,13 @@
   },
   {
     "id": "A1-056",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 56,
-    "setSize": 286,
     "name": {
       "en": "Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3193,22 +2689,13 @@
   },
   {
     "id": "A1-057",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 57,
-    "setSize": 286,
     "name": {
       "en": "Psyduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3249,22 +2736,13 @@
   },
   {
     "id": "A1-058",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 58,
-    "setSize": 286,
     "name": {
       "en": "Golduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3305,22 +2783,13 @@
   },
   {
     "id": "A1-059",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 59,
-    "setSize": 286,
     "name": {
       "en": "Poliwag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3361,22 +2830,13 @@
   },
   {
     "id": "A1-060",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 60,
-    "setSize": 286,
     "name": {
       "en": "Poliwhirl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3417,22 +2877,13 @@
   },
   {
     "id": "A1-061",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 61,
-    "setSize": 286,
     "name": {
       "en": "Poliwrath",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3481,22 +2932,13 @@
   },
   {
     "id": "A1-062",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 62,
-    "setSize": 286,
     "name": {
       "en": "Tentacool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3537,22 +2979,13 @@
   },
   {
     "id": "A1-063",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 63,
-    "setSize": 286,
     "name": {
       "en": "Tentacruel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3593,22 +3026,13 @@
   },
   {
     "id": "A1-064",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 64,
-    "setSize": 286,
     "name": {
       "en": "Seel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3649,22 +3073,13 @@
   },
   {
     "id": "A1-065",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 65,
-    "setSize": 286,
     "name": {
       "en": "Dewgong",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3705,22 +3120,13 @@
   },
   {
     "id": "A1-066",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 66,
-    "setSize": 286,
     "name": {
       "en": "Shellder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3761,22 +3167,13 @@
   },
   {
     "id": "A1-067",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 67,
-    "setSize": 286,
     "name": {
       "en": "Cloyster",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3825,22 +3222,13 @@
   },
   {
     "id": "A1-068",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 68,
-    "setSize": 286,
     "name": {
       "en": "Krabby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3881,22 +3269,13 @@
   },
   {
     "id": "A1-069",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 69,
-    "setSize": 286,
     "name": {
       "en": "Kingler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3937,22 +3316,13 @@
   },
   {
     "id": "A1-070",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 70,
-    "setSize": 286,
     "name": {
       "en": "Horsea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3993,22 +3363,13 @@
   },
   {
     "id": "A1-071",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 71,
-    "setSize": 286,
     "name": {
       "en": "Seadra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4049,22 +3410,13 @@
   },
   {
     "id": "A1-072",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 72,
-    "setSize": 286,
     "name": {
       "en": "Goldeen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4105,22 +3457,13 @@
   },
   {
     "id": "A1-073",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 73,
-    "setSize": 286,
     "name": {
       "en": "Seaking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4161,22 +3504,13 @@
   },
   {
     "id": "A1-074",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 74,
-    "setSize": 286,
     "name": {
       "en": "Staryu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4217,22 +3551,13 @@
   },
   {
     "id": "A1-075",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 75,
-    "setSize": 286,
     "name": {
       "en": "Starmie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4273,22 +3598,13 @@
   },
   {
     "id": "A1-076",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 76,
-    "setSize": 286,
     "name": {
       "en": "Starmie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4329,22 +3645,13 @@
   },
   {
     "id": "A1-077",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 77,
-    "setSize": 286,
     "name": {
       "en": "Magikarp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4385,22 +3692,13 @@
   },
   {
     "id": "A1-078",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 78,
-    "setSize": 286,
     "name": {
       "en": "Gyarados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4441,22 +3739,13 @@
   },
   {
     "id": "A1-079",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 79,
-    "setSize": 286,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4497,22 +3786,13 @@
   },
   {
     "id": "A1-080",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 80,
-    "setSize": 286,
     "name": {
       "en": "Vaporeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4553,22 +3833,13 @@
   },
   {
     "id": "A1-081",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 81,
-    "setSize": 286,
     "name": {
       "en": "Omanyte",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4609,22 +3880,13 @@
   },
   {
     "id": "A1-082",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 82,
-    "setSize": 286,
     "name": {
       "en": "Omastar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4665,22 +3927,13 @@
   },
   {
     "id": "A1-083",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 83,
-    "setSize": 286,
     "name": {
       "en": "Articuno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4721,22 +3974,13 @@
   },
   {
     "id": "A1-084",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 84,
-    "setSize": 286,
     "name": {
       "en": "Articuno ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4787,22 +4031,13 @@
   },
   {
     "id": "A1-085",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 85,
-    "setSize": 286,
     "name": {
       "en": "Ducklett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4843,22 +4078,13 @@
   },
   {
     "id": "A1-086",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 86,
-    "setSize": 286,
     "name": {
       "en": "Swanna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4899,22 +4125,13 @@
   },
   {
     "id": "A1-087",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 87,
-    "setSize": 286,
     "name": {
       "en": "Froakie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4955,22 +4172,13 @@
   },
   {
     "id": "A1-088",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 88,
-    "setSize": 286,
     "name": {
       "en": "Frogadier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5011,22 +4219,13 @@
   },
   {
     "id": "A1-089",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 89,
-    "setSize": 286,
     "name": {
       "en": "Greninja",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5075,22 +4274,13 @@
   },
   {
     "id": "A1-090",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 90,
-    "setSize": 286,
     "name": {
       "en": "Pyukumuku",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5131,22 +4321,13 @@
   },
   {
     "id": "A1-091",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 91,
-    "setSize": 286,
     "name": {
       "en": "Bruxish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5187,22 +4368,13 @@
   },
   {
     "id": "A1-092",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 92,
-    "setSize": 286,
     "name": {
       "en": "Snom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5243,22 +4415,13 @@
   },
   {
     "id": "A1-093",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 93,
-    "setSize": 286,
     "name": {
       "en": "Frosmoth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5299,22 +4462,13 @@
   },
   {
     "id": "A1-094",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 94,
-    "setSize": 286,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5355,22 +4509,13 @@
   },
   {
     "id": "A1-095",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 95,
-    "setSize": 286,
     "name": {
       "en": "Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5411,22 +4556,13 @@
   },
   {
     "id": "A1-096",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 96,
-    "setSize": 286,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5467,22 +4603,13 @@
   },
   {
     "id": "A1-097",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 97,
-    "setSize": 286,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5523,22 +4650,13 @@
   },
   {
     "id": "A1-098",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 98,
-    "setSize": 286,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5587,22 +4705,13 @@
   },
   {
     "id": "A1-099",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 99,
-    "setSize": 286,
     "name": {
       "en": "Voltorb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5643,22 +4752,13 @@
   },
   {
     "id": "A1-100",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 100,
-    "setSize": 286,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5699,22 +4799,13 @@
   },
   {
     "id": "A1-101",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 101,
-    "setSize": 286,
     "name": {
       "en": "Electabuzz",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5755,22 +4846,13 @@
   },
   {
     "id": "A1-102",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 102,
-    "setSize": 286,
     "name": {
       "en": "Jolteon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5811,22 +4893,13 @@
   },
   {
     "id": "A1-103",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 103,
-    "setSize": 286,
     "name": {
       "en": "Zapdos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5867,22 +4940,13 @@
   },
   {
     "id": "A1-104",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 104,
-    "setSize": 286,
     "name": {
       "en": "Zapdos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5933,22 +4997,13 @@
   },
   {
     "id": "A1-105",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 105,
-    "setSize": 286,
     "name": {
       "en": "Blitzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5989,22 +5044,13 @@
   },
   {
     "id": "A1-106",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 106,
-    "setSize": 286,
     "name": {
       "en": "Zebstrika",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6045,22 +5091,13 @@
   },
   {
     "id": "A1-107",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 107,
-    "setSize": 286,
     "name": {
       "en": "Tynamo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6101,22 +5138,13 @@
   },
   {
     "id": "A1-108",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 108,
-    "setSize": 286,
     "name": {
       "en": "Eelektrik",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6157,22 +5185,13 @@
   },
   {
     "id": "A1-109",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 109,
-    "setSize": 286,
     "name": {
       "en": "Eelektross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6213,22 +5232,13 @@
   },
   {
     "id": "A1-110",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 110,
-    "setSize": 286,
     "name": {
       "en": "Helioptile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6269,22 +5279,13 @@
   },
   {
     "id": "A1-111",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 111,
-    "setSize": 286,
     "name": {
       "en": "Heliolisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6325,22 +5326,13 @@
   },
   {
     "id": "A1-112",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 112,
-    "setSize": 286,
     "name": {
       "en": "Pincurchin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -6381,22 +5373,13 @@
   },
   {
     "id": "A1-113",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 113,
-    "setSize": 286,
     "name": {
       "en": "Clefairy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6437,22 +5420,13 @@
   },
   {
     "id": "A1-114",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 114,
-    "setSize": 286,
     "name": {
       "en": "Clefable",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6493,22 +5467,13 @@
   },
   {
     "id": "A1-115",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 115,
-    "setSize": 286,
     "name": {
       "en": "Abra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6549,22 +5514,13 @@
   },
   {
     "id": "A1-116",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 116,
-    "setSize": 286,
     "name": {
       "en": "Kadabra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6605,22 +5561,13 @@
   },
   {
     "id": "A1-117",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 117,
-    "setSize": 286,
     "name": {
       "en": "Alakazam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6661,22 +5608,13 @@
   },
   {
     "id": "A1-118",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 118,
-    "setSize": 286,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6717,22 +5655,13 @@
   },
   {
     "id": "A1-119",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 119,
-    "setSize": 286,
     "name": {
       "en": "Slowbro",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6773,22 +5702,13 @@
   },
   {
     "id": "A1-120",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 120,
-    "setSize": 286,
     "name": {
       "en": "Gastly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6829,22 +5749,13 @@
   },
   {
     "id": "A1-121",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 121,
-    "setSize": 286,
     "name": {
       "en": "Haunter",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6885,22 +5796,13 @@
   },
   {
     "id": "A1-122",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 122,
-    "setSize": 286,
     "name": {
       "en": "Gengar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -6941,22 +5843,13 @@
   },
   {
     "id": "A1-123",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 123,
-    "setSize": 286,
     "name": {
       "en": "Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7005,22 +5898,13 @@
   },
   {
     "id": "A1-124",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 124,
-    "setSize": 286,
     "name": {
       "en": "Drowzee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7061,22 +5945,13 @@
   },
   {
     "id": "A1-125",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 125,
-    "setSize": 286,
     "name": {
       "en": "Hypno",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7125,22 +6000,13 @@
   },
   {
     "id": "A1-126",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 126,
-    "setSize": 286,
     "name": {
       "en": "Mr. Mime",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7181,22 +6047,13 @@
   },
   {
     "id": "A1-127",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 127,
-    "setSize": 286,
     "name": {
       "en": "Jynx",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7237,22 +6094,13 @@
   },
   {
     "id": "A1-128",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 128,
-    "setSize": 286,
     "name": {
       "en": "Mewtwo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7293,22 +6141,13 @@
   },
   {
     "id": "A1-129",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 129,
-    "setSize": 286,
     "name": {
       "en": "Mewtwo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7359,22 +6198,13 @@
   },
   {
     "id": "A1-130",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 130,
-    "setSize": 286,
     "name": {
       "en": "Ralts",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7415,22 +6245,13 @@
   },
   {
     "id": "A1-131",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 131,
-    "setSize": 286,
     "name": {
       "en": "Kirlia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7471,22 +6292,13 @@
   },
   {
     "id": "A1-132",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 132,
-    "setSize": 286,
     "name": {
       "en": "Gardevoir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7535,22 +6347,13 @@
   },
   {
     "id": "A1-133",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 133,
-    "setSize": 286,
     "name": {
       "en": "Woobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7591,22 +6394,13 @@
   },
   {
     "id": "A1-134",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 134,
-    "setSize": 286,
     "name": {
       "en": "Swoobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7647,22 +6441,13 @@
   },
   {
     "id": "A1-135",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 135,
-    "setSize": 286,
     "name": {
       "en": "Golett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7703,22 +6488,13 @@
   },
   {
     "id": "A1-136",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 136,
-    "setSize": 286,
     "name": {
       "en": "Golurk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -7759,22 +6535,13 @@
   },
   {
     "id": "A1-137",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 137,
-    "setSize": 286,
     "name": {
       "en": "Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7815,22 +6582,13 @@
   },
   {
     "id": "A1-138",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 138,
-    "setSize": 286,
     "name": {
       "en": "Sandslash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7871,22 +6629,13 @@
   },
   {
     "id": "A1-139",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 139,
-    "setSize": 286,
     "name": {
       "en": "Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7927,22 +6676,13 @@
   },
   {
     "id": "A1-140",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 140,
-    "setSize": 286,
     "name": {
       "en": "Dugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -7983,22 +6723,13 @@
   },
   {
     "id": "A1-141",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 141,
-    "setSize": 286,
     "name": {
       "en": "Mankey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8039,22 +6770,13 @@
   },
   {
     "id": "A1-142",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 142,
-    "setSize": 286,
     "name": {
       "en": "Primeape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8095,22 +6817,13 @@
   },
   {
     "id": "A1-143",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 143,
-    "setSize": 286,
     "name": {
       "en": "Machop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8151,22 +6864,13 @@
   },
   {
     "id": "A1-144",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 144,
-    "setSize": 286,
     "name": {
       "en": "Machoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8207,22 +6911,13 @@
   },
   {
     "id": "A1-145",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 145,
-    "setSize": 286,
     "name": {
       "en": "Machamp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8263,22 +6958,13 @@
   },
   {
     "id": "A1-146",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 146,
-    "setSize": 286,
     "name": {
       "en": "Machamp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8319,22 +7005,13 @@
   },
   {
     "id": "A1-147",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 147,
-    "setSize": 286,
     "name": {
       "en": "Geodude",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8375,22 +7052,13 @@
   },
   {
     "id": "A1-148",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 148,
-    "setSize": 286,
     "name": {
       "en": "Graveler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8431,22 +7099,13 @@
   },
   {
     "id": "A1-149",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 149,
-    "setSize": 286,
     "name": {
       "en": "Golem",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8487,22 +7146,13 @@
   },
   {
     "id": "A1-150",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 150,
-    "setSize": 286,
     "name": {
       "en": "Onix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8543,22 +7193,13 @@
   },
   {
     "id": "A1-151",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 151,
-    "setSize": 286,
     "name": {
       "en": "Cubone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8599,22 +7240,13 @@
   },
   {
     "id": "A1-152",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 152,
-    "setSize": 286,
     "name": {
       "en": "Marowak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8655,22 +7287,13 @@
   },
   {
     "id": "A1-153",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 153,
-    "setSize": 286,
     "name": {
       "en": "Marowak ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8711,22 +7334,13 @@
   },
   {
     "id": "A1-154",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 154,
-    "setSize": 286,
     "name": {
       "en": "Hitmonlee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8767,22 +7381,13 @@
   },
   {
     "id": "A1-155",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 155,
-    "setSize": 286,
     "name": {
       "en": "Hitmonchan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8823,22 +7428,13 @@
   },
   {
     "id": "A1-156",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 156,
-    "setSize": 286,
     "name": {
       "en": "Rhyhorn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8879,22 +7475,13 @@
   },
   {
     "id": "A1-157",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 157,
-    "setSize": 286,
     "name": {
       "en": "Rhydon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8935,22 +7522,13 @@
   },
   {
     "id": "A1-158",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 158,
-    "setSize": 286,
     "name": {
       "en": "Kabuto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -8991,22 +7569,13 @@
   },
   {
     "id": "A1-159",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 159,
-    "setSize": 286,
     "name": {
       "en": "Kabutops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9047,22 +7616,13 @@
   },
   {
     "id": "A1-160",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 160,
-    "setSize": 286,
     "name": {
       "en": "Mienfoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9103,22 +7663,13 @@
   },
   {
     "id": "A1-161",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 161,
-    "setSize": 286,
     "name": {
       "en": "Mienshao",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9159,22 +7710,13 @@
   },
   {
     "id": "A1-162",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 162,
-    "setSize": 286,
     "name": {
       "en": "Clobbopus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9215,22 +7757,13 @@
   },
   {
     "id": "A1-163",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 163,
-    "setSize": 286,
     "name": {
       "en": "Grapploct",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9271,22 +7804,13 @@
   },
   {
     "id": "A1-164",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 164,
-    "setSize": 286,
     "name": {
       "en": "Ekans",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9327,22 +7851,13 @@
   },
   {
     "id": "A1-165",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 165,
-    "setSize": 286,
     "name": {
       "en": "Arbok",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9383,22 +7898,13 @@
   },
   {
     "id": "A1-166",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 166,
-    "setSize": 286,
     "name": {
       "en": "Nidoran♀",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9439,22 +7945,13 @@
   },
   {
     "id": "A1-167",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 167,
-    "setSize": 286,
     "name": {
       "en": "Nidorina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9495,22 +7992,13 @@
   },
   {
     "id": "A1-168",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 168,
-    "setSize": 286,
     "name": {
       "en": "Nidoqueen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9551,22 +8039,13 @@
   },
   {
     "id": "A1-169",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 169,
-    "setSize": 286,
     "name": {
       "en": "Nidoran♂",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9607,22 +8086,13 @@
   },
   {
     "id": "A1-170",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 170,
-    "setSize": 286,
     "name": {
       "en": "Nidorino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9663,22 +8133,13 @@
   },
   {
     "id": "A1-171",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 171,
-    "setSize": 286,
     "name": {
       "en": "Nidoking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9719,22 +8180,13 @@
   },
   {
     "id": "A1-172",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 172,
-    "setSize": 286,
     "name": {
       "en": "Zubat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9775,22 +8227,13 @@
   },
   {
     "id": "A1-173",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 173,
-    "setSize": 286,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9831,22 +8274,13 @@
   },
   {
     "id": "A1-174",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 174,
-    "setSize": 286,
     "name": {
       "en": "Grimer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9887,22 +8321,13 @@
   },
   {
     "id": "A1-175",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 175,
-    "setSize": 286,
     "name": {
       "en": "Muk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9943,22 +8368,13 @@
   },
   {
     "id": "A1-176",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 176,
-    "setSize": 286,
     "name": {
       "en": "Koffing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9999,22 +8415,13 @@
   },
   {
     "id": "A1-177",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 177,
-    "setSize": 286,
     "name": {
       "en": "Weezing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -10063,22 +8470,13 @@
   },
   {
     "id": "A1-178",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 178,
-    "setSize": 286,
     "name": {
       "en": "Mawile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10119,22 +8517,13 @@
   },
   {
     "id": "A1-179",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 179,
-    "setSize": 286,
     "name": {
       "en": "Pawniard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10175,22 +8564,13 @@
   },
   {
     "id": "A1-180",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 180,
-    "setSize": 286,
     "name": {
       "en": "Bisharp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10231,22 +8611,13 @@
   },
   {
     "id": "A1-181",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 181,
-    "setSize": 286,
     "name": {
       "en": "Meltan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10287,22 +8658,13 @@
   },
   {
     "id": "A1-182",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 182,
-    "setSize": 286,
     "name": {
       "en": "Melmetal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10351,22 +8713,13 @@
   },
   {
     "id": "A1-183",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 183,
-    "setSize": 286,
     "name": {
       "en": "Dratini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10407,22 +8760,13 @@
   },
   {
     "id": "A1-184",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 184,
-    "setSize": 286,
     "name": {
       "en": "Dragonair",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10463,22 +8807,13 @@
   },
   {
     "id": "A1-185",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 185,
-    "setSize": 286,
     "name": {
       "en": "Dragonite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -10519,22 +8854,13 @@
   },
   {
     "id": "A1-186",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 186,
-    "setSize": 286,
     "name": {
       "en": "Pidgey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10575,22 +8901,13 @@
   },
   {
     "id": "A1-187",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 187,
-    "setSize": 286,
     "name": {
       "en": "Pidgeotto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10631,22 +8948,13 @@
   },
   {
     "id": "A1-188",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 188,
-    "setSize": 286,
     "name": {
       "en": "Pidgeot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10695,22 +9003,13 @@
   },
   {
     "id": "A1-189",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 189,
-    "setSize": 286,
     "name": {
       "en": "Rattata",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10751,22 +9050,13 @@
   },
   {
     "id": "A1-190",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 190,
-    "setSize": 286,
     "name": {
       "en": "Raticate",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10807,22 +9097,13 @@
   },
   {
     "id": "A1-191",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 191,
-    "setSize": 286,
     "name": {
       "en": "Spearow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10863,22 +9144,13 @@
   },
   {
     "id": "A1-192",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 192,
-    "setSize": 286,
     "name": {
       "en": "Fearow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10919,22 +9191,13 @@
   },
   {
     "id": "A1-193",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 193,
-    "setSize": 286,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10975,22 +9238,13 @@
   },
   {
     "id": "A1-194",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 194,
-    "setSize": 286,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11031,22 +9285,13 @@
   },
   {
     "id": "A1-195",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 195,
-    "setSize": 286,
     "name": {
       "en": "Wigglytuff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11087,22 +9332,13 @@
   },
   {
     "id": "A1-196",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 196,
-    "setSize": 286,
     "name": {
       "en": "Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11143,22 +9379,13 @@
   },
   {
     "id": "A1-197",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 197,
-    "setSize": 286,
     "name": {
       "en": "Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11199,22 +9426,13 @@
   },
   {
     "id": "A1-198",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 198,
-    "setSize": 286,
     "name": {
       "en": "Farfetch'd",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11255,22 +9473,13 @@
   },
   {
     "id": "A1-199",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 199,
-    "setSize": 286,
     "name": {
       "en": "Doduo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11311,22 +9520,13 @@
   },
   {
     "id": "A1-200",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 200,
-    "setSize": 286,
     "name": {
       "en": "Dodrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11367,22 +9567,13 @@
   },
   {
     "id": "A1-201",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 201,
-    "setSize": 286,
     "name": {
       "en": "Lickitung",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11423,22 +9614,13 @@
   },
   {
     "id": "A1-202",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 202,
-    "setSize": 286,
     "name": {
       "en": "Chansey",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11479,22 +9661,13 @@
   },
   {
     "id": "A1-203",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 203,
-    "setSize": 286,
     "name": {
       "en": "Kangaskhan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11535,22 +9708,13 @@
   },
   {
     "id": "A1-204",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 204,
-    "setSize": 286,
     "name": {
       "en": "Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11591,22 +9755,13 @@
   },
   {
     "id": "A1-205",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 205,
-    "setSize": 286,
     "name": {
       "en": "Ditto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11647,22 +9802,13 @@
   },
   {
     "id": "A1-206",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 206,
-    "setSize": 286,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11703,22 +9849,13 @@
   },
   {
     "id": "A1-207",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 207,
-    "setSize": 286,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11759,22 +9896,13 @@
   },
   {
     "id": "A1-208",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 208,
-    "setSize": 286,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11815,22 +9943,13 @@
   },
   {
     "id": "A1-209",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 209,
-    "setSize": 286,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11879,22 +9998,13 @@
   },
   {
     "id": "A1-210",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 210,
-    "setSize": 286,
     "name": {
       "en": "Aerodactyl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11935,22 +10045,13 @@
   },
   {
     "id": "A1-211",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 211,
-    "setSize": 286,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11991,22 +10092,13 @@
   },
   {
     "id": "A1-212",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 212,
-    "setSize": 286,
     "name": {
       "en": "Minccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12047,22 +10139,13 @@
   },
   {
     "id": "A1-213",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 213,
-    "setSize": 286,
     "name": {
       "en": "Cinccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12103,22 +10186,13 @@
   },
   {
     "id": "A1-214",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 214,
-    "setSize": 286,
     "name": {
       "en": "Wooloo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12159,22 +10233,13 @@
   },
   {
     "id": "A1-215",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 215,
-    "setSize": 286,
     "name": {
       "en": "Dubwool",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12215,22 +10280,13 @@
   },
   {
     "id": "A1-216",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 216,
-    "setSize": 286,
     "name": {
       "en": "Helix Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12251,22 +10307,13 @@
   },
   {
     "id": "A1-217",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 217,
-    "setSize": 286,
     "name": {
       "en": "Dome Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12287,22 +10334,13 @@
   },
   {
     "id": "A1-218",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 218,
-    "setSize": 286,
     "name": {
       "en": "Old Amber",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12323,22 +10361,13 @@
   },
   {
     "id": "A1-219",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 219,
-    "setSize": 286,
     "name": {
       "en": "Erika",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12359,22 +10388,13 @@
   },
   {
     "id": "A1-220",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 220,
-    "setSize": 286,
     "name": {
       "en": "Misty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12395,22 +10415,13 @@
   },
   {
     "id": "A1-221",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 221,
-    "setSize": 286,
     "name": {
       "en": "Blaine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12431,22 +10442,13 @@
   },
   {
     "id": "A1-222",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 222,
-    "setSize": 286,
     "name": {
       "en": "Koga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12467,22 +10469,13 @@
   },
   {
     "id": "A1-223",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 223,
-    "setSize": 286,
     "name": {
       "en": "Giovanni",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12503,22 +10496,13 @@
   },
   {
     "id": "A1-224",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 224,
-    "setSize": 286,
     "name": {
       "en": "Brock",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12539,22 +10523,13 @@
   },
   {
     "id": "A1-225",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 225,
-    "setSize": 286,
     "name": {
       "en": "Sabrina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12575,22 +10550,13 @@
   },
   {
     "id": "A1-226",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 226,
-    "setSize": 286,
     "name": {
       "en": "Lt. Surge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -12611,22 +10577,13 @@
   },
   {
     "id": "A1-227",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 227,
-    "setSize": 286,
     "name": {
       "en": "Bulbasaur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12667,22 +10624,13 @@
   },
   {
     "id": "A1-228",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 228,
-    "setSize": 286,
     "name": {
       "en": "Gloom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12723,22 +10671,13 @@
   },
   {
     "id": "A1-229",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 229,
-    "setSize": 286,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -12779,22 +10718,13 @@
   },
   {
     "id": "A1-230",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 230,
-    "setSize": 286,
     "name": {
       "en": "Charmander",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12835,22 +10765,13 @@
   },
   {
     "id": "A1-231",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 231,
-    "setSize": 286,
     "name": {
       "en": "Rapidash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12891,22 +10812,13 @@
   },
   {
     "id": "A1-232",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 232,
-    "setSize": 286,
     "name": {
       "en": "Squirtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12947,22 +10859,13 @@
   },
   {
     "id": "A1-233",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 233,
-    "setSize": 286,
     "name": {
       "en": "Gyarados",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13003,22 +10906,13 @@
   },
   {
     "id": "A1-234",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 234,
-    "setSize": 286,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -13059,22 +10953,13 @@
   },
   {
     "id": "A1-235",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 235,
-    "setSize": 286,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -13115,22 +11000,13 @@
   },
   {
     "id": "A1-236",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 236,
-    "setSize": 286,
     "name": {
       "en": "Alakazam",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13171,22 +11047,13 @@
   },
   {
     "id": "A1-237",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 237,
-    "setSize": 286,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -13227,22 +11094,13 @@
   },
   {
     "id": "A1-238",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 238,
-    "setSize": 286,
     "name": {
       "en": "Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13283,22 +11141,13 @@
   },
   {
     "id": "A1-239",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 239,
-    "setSize": 286,
     "name": {
       "en": "Cubone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -13339,22 +11188,13 @@
   },
   {
     "id": "A1-240",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 240,
-    "setSize": 286,
     "name": {
       "en": "Nidoqueen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13395,22 +11235,13 @@
   },
   {
     "id": "A1-241",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 241,
-    "setSize": 286,
     "name": {
       "en": "Nidoking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13451,22 +11282,13 @@
   },
   {
     "id": "A1-242",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 242,
-    "setSize": 286,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13507,22 +11329,13 @@
   },
   {
     "id": "A1-243",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 243,
-    "setSize": 286,
     "name": {
       "en": "Weezing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -13571,22 +11384,13 @@
   },
   {
     "id": "A1-244",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 244,
-    "setSize": 286,
     "name": {
       "en": "Dragonite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -13627,22 +11431,13 @@
   },
   {
     "id": "A1-245",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 245,
-    "setSize": 286,
     "name": {
       "en": "Pidgeot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13691,22 +11486,13 @@
   },
   {
     "id": "A1-246",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 246,
-    "setSize": 286,
     "name": {
       "en": "Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13747,22 +11533,13 @@
   },
   {
     "id": "A1-247",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 247,
-    "setSize": 286,
     "name": {
       "en": "Ditto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13803,22 +11580,13 @@
   },
   {
     "id": "A1-248",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 248,
-    "setSize": 286,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13859,22 +11627,13 @@
   },
   {
     "id": "A1-249",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 249,
-    "setSize": 286,
     "name": {
       "en": "Porygon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13923,22 +11682,13 @@
   },
   {
     "id": "A1-250",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 250,
-    "setSize": 286,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -13979,22 +11729,13 @@
   },
   {
     "id": "A1-251",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 251,
-    "setSize": 286,
     "name": {
       "en": "Venusaur ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -14045,22 +11786,13 @@
   },
   {
     "id": "A1-252",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 252,
-    "setSize": 286,
     "name": {
       "en": "Exeggutor ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -14101,22 +11833,13 @@
   },
   {
     "id": "A1-253",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 253,
-    "setSize": 286,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -14167,22 +11890,13 @@
   },
   {
     "id": "A1-254",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 254,
-    "setSize": 286,
     "name": {
       "en": "Arcanine ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -14223,22 +11937,13 @@
   },
   {
     "id": "A1-255",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 255,
-    "setSize": 286,
     "name": {
       "en": "Moltres ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -14289,22 +11994,13 @@
   },
   {
     "id": "A1-256",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 256,
-    "setSize": 286,
     "name": {
       "en": "Blastoise ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -14355,22 +12051,13 @@
   },
   {
     "id": "A1-257",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 257,
-    "setSize": 286,
     "name": {
       "en": "Starmie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -14411,22 +12098,13 @@
   },
   {
     "id": "A1-258",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 258,
-    "setSize": 286,
     "name": {
       "en": "Articuno ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -14477,22 +12155,13 @@
   },
   {
     "id": "A1-259",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 259,
-    "setSize": 286,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -14533,22 +12202,13 @@
   },
   {
     "id": "A1-260",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 260,
-    "setSize": 286,
     "name": {
       "en": "Zapdos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -14599,22 +12259,13 @@
   },
   {
     "id": "A1-261",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 261,
-    "setSize": 286,
     "name": {
       "en": "Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -14663,22 +12314,13 @@
   },
   {
     "id": "A1-262",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 262,
-    "setSize": 286,
     "name": {
       "en": "Mewtwo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -14729,22 +12371,13 @@
   },
   {
     "id": "A1-263",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 263,
-    "setSize": 286,
     "name": {
       "en": "Machamp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -14785,22 +12418,13 @@
   },
   {
     "id": "A1-264",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 264,
-    "setSize": 286,
     "name": {
       "en": "Marowak ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -14841,22 +12465,13 @@
   },
   {
     "id": "A1-265",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 265,
-    "setSize": 286,
     "name": {
       "en": "Wigglytuff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -14897,22 +12512,13 @@
   },
   {
     "id": "A1-266",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 266,
-    "setSize": 286,
     "name": {
       "en": "Erika",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14933,22 +12539,13 @@
   },
   {
     "id": "A1-267",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 267,
-    "setSize": 286,
     "name": {
       "en": "Misty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -14969,22 +12566,13 @@
   },
   {
     "id": "A1-268",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 268,
-    "setSize": 286,
     "name": {
       "en": "Blaine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15005,22 +12593,13 @@
   },
   {
     "id": "A1-269",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 269,
-    "setSize": 286,
     "name": {
       "en": "Koga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15041,22 +12620,13 @@
   },
   {
     "id": "A1-270",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 270,
-    "setSize": 286,
     "name": {
       "en": "Giovanni",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15077,22 +12647,13 @@
   },
   {
     "id": "A1-271",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 271,
-    "setSize": 286,
     "name": {
       "en": "Brock",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15113,22 +12674,13 @@
   },
   {
     "id": "A1-272",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 272,
-    "setSize": 286,
     "name": {
       "en": "Sabrina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15149,22 +12701,13 @@
   },
   {
     "id": "A1-273",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 273,
-    "setSize": 286,
     "name": {
       "en": "Lt. Surge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -15185,22 +12728,13 @@
   },
   {
     "id": "A1-274",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 274,
-    "setSize": 286,
     "name": {
       "en": "Moltres ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -15251,22 +12785,13 @@
   },
   {
     "id": "A1-275",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 275,
-    "setSize": 286,
     "name": {
       "en": "Articuno ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -15317,22 +12842,13 @@
   },
   {
     "id": "A1-276",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 276,
-    "setSize": 286,
     "name": {
       "en": "Zapdos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -15383,22 +12899,13 @@
   },
   {
     "id": "A1-277",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 277,
-    "setSize": 286,
     "name": {
       "en": "Gengar ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -15447,22 +12954,13 @@
   },
   {
     "id": "A1-278",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 278,
-    "setSize": 286,
     "name": {
       "en": "Machamp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -15503,22 +13001,13 @@
   },
   {
     "id": "A1-279",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 279,
-    "setSize": 286,
     "name": {
       "en": "Wigglytuff ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -15559,22 +13048,13 @@
   },
   {
     "id": "A1-280",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 280,
-    "setSize": 286,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -15625,22 +13105,13 @@
   },
   {
     "id": "A1-281",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 281,
-    "setSize": 286,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -15681,22 +13152,13 @@
   },
   {
     "id": "A1-282",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 282,
-    "setSize": 286,
     "name": {
       "en": "Mewtwo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -15747,22 +13209,13 @@
   },
   {
     "id": "A1-283",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 283,
-    "setSize": 286,
     "name": {
       "en": "Mew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -15803,22 +13256,13 @@
   },
   {
     "id": "A1-284",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 284,
-    "setSize": 286,
     "name": {
       "en": "Charizard ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -15869,22 +13313,13 @@
   },
   {
     "id": "A1-285",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 285,
-    "setSize": 286,
     "name": {
       "en": "Pikachu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -15925,22 +13360,13 @@
   },
   {
     "id": "A1-286",
-    "set": {
-      "code": "A1",
-      "name": "Genetic Apex",
-      "nameJa": "最強の遺伝子"
-    },
+    "setCode": "A1",
     "number": 286,
-    "setSize": 286,
     "name": {
       "en": "Mewtwo ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",

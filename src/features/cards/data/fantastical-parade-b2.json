@@ -1,22 +1,13 @@
 [
   {
     "id": "B2-001",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 1,
-    "setSize": 234,
     "name": {
       "en": "Ledyba",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B2-002",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 2,
-    "setSize": 234,
     "name": {
       "en": "Ledian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B2-003",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 3,
-    "setSize": 234,
     "name": {
       "en": "Shuckle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B2-004",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 4,
-    "setSize": 234,
     "name": {
       "en": "Roselia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "B2-005",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 5,
-    "setSize": 234,
     "name": {
       "en": "Roserade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "B2-006",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 6,
-    "setSize": 234,
     "name": {
       "en": "Cacnea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "B2-007",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 7,
-    "setSize": 234,
     "name": {
       "en": "Cacturne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "B2-008",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 8,
-    "setSize": 234,
     "name": {
       "en": "Chespin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "B2-009",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 9,
-    "setSize": 234,
     "name": {
       "en": "Quilladin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -505,22 +424,13 @@
   },
   {
     "id": "B2-010",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 10,
-    "setSize": 234,
     "name": {
       "en": "Chesnaught",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -561,22 +471,13 @@
   },
   {
     "id": "B2-011",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 11,
-    "setSize": 234,
     "name": {
       "en": "Scatterbug",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -617,22 +518,13 @@
   },
   {
     "id": "B2-012",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 12,
-    "setSize": 234,
     "name": {
       "en": "Spewpa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -673,22 +565,13 @@
   },
   {
     "id": "B2-013",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 13,
-    "setSize": 234,
     "name": {
       "en": "Vivillon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -729,22 +612,13 @@
   },
   {
     "id": "B2-014",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 14,
-    "setSize": 234,
     "name": {
       "en": "Buzzwole",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -785,22 +659,13 @@
   },
   {
     "id": "B2-015",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 15,
-    "setSize": 234,
     "name": {
       "en": "Gossifleur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -841,22 +706,13 @@
   },
   {
     "id": "B2-016",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 16,
-    "setSize": 234,
     "name": {
       "en": "Eldegoss",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -897,22 +753,13 @@
   },
   {
     "id": "B2-017",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 17,
-    "setSize": 234,
     "name": {
       "en": "Teal Mask Ogerpon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -961,22 +808,13 @@
   },
   {
     "id": "B2-018",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 18,
-    "setSize": 234,
     "name": {
       "en": "Alolan Marowak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "B2-019",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 19,
-    "setSize": 234,
     "name": {
       "en": "Reshiram",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "B2-020",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 20,
-    "setSize": 234,
     "name": {
       "en": "Litleo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "B2-021",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 21,
-    "setSize": 234,
     "name": {
       "en": "Pyroar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "B2-022",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 22,
-    "setSize": 234,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "B2-023",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 23,
-    "setSize": 234,
     "name": {
       "en": "Blacephalon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1307,22 +1100,13 @@
   },
   {
     "id": "B2-024",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 24,
-    "setSize": 234,
     "name": {
       "en": "Scorbunny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1363,22 +1147,13 @@
   },
   {
     "id": "B2-025",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 25,
-    "setSize": 234,
     "name": {
       "en": "Raboot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1419,22 +1194,13 @@
   },
   {
     "id": "B2-026",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 26,
-    "setSize": 234,
     "name": {
       "en": "Cinderace",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1475,22 +1241,13 @@
   },
   {
     "id": "B2-027",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 27,
-    "setSize": 234,
     "name": {
       "en": "Hearthflame Mask Ogerpon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -1531,22 +1288,13 @@
   },
   {
     "id": "B2-028",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 28,
-    "setSize": 234,
     "name": {
       "en": "Alolan Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1587,22 +1335,13 @@
   },
   {
     "id": "B2-029",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 29,
-    "setSize": 234,
     "name": {
       "en": "Alolan Ninetales ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1643,22 +1382,13 @@
   },
   {
     "id": "B2-030",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 30,
-    "setSize": 234,
     "name": {
       "en": "Galarian Mr. Mime",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1699,22 +1429,13 @@
   },
   {
     "id": "B2-031",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 31,
-    "setSize": 234,
     "name": {
       "en": "Galarian Mr. Rime",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1755,22 +1476,13 @@
   },
   {
     "id": "B2-032",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 32,
-    "setSize": 234,
     "name": {
       "en": "Delibird",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1811,22 +1523,13 @@
   },
   {
     "id": "B2-033",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 33,
-    "setSize": 234,
     "name": {
       "en": "Mudkip",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1867,22 +1570,13 @@
   },
   {
     "id": "B2-034",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 34,
-    "setSize": 234,
     "name": {
       "en": "Marshtomp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1923,22 +1617,13 @@
   },
   {
     "id": "B2-035",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 35,
-    "setSize": 234,
     "name": {
       "en": "Swampert",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1979,22 +1664,13 @@
   },
   {
     "id": "B2-036",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 36,
-    "setSize": 234,
     "name": {
       "en": "Mega Swampert ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2035,22 +1711,13 @@
   },
   {
     "id": "B2-037",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 37,
-    "setSize": 234,
     "name": {
       "en": "Vanillite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2091,22 +1758,13 @@
   },
   {
     "id": "B2-038",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 38,
-    "setSize": 234,
     "name": {
       "en": "Vanillish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2147,22 +1805,13 @@
   },
   {
     "id": "B2-039",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 39,
-    "setSize": 234,
     "name": {
       "en": "Vanilluxe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2203,22 +1852,13 @@
   },
   {
     "id": "B2-040",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 40,
-    "setSize": 234,
     "name": {
       "en": "Cryogonal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2259,22 +1899,13 @@
   },
   {
     "id": "B2-041",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 41,
-    "setSize": 234,
     "name": {
       "en": "Amaura",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2315,22 +1946,13 @@
   },
   {
     "id": "B2-042",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 42,
-    "setSize": 234,
     "name": {
       "en": "Aurorus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2371,22 +1993,13 @@
   },
   {
     "id": "B2-043",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 43,
-    "setSize": 234,
     "name": {
       "en": "Chewtle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2427,22 +2040,13 @@
   },
   {
     "id": "B2-044",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 44,
-    "setSize": 234,
     "name": {
       "en": "Drednaw",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2483,22 +2087,13 @@
   },
   {
     "id": "B2-045",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 45,
-    "setSize": 234,
     "name": {
       "en": "Cramorant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2539,22 +2134,13 @@
   },
   {
     "id": "B2-046",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 46,
-    "setSize": 234,
     "name": {
       "en": "Arrokuda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2595,22 +2181,13 @@
   },
   {
     "id": "B2-047",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 47,
-    "setSize": 234,
     "name": {
       "en": "Barraskewda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2651,22 +2228,13 @@
   },
   {
     "id": "B2-048",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 48,
-    "setSize": 234,
     "name": {
       "en": "Wellspring Mask Ogerpon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -2707,22 +2275,13 @@
   },
   {
     "id": "B2-049",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 49,
-    "setSize": 234,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2763,22 +2322,13 @@
   },
   {
     "id": "B2-050",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 50,
-    "setSize": 234,
     "name": {
       "en": "Alolan Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2827,22 +2377,13 @@
   },
   {
     "id": "B2-051",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 51,
-    "setSize": 234,
     "name": {
       "en": "Zapdos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2883,22 +2424,13 @@
   },
   {
     "id": "B2-052",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 52,
-    "setSize": 234,
     "name": {
       "en": "Plusle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2939,22 +2471,13 @@
   },
   {
     "id": "B2-053",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 53,
-    "setSize": 234,
     "name": {
       "en": "Minun",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -2995,22 +2518,13 @@
   },
   {
     "id": "B2-054",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 54,
-    "setSize": 234,
     "name": {
       "en": "Toxel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3051,22 +2565,13 @@
   },
   {
     "id": "B2-055",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 55,
-    "setSize": 234,
     "name": {
       "en": "Toxtricity ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3107,22 +2612,13 @@
   },
   {
     "id": "B2-056",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 56,
-    "setSize": 234,
     "name": {
       "en": "Tadbulb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3163,22 +2659,13 @@
   },
   {
     "id": "B2-057",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 57,
-    "setSize": 234,
     "name": {
       "en": "Bellibolt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3219,22 +2706,13 @@
   },
   {
     "id": "B2-058",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 58,
-    "setSize": 234,
     "name": {
       "en": "Galarian Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3275,22 +2753,13 @@
   },
   {
     "id": "B2-059",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 59,
-    "setSize": 234,
     "name": {
       "en": "Galarian Rapidash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3331,22 +2800,13 @@
   },
   {
     "id": "B2-060",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 60,
-    "setSize": 234,
     "name": {
       "en": "Wobbuffet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3387,22 +2847,13 @@
   },
   {
     "id": "B2-061",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 61,
-    "setSize": 234,
     "name": {
       "en": "Snubbull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3443,22 +2894,13 @@
   },
   {
     "id": "B2-062",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 62,
-    "setSize": 234,
     "name": {
       "en": "Granbull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3499,22 +2941,13 @@
   },
   {
     "id": "B2-063",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 63,
-    "setSize": 234,
     "name": {
       "en": "Ralts",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3555,22 +2988,13 @@
   },
   {
     "id": "B2-064",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 64,
-    "setSize": 234,
     "name": {
       "en": "Kirlia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3611,22 +3035,13 @@
   },
   {
     "id": "B2-065",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 65,
-    "setSize": 234,
     "name": {
       "en": "Gardevoir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3667,22 +3082,13 @@
   },
   {
     "id": "B2-066",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 66,
-    "setSize": 234,
     "name": {
       "en": "Mega Gardevoir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3723,22 +3129,13 @@
   },
   {
     "id": "B2-067",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 67,
-    "setSize": 234,
     "name": {
       "en": "Litwick",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3779,22 +3176,13 @@
   },
   {
     "id": "B2-068",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 68,
-    "setSize": 234,
     "name": {
       "en": "Lampent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3835,22 +3223,13 @@
   },
   {
     "id": "B2-069",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 69,
-    "setSize": 234,
     "name": {
       "en": "Chandelure",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3891,22 +3270,13 @@
   },
   {
     "id": "B2-070",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 70,
-    "setSize": 234,
     "name": {
       "en": "Meloetta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -3955,22 +3325,13 @@
   },
   {
     "id": "B2-071",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 71,
-    "setSize": 234,
     "name": {
       "en": "Pumpkaboo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4011,22 +3372,13 @@
   },
   {
     "id": "B2-072",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 72,
-    "setSize": 234,
     "name": {
       "en": "Gourgeist",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4067,22 +3419,13 @@
   },
   {
     "id": "B2-073",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 73,
-    "setSize": 234,
     "name": {
       "en": "Mimikyu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4131,22 +3474,13 @@
   },
   {
     "id": "B2-074",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 74,
-    "setSize": 234,
     "name": {
       "en": "Sinistea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4187,22 +3521,13 @@
   },
   {
     "id": "B2-075",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 75,
-    "setSize": 234,
     "name": {
       "en": "Polteageist",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4251,22 +3576,13 @@
   },
   {
     "id": "B2-076",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 76,
-    "setSize": 234,
     "name": {
       "en": "Indeedee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4307,22 +3623,13 @@
   },
   {
     "id": "B2-077",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 77,
-    "setSize": 234,
     "name": {
       "en": "Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4363,22 +3670,13 @@
   },
   {
     "id": "B2-078",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 78,
-    "setSize": 234,
     "name": {
       "en": "Sandslash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4419,22 +3717,13 @@
   },
   {
     "id": "B2-079",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 79,
-    "setSize": 234,
     "name": {
       "en": "Machop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4475,22 +3764,13 @@
   },
   {
     "id": "B2-080",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 80,
-    "setSize": 234,
     "name": {
       "en": "Machoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4531,22 +3811,13 @@
   },
   {
     "id": "B2-081",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 81,
-    "setSize": 234,
     "name": {
       "en": "Machamp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4587,22 +3858,13 @@
   },
   {
     "id": "B2-082",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 82,
-    "setSize": 234,
     "name": {
       "en": "Cubone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4643,22 +3905,13 @@
   },
   {
     "id": "B2-083",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 83,
-    "setSize": 234,
     "name": {
       "en": "Meditite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4699,22 +3952,13 @@
   },
   {
     "id": "B2-084",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 84,
-    "setSize": 234,
     "name": {
       "en": "Medicham",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4755,22 +3999,13 @@
   },
   {
     "id": "B2-085",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 85,
-    "setSize": 234,
     "name": {
       "en": "Roggenrola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4811,22 +4046,13 @@
   },
   {
     "id": "B2-086",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 86,
-    "setSize": 234,
     "name": {
       "en": "Boldore",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4867,22 +4093,13 @@
   },
   {
     "id": "B2-087",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 87,
-    "setSize": 234,
     "name": {
       "en": "Gigalith ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4923,22 +4140,13 @@
   },
   {
     "id": "B2-088",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 88,
-    "setSize": 234,
     "name": {
       "en": "Drilbur",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4979,22 +4187,13 @@
   },
   {
     "id": "B2-089",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 89,
-    "setSize": 234,
     "name": {
       "en": "Tyrunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5035,22 +4234,13 @@
   },
   {
     "id": "B2-090",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 90,
-    "setSize": 234,
     "name": {
       "en": "Tyrantrum",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5091,22 +4281,13 @@
   },
   {
     "id": "B2-091",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 91,
-    "setSize": 234,
     "name": {
       "en": "Passimian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5147,22 +4328,13 @@
   },
   {
     "id": "B2-092",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 92,
-    "setSize": 234,
     "name": {
       "en": "Falinks",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5211,22 +4383,13 @@
   },
   {
     "id": "B2-093",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 93,
-    "setSize": 234,
     "name": {
       "en": "Cornerstone Mask Ogerpon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5267,22 +4430,13 @@
   },
   {
     "id": "B2-094",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 94,
-    "setSize": 234,
     "name": {
       "en": "Alolan Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5323,22 +4477,13 @@
   },
   {
     "id": "B2-095",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 95,
-    "setSize": 234,
     "name": {
       "en": "Alolan Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5379,22 +4524,13 @@
   },
   {
     "id": "B2-096",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 96,
-    "setSize": 234,
     "name": {
       "en": "Alolan Grimer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5435,22 +4571,13 @@
   },
   {
     "id": "B2-097",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 97,
-    "setSize": 234,
     "name": {
       "en": "Alolan Muk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5499,22 +4626,13 @@
   },
   {
     "id": "B2-098",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 98,
-    "setSize": 234,
     "name": {
       "en": "Galarian Zigzagoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5555,22 +4673,13 @@
   },
   {
     "id": "B2-099",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 99,
-    "setSize": 234,
     "name": {
       "en": "Galarian Linoone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5611,22 +4720,13 @@
   },
   {
     "id": "B2-100",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 100,
-    "setSize": 234,
     "name": {
       "en": "Galarian Obstagoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5667,22 +4767,13 @@
   },
   {
     "id": "B2-101",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 101,
-    "setSize": 234,
     "name": {
       "en": "Stunky",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5723,22 +4814,13 @@
   },
   {
     "id": "B2-102",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 102,
-    "setSize": 234,
     "name": {
       "en": "Skuntank",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5779,22 +4861,13 @@
   },
   {
     "id": "B2-103",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 103,
-    "setSize": 234,
     "name": {
       "en": "Spiritomb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5843,22 +4916,13 @@
   },
   {
     "id": "B2-104",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 104,
-    "setSize": 234,
     "name": {
       "en": "Purrloin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5899,22 +4963,13 @@
   },
   {
     "id": "B2-105",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 105,
-    "setSize": 234,
     "name": {
       "en": "Liepard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5955,22 +5010,13 @@
   },
   {
     "id": "B2-106",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 106,
-    "setSize": 234,
     "name": {
       "en": "Scraggy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6011,22 +5057,13 @@
   },
   {
     "id": "B2-107",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 107,
-    "setSize": 234,
     "name": {
       "en": "Scrafty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6067,22 +5104,13 @@
   },
   {
     "id": "B2-108",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 108,
-    "setSize": 234,
     "name": {
       "en": "Yveltal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6123,22 +5151,13 @@
   },
   {
     "id": "B2-109",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 109,
-    "setSize": 234,
     "name": {
       "en": "Guzzlord",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -6179,22 +5198,13 @@
   },
   {
     "id": "B2-110",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 110,
-    "setSize": 234,
     "name": {
       "en": "Galarian Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6235,22 +5245,13 @@
   },
   {
     "id": "B2-111",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 111,
-    "setSize": 234,
     "name": {
       "en": "Galarian Perrserker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6299,22 +5300,13 @@
   },
   {
     "id": "B2-112",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 112,
-    "setSize": 234,
     "name": {
       "en": "Mawile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6355,22 +5347,13 @@
   },
   {
     "id": "B2-113",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 113,
-    "setSize": 234,
     "name": {
       "en": "Mega Mawile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6411,22 +5394,13 @@
   },
   {
     "id": "B2-114",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 114,
-    "setSize": 234,
     "name": {
       "en": "Excadrill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6467,22 +5441,13 @@
   },
   {
     "id": "B2-115",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 115,
-    "setSize": 234,
     "name": {
       "en": "Ferroseed",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6523,22 +5488,13 @@
   },
   {
     "id": "B2-116",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 116,
-    "setSize": 234,
     "name": {
       "en": "Ferrothorn",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6579,22 +5535,13 @@
   },
   {
     "id": "B2-117",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 117,
-    "setSize": 234,
     "name": {
       "en": "Galarian Stunfisk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6635,22 +5582,13 @@
   },
   {
     "id": "B2-118",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 118,
-    "setSize": 234,
     "name": {
       "en": "Honedge",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6691,22 +5629,13 @@
   },
   {
     "id": "B2-119",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 119,
-    "setSize": 234,
     "name": {
       "en": "Doublade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6747,22 +5676,13 @@
   },
   {
     "id": "B2-120",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 120,
-    "setSize": 234,
     "name": {
       "en": "Aegislash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -6803,22 +5723,13 @@
   },
   {
     "id": "B2-121",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 121,
-    "setSize": 234,
     "name": {
       "en": "Bagon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6859,22 +5770,13 @@
   },
   {
     "id": "B2-122",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 122,
-    "setSize": 234,
     "name": {
       "en": "Shelgon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6915,22 +5817,13 @@
   },
   {
     "id": "B2-123",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 123,
-    "setSize": 234,
     "name": {
       "en": "Salamence",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -6971,22 +5864,13 @@
   },
   {
     "id": "B2-124",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 124,
-    "setSize": 234,
     "name": {
       "en": "Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7035,22 +5919,13 @@
   },
   {
     "id": "B2-125",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 125,
-    "setSize": 234,
     "name": {
       "en": "Persian",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7091,22 +5966,13 @@
   },
   {
     "id": "B2-126",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 126,
-    "setSize": 234,
     "name": {
       "en": "Kangaskhan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7147,22 +6013,13 @@
   },
   {
     "id": "B2-127",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 127,
-    "setSize": 234,
     "name": {
       "en": "Mega Kangaskhan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7203,22 +6060,13 @@
   },
   {
     "id": "B2-128",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 128,
-    "setSize": 234,
     "name": {
       "en": "Sentret",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7259,22 +6107,13 @@
   },
   {
     "id": "B2-129",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 129,
-    "setSize": 234,
     "name": {
       "en": "Furret",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7315,22 +6154,13 @@
   },
   {
     "id": "B2-130",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 130,
-    "setSize": 234,
     "name": {
       "en": "Smeargle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7379,22 +6209,13 @@
   },
   {
     "id": "B2-131",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 131,
-    "setSize": 234,
     "name": {
       "en": "Lugia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7435,22 +6256,13 @@
   },
   {
     "id": "B2-132",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 132,
-    "setSize": 234,
     "name": {
       "en": "Taillow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7491,22 +6303,13 @@
   },
   {
     "id": "B2-133",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 133,
-    "setSize": 234,
     "name": {
       "en": "Swellow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7555,22 +6358,13 @@
   },
   {
     "id": "B2-134",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 134,
-    "setSize": 234,
     "name": {
       "en": "Slakoth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7611,22 +6405,13 @@
   },
   {
     "id": "B2-135",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 135,
-    "setSize": 234,
     "name": {
       "en": "Vigoroth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7667,22 +6452,13 @@
   },
   {
     "id": "B2-136",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 136,
-    "setSize": 234,
     "name": {
       "en": "Slaking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7731,22 +6507,13 @@
   },
   {
     "id": "B2-137",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 137,
-    "setSize": 234,
     "name": {
       "en": "Spinda",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7787,22 +6554,13 @@
   },
   {
     "id": "B2-138",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 138,
-    "setSize": 234,
     "name": {
       "en": "Tornadus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7843,22 +6601,13 @@
   },
   {
     "id": "B2-139",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 139,
-    "setSize": 234,
     "name": {
       "en": "Bunnelby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7899,22 +6648,13 @@
   },
   {
     "id": "B2-140",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 140,
-    "setSize": 234,
     "name": {
       "en": "Diggersby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -7955,22 +6695,13 @@
   },
   {
     "id": "B2-141",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 141,
-    "setSize": 234,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8019,22 +6750,13 @@
   },
   {
     "id": "B2-142",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 142,
-    "setSize": 234,
     "name": {
       "en": "Tandemaus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8075,22 +6797,13 @@
   },
   {
     "id": "B2-143",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 143,
-    "setSize": 234,
     "name": {
       "en": "Maushold",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -8131,22 +6844,13 @@
   },
   {
     "id": "B2-144",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 144,
-    "setSize": 234,
     "name": {
       "en": "Jaw Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8167,22 +6871,13 @@
   },
   {
     "id": "B2-145",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 145,
-    "setSize": 234,
     "name": {
       "en": "Lucky Ice Pop",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8203,22 +6898,13 @@
   },
   {
     "id": "B2-146",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 146,
-    "setSize": 234,
     "name": {
       "en": "Sail Fossil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8239,22 +6925,13 @@
   },
   {
     "id": "B2-147",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 147,
-    "setSize": 234,
     "name": {
       "en": "Protective Poncho",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8275,22 +6952,13 @@
   },
   {
     "id": "B2-148",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 148,
-    "setSize": 234,
     "name": {
       "en": "Metal Core Barrier",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8311,22 +6979,13 @@
   },
   {
     "id": "B2-149",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 149,
-    "setSize": 234,
     "name": {
       "en": "Diantha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8347,22 +7006,13 @@
   },
   {
     "id": "B2-150",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 150,
-    "setSize": 234,
     "name": {
       "en": "Sightseer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8383,22 +7033,13 @@
   },
   {
     "id": "B2-151",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 151,
-    "setSize": 234,
     "name": {
       "en": "Juggler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8419,22 +7060,13 @@
   },
   {
     "id": "B2-152",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 152,
-    "setSize": 234,
     "name": {
       "en": "Piers",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8455,22 +7087,13 @@
   },
   {
     "id": "B2-153",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 153,
-    "setSize": 234,
     "name": {
       "en": "Training Area",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8491,22 +7114,13 @@
   },
   {
     "id": "B2-154",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 154,
-    "setSize": 234,
     "name": {
       "en": "Starting Plains",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8527,22 +7141,13 @@
   },
   {
     "id": "B2-155",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 155,
-    "setSize": 234,
     "name": {
       "en": "Peculiar Plaza",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -8563,22 +7168,13 @@
   },
   {
     "id": "B2-156",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 156,
-    "setSize": 234,
     "name": {
       "en": "Cacnea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8619,22 +7215,13 @@
   },
   {
     "id": "B2-157",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 157,
-    "setSize": 234,
     "name": {
       "en": "Roserade",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8675,22 +7262,13 @@
   },
   {
     "id": "B2-158",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 158,
-    "setSize": 234,
     "name": {
       "en": "Vivillon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8731,22 +7309,13 @@
   },
   {
     "id": "B2-159",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 159,
-    "setSize": 234,
     "name": {
       "en": "Buzzwole",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -8787,22 +7356,13 @@
   },
   {
     "id": "B2-160",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 160,
-    "setSize": 234,
     "name": {
       "en": "Reshiram",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8843,22 +7403,13 @@
   },
   {
     "id": "B2-161",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 161,
-    "setSize": 234,
     "name": {
       "en": "Oricorio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8899,22 +7450,13 @@
   },
   {
     "id": "B2-162",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 162,
-    "setSize": 234,
     "name": {
       "en": "Scorbunny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -8955,22 +7497,13 @@
   },
   {
     "id": "B2-163",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 163,
-    "setSize": 234,
     "name": {
       "en": "Aurorus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9011,22 +7544,13 @@
   },
   {
     "id": "B2-164",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 164,
-    "setSize": 234,
     "name": {
       "en": "Cramorant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -9067,22 +7591,13 @@
   },
   {
     "id": "B2-165",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 165,
-    "setSize": 234,
     "name": {
       "en": "Minun",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9123,22 +7638,13 @@
   },
   {
     "id": "B2-166",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 166,
-    "setSize": 234,
     "name": {
       "en": "Toxel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -9179,22 +7685,13 @@
   },
   {
     "id": "B2-167",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 167,
-    "setSize": 234,
     "name": {
       "en": "Galarian Ponyta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9235,22 +7732,13 @@
   },
   {
     "id": "B2-168",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 168,
-    "setSize": 234,
     "name": {
       "en": "Snubbull",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9291,22 +7779,13 @@
   },
   {
     "id": "B2-169",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 169,
-    "setSize": 234,
     "name": {
       "en": "Indeedee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -9347,22 +7826,13 @@
   },
   {
     "id": "B2-170",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 170,
-    "setSize": 234,
     "name": {
       "en": "Sandshrew",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9403,22 +7873,13 @@
   },
   {
     "id": "B2-171",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 171,
-    "setSize": 234,
     "name": {
       "en": "Tyrantrum",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9459,22 +7920,13 @@
   },
   {
     "id": "B2-172",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 172,
-    "setSize": 234,
     "name": {
       "en": "Falinks",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -9523,22 +7975,13 @@
   },
   {
     "id": "B2-173",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 173,
-    "setSize": 234,
     "name": {
       "en": "Alolan Muk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9587,22 +8030,13 @@
   },
   {
     "id": "B2-174",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 174,
-    "setSize": 234,
     "name": {
       "en": "Purrloin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9643,22 +8077,13 @@
   },
   {
     "id": "B2-175",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 175,
-    "setSize": 234,
     "name": {
       "en": "Yveltal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9699,22 +8124,13 @@
   },
   {
     "id": "B2-176",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 176,
-    "setSize": 234,
     "name": {
       "en": "Galarian Obstagoon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -9755,22 +8171,13 @@
   },
   {
     "id": "B2-177",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 177,
-    "setSize": 234,
     "name": {
       "en": "Galarian Perrserker",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -9819,22 +8226,13 @@
   },
   {
     "id": "B2-178",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 178,
-    "setSize": 234,
     "name": {
       "en": "Salamence",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -9875,22 +8273,13 @@
   },
   {
     "id": "B2-179",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 179,
-    "setSize": 234,
     "name": {
       "en": "Slakoth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -9931,22 +8320,13 @@
   },
   {
     "id": "B2-180",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 180,
-    "setSize": 234,
     "name": {
       "en": "Teal Mask Ogerpon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -9995,22 +8375,13 @@
   },
   {
     "id": "B2-181",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 181,
-    "setSize": 234,
     "name": {
       "en": "Blacephalon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10061,22 +8432,13 @@
   },
   {
     "id": "B2-182",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 182,
-    "setSize": 234,
     "name": {
       "en": "Alolan Ninetales ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10117,22 +8479,13 @@
   },
   {
     "id": "B2-183",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 183,
-    "setSize": 234,
     "name": {
       "en": "Mega Swampert ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10173,22 +8526,13 @@
   },
   {
     "id": "B2-184",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 184,
-    "setSize": 234,
     "name": {
       "en": "Toxtricity ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10229,22 +8573,13 @@
   },
   {
     "id": "B2-185",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 185,
-    "setSize": 234,
     "name": {
       "en": "Mega Gardevoir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10285,22 +8620,13 @@
   },
   {
     "id": "B2-186",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 186,
-    "setSize": 234,
     "name": {
       "en": "Mimikyu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -10349,22 +8675,13 @@
   },
   {
     "id": "B2-187",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 187,
-    "setSize": 234,
     "name": {
       "en": "Gigalith ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -10405,22 +8722,13 @@
   },
   {
     "id": "B2-188",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 188,
-    "setSize": 234,
     "name": {
       "en": "Mega Mawile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -10461,22 +8769,13 @@
   },
   {
     "id": "B2-189",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 189,
-    "setSize": 234,
     "name": {
       "en": "Mega Kangaskhan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -10517,22 +8816,13 @@
   },
   {
     "id": "B2-190",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 190,
-    "setSize": 234,
     "name": {
       "en": "Diantha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10553,22 +8843,13 @@
   },
   {
     "id": "B2-191",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 191,
-    "setSize": 234,
     "name": {
       "en": "Sightseer",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10589,22 +8870,13 @@
   },
   {
     "id": "B2-192",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 192,
-    "setSize": 234,
     "name": {
       "en": "Juggler",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10625,22 +8897,13 @@
   },
   {
     "id": "B2-193",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 193,
-    "setSize": 234,
     "name": {
       "en": "Piers",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -10661,22 +8924,13 @@
   },
   {
     "id": "B2-194",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 194,
-    "setSize": 234,
     "name": {
       "en": "Teal Mask Ogerpon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -10725,22 +8979,13 @@
   },
   {
     "id": "B2-195",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 195,
-    "setSize": 234,
     "name": {
       "en": "Blacephalon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -10791,22 +9036,13 @@
   },
   {
     "id": "B2-196",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 196,
-    "setSize": 234,
     "name": {
       "en": "Alolan Ninetales ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10847,22 +9083,13 @@
   },
   {
     "id": "B2-197",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 197,
-    "setSize": 234,
     "name": {
       "en": "Mega Swampert ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -10903,22 +9130,13 @@
   },
   {
     "id": "B2-198",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 198,
-    "setSize": 234,
     "name": {
       "en": "Toxtricity ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -10959,22 +9177,13 @@
   },
   {
     "id": "B2-199",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 199,
-    "setSize": 234,
     "name": {
       "en": "Mimikyu ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11023,22 +9232,13 @@
   },
   {
     "id": "B2-200",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 200,
-    "setSize": 234,
     "name": {
       "en": "Gigalith ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -11079,22 +9279,13 @@
   },
   {
     "id": "B2-201",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 201,
-    "setSize": 234,
     "name": {
       "en": "Mega Mawile ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -11135,22 +9326,13 @@
   },
   {
     "id": "B2-202",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 202,
-    "setSize": 234,
     "name": {
       "en": "Mega Kangaskhan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11191,22 +9373,13 @@
   },
   {
     "id": "B2-203",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 203,
-    "setSize": 234,
     "name": {
       "en": "Mega Gardevoir ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11247,22 +9420,13 @@
   },
   {
     "id": "B2-204",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 204,
-    "setSize": 234,
     "name": {
       "en": "Meowth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -11311,22 +9475,13 @@
   },
   {
     "id": "B2-205",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 205,
-    "setSize": 234,
     "name": {
       "en": "Tangela",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -11367,22 +9522,13 @@
   },
   {
     "id": "B2-206",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 206,
-    "setSize": 234,
     "name": {
       "en": "Magby",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11423,22 +9569,13 @@
   },
   {
     "id": "B2-207",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 207,
-    "setSize": 234,
     "name": {
       "en": "Magmar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -11479,22 +9616,13 @@
   },
   {
     "id": "B2-208",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 208,
-    "setSize": 234,
     "name": {
       "en": "Horsea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11535,22 +9663,13 @@
   },
   {
     "id": "B2-209",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 209,
-    "setSize": 234,
     "name": {
       "en": "Seadra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11591,22 +9710,13 @@
   },
   {
     "id": "B2-210",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 210,
-    "setSize": 234,
     "name": {
       "en": "Mantyke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11647,22 +9757,13 @@
   },
   {
     "id": "B2-211",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 211,
-    "setSize": 234,
     "name": {
       "en": "Omanyte",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11703,22 +9804,13 @@
   },
   {
     "id": "B2-212",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 212,
-    "setSize": 234,
     "name": {
       "en": "Omastar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -11759,22 +9851,13 @@
   },
   {
     "id": "B2-213",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 213,
-    "setSize": 234,
     "name": {
       "en": "Pichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -11815,22 +9898,13 @@
   },
   {
     "id": "B2-214",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 214,
-    "setSize": 234,
     "name": {
       "en": "Clefairy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11871,22 +9945,13 @@
   },
   {
     "id": "B2-215",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 215,
-    "setSize": 234,
     "name": {
       "en": "Clefable",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11927,22 +9992,13 @@
   },
   {
     "id": "B2-216",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 216,
-    "setSize": 234,
     "name": {
       "en": "Latias",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -11983,22 +10039,13 @@
   },
   {
     "id": "B2-217",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 217,
-    "setSize": 234,
     "name": {
       "en": "Latios",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12047,22 +10094,13 @@
   },
   {
     "id": "B2-218",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 218,
-    "setSize": 234,
     "name": {
       "en": "Hitmonlee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12103,22 +10141,13 @@
   },
   {
     "id": "B2-219",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 219,
-    "setSize": 234,
     "name": {
       "en": "Hitmonchan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12159,22 +10188,13 @@
   },
   {
     "id": "B2-220",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 220,
-    "setSize": 234,
     "name": {
       "en": "Kabuto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12215,22 +10235,13 @@
   },
   {
     "id": "B2-221",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 221,
-    "setSize": 234,
     "name": {
       "en": "Kabutops",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12271,22 +10282,13 @@
   },
   {
     "id": "B2-222",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 222,
-    "setSize": 234,
     "name": {
       "en": "Phanpy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12327,22 +10329,13 @@
   },
   {
     "id": "B2-223",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 223,
-    "setSize": 234,
     "name": {
       "en": "Tyrogue",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12383,22 +10376,13 @@
   },
   {
     "id": "B2-224",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 224,
-    "setSize": 234,
     "name": {
       "en": "Tauros",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12439,22 +10423,13 @@
   },
   {
     "id": "B2-225",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 225,
-    "setSize": 234,
     "name": {
       "en": "Flareon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12503,22 +10478,13 @@
   },
   {
     "id": "B2-226",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 226,
-    "setSize": 234,
     "name": {
       "en": "Ho-Oh ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -12559,22 +10525,13 @@
   },
   {
     "id": "B2-227",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 227,
-    "setSize": 234,
     "name": {
       "en": "Kingdra ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -12615,22 +10572,13 @@
   },
   {
     "id": "B2-228",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 228,
-    "setSize": 234,
     "name": {
       "en": "Espeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12679,22 +10627,13 @@
   },
   {
     "id": "B2-229",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 229,
-    "setSize": 234,
     "name": {
       "en": "Sylveon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12743,22 +10682,13 @@
   },
   {
     "id": "B2-230",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 230,
-    "setSize": 234,
     "name": {
       "en": "Donphan ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -12799,22 +10729,13 @@
   },
   {
     "id": "B2-231",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 231,
-    "setSize": 234,
     "name": {
       "en": "Umbreon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -12863,22 +10784,13 @@
   },
   {
     "id": "B2-232",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 232,
-    "setSize": 234,
     "name": {
       "en": "Lugia ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -12919,22 +10831,13 @@
   },
   {
     "id": "B2-233",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 233,
-    "setSize": 234,
     "name": {
       "en": "Meloetta",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -12983,22 +10886,13 @@
   },
   {
     "id": "B2-234",
-    "set": {
-      "code": "B2",
-      "name": "Fantastical Parade",
-      "nameJa": "夢幻パレード"
-    },
+    "setCode": "B2",
     "number": 234,
-    "setSize": 234,
     "name": {
       "en": "Protective Poncho",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

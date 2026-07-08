@@ -1,22 +1,13 @@
 [
   {
     "id": "A2a-001",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 1,
-    "setSize": 96,
     "name": {
       "en": "Heracross",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A2a-002",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 2,
-    "setSize": 96,
     "name": {
       "en": "Burmy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A2a-003",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 3,
-    "setSize": 96,
     "name": {
       "en": "Mothim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A2a-004",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 4,
-    "setSize": 96,
     "name": {
       "en": "Combee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A2a-005",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 5,
-    "setSize": 96,
     "name": {
       "en": "Vespiquen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A2a-006",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 6,
-    "setSize": 96,
     "name": {
       "en": "Cherubi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A2a-007",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 7,
-    "setSize": 96,
     "name": {
       "en": "Cherrim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A2a-008",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 8,
-    "setSize": 96,
     "name": {
       "en": "Cherrim",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A2a-009",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 9,
-    "setSize": 96,
     "name": {
       "en": "Carnivine",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -513,22 +432,13 @@
   },
   {
     "id": "A2a-010",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 10,
-    "setSize": 96,
     "name": {
       "en": "Leafeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -577,22 +487,13 @@
   },
   {
     "id": "A2a-011",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 11,
-    "setSize": 96,
     "name": {
       "en": "Houndour",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -633,22 +534,13 @@
   },
   {
     "id": "A2a-012",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 12,
-    "setSize": 96,
     "name": {
       "en": "Houndoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -689,22 +581,13 @@
   },
   {
     "id": "A2a-013",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 13,
-    "setSize": 96,
     "name": {
       "en": "Heatran",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -753,22 +636,13 @@
   },
   {
     "id": "A2a-014",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 14,
-    "setSize": 96,
     "name": {
       "en": "Marill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -809,22 +683,13 @@
   },
   {
     "id": "A2a-015",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 15,
-    "setSize": 96,
     "name": {
       "en": "Azumarill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -865,22 +730,13 @@
   },
   {
     "id": "A2a-016",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 16,
-    "setSize": 96,
     "name": {
       "en": "Barboach",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -921,22 +777,13 @@
   },
   {
     "id": "A2a-017",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 17,
-    "setSize": 96,
     "name": {
       "en": "Whiscash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -977,22 +824,13 @@
   },
   {
     "id": "A2a-018",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 18,
-    "setSize": 96,
     "name": {
       "en": "Snorunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1033,22 +871,13 @@
   },
   {
     "id": "A2a-019",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 19,
-    "setSize": 96,
     "name": {
       "en": "Froslass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1089,22 +918,13 @@
   },
   {
     "id": "A2a-020",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 20,
-    "setSize": 96,
     "name": {
       "en": "Snover",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1145,22 +965,13 @@
   },
   {
     "id": "A2a-021",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 21,
-    "setSize": 96,
     "name": {
       "en": "Abomasnow",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1209,22 +1020,13 @@
   },
   {
     "id": "A2a-022",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 22,
-    "setSize": 96,
     "name": {
       "en": "Glaceon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1273,22 +1075,13 @@
   },
   {
     "id": "A2a-023",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 23,
-    "setSize": 96,
     "name": {
       "en": "Origin Forme Palkia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1329,22 +1122,13 @@
   },
   {
     "id": "A2a-024",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 24,
-    "setSize": 96,
     "name": {
       "en": "Phione",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1385,22 +1169,13 @@
   },
   {
     "id": "A2a-025",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 25,
-    "setSize": 96,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1441,22 +1216,13 @@
   },
   {
     "id": "A2a-026",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 26,
-    "setSize": 96,
     "name": {
       "en": "Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1505,22 +1271,13 @@
   },
   {
     "id": "A2a-027",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 27,
-    "setSize": 96,
     "name": {
       "en": "Electrike",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1561,22 +1318,13 @@
   },
   {
     "id": "A2a-028",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 28,
-    "setSize": 96,
     "name": {
       "en": "Manectric",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1617,22 +1365,13 @@
   },
   {
     "id": "A2a-029",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 29,
-    "setSize": 96,
     "name": {
       "en": "Clefairy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1673,22 +1412,13 @@
   },
   {
     "id": "A2a-030",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 30,
-    "setSize": 96,
     "name": {
       "en": "Clefable",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1729,22 +1459,13 @@
   },
   {
     "id": "A2a-031",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 31,
-    "setSize": 96,
     "name": {
       "en": "Gastly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1785,22 +1506,13 @@
   },
   {
     "id": "A2a-032",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 32,
-    "setSize": 96,
     "name": {
       "en": "Haunter",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1841,22 +1553,13 @@
   },
   {
     "id": "A2a-033",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 33,
-    "setSize": 96,
     "name": {
       "en": "Gengar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1897,22 +1600,13 @@
   },
   {
     "id": "A2a-034",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 34,
-    "setSize": 96,
     "name": {
       "en": "Unown",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1961,22 +1655,13 @@
   },
   {
     "id": "A2a-035",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 35,
-    "setSize": 96,
     "name": {
       "en": "Rotom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2025,22 +1710,13 @@
   },
   {
     "id": "A2a-036",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 36,
-    "setSize": 96,
     "name": {
       "en": "Sudowoodo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2081,22 +1757,13 @@
   },
   {
     "id": "A2a-037",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 37,
-    "setSize": 96,
     "name": {
       "en": "Phanpy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2137,22 +1804,13 @@
   },
   {
     "id": "A2a-038",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 38,
-    "setSize": 96,
     "name": {
       "en": "Donphan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2193,22 +1851,13 @@
   },
   {
     "id": "A2a-039",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 39,
-    "setSize": 96,
     "name": {
       "en": "Larvitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2249,22 +1898,13 @@
   },
   {
     "id": "A2a-040",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 40,
-    "setSize": 96,
     "name": {
       "en": "Pupitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2305,22 +1945,13 @@
   },
   {
     "id": "A2a-041",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 41,
-    "setSize": 96,
     "name": {
       "en": "Tyranitar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2369,22 +2000,13 @@
   },
   {
     "id": "A2a-042",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 42,
-    "setSize": 96,
     "name": {
       "en": "Nosepass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2425,22 +2047,13 @@
   },
   {
     "id": "A2a-043",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 43,
-    "setSize": 96,
     "name": {
       "en": "Meditite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2481,22 +2094,13 @@
   },
   {
     "id": "A2a-044",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 44,
-    "setSize": 96,
     "name": {
       "en": "Medicham",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2537,22 +2141,13 @@
   },
   {
     "id": "A2a-045",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 45,
-    "setSize": 96,
     "name": {
       "en": "Gible",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2593,22 +2188,13 @@
   },
   {
     "id": "A2a-046",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 46,
-    "setSize": 96,
     "name": {
       "en": "Gabite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2649,22 +2235,13 @@
   },
   {
     "id": "A2a-047",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 47,
-    "setSize": 96,
     "name": {
       "en": "Garchomp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2715,22 +2292,13 @@
   },
   {
     "id": "A2a-048",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 48,
-    "setSize": 96,
     "name": {
       "en": "Zubat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2771,22 +2339,13 @@
   },
   {
     "id": "A2a-049",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 49,
-    "setSize": 96,
     "name": {
       "en": "Golbat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2827,22 +2386,13 @@
   },
   {
     "id": "A2a-050",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 50,
-    "setSize": 96,
     "name": {
       "en": "Crobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2891,22 +2441,13 @@
   },
   {
     "id": "A2a-051",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 51,
-    "setSize": 96,
     "name": {
       "en": "Croagunk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2947,22 +2488,13 @@
   },
   {
     "id": "A2a-052",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 52,
-    "setSize": 96,
     "name": {
       "en": "Toxicroak",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -3003,22 +2535,13 @@
   },
   {
     "id": "A2a-053",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 53,
-    "setSize": 96,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3059,22 +2582,13 @@
   },
   {
     "id": "A2a-054",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 54,
-    "setSize": 96,
     "name": {
       "en": "Magneton",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3115,22 +2629,13 @@
   },
   {
     "id": "A2a-055",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 55,
-    "setSize": 96,
     "name": {
       "en": "Magnezone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3179,22 +2684,13 @@
   },
   {
     "id": "A2a-056",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 56,
-    "setSize": 96,
     "name": {
       "en": "Mawile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3235,22 +2731,13 @@
   },
   {
     "id": "A2a-057",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 57,
-    "setSize": 96,
     "name": {
       "en": "Probopass ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3291,22 +2778,13 @@
   },
   {
     "id": "A2a-058",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 58,
-    "setSize": 96,
     "name": {
       "en": "Bronzor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3347,22 +2825,13 @@
   },
   {
     "id": "A2a-059",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 59,
-    "setSize": 96,
     "name": {
       "en": "Bronzong",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3403,22 +2872,13 @@
   },
   {
     "id": "A2a-060",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 60,
-    "setSize": 96,
     "name": {
       "en": "Origin Forme Dialga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -3459,22 +2919,13 @@
   },
   {
     "id": "A2a-061",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 61,
-    "setSize": 96,
     "name": {
       "en": "Giratina",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3515,22 +2966,13 @@
   },
   {
     "id": "A2a-062",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 62,
-    "setSize": 96,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3571,22 +3013,13 @@
   },
   {
     "id": "A2a-063",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 63,
-    "setSize": 96,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3627,22 +3060,13 @@
   },
   {
     "id": "A2a-064",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 64,
-    "setSize": 96,
     "name": {
       "en": "Hoothoot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3683,22 +3107,13 @@
   },
   {
     "id": "A2a-065",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 65,
-    "setSize": 96,
     "name": {
       "en": "Noctowl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3739,22 +3154,13 @@
   },
   {
     "id": "A2a-066",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 66,
-    "setSize": 96,
     "name": {
       "en": "Starly",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3795,22 +3201,13 @@
   },
   {
     "id": "A2a-067",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 67,
-    "setSize": 96,
     "name": {
       "en": "Staravia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3851,22 +3248,13 @@
   },
   {
     "id": "A2a-068",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 68,
-    "setSize": 96,
     "name": {
       "en": "Staraptor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3907,22 +3295,13 @@
   },
   {
     "id": "A2a-069",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 69,
-    "setSize": 96,
     "name": {
       "en": "Shaymin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3971,22 +3350,13 @@
   },
   {
     "id": "A2a-070",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 70,
-    "setSize": 96,
     "name": {
       "en": "Arceus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4027,22 +3397,13 @@
   },
   {
     "id": "A2a-071",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 71,
-    "setSize": 96,
     "name": {
       "en": "Arceus ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4091,22 +3452,13 @@
   },
   {
     "id": "A2a-072",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 72,
-    "setSize": 96,
     "name": {
       "en": "Irida",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4127,22 +3479,13 @@
   },
   {
     "id": "A2a-073",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 73,
-    "setSize": 96,
     "name": {
       "en": "Celestic Town Elder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4163,22 +3506,13 @@
   },
   {
     "id": "A2a-074",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 74,
-    "setSize": 96,
     "name": {
       "en": "Barry",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4199,22 +3533,13 @@
   },
   {
     "id": "A2a-075",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 75,
-    "setSize": 96,
     "name": {
       "en": "Adaman",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4235,22 +3560,13 @@
   },
   {
     "id": "A2a-076",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 76,
-    "setSize": 96,
     "name": {
       "en": "Houndoom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4291,22 +3607,13 @@
   },
   {
     "id": "A2a-077",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 77,
-    "setSize": 96,
     "name": {
       "en": "Marill",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4347,22 +3654,13 @@
   },
   {
     "id": "A2a-078",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 78,
-    "setSize": 96,
     "name": {
       "en": "Unown",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4411,22 +3709,13 @@
   },
   {
     "id": "A2a-079",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 79,
-    "setSize": 96,
     "name": {
       "en": "Sudowoodo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4467,22 +3756,13 @@
   },
   {
     "id": "A2a-080",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 80,
-    "setSize": 96,
     "name": {
       "en": "Magnemite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4523,22 +3803,13 @@
   },
   {
     "id": "A2a-081",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 81,
-    "setSize": 96,
     "name": {
       "en": "Shaymin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4587,22 +3858,13 @@
   },
   {
     "id": "A2a-082",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 82,
-    "setSize": 96,
     "name": {
       "en": "Leafeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -4651,22 +3913,13 @@
   },
   {
     "id": "A2a-083",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 83,
-    "setSize": 96,
     "name": {
       "en": "Glaceon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4715,22 +3968,13 @@
   },
   {
     "id": "A2a-084",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 84,
-    "setSize": 96,
     "name": {
       "en": "Garchomp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4781,22 +4025,13 @@
   },
   {
     "id": "A2a-085",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 85,
-    "setSize": 96,
     "name": {
       "en": "Probopass ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -4837,22 +4072,13 @@
   },
   {
     "id": "A2a-086",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 86,
-    "setSize": 96,
     "name": {
       "en": "Arceus ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4901,22 +4127,13 @@
   },
   {
     "id": "A2a-087",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 87,
-    "setSize": 96,
     "name": {
       "en": "Irida",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4937,22 +4154,13 @@
   },
   {
     "id": "A2a-088",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 88,
-    "setSize": 96,
     "name": {
       "en": "Celestic Town Elder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4973,22 +4181,13 @@
   },
   {
     "id": "A2a-089",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 89,
-    "setSize": 96,
     "name": {
       "en": "Barry",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5009,22 +4208,13 @@
   },
   {
     "id": "A2a-090",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 90,
-    "setSize": 96,
     "name": {
       "en": "Adaman",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -5045,22 +4235,13 @@
   },
   {
     "id": "A2a-091",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 91,
-    "setSize": 96,
     "name": {
       "en": "Leafeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5109,22 +4290,13 @@
   },
   {
     "id": "A2a-092",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 92,
-    "setSize": 96,
     "name": {
       "en": "Glaceon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5173,22 +4345,13 @@
   },
   {
     "id": "A2a-093",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 93,
-    "setSize": 96,
     "name": {
       "en": "Garchomp ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5239,22 +4402,13 @@
   },
   {
     "id": "A2a-094",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 94,
-    "setSize": 96,
     "name": {
       "en": "Probopass ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5295,22 +4449,13 @@
   },
   {
     "id": "A2a-095",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 95,
-    "setSize": 96,
     "name": {
       "en": "Arceus ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5359,22 +4504,13 @@
   },
   {
     "id": "A2a-096",
-    "set": {
-      "code": "A2a",
-      "name": "Triumphant Light",
-      "nameJa": "超克の光"
-    },
+    "setCode": "A2a",
     "number": 96,
-    "setSize": 96,
     "name": {
       "en": "Arceus ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",

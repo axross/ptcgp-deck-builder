@@ -1,10 +1,18 @@
 import { z } from "zod";
+// The explicit .ts extension keeps this module importable by the node-run
+// ingestion scripts (Node's type stripping requires extensions on relative
+// imports); `allowImportingTsExtensions` in tsconfig.json permits it.
+import { isKnownSetCode, type SetCode } from "./set-registry.ts";
 
 /**
  * Zod schemas for the PTCGP card model, following the card-data reference in
  * the ptcgp-domain skill (.claude/skills/ptcgp-domain/references/card-data.md).
  * The dataset ships in the repo, so a parse failure here means the data or the
  * schema is wrong — callers treat it as a defect, not user input.
+ *
+ * A card stores only normalized references to data owned elsewhere: its
+ * expansion as a `setCode` resolved through the set registry, and its rarity as
+ * a code resolved through the rarity registry (rarity-registry.ts).
  */
 
 export const energyTypes = [
@@ -25,15 +33,40 @@ export const energyTypeSchema = z.enum(energyTypes);
 /** One of the game's ten energy types (card types, weaknesses, attack costs). */
 export type EnergyType = z.infer<typeof energyTypeSchema>;
 
-export const raritySchema = z.object({
-  symbol: z.string(),
-  // Listed in canonical tier order (common → crown), per the pull-rarity ladder
-  // in ptcgp-domain overview.md §2.5. `S`/`SSR` are the Shiny tiers (✸ / ✸✸)
-  // that first appear in Shining Revelry (A2b); both rank below Immersive Rare —
-  // 1-Shiny (`S`) just above Art Rare, 2-Shiny (`SSR`) just below Immersive Rare.
-  code: z.enum(["C", "U", "R", "RR", "AR", "S", "SR", "SAR", "SSR", "IR", "CR"]),
-  label: z.string(),
-});
+/**
+ * Every rarity tier's code, in canonical tier order (common → crown), per the
+ * pull-rarity ladder in ptcgp-domain overview.md §2.5. This array is the single
+ * source of the canonical order (the rarity filter sorts by it). `S`/`SSR` are
+ * the Shiny tiers (✸ / ✸✸) that first appear in Shining Revelry (A2b); both
+ * rank below Immersive Rare — 1-Shiny (`S`) just above Art Rare, 2-Shiny
+ * (`SSR`) just below Immersive Rare. Display symbols and labels live in the
+ * rarity registry (rarity-registry.ts), keyed by these codes.
+ */
+export const rarityCodes = [
+  "C",
+  "U",
+  "R",
+  "RR",
+  "AR",
+  "S",
+  "SR",
+  "SAR",
+  "SSR",
+  "IR",
+  "CR",
+] as const;
+
+export const rarityCodeSchema = z.enum(rarityCodes);
+
+/** A rarity tier's code, e.g. "C" (Common) or "SAR" (Special Art Rare). */
+export type RarityCode = z.infer<typeof rarityCodeSchema>;
+
+// A card references its expansion by set code alone; the reference must resolve
+// in the set registry, and the parsed type narrows to `SetCode`.
+const setCodeSchema = z.custom<SetCode>(
+  (value) => typeof value === "string" && isKnownSetCode(value),
+  { message: "Unknown set code (not in the set registry)" },
+);
 
 const localizedNameSchema = z.object({
   en: z.string(),
@@ -78,15 +111,10 @@ const trainerSchema = z.object({
 
 const cardBase = {
   id: z.string(),
-  set: z.object({
-    code: z.string(),
-    name: z.string(),
-    nameJa: z.string().nullable(),
-  }),
+  setCode: setCodeSchema,
   number: z.number().int().positive(),
-  setSize: z.number().int().positive(),
   name: localizedNameSchema,
-  rarity: raritySchema,
+  rarity: rarityCodeSchema,
   illustrator: z.string().nullable(),
   boosterPacks: z.array(z.string()).nullable(),
   flavorText: z.string().nullable(),

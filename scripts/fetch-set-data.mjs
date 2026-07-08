@@ -54,7 +54,7 @@ const REQUEST_SPACING_MS = 300;
 //   (`dist/cards.json`: `{ set, number, rarity, name, … }` per card) covering
 //   every set, with distinct `SR`/`SAR` codes that dotgg leaves null for the
 //   newer sets. Downloaded once and keyed by set + number; `mapFlibustierRarity`
-//   maps its rarity codes onto the app's tuples. Validated card-for-card against
+//   maps its rarity codes onto the app's codes. Validated card-for-card against
 //   the dotgg-sourced B1 rarities (331/331, including the SR/SAR split).
 const DOTGG_CARDS_URL = "https://api.dotgg.gg/cgfw/getcards?game=pokepocket";
 const LIMITLESS_CARD_URL = (code, number) =>
@@ -131,73 +131,72 @@ const ENERGY_BY_LETTER = {
   C: "Colorless",
 };
 
-// dotgg names a rarity by a full label; the app models it as { symbol, code,
-// label }. Codes/symbols mirror the seeded A1 data and the card-data reference.
-const RARITY_BY_LABEL = new Map([
-  ["Common", { symbol: "◇", code: "C", label: "Common" }],
-  ["Uncommon", { symbol: "◇◇", code: "U", label: "Uncommon" }],
-  ["Rare", { symbol: "◇◇◇", code: "R", label: "Rare" }],
-  ["Double Rare", { symbol: "◇◇◇◇", code: "RR", label: "Double Rare" }],
-  ["Art Rare", { symbol: "☆", code: "AR", label: "Art Rare" }],
-  ["Super Rare", { symbol: "☆☆", code: "SR", label: "Super Rare" }],
-  ["Special Art Rare", { symbol: "☆☆", code: "SAR", label: "Special Art Rare" }],
-  ["Immersive Rare", { symbol: "☆☆☆", code: "IR", label: "Immersive Rare" }],
-  ["Crown Rare", { symbol: "♛", code: "CR", label: "Crown Rare" }],
+// dotgg names a rarity by a full label; the app models it as the tier's code
+// (display symbols/labels live in src/features/cards/rarity-registry.ts).
+// Codes mirror the seeded data and the card-data reference.
+const RARITY_CODE_BY_LABEL = new Map([
+  ["Common", "C"],
+  ["Uncommon", "U"],
+  ["Rare", "R"],
+  ["Double Rare", "RR"],
+  ["Art Rare", "AR"],
+  ["Super Rare", "SR"],
+  ["Special Art Rare", "SAR"],
+  ["Immersive Rare", "IR"],
+  ["Crown Rare", "CR"],
   // Shiny tiers, first seen in Shining Revelry (A2b).
-  ["Shiny", { symbol: "✸", code: "S", label: "Shiny" }],
-  ["Shiny Super Rare", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
+  ["Shiny", "S"],
+  ["Shiny Super Rare", "SSR"],
 ]);
 
 /**
- * Maps a dotgg rarity label to the { symbol, code, label } tuple. An unknown
- * tier is passed through with the raw label as its `code`, so `cardSchema`
- * rejects it and names the offending card — the intended trigger to extend the
- * rarity enum (see card-data.md's Step 4). This is how A2b's Shiny tiers were
- * first surfaced before being added to the map above.
+ * Maps a dotgg rarity label to the tier's code. An unknown tier is passed
+ * through with the raw label as the code, so `cardSchema` rejects it and names
+ * the offending card — the intended trigger to extend the rarity code enum
+ * (see card-data.md's Step 4). This is how A2b's Shiny tiers were first
+ * surfaced before being added to the map above.
  *
  * A card whose dotgg rarity is null gets the "Unknown" placeholder here; that is
  * the signal main() uses to source its rarity from the flibustier index instead
  * (dotgg has not backfilled rarity for the sets from B1a on).
  */
 function mapRarity(rawRarity) {
-  const known = rawRarity == null ? undefined : RARITY_BY_LABEL.get(rawRarity);
+  const known = rawRarity == null ? undefined : RARITY_CODE_BY_LABEL.get(rawRarity);
   if (known !== undefined) {
     return known;
   }
-  const label = rawRarity == null ? "Unknown" : String(rawRarity);
-  return { symbol: label, code: label, label };
+  return rawRarity == null ? "Unknown" : String(rawRarity);
 }
 
 // The rarity codes dotgg can supply directly. A normalized card whose rarity
-// `code` is not one of these (an "Unknown" placeholder from a null dotgg rarity,
+// code is not one of these (an "Unknown" placeholder from a null dotgg rarity,
 // or a genuinely unmapped label) is the set of cards main() backfills from the
 // flibustier rarity index before validation.
-const KNOWN_RARITY_CODES = new Set([...RARITY_BY_LABEL.values()].map((rarity) => rarity.code));
+const KNOWN_RARITY_CODES = new Set(RARITY_CODE_BY_LABEL.values());
 
 // The flibustier index keys rarity by short code; two of them differ from the
 // app's (`IM`→`IR`, `UR`→`CR`), and it exposes distinct `SR`/`SAR` codes (which
 // dotgg leaves null and TCGdex could not tell apart). This maps its codes onto
-// the app's { symbol, code, label } tuples. It is the rarity source only for
-// sets dotgg has not backfilled (B1a on); a set dotgg fully describes never
-// consults it.
+// the app's codes. It is the rarity source only for sets dotgg has not
+// backfilled (B1a on); a set dotgg fully describes never consults it.
 const FLIBUSTIER_RARITY_BY_CODE = new Map([
-  ["C", { symbol: "◇", code: "C", label: "Common" }],
-  ["U", { symbol: "◇◇", code: "U", label: "Uncommon" }],
-  ["R", { symbol: "◇◇◇", code: "R", label: "Rare" }],
-  ["RR", { symbol: "◇◇◇◇", code: "RR", label: "Double Rare" }],
-  ["AR", { symbol: "☆", code: "AR", label: "Art Rare" }],
-  ["SR", { symbol: "☆☆", code: "SR", label: "Super Rare" }],
-  ["SAR", { symbol: "☆☆", code: "SAR", label: "Special Art Rare" }],
-  ["IM", { symbol: "☆☆☆", code: "IR", label: "Immersive Rare" }],
-  ["S", { symbol: "✸", code: "S", label: "Shiny" }],
-  ["SSR", { symbol: "✸✸", code: "SSR", label: "Shiny Super Rare" }],
-  ["UR", { symbol: "♛", code: "CR", label: "Crown Rare" }],
+  ["C", "C"],
+  ["U", "U"],
+  ["R", "R"],
+  ["RR", "RR"],
+  ["AR", "AR"],
+  ["SR", "SR"],
+  ["SAR", "SAR"],
+  ["IM", "IR"],
+  ["S", "S"],
+  ["SSR", "SSR"],
+  ["UR", "CR"],
 ]);
 
 /**
- * Maps a flibustier rarity code to the { symbol, code, label } tuple, or null
- * when the index reports no rarity or an unrecognized code — the caller then
- * leaves the card's placeholder rarity in place so `cardSchema` flags it by id.
+ * Maps a flibustier rarity code to the app's rarity code, or null when the
+ * index reports no rarity or an unrecognized code — the caller then leaves the
+ * card's placeholder rarity in place so `cardSchema` flags it by id.
  */
 export function mapFlibustierRarity(rawCode) {
   return rawCode == null ? null : (FLIBUSTIER_RARITY_BY_CODE.get(String(rawCode)) ?? null);
@@ -479,7 +478,7 @@ async function fetchFlavorMap(set, sources) {
 
 /**
  * Sources rarity from the flibustier index for one set, returning a
- * Map<number, rarityTuple>. The index is one bulk JSON download (every set),
+ * Map<number, rarityCode>. The index is one bulk JSON download (every set),
  * filtered to `set.code` and keyed by card number. Used only for the sets dotgg
  * has not backfilled rarity for. Unlike flavor, rarity is *required*, so a
  * host-level block aborts the fetch (a {@link NetworkBlockedError} propagates)
@@ -545,7 +544,7 @@ async function main() {
   // Rarity fallback: dotgg leaves `rarity` null for the newest sets (B1a on).
   // Source those cards' rarity from the flibustier index; a set dotgg fully
   // describes needs no flibustier request.
-  const needsRarity = sources.filter((source) => !KNOWN_RARITY_CODES.has(source.rarity.code));
+  const needsRarity = sources.filter((source) => !KNOWN_RARITY_CODES.has(source.rarity));
   let rarityMap = new Map();
   if (needsRarity.length > 0) {
     console.error(
@@ -569,7 +568,7 @@ async function main() {
     const withFlavor = flavor.has(source.number)
       ? { ...withRarity, flavorText: flavor.get(source.number) }
       : withRarity;
-    return transformSourceCard(withFlavor, set, set.cardCount);
+    return transformSourceCard(withFlavor);
   });
 
   const { ok, errors } = validateCards(cards);

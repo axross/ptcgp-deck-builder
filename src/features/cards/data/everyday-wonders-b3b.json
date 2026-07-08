@@ -1,22 +1,13 @@
 [
   {
     "id": "B3b-001",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 1,
-    "setSize": 106,
     "name": {
       "en": "Caterpie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -65,22 +56,13 @@
   },
   {
     "id": "B3b-002",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 2,
-    "setSize": 106,
     "name": {
       "en": "Metapod",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -121,22 +103,13 @@
   },
   {
     "id": "B3b-003",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 3,
-    "setSize": 106,
     "name": {
       "en": "Butterfree",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -177,22 +150,13 @@
   },
   {
     "id": "B3b-004",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 4,
-    "setSize": 106,
     "name": {
       "en": "Cacnea",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -233,22 +197,13 @@
   },
   {
     "id": "B3b-005",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 5,
-    "setSize": 106,
     "name": {
       "en": "Tropius",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -289,22 +244,13 @@
   },
   {
     "id": "B3b-006",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 6,
-    "setSize": 106,
     "name": {
       "en": "Petilil",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -345,22 +291,13 @@
   },
   {
     "id": "B3b-007",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 7,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Lilligant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -401,22 +338,13 @@
   },
   {
     "id": "B3b-008",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 8,
-    "setSize": 106,
     "name": {
       "en": "Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -457,22 +385,13 @@
   },
   {
     "id": "B3b-009",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 9,
-    "setSize": 106,
     "name": {
       "en": "Ninetales",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -513,22 +432,13 @@
   },
   {
     "id": "B3b-010",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 10,
-    "setSize": 106,
     "name": {
       "en": "Growlithe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -569,22 +479,13 @@
   },
   {
     "id": "B3b-011",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 11,
-    "setSize": 106,
     "name": {
       "en": "Psyduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -625,22 +526,13 @@
   },
   {
     "id": "B3b-012",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 12,
-    "setSize": 106,
     "name": {
       "en": "Goldeen",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -681,22 +573,13 @@
   },
   {
     "id": "B3b-013",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 13,
-    "setSize": 106,
     "name": {
       "en": "Seaking",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -737,22 +620,13 @@
   },
   {
     "id": "B3b-014",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 14,
-    "setSize": 106,
     "name": {
       "en": "Feebas",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -793,22 +667,13 @@
   },
   {
     "id": "B3b-015",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 15,
-    "setSize": 106,
     "name": {
       "en": "Milotic ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -857,22 +722,13 @@
   },
   {
     "id": "B3b-016",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 16,
-    "setSize": 106,
     "name": {
       "en": "Snorunt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -913,22 +769,13 @@
   },
   {
     "id": "B3b-017",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 17,
-    "setSize": 106,
     "name": {
       "en": "Froslass",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -969,22 +816,13 @@
   },
   {
     "id": "B3b-018",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 18,
-    "setSize": 106,
     "name": {
       "en": "Luvdisc",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1025,22 +863,13 @@
   },
   {
     "id": "B3b-019",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 19,
-    "setSize": 106,
     "name": {
       "en": "Piplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1081,22 +910,13 @@
   },
   {
     "id": "B3b-020",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 20,
-    "setSize": 106,
     "name": {
       "en": "Iron Bundle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1137,22 +957,13 @@
   },
   {
     "id": "B3b-021",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 21,
-    "setSize": 106,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1193,22 +1004,13 @@
   },
   {
     "id": "B3b-022",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 22,
-    "setSize": 106,
     "name": {
       "en": "Raichu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1249,22 +1051,13 @@
   },
   {
     "id": "B3b-023",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 23,
-    "setSize": 106,
     "name": {
       "en": "Emolga",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1305,22 +1098,13 @@
   },
   {
     "id": "B3b-024",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 24,
-    "setSize": 106,
     "name": {
       "en": "Dedenne ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1361,22 +1145,13 @@
   },
   {
     "id": "B3b-025",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 25,
-    "setSize": 106,
     "name": {
       "en": "Yamper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1417,22 +1192,13 @@
   },
   {
     "id": "B3b-026",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 26,
-    "setSize": 106,
     "name": {
       "en": "Slowpoke",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1473,22 +1239,13 @@
   },
   {
     "id": "B3b-027",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 27,
-    "setSize": 106,
     "name": {
       "en": "Slowbro",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1529,22 +1286,13 @@
   },
   {
     "id": "B3b-028",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 28,
-    "setSize": 106,
     "name": {
       "en": "Munna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1585,22 +1333,13 @@
   },
   {
     "id": "B3b-029",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 29,
-    "setSize": 106,
     "name": {
       "en": "Musharna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1641,22 +1380,13 @@
   },
   {
     "id": "B3b-030",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 30,
-    "setSize": 106,
     "name": {
       "en": "Sylveon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1705,22 +1435,13 @@
   },
   {
     "id": "B3b-031",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 31,
-    "setSize": 106,
     "name": {
       "en": "Carbink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1761,22 +1482,13 @@
   },
   {
     "id": "B3b-032",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 32,
-    "setSize": 106,
     "name": {
       "en": "Mega Diancie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1817,22 +1529,13 @@
   },
   {
     "id": "B3b-033",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 33,
-    "setSize": 106,
     "name": {
       "en": "Enamorus",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1873,22 +1576,13 @@
   },
   {
     "id": "B3b-034",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 34,
-    "setSize": 106,
     "name": {
       "en": "Fidough",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1929,22 +1623,13 @@
   },
   {
     "id": "B3b-035",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 35,
-    "setSize": 106,
     "name": {
       "en": "Flutter Mane",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1985,22 +1670,13 @@
   },
   {
     "id": "B3b-036",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 36,
-    "setSize": 106,
     "name": {
       "en": "Wooper",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2041,22 +1717,13 @@
   },
   {
     "id": "B3b-037",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 37,
-    "setSize": 106,
     "name": {
       "en": "Quagsire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2097,22 +1764,13 @@
   },
   {
     "id": "B3b-038",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 38,
-    "setSize": 106,
     "name": {
       "en": "Rockruff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2153,22 +1811,13 @@
   },
   {
     "id": "B3b-039",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 39,
-    "setSize": 106,
     "name": {
       "en": "Sandygast",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2209,22 +1858,13 @@
   },
   {
     "id": "B3b-040",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 40,
-    "setSize": 106,
     "name": {
       "en": "Palossand",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2265,22 +1905,13 @@
   },
   {
     "id": "B3b-041",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 41,
-    "setSize": 106,
     "name": {
       "en": "Mega Sableye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2321,22 +1952,13 @@
   },
   {
     "id": "B3b-042",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 42,
-    "setSize": 106,
     "name": {
       "en": "Cacturne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2377,22 +1999,13 @@
   },
   {
     "id": "B3b-043",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 43,
-    "setSize": 106,
     "name": {
       "en": "Spiritomb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2433,22 +2046,13 @@
   },
   {
     "id": "B3b-044",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 44,
-    "setSize": 106,
     "name": {
       "en": "Scraggy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2489,22 +2093,13 @@
   },
   {
     "id": "B3b-045",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 45,
-    "setSize": 106,
     "name": {
       "en": "Scrafty",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2545,22 +2140,13 @@
   },
   {
     "id": "B3b-046",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 46,
-    "setSize": 106,
     "name": {
       "en": "Mareanie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2601,22 +2187,13 @@
   },
   {
     "id": "B3b-047",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 47,
-    "setSize": 106,
     "name": {
       "en": "Toxapex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2657,22 +2234,13 @@
   },
   {
     "id": "B3b-048",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 48,
-    "setSize": 106,
     "name": {
       "en": "Goomy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2713,22 +2281,13 @@
   },
   {
     "id": "B3b-049",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 49,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Sliggoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2769,22 +2328,13 @@
   },
   {
     "id": "B3b-050",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 50,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Goodra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2833,22 +2383,13 @@
   },
   {
     "id": "B3b-051",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 51,
-    "setSize": 106,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -2889,22 +2430,13 @@
   },
   {
     "id": "B3b-052",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 52,
-    "setSize": 106,
     "name": {
       "en": "Wigglytuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -2945,22 +2477,13 @@
   },
   {
     "id": "B3b-053",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 53,
-    "setSize": 106,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3001,22 +2524,13 @@
   },
   {
     "id": "B3b-054",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 54,
-    "setSize": 106,
     "name": {
       "en": "Munchlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3057,22 +2571,13 @@
   },
   {
     "id": "B3b-055",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 55,
-    "setSize": 106,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3121,22 +2626,13 @@
   },
   {
     "id": "B3b-056",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 56,
-    "setSize": 106,
     "name": {
       "en": "Teddiursa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3177,22 +2673,13 @@
   },
   {
     "id": "B3b-057",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 57,
-    "setSize": 106,
     "name": {
       "en": "Ursaring",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3233,22 +2720,13 @@
   },
   {
     "id": "B3b-058",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 58,
-    "setSize": 106,
     "name": {
       "en": "Ursaluna",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3297,22 +2775,13 @@
   },
   {
     "id": "B3b-059",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 59,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Zorua",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3353,22 +2822,13 @@
   },
   {
     "id": "B3b-060",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 60,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3409,22 +2869,13 @@
   },
   {
     "id": "B3b-061",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 61,
-    "setSize": 106,
     "name": {
       "en": "Furfrou",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3473,22 +2924,13 @@
   },
   {
     "id": "B3b-062",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 62,
-    "setSize": 106,
     "name": {
       "en": "Skwovet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3529,22 +2971,13 @@
   },
   {
     "id": "B3b-063",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 63,
-    "setSize": 106,
     "name": {
       "en": "Greedent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3585,22 +3018,13 @@
   },
   {
     "id": "B3b-064",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 64,
-    "setSize": 106,
     "name": {
       "en": "Small Balloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3621,22 +3045,13 @@
   },
   {
     "id": "B3b-065",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 65,
-    "setSize": 106,
     "name": {
       "en": "Elegant Cape",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3657,22 +3072,13 @@
   },
   {
     "id": "B3b-066",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 66,
-    "setSize": 106,
     "name": {
       "en": "Elesa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3693,22 +3099,13 @@
   },
   {
     "id": "B3b-067",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 67,
-    "setSize": 106,
     "name": {
       "en": "Puppy-Loving Girl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3729,22 +3126,13 @@
   },
   {
     "id": "B3b-068",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 68,
-    "setSize": 106,
     "name": {
       "en": "Wallace",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3765,22 +3153,13 @@
   },
   {
     "id": "B3b-069",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 69,
-    "setSize": 106,
     "name": {
       "en": "Kid's Room",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3801,22 +3180,13 @@
   },
   {
     "id": "B3b-070",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 70,
-    "setSize": 106,
     "name": {
       "en": "Vulpix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -3857,22 +3227,13 @@
   },
   {
     "id": "B3b-071",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 71,
-    "setSize": 106,
     "name": {
       "en": "Piplup",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -3913,22 +3274,13 @@
   },
   {
     "id": "B3b-072",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 72,
-    "setSize": 106,
     "name": {
       "en": "Pikachu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -3969,22 +3321,13 @@
   },
   {
     "id": "B3b-073",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 73,
-    "setSize": 106,
     "name": {
       "en": "Sylveon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4033,22 +3376,13 @@
   },
   {
     "id": "B3b-074",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 74,
-    "setSize": 106,
     "name": {
       "en": "Mareanie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4089,22 +3423,13 @@
   },
   {
     "id": "B3b-075",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 75,
-    "setSize": 106,
     "name": {
       "en": "Jigglypuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4145,22 +3470,13 @@
   },
   {
     "id": "B3b-076",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 76,
-    "setSize": 106,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4209,22 +3525,13 @@
   },
   {
     "id": "B3b-077",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 77,
-    "setSize": 106,
     "name": {
       "en": "Greedent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4265,22 +3572,13 @@
   },
   {
     "id": "B3b-078",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 78,
-    "setSize": 106,
     "name": {
       "en": "Milotic ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4329,22 +3627,13 @@
   },
   {
     "id": "B3b-079",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 79,
-    "setSize": 106,
     "name": {
       "en": "Dedenne ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4385,22 +3674,13 @@
   },
   {
     "id": "B3b-080",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 80,
-    "setSize": 106,
     "name": {
       "en": "Mega Diancie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4441,22 +3721,13 @@
   },
   {
     "id": "B3b-081",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 81,
-    "setSize": 106,
     "name": {
       "en": "Mega Sableye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4497,22 +3768,13 @@
   },
   {
     "id": "B3b-082",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 82,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4553,22 +3815,13 @@
   },
   {
     "id": "B3b-083",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 83,
-    "setSize": 106,
     "name": {
       "en": "Elesa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4589,22 +3842,13 @@
   },
   {
     "id": "B3b-084",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 84,
-    "setSize": 106,
     "name": {
       "en": "Puppy-Loving Girl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4625,22 +3869,13 @@
   },
   {
     "id": "B3b-085",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 85,
-    "setSize": 106,
     "name": {
       "en": "Wallace",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4661,22 +3896,13 @@
   },
   {
     "id": "B3b-086",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 86,
-    "setSize": 106,
     "name": {
       "en": "Milotic ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4725,22 +3951,13 @@
   },
   {
     "id": "B3b-087",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 87,
-    "setSize": 106,
     "name": {
       "en": "Mega Diancie ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4781,22 +3998,13 @@
   },
   {
     "id": "B3b-088",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 88,
-    "setSize": 106,
     "name": {
       "en": "Mega Sableye ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4837,22 +4045,13 @@
   },
   {
     "id": "B3b-089",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 89,
-    "setSize": 106,
     "name": {
       "en": "Hisuian Zoroark ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4893,22 +4092,13 @@
   },
   {
     "id": "B3b-090",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 90,
-    "setSize": 106,
     "name": {
       "en": "Dedenne ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4949,22 +4139,13 @@
   },
   {
     "id": "B3b-091",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 91,
-    "setSize": 106,
     "name": {
       "en": "Caterpie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5013,22 +4194,13 @@
   },
   {
     "id": "B3b-092",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 92,
-    "setSize": 106,
     "name": {
       "en": "Metapod",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5069,22 +4241,13 @@
   },
   {
     "id": "B3b-093",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 93,
-    "setSize": 106,
     "name": {
       "en": "Butterfree",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5125,22 +4288,13 @@
   },
   {
     "id": "B3b-094",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 94,
-    "setSize": 106,
     "name": {
       "en": "Mareep",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5181,22 +4335,13 @@
   },
   {
     "id": "B3b-095",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 95,
-    "setSize": 106,
     "name": {
       "en": "Flaaffy",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5237,22 +4382,13 @@
   },
   {
     "id": "B3b-096",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 96,
-    "setSize": 106,
     "name": {
       "en": "Ampharos",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5293,22 +4429,13 @@
   },
   {
     "id": "B3b-097",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 97,
-    "setSize": 106,
     "name": {
       "en": "Slowbro",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5349,22 +4476,13 @@
   },
   {
     "id": "B3b-098",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 98,
-    "setSize": 106,
     "name": {
       "en": "Kangaskhan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5405,22 +4523,13 @@
   },
   {
     "id": "B3b-099",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 99,
-    "setSize": 106,
     "name": {
       "en": "Ditto",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5461,22 +4570,13 @@
   },
   {
     "id": "B3b-100",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 100,
-    "setSize": 106,
     "name": {
       "en": "Snorlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5525,22 +4625,13 @@
   },
   {
     "id": "B3b-101",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 101,
-    "setSize": 106,
     "name": {
       "en": "Mega Gyarados ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5581,22 +4672,13 @@
   },
   {
     "id": "B3b-102",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 102,
-    "setSize": 106,
     "name": {
       "en": "Vaporeon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5645,22 +4727,13 @@
   },
   {
     "id": "B3b-103",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 103,
-    "setSize": 106,
     "name": {
       "en": "Mega Ampharos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5701,22 +4774,13 @@
   },
   {
     "id": "B3b-104",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 104,
-    "setSize": 106,
     "name": {
       "en": "Indeedee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5765,22 +4829,13 @@
   },
   {
     "id": "B3b-105",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 105,
-    "setSize": 106,
     "name": {
       "en": "Munchlax",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5821,22 +4876,13 @@
   },
   {
     "id": "B3b-106",
-    "set": {
-      "code": "B3b",
-      "name": "Everyday Wonders",
-      "nameJa": "ミラクルデイズ"
-    },
+    "setCode": "B3b",
     "number": 106,
-    "setSize": 106,
     "name": {
       "en": "Small Balloon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

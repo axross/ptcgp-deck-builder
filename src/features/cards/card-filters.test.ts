@@ -32,7 +32,7 @@ const sample = [bulbasaur, ivysaur, venusaur, charmander, helixFossil, erika];
 const megaVenusaur: Card = {
   ...venusaur,
   id: "B1-001",
-  set: { code: "B1", name: "Mega Rising", nameJa: "メガライジング" },
+  setCode: "B1",
 };
 
 function ids(cards: readonly Card[]): string[] {

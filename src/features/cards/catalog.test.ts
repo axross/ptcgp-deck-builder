@@ -1,5 +1,6 @@
 import { describe, expect, it } from "vitest";
 import { getAllCards, getCard, getCardsBySet, getSeededSetCodes, getSetCardCount } from "./catalog";
+import { getRarity } from "./rarity-registry";
 import { getSet, setCodes } from "./set-registry";
 
 describe("getAllCards()", () => {
@@ -79,11 +80,8 @@ describe("getAllCards()", () => {
   it("decodes the B1 Shiny rarity tiers introduced by Mega Rising", () => {
     // B1 is the first seeded set to carry the Shiny (✸) / Shiny Super Rare (✸✸)
     // tiers, added to the rarity enum when the fetch surfaced them.
-    expect(getCard("B1-287")?.rarity).toMatchObject({ code: "S", label: "Shiny" });
-    expect(getCard("B1-317")?.rarity).toMatchObject({
-      code: "SSR",
-      label: "Shiny Super Rare",
-    });
+    expect(getCard("B1-287")?.rarity).toBe("S");
+    expect(getCard("B1-317")?.rarity).toBe("SSR");
   });
 });
 
@@ -102,12 +100,8 @@ describe("first-of-kind mechanics across the seeded sets", () => {
   });
 
   it("carries the Shiny rarity tiers introduced in A2b", () => {
-    expect(getCard("A2b-097")?.rarity).toMatchObject({ symbol: "✸", code: "S", label: "Shiny" });
-    expect(getCard("A2b-107")?.rarity).toMatchObject({
-      symbol: "✸✸",
-      code: "SSR",
-      label: "Shiny Super Rare",
-    });
+    expect(getCard("A2b-097")?.rarity).toBe("S");
+    expect(getCard("A2b-107")?.rarity).toBe("SSR");
   });
 
   it("classifies an Ultra Beast, first seen in A3a", () => {
@@ -131,10 +125,10 @@ describe("first-of-kind mechanics across the seeded sets", () => {
     // the whole ☆☆ tier to Super Rare (see card-data.md).
     const twoStar = (["B1a", "B2", "B2a", "B2b", "B3", "B3a", "B3b"] as const)
       .flatMap((code) => getCardsBySet(code))
-      .filter((card) => card.rarity.symbol === "☆☆");
+      .filter((card) => getRarity(card.rarity).symbol === "☆☆");
 
     expect(twoStar.length).toBeGreaterThan(0);
-    expect(new Set(twoStar.map((card) => card.rarity.code))).toEqual(new Set(["SR", "SAR"]));
+    expect(new Set(twoStar.map((card) => card.rarity))).toEqual(new Set(["SR", "SAR"]));
   });
 
   it("leaves Ancient/Future classification null in B3a — no source exposes it", () => {
@@ -162,7 +156,7 @@ describe("per-set access", () => {
     expect(a1Count).toBeDefined();
     expect(getCardsBySet("A1")).toHaveLength(a1Count as number);
     expect(getSetCardCount("A1")).toBe(a1Count);
-    expect(getCardsBySet("A1").every((card) => card.set.code === "A1")).toBe(true);
+    expect(getCardsBySet("A1").every((card) => card.setCode === "A1")).toBe(true);
   });
 
   it("reports an unseeded set as empty without throwing", () => {

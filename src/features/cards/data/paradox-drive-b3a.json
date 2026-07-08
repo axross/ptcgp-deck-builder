@@ -1,22 +1,13 @@
 [
   {
     "id": "B3a-001",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 1,
-    "setSize": 109,
     "name": {
       "en": "Surskit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "B3a-002",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 2,
-    "setSize": 109,
     "name": {
       "en": "Masquerain",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "B3a-003",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 3,
-    "setSize": 109,
     "name": {
       "en": "Brute Bonnet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "B3a-004",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 4,
-    "setSize": 109,
     "name": {
       "en": "Slither Wing",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "B3a-005",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 5,
-    "setSize": 109,
     "name": {
       "en": "Iron Moth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -281,22 +236,13 @@
   },
   {
     "id": "B3a-006",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 6,
-    "setSize": 109,
     "name": {
       "en": "Psyduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -337,22 +283,13 @@
   },
   {
     "id": "B3a-007",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 7,
-    "setSize": 109,
     "name": {
       "en": "Golduck",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -393,22 +330,13 @@
   },
   {
     "id": "B3a-008",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 8,
-    "setSize": 109,
     "name": {
       "en": "Vaporeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -449,22 +377,13 @@
   },
   {
     "id": "B3a-009",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 9,
-    "setSize": 109,
     "name": {
       "en": "Buizel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -505,22 +424,13 @@
   },
   {
     "id": "B3a-010",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 10,
-    "setSize": 109,
     "name": {
       "en": "Floatzel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -561,22 +471,13 @@
   },
   {
     "id": "B3a-011",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 11,
-    "setSize": 109,
     "name": {
       "en": "Snom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -617,22 +518,13 @@
   },
   {
     "id": "B3a-012",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 12,
-    "setSize": 109,
     "name": {
       "en": "Frosmoth",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -673,22 +565,13 @@
   },
   {
     "id": "B3a-013",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 13,
-    "setSize": 109,
     "name": {
       "en": "Iron Bundle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -729,22 +612,13 @@
   },
   {
     "id": "B3a-014",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 14,
-    "setSize": 109,
     "name": {
       "en": "Pawmi",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -785,22 +659,13 @@
   },
   {
     "id": "B3a-015",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 15,
-    "setSize": 109,
     "name": {
       "en": "Pawmo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -841,22 +706,13 @@
   },
   {
     "id": "B3a-016",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 16,
-    "setSize": 109,
     "name": {
       "en": "Pawmot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -897,22 +753,13 @@
   },
   {
     "id": "B3a-017",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 17,
-    "setSize": 109,
     "name": {
       "en": "Iron Hands",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -953,22 +800,13 @@
   },
   {
     "id": "B3a-018",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 18,
-    "setSize": 109,
     "name": {
       "en": "Iron Thorns",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1009,22 +847,13 @@
   },
   {
     "id": "B3a-019",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 19,
-    "setSize": 109,
     "name": {
       "en": "Miraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "B3a-020",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 20,
-    "setSize": 109,
     "name": {
       "en": "Espeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "B3a-021",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 21,
-    "setSize": 109,
     "name": {
       "en": "Flittle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "B3a-022",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 22,
-    "setSize": 109,
     "name": {
       "en": "Espathra",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "B3a-023",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 23,
-    "setSize": 109,
     "name": {
       "en": "Greavard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "B3a-024",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 24,
-    "setSize": 109,
     "name": {
       "en": "Houndstone",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1353,22 +1137,13 @@
   },
   {
     "id": "B3a-025",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 25,
-    "setSize": 109,
     "name": {
       "en": "Scream Tail",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1409,22 +1184,13 @@
   },
   {
     "id": "B3a-026",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 26,
-    "setSize": 109,
     "name": {
       "en": "Flutter Mane ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1465,22 +1231,13 @@
   },
   {
     "id": "B3a-027",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 27,
-    "setSize": 109,
     "name": {
       "en": "Iron Valiant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1529,22 +1286,13 @@
   },
   {
     "id": "B3a-028",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 28,
-    "setSize": 109,
     "name": {
       "en": "Iron Leaves",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1585,22 +1333,13 @@
   },
   {
     "id": "B3a-029",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 29,
-    "setSize": 109,
     "name": {
       "en": "Iron Boulder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1641,22 +1380,13 @@
   },
   {
     "id": "B3a-030",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 30,
-    "setSize": 109,
     "name": {
       "en": "Iron Crown",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1697,22 +1427,13 @@
   },
   {
     "id": "B3a-031",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 31,
-    "setSize": 109,
     "name": {
       "en": "Nacli",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1753,22 +1474,13 @@
   },
   {
     "id": "B3a-032",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 32,
-    "setSize": 109,
     "name": {
       "en": "Naclstack",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1809,22 +1521,13 @@
   },
   {
     "id": "B3a-033",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 33,
-    "setSize": 109,
     "name": {
       "en": "Garganacl",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1873,22 +1576,13 @@
   },
   {
     "id": "B3a-034",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 34,
-    "setSize": 109,
     "name": {
       "en": "Great Tusk",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1929,22 +1623,13 @@
   },
   {
     "id": "B3a-035",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 35,
-    "setSize": 109,
     "name": {
       "en": "Sandy Shocks",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -1985,22 +1670,13 @@
   },
   {
     "id": "B3a-036",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 36,
-    "setSize": 109,
     "name": {
       "en": "Koraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2049,22 +1725,13 @@
   },
   {
     "id": "B3a-037",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 37,
-    "setSize": 109,
     "name": {
       "en": "Umbreon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2105,22 +1772,13 @@
   },
   {
     "id": "B3a-038",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 38,
-    "setSize": 109,
     "name": {
       "en": "Sneasel",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2161,22 +1819,13 @@
   },
   {
     "id": "B3a-039",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 39,
-    "setSize": 109,
     "name": {
       "en": "Weavile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2217,22 +1866,13 @@
   },
   {
     "id": "B3a-040",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 40,
-    "setSize": 109,
     "name": {
       "en": "Sableye",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2273,22 +1913,13 @@
   },
   {
     "id": "B3a-041",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 41,
-    "setSize": 109,
     "name": {
       "en": "Pawniard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2329,22 +1960,13 @@
   },
   {
     "id": "B3a-042",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 42,
-    "setSize": 109,
     "name": {
       "en": "Bisharp",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2385,22 +2007,13 @@
   },
   {
     "id": "B3a-043",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 43,
-    "setSize": 109,
     "name": {
       "en": "Kingambit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2441,22 +2054,13 @@
   },
   {
     "id": "B3a-044",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 44,
-    "setSize": 109,
     "name": {
       "en": "Glimmet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2497,22 +2101,13 @@
   },
   {
     "id": "B3a-045",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 45,
-    "setSize": 109,
     "name": {
       "en": "Glimmora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2561,22 +2156,13 @@
   },
   {
     "id": "B3a-046",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 46,
-    "setSize": 109,
     "name": {
       "en": "Iron Jugulis",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2625,22 +2211,13 @@
   },
   {
     "id": "B3a-047",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 47,
-    "setSize": 109,
     "name": {
       "en": "Roaring Moon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2689,22 +2266,13 @@
   },
   {
     "id": "B3a-048",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 48,
-    "setSize": 109,
     "name": {
       "en": "Corviknight",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2745,22 +2313,13 @@
   },
   {
     "id": "B3a-049",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 49,
-    "setSize": 109,
     "name": {
       "en": "Cufant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2801,22 +2360,13 @@
   },
   {
     "id": "B3a-050",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 50,
-    "setSize": 109,
     "name": {
       "en": "Copperajah",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2857,22 +2407,13 @@
   },
   {
     "id": "B3a-051",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 51,
-    "setSize": 109,
     "name": {
       "en": "Iron Treads",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2913,22 +2454,13 @@
   },
   {
     "id": "B3a-052",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 52,
-    "setSize": 109,
     "name": {
       "en": "Altaria",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2969,22 +2501,13 @@
   },
   {
     "id": "B3a-053",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 53,
-    "setSize": 109,
     "name": {
       "en": "Walking Wake",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3025,22 +2548,13 @@
   },
   {
     "id": "B3a-054",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 54,
-    "setSize": 109,
     "name": {
       "en": "Gouging Fire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3081,22 +2595,13 @@
   },
   {
     "id": "B3a-055",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 55,
-    "setSize": 109,
     "name": {
       "en": "Raging Bolt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3137,22 +2642,13 @@
   },
   {
     "id": "B3a-056",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 56,
-    "setSize": 109,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3193,22 +2689,13 @@
   },
   {
     "id": "B3a-057",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 57,
-    "setSize": 109,
     "name": {
       "en": "Girafarig",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3249,22 +2736,13 @@
   },
   {
     "id": "B3a-058",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 58,
-    "setSize": 109,
     "name": {
       "en": "Farigiraf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3305,22 +2783,13 @@
   },
   {
     "id": "B3a-059",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 59,
-    "setSize": 109,
     "name": {
       "en": "Dunsparce",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3361,22 +2830,13 @@
   },
   {
     "id": "B3a-060",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 60,
-    "setSize": 109,
     "name": {
       "en": "Dudunsparce",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3417,22 +2877,13 @@
   },
   {
     "id": "B3a-061",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 61,
-    "setSize": 109,
     "name": {
       "en": "Swablu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3473,22 +2924,13 @@
   },
   {
     "id": "B3a-062",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 62,
-    "setSize": 109,
     "name": {
       "en": "Rufflet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3529,22 +2971,13 @@
   },
   {
     "id": "B3a-063",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 63,
-    "setSize": 109,
     "name": {
       "en": "Braviary",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3585,22 +3018,13 @@
   },
   {
     "id": "B3a-064",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 64,
-    "setSize": 109,
     "name": {
       "en": "Hawlucha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3641,22 +3065,13 @@
   },
   {
     "id": "B3a-065",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 65,
-    "setSize": 109,
     "name": {
       "en": "Rookidee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3697,22 +3112,13 @@
   },
   {
     "id": "B3a-066",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 66,
-    "setSize": 109,
     "name": {
       "en": "Corvisquire",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3753,22 +3159,13 @@
   },
   {
     "id": "B3a-067",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 67,
-    "setSize": 109,
     "name": {
       "en": "Flamigo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3809,22 +3206,13 @@
   },
   {
     "id": "B3a-068",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 68,
-    "setSize": 109,
     "name": {
       "en": "Terapagos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3865,22 +3253,13 @@
   },
   {
     "id": "B3a-069",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 69,
-    "setSize": 109,
     "name": {
       "en": "Ancient Booster Energy Capsule",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3901,22 +3280,13 @@
   },
   {
     "id": "B3a-070",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 70,
-    "setSize": 109,
     "name": {
       "en": "Future Booster Energy Capsule",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3937,22 +3307,13 @@
   },
   {
     "id": "B3a-071",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 71,
-    "setSize": 109,
     "name": {
       "en": "Juliana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3973,22 +3334,13 @@
   },
   {
     "id": "B3a-072",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 72,
-    "setSize": 109,
     "name": {
       "en": "Professor Sada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4009,22 +3361,13 @@
   },
   {
     "id": "B3a-073",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 73,
-    "setSize": 109,
     "name": {
       "en": "Professor Turo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4045,22 +3388,13 @@
   },
   {
     "id": "B3a-074",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 74,
-    "setSize": 109,
     "name": {
       "en": "Area Zero",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4081,22 +3415,13 @@
   },
   {
     "id": "B3a-075",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 75,
-    "setSize": 109,
     "name": {
       "en": "Snom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4137,22 +3462,13 @@
   },
   {
     "id": "B3a-076",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 76,
-    "setSize": 109,
     "name": {
       "en": "Flittle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4193,22 +3509,13 @@
   },
   {
     "id": "B3a-077",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 77,
-    "setSize": 109,
     "name": {
       "en": "Iron Boulder",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4249,22 +3556,13 @@
   },
   {
     "id": "B3a-078",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 78,
-    "setSize": 109,
     "name": {
       "en": "Glimmora",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4313,22 +3611,13 @@
   },
   {
     "id": "B3a-079",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 79,
-    "setSize": 109,
     "name": {
       "en": "Raging Bolt",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -4369,22 +3658,13 @@
   },
   {
     "id": "B3a-080",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 80,
-    "setSize": 109,
     "name": {
       "en": "Hawlucha",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4425,22 +3705,13 @@
   },
   {
     "id": "B3a-081",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 81,
-    "setSize": 109,
     "name": {
       "en": "Iron Bundle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4481,22 +3752,13 @@
   },
   {
     "id": "B3a-082",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 82,
-    "setSize": 109,
     "name": {
       "en": "Miraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4545,22 +3807,13 @@
   },
   {
     "id": "B3a-083",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 83,
-    "setSize": 109,
     "name": {
       "en": "Flutter Mane ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4601,22 +3854,13 @@
   },
   {
     "id": "B3a-084",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 84,
-    "setSize": 109,
     "name": {
       "en": "Koraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -4665,22 +3909,13 @@
   },
   {
     "id": "B3a-085",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 85,
-    "setSize": 109,
     "name": {
       "en": "Terapagos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4721,22 +3956,13 @@
   },
   {
     "id": "B3a-086",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 86,
-    "setSize": 109,
     "name": {
       "en": "Juliana",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4757,22 +3983,13 @@
   },
   {
     "id": "B3a-087",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 87,
-    "setSize": 109,
     "name": {
       "en": "Professor Sada",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4793,22 +4010,13 @@
   },
   {
     "id": "B3a-088",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 88,
-    "setSize": 109,
     "name": {
       "en": "Professor Turo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4829,22 +4037,13 @@
   },
   {
     "id": "B3a-089",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 89,
-    "setSize": 109,
     "name": {
       "en": "Iron Bundle ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4885,22 +4084,13 @@
   },
   {
     "id": "B3a-090",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 90,
-    "setSize": 109,
     "name": {
       "en": "Miraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4949,22 +4139,13 @@
   },
   {
     "id": "B3a-091",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 91,
-    "setSize": 109,
     "name": {
       "en": "Flutter Mane ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5005,22 +4186,13 @@
   },
   {
     "id": "B3a-092",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 92,
-    "setSize": 109,
     "name": {
       "en": "Koraidon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5069,22 +4241,13 @@
   },
   {
     "id": "B3a-093",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 93,
-    "setSize": 109,
     "name": {
       "en": "Terapagos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5125,22 +4288,13 @@
   },
   {
     "id": "B3a-094",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 94,
-    "setSize": 109,
     "name": {
       "en": "Rellor",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5181,22 +4335,13 @@
   },
   {
     "id": "B3a-095",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 95,
-    "setSize": 109,
     "name": {
       "en": "Charcadet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5237,22 +4382,13 @@
   },
   {
     "id": "B3a-096",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 96,
-    "setSize": 109,
     "name": {
       "en": "Tadbulb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5293,22 +4429,13 @@
   },
   {
     "id": "B3a-097",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 97,
-    "setSize": 109,
     "name": {
       "en": "Rabsca",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5349,22 +4476,13 @@
   },
   {
     "id": "B3a-098",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 98,
-    "setSize": 109,
     "name": {
       "en": "Diglett",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5405,22 +4523,13 @@
   },
   {
     "id": "B3a-099",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 99,
-    "setSize": 109,
     "name": {
       "en": "Dugtrio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5461,22 +4570,13 @@
   },
   {
     "id": "B3a-100",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 100,
-    "setSize": 109,
     "name": {
       "en": "Klawf",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5517,22 +4617,13 @@
   },
   {
     "id": "B3a-101",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 101,
-    "setSize": 109,
     "name": {
       "en": "Orthworm",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -5573,22 +4664,13 @@
   },
   {
     "id": "B3a-102",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 102,
-    "setSize": 109,
     "name": {
       "en": "Swablu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5629,22 +4711,13 @@
   },
   {
     "id": "B3a-103",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 103,
-    "setSize": 109,
     "name": {
       "en": "Altaria",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5685,22 +4758,13 @@
   },
   {
     "id": "B3a-104",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 104,
-    "setSize": 109,
     "name": {
       "en": "Meowscarada ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5751,22 +4815,13 @@
   },
   {
     "id": "B3a-105",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 105,
-    "setSize": 109,
     "name": {
       "en": "Armarouge ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5815,22 +4870,13 @@
   },
   {
     "id": "B3a-106",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 106,
-    "setSize": 109,
     "name": {
       "en": "Bellibolt ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5871,22 +4917,13 @@
   },
   {
     "id": "B3a-107",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 107,
-    "setSize": 109,
     "name": {
       "en": "Mega Altaria ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5927,22 +4964,13 @@
   },
   {
     "id": "B3a-108",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 108,
-    "setSize": 109,
     "name": {
       "en": "Iron Valiant",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5991,22 +5019,13 @@
   },
   {
     "id": "B3a-109",
-    "set": {
-      "code": "B3a",
-      "name": "Paradox Drive",
-      "nameJa": "進撃パラドックス"
-    },
+    "setCode": "B3a",
     "number": 109,
-    "setSize": 109,
     "name": {
       "en": "Roaring Moon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",

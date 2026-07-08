@@ -1,22 +1,13 @@
 [
   {
     "id": "A3b-001",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 1,
-    "setSize": 107,
     "name": {
       "en": "Tropius",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -57,22 +48,13 @@
   },
   {
     "id": "A3b-002",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 2,
-    "setSize": 107,
     "name": {
       "en": "Leafeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -113,22 +95,13 @@
   },
   {
     "id": "A3b-003",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 3,
-    "setSize": 107,
     "name": {
       "en": "Bounsweet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -169,22 +142,13 @@
   },
   {
     "id": "A3b-004",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 4,
-    "setSize": 107,
     "name": {
       "en": "Steenee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -225,22 +189,13 @@
   },
   {
     "id": "A3b-005",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 5,
-    "setSize": 107,
     "name": {
       "en": "Tsareena",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -281,22 +236,13 @@
   },
   {
     "id": "A3b-006",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 6,
-    "setSize": 107,
     "name": {
       "en": "Applin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -337,22 +283,13 @@
   },
   {
     "id": "A3b-007",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 7,
-    "setSize": 107,
     "name": {
       "en": "Appletun",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -393,22 +330,13 @@
   },
   {
     "id": "A3b-008",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 8,
-    "setSize": 107,
     "name": {
       "en": "Flareon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -449,22 +377,13 @@
   },
   {
     "id": "A3b-009",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 9,
-    "setSize": 107,
     "name": {
       "en": "Flareon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -513,22 +432,13 @@
   },
   {
     "id": "A3b-010",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 10,
-    "setSize": 107,
     "name": {
       "en": "Torkoal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -569,22 +479,13 @@
   },
   {
     "id": "A3b-011",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 11,
-    "setSize": 107,
     "name": {
       "en": "Litten",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -625,22 +526,13 @@
   },
   {
     "id": "A3b-012",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 12,
-    "setSize": 107,
     "name": {
       "en": "Torracat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -681,22 +573,13 @@
   },
   {
     "id": "A3b-013",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 13,
-    "setSize": 107,
     "name": {
       "en": "Incineroar",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -737,22 +620,13 @@
   },
   {
     "id": "A3b-014",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 14,
-    "setSize": 107,
     "name": {
       "en": "Salandit",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -793,22 +667,13 @@
   },
   {
     "id": "A3b-015",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 15,
-    "setSize": 107,
     "name": {
       "en": "Salazzle",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -849,22 +714,13 @@
   },
   {
     "id": "A3b-016",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 16,
-    "setSize": 107,
     "name": {
       "en": "Vaporeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -905,22 +761,13 @@
   },
   {
     "id": "A3b-017",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 17,
-    "setSize": 107,
     "name": {
       "en": "Glaceon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -961,22 +808,13 @@
   },
   {
     "id": "A3b-018",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 18,
-    "setSize": 107,
     "name": {
       "en": "Vanillite",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1017,22 +855,13 @@
   },
   {
     "id": "A3b-019",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 19,
-    "setSize": 107,
     "name": {
       "en": "Vanillish",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1073,22 +902,13 @@
   },
   {
     "id": "A3b-020",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 20,
-    "setSize": 107,
     "name": {
       "en": "Vanilluxe",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1129,22 +949,13 @@
   },
   {
     "id": "A3b-021",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 21,
-    "setSize": 107,
     "name": {
       "en": "Alomomola",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1185,22 +996,13 @@
   },
   {
     "id": "A3b-022",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 22,
-    "setSize": 107,
     "name": {
       "en": "Popplio",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1241,22 +1043,13 @@
   },
   {
     "id": "A3b-023",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 23,
-    "setSize": 107,
     "name": {
       "en": "Brionne",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1297,22 +1090,13 @@
   },
   {
     "id": "A3b-024",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 24,
-    "setSize": 107,
     "name": {
       "en": "Primarina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -1363,22 +1147,13 @@
   },
   {
     "id": "A3b-025",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 25,
-    "setSize": 107,
     "name": {
       "en": "Jolteon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1419,22 +1194,13 @@
   },
   {
     "id": "A3b-026",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 26,
-    "setSize": 107,
     "name": {
       "en": "Joltik",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1475,22 +1241,13 @@
   },
   {
     "id": "A3b-027",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 27,
-    "setSize": 107,
     "name": {
       "en": "Galvantula",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -1531,22 +1288,13 @@
   },
   {
     "id": "A3b-028",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 28,
-    "setSize": 107,
     "name": {
       "en": "Espeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1587,22 +1335,13 @@
   },
   {
     "id": "A3b-029",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 29,
-    "setSize": 107,
     "name": {
       "en": "Woobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1643,22 +1382,13 @@
   },
   {
     "id": "A3b-030",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 30,
-    "setSize": 107,
     "name": {
       "en": "Swoobat",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1699,22 +1429,13 @@
   },
   {
     "id": "A3b-031",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 31,
-    "setSize": 107,
     "name": {
       "en": "Swirlix",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1755,22 +1476,13 @@
   },
   {
     "id": "A3b-032",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 32,
-    "setSize": 107,
     "name": {
       "en": "Slurpuff",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1811,22 +1523,13 @@
   },
   {
     "id": "A3b-033",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 33,
-    "setSize": 107,
     "name": {
       "en": "Sylveon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1867,22 +1570,13 @@
   },
   {
     "id": "A3b-034",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 34,
-    "setSize": 107,
     "name": {
       "en": "Sylveon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1931,22 +1625,13 @@
   },
   {
     "id": "A3b-035",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 35,
-    "setSize": 107,
     "name": {
       "en": "Mimikyu",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -1987,22 +1672,13 @@
   },
   {
     "id": "A3b-036",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 36,
-    "setSize": 107,
     "name": {
       "en": "Milcery",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2043,22 +1719,13 @@
   },
   {
     "id": "A3b-037",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 37,
-    "setSize": 107,
     "name": {
       "en": "Alcremie",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -2099,22 +1766,13 @@
   },
   {
     "id": "A3b-038",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 38,
-    "setSize": 107,
     "name": {
       "en": "Barboach",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2155,22 +1813,13 @@
   },
   {
     "id": "A3b-039",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 39,
-    "setSize": 107,
     "name": {
       "en": "Whiscash",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2211,22 +1860,13 @@
   },
   {
     "id": "A3b-040",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 40,
-    "setSize": 107,
     "name": {
       "en": "Mienfoo",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2267,22 +1907,13 @@
   },
   {
     "id": "A3b-041",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 41,
-    "setSize": 107,
     "name": {
       "en": "Mienshao",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2323,22 +1954,13 @@
   },
   {
     "id": "A3b-042",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 42,
-    "setSize": 107,
     "name": {
       "en": "Carbink",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -2379,22 +2001,13 @@
   },
   {
     "id": "A3b-043",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 43,
-    "setSize": 107,
     "name": {
       "en": "Umbreon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇",
-      "code": "R",
-      "label": "Rare"
-    },
+    "rarity": "R",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2435,22 +2048,13 @@
   },
   {
     "id": "A3b-044",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 44,
-    "setSize": 107,
     "name": {
       "en": "Sableye",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2491,22 +2095,13 @@
   },
   {
     "id": "A3b-045",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 45,
-    "setSize": 107,
     "name": {
       "en": "Purrloin",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2547,22 +2142,13 @@
   },
   {
     "id": "A3b-046",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 46,
-    "setSize": 107,
     "name": {
       "en": "Liepard",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -2603,22 +2189,13 @@
   },
   {
     "id": "A3b-047",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 47,
-    "setSize": 107,
     "name": {
       "en": "Mawile",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2659,22 +2236,13 @@
   },
   {
     "id": "A3b-048",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 48,
-    "setSize": 107,
     "name": {
       "en": "Togedemaru",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2715,22 +2283,13 @@
   },
   {
     "id": "A3b-049",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 49,
-    "setSize": 107,
     "name": {
       "en": "Meltan",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2771,22 +2330,13 @@
   },
   {
     "id": "A3b-050",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 50,
-    "setSize": 107,
     "name": {
       "en": "Melmetal",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Metal",
@@ -2827,22 +2377,13 @@
   },
   {
     "id": "A3b-051",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 51,
-    "setSize": 107,
     "name": {
       "en": "Dratini",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2883,22 +2424,13 @@
   },
   {
     "id": "A3b-052",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 52,
-    "setSize": 107,
     "name": {
       "en": "Dragonair",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2939,22 +2471,13 @@
   },
   {
     "id": "A3b-053",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 53,
-    "setSize": 107,
     "name": {
       "en": "Dragonite ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -2995,22 +2518,13 @@
   },
   {
     "id": "A3b-054",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 54,
-    "setSize": 107,
     "name": {
       "en": "Drampa",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -3051,22 +2565,13 @@
   },
   {
     "id": "A3b-055",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 55,
-    "setSize": 107,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3107,22 +2612,13 @@
   },
   {
     "id": "A3b-056",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 56,
-    "setSize": 107,
     "name": {
       "en": "Eevee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3171,22 +2667,13 @@
   },
   {
     "id": "A3b-057",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 57,
-    "setSize": 107,
     "name": {
       "en": "Snorlax ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇◇◇",
-      "code": "RR",
-      "label": "Double Rare"
-    },
+    "rarity": "RR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3235,22 +2722,13 @@
   },
   {
     "id": "A3b-058",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 58,
-    "setSize": 107,
     "name": {
       "en": "Aipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3291,22 +2769,13 @@
   },
   {
     "id": "A3b-059",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 59,
-    "setSize": 107,
     "name": {
       "en": "Ambipom",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3355,22 +2824,13 @@
   },
   {
     "id": "A3b-060",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 60,
-    "setSize": 107,
     "name": {
       "en": "Chatot",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3411,22 +2871,13 @@
   },
   {
     "id": "A3b-061",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 61,
-    "setSize": 107,
     "name": {
       "en": "Audino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3467,22 +2918,13 @@
   },
   {
     "id": "A3b-062",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 62,
-    "setSize": 107,
     "name": {
       "en": "Minccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3523,22 +2965,13 @@
   },
   {
     "id": "A3b-063",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 63,
-    "setSize": 107,
     "name": {
       "en": "Cinccino",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3579,22 +3012,13 @@
   },
   {
     "id": "A3b-064",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 64,
-    "setSize": 107,
     "name": {
       "en": "Skwovet",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇",
-      "code": "C",
-      "label": "Common"
-    },
+    "rarity": "C",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3635,22 +3059,13 @@
   },
   {
     "id": "A3b-065",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 65,
-    "setSize": 107,
     "name": {
       "en": "Greedent",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -3691,22 +3106,13 @@
   },
   {
     "id": "A3b-066",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 66,
-    "setSize": 107,
     "name": {
       "en": "Eevee Bag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3727,22 +3133,13 @@
   },
   {
     "id": "A3b-067",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 67,
-    "setSize": 107,
     "name": {
       "en": "Leftovers",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3763,22 +3160,13 @@
   },
   {
     "id": "A3b-068",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 68,
-    "setSize": 107,
     "name": {
       "en": "Hau",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3799,22 +3187,13 @@
   },
   {
     "id": "A3b-069",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 69,
-    "setSize": 107,
     "name": {
       "en": "Penny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "◇◇",
-      "code": "U",
-      "label": "Uncommon"
-    },
+    "rarity": "U",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -3835,22 +3214,13 @@
   },
   {
     "id": "A3b-070",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 70,
-    "setSize": 107,
     "name": {
       "en": "Leafeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -3891,22 +3261,13 @@
   },
   {
     "id": "A3b-071",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 71,
-    "setSize": 107,
     "name": {
       "en": "Flareon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -3947,22 +3308,13 @@
   },
   {
     "id": "A3b-072",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 72,
-    "setSize": 107,
     "name": {
       "en": "Vaporeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4003,22 +3355,13 @@
   },
   {
     "id": "A3b-073",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 73,
-    "setSize": 107,
     "name": {
       "en": "Glaceon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4059,22 +3402,13 @@
   },
   {
     "id": "A3b-074",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 74,
-    "setSize": 107,
     "name": {
       "en": "Jolteon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -4115,22 +3449,13 @@
   },
   {
     "id": "A3b-075",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 75,
-    "setSize": 107,
     "name": {
       "en": "Espeon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4171,22 +3496,13 @@
   },
   {
     "id": "A3b-076",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 76,
-    "setSize": 107,
     "name": {
       "en": "Sylveon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4227,22 +3543,13 @@
   },
   {
     "id": "A3b-077",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 77,
-    "setSize": 107,
     "name": {
       "en": "Umbreon",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -4283,22 +3590,13 @@
   },
   {
     "id": "A3b-078",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 78,
-    "setSize": 107,
     "name": {
       "en": "Eevee",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆",
-      "code": "AR",
-      "label": "Art Rare"
-    },
+    "rarity": "AR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4339,22 +3637,13 @@
   },
   {
     "id": "A3b-079",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 79,
-    "setSize": 107,
     "name": {
       "en": "Flareon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4403,22 +3692,13 @@
   },
   {
     "id": "A3b-080",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 80,
-    "setSize": 107,
     "name": {
       "en": "Primarina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4469,22 +3749,13 @@
   },
   {
     "id": "A3b-081",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 81,
-    "setSize": 107,
     "name": {
       "en": "Sylveon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4533,22 +3804,13 @@
   },
   {
     "id": "A3b-082",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 82,
-    "setSize": 107,
     "name": {
       "en": "Dragonite ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -4589,22 +3851,13 @@
   },
   {
     "id": "A3b-083",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 83,
-    "setSize": 107,
     "name": {
       "en": "Eevee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4653,22 +3906,13 @@
   },
   {
     "id": "A3b-084",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 84,
-    "setSize": 107,
     "name": {
       "en": "Snorlax ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -4717,22 +3961,13 @@
   },
   {
     "id": "A3b-085",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 85,
-    "setSize": 107,
     "name": {
       "en": "Hau",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4753,22 +3988,13 @@
   },
   {
     "id": "A3b-086",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 86,
-    "setSize": 107,
     "name": {
       "en": "Penny",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SR",
-      "label": "Super Rare"
-    },
+    "rarity": "SR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {
@@ -4789,22 +4015,13 @@
   },
   {
     "id": "A3b-087",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 87,
-    "setSize": 107,
     "name": {
       "en": "Flareon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -4853,22 +4070,13 @@
   },
   {
     "id": "A3b-088",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 88,
-    "setSize": 107,
     "name": {
       "en": "Primarina ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -4919,22 +4127,13 @@
   },
   {
     "id": "A3b-089",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 89,
-    "setSize": 107,
     "name": {
       "en": "Sylveon ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -4983,22 +4182,13 @@
   },
   {
     "id": "A3b-090",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 90,
-    "setSize": 107,
     "name": {
       "en": "Dragonite ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Dragon",
@@ -5039,22 +4229,13 @@
   },
   {
     "id": "A3b-091",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 91,
-    "setSize": 107,
     "name": {
       "en": "Snorlax ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆",
-      "code": "SAR",
-      "label": "Special Art Rare"
-    },
+    "rarity": "SAR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5103,22 +4284,13 @@
   },
   {
     "id": "A3b-092",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 92,
-    "setSize": 107,
     "name": {
       "en": "Eevee ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "☆☆☆",
-      "code": "IR",
-      "label": "Immersive Rare"
-    },
+    "rarity": "IR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5167,22 +4339,13 @@
   },
   {
     "id": "A3b-093",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 93,
-    "setSize": 107,
     "name": {
       "en": "Pinsir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Grass",
@@ -5223,22 +4386,13 @@
   },
   {
     "id": "A3b-094",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 94,
-    "setSize": 107,
     "name": {
       "en": "Lapras",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5279,22 +4433,13 @@
   },
   {
     "id": "A3b-095",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 95,
-    "setSize": 107,
     "name": {
       "en": "Voltorb",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5335,22 +4480,13 @@
   },
   {
     "id": "A3b-096",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 96,
-    "setSize": 107,
     "name": {
       "en": "Electrode",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5391,22 +4527,13 @@
   },
   {
     "id": "A3b-097",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 97,
-    "setSize": 107,
     "name": {
       "en": "Ralts",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5447,22 +4574,13 @@
   },
   {
     "id": "A3b-098",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 98,
-    "setSize": 107,
     "name": {
       "en": "Kirlia",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5503,22 +4621,13 @@
   },
   {
     "id": "A3b-099",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 99,
-    "setSize": 107,
     "name": {
       "en": "Gardevoir",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Psychic",
@@ -5567,22 +4676,13 @@
   },
   {
     "id": "A3b-100",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 100,
-    "setSize": 107,
     "name": {
       "en": "Ekans",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5623,22 +4723,13 @@
   },
   {
     "id": "A3b-101",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 101,
-    "setSize": 107,
     "name": {
       "en": "Arbok",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Darkness",
@@ -5679,22 +4770,13 @@
   },
   {
     "id": "A3b-102",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 102,
-    "setSize": 107,
     "name": {
       "en": "Farfetch'd",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸",
-      "code": "S",
-      "label": "Shiny"
-    },
+    "rarity": "S",
     "category": "Pokemon",
     "pokemon": {
       "type": "Colorless",
@@ -5735,22 +4817,13 @@
   },
   {
     "id": "A3b-103",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 103,
-    "setSize": 107,
     "name": {
       "en": "Moltres ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fire",
@@ -5801,22 +4874,13 @@
   },
   {
     "id": "A3b-104",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 104,
-    "setSize": 107,
     "name": {
       "en": "Articuno ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Water",
@@ -5867,22 +4931,13 @@
   },
   {
     "id": "A3b-105",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 105,
-    "setSize": 107,
     "name": {
       "en": "Zapdos ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Lightning",
@@ -5933,22 +4988,13 @@
   },
   {
     "id": "A3b-106",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 106,
-    "setSize": 107,
     "name": {
       "en": "Gallade ex",
       "ja": null
     },
-    "rarity": {
-      "symbol": "✸✸",
-      "code": "SSR",
-      "label": "Shiny Super Rare"
-    },
+    "rarity": "SSR",
     "category": "Pokemon",
     "pokemon": {
       "type": "Fighting",
@@ -5989,22 +5035,13 @@
   },
   {
     "id": "A3b-107",
-    "set": {
-      "code": "A3b",
-      "name": "Eevee Grove",
-      "nameJa": "イーブイガーデン"
-    },
+    "setCode": "A3b",
     "number": 107,
-    "setSize": 107,
     "name": {
       "en": "Eevee Bag",
       "ja": null
     },
-    "rarity": {
-      "symbol": "♛",
-      "code": "CR",
-      "label": "Crown Rare"
-    },
+    "rarity": "CR",
     "category": "Trainer",
     "pokemon": null,
     "trainer": {

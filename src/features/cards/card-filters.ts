@@ -51,13 +51,13 @@ export function matchesCardFilters(card: Card, criteria: CardFilterCriteria): bo
       return false;
     }
   }
-  if (criteria.rarity !== undefined && card.rarity.code !== criteria.rarity) {
+  if (criteria.rarity !== undefined && card.rarity !== criteria.rarity) {
     return false;
   }
   if (criteria.kind !== undefined && !matchesKind(card, criteria.kind)) {
     return false;
   }
-  if (criteria.set !== undefined && card.set.code !== criteria.set) {
+  if (criteria.set !== undefined && card.setCode !== criteria.set) {
     return false;
   }
   if (criteria.query !== undefined) {
