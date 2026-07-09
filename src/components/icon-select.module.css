@@ -4,7 +4,10 @@
 }
 
 /* Mirrors the app's native select/input styling so the control sits naturally
-   next to the remaining native filter controls. */
+   next to the remaining native filter controls. The fill is exposed as
+   --icon-select-background because the right contrast depends on the
+   container: a control on a surface panel fills with the page background,
+   while one directly on the page canvas fills with the surface color. */
 .trigger {
   display: flex;
   align-items: center;
@@ -14,7 +17,7 @@
   padding: var(--space-2);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-1);
-  background: var(--color-background);
+  background: var(--icon-select-background, var(--color-background));
   color: var(--color-text);
   font: inherit;
   text-align: left;
