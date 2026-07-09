@@ -6,8 +6,8 @@ import { VirtualizedGrid } from "@/components/virtualized-grid";
 import { type CardKind, cardKindLabels, cardKinds } from "@/features/cards/card-filters";
 import { CardImage } from "@/features/cards/components/card-image";
 import { CardKindIcon } from "@/features/cards/components/card-kind-icon";
-import { EnergyIcon } from "@/features/cards/components/energy-icon";
-import { type EnergyType, energyTypes } from "@/features/cards/schema";
+import { energyTypeOptions } from "@/features/cards/components/energy-icon";
+import type { EnergyType } from "@/features/cards/schema";
 import { type DeckBuilderCard, deckBuilderCardKind } from "../deck-card";
 import { filterPickerCards, type PickerCriteria } from "../deck-card-search";
 import { MAX_COPIES_PER_NAME } from "../deck-rules";
@@ -36,12 +36,6 @@ type DeckCardPickerProps = {
 function resultCountLabel(count: number): string {
   return count === 1 ? "1 card" : `${count} cards`;
 }
-
-const energyTypeOptions = energyTypes.map((type) => ({
-  value: type,
-  label: type,
-  icon: <EnergyIcon type={type} />,
-}));
 
 export function DeckCardPicker({ catalog }: DeckCardPickerProps) {
   const [criteria, setCriteria] = useState<PickerCriteria>({});

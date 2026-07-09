@@ -5,10 +5,9 @@ import { useEffect, useState } from "react";
 import { IconSelect } from "@/components/icon-select";
 import { type CardFilterCriteria, cardFilterParamNames, hasActiveFilters } from "../card-filters";
 import type { KindOption, RarityOption, SetOption } from "../card-view";
-import { energyTypes } from "../schema";
 import styles from "./card-filter-bar.module.css";
 import { CardKindIcon } from "./card-kind-icon";
-import { EnergyIcon } from "./energy-icon";
+import { energyTypeOptions } from "./energy-icon";
 
 type CardFilterBarProps = {
   criteria: CardFilterCriteria;
@@ -16,12 +15,6 @@ type CardFilterBarProps = {
   kindOptions: readonly KindOption[];
   setOptions: readonly SetOption[];
 };
-
-const energyTypeOptions = energyTypes.map((type) => ({
-  value: type,
-  label: type,
-  icon: <EnergyIcon type={type} />,
-}));
 
 /**
  * The filter controls above the grid. Selections live in the URL (shareable /

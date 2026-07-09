@@ -1,4 +1,4 @@
-import type { EnergyType } from "../schema";
+import { type EnergyType, energyTypes } from "../schema";
 import styles from "./energy-icon.module.css";
 
 /**
@@ -51,3 +51,14 @@ export function EnergyIcon({ type, className }: EnergyIconProps) {
     </svg>
   );
 }
+
+/**
+ * The full energy-type list as pictogram dropdown options, shared by every
+ * Type filter (the card browser's and the deck picker's) so the mapping is
+ * derived once next to the icon it renders.
+ */
+export const energyTypeOptions = energyTypes.map((type) => ({
+  value: type,
+  label: type,
+  icon: <EnergyIcon type={type} />,
+}));
