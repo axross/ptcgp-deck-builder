@@ -21,10 +21,11 @@ import styles from "./deck-card-picker.module.css";
 // lazy-loaded; the rest load as they scroll into view.
 const PRIORITY_TILE_COUNT = 12;
 
-// A picker tile is the card image (portrait 245:342 at up to ~7rem plus a 1fr
-// share) with a name line and an add button; the virtualizer replaces this
-// estimate with measured row heights after the first paint.
-const ESTIMATED_ROW_HEIGHT = 240;
+// A picker tile is just the card image (portrait 245:342 at a ~5.5rem min plus
+// a 1fr share): no name line, no separate button — the whole image is the add
+// control. The virtualizer replaces this estimate with measured row heights
+// after the first paint.
+const ESTIMATED_ROW_HEIGHT = 150;
 
 type DeckCardPickerProps = {
   catalog: DeckBuilderCard[];
@@ -157,7 +158,17 @@ function PickerTile({ card, priority }: PickerTileProps) {
       data-testid="deck-picker-tile"
       data-card-id={card.id}
     >
-      <div className={styles.tileImage}>
+      <button
+        type="button"
+        className={styles.addButton}
+        data-testid="deck-picker-add"
+        onClick={() => addCard(card.id)}
+        disabled={atLimit}
+        aria-label={
+          atLimit ? limitHint : `Add ${card.name}${copies > 0 ? ` (${copies} in deck)` : ""}`
+        }
+        title={atLimit ? limitHint : undefined}
+      >
         <CardImage
           src={card.imageUrl}
           alt={card.name}
@@ -174,20 +185,6 @@ function PickerTile({ card, priority }: PickerTileProps) {
             ×{copies}
           </span>
         ) : null}
-      </div>
-      <span className={styles.tileName}>{card.name}</span>
-      <button
-        type="button"
-        className={styles.addButton}
-        data-testid="deck-picker-add"
-        onClick={() => addCard(card.id)}
-        disabled={atLimit}
-        aria-label={
-          atLimit ? limitHint : `Add ${card.name}${copies > 0 ? ` (${copies} in deck)` : ""}`
-        }
-        title={atLimit ? limitHint : undefined}
-      >
-        {atLimit ? "Max 2" : "Add"}
       </button>
     </div>
   );
