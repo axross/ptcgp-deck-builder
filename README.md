@@ -2,51 +2,127 @@
 
 A web app for building **Pokémon TCG Pocket (PTCGP)** decks: browse the card
 catalog, assemble rule-valid decks, and save them in your own browser
-(`localStorage`) — no backend database, no accounts.
+(`localStorage`) — no backend database, no accounts. It runs entirely in the
+visitor's browser, so decks stay private to the device that built them.
 
 > **Status:** early scaffold. The Genetic Apex (A1) card catalog (286 cards)
 > and the deck-construction rules are implemented under `src/features/`; the
 > deck-builder UI is next. Game knowledge is documented in the
 > [PTCGP Domain](.claude/skills/ptcgp-domain/SKILL.md) skill.
 
-## Stack
+## Tech stack
 
-- [Next.js](https://nextjs.org/) (App Router) + React, TypeScript (strict)
-- [Zustand](https://zustand.docs.pmnd.rs/) for client state, [Zod](https://zod.dev/) for validation
-- CSS Modules with CSS-variable design tokens
-- [Biome](https://biomejs.dev/) for linting and formatting
-- [Vitest](https://vitest.dev/) unit tests, [Playwright](https://playwright.dev/) e2e tests with a
-  [scenario-coverage catalog](e2e/scenarios.md)
-- [Sentry](https://sentry.io/) error reporting (enabled when `NEXT_PUBLIC_SENTRY_DSN` is set)
-- Hosted on [Vercel](https://vercel.com/)
+| Area | Tool |
+| ---- | ---- |
+| Language | TypeScript (strict) |
+| App framework / runtime | [Next.js](https://nextjs.org/) (App Router) + React |
+| Package manager | npm |
+| Linting & formatting | [Biome](https://biomejs.dev/) (lint + format) |
+| Unit tests | [Vitest](https://vitest.dev/) |
+| E2E tests | [Playwright](https://playwright.dev/) with a [scenario-coverage catalog](e2e/scenarios.md) |
+| Client state | [Zustand](https://zustand.docs.pmnd.rs/) |
+| Validation | [Zod](https://zod.dev/) |
+| Styling | CSS Modules with CSS-variable design tokens |
+| Data / content layer | Browser `localStorage`; the card dataset is seeded under `src/features/cards/data/` |
+| Error reporting | [Sentry](https://sentry.io/) (enabled when `NEXT_PUBLIC_SENTRY_DSN` is set) |
+| Hosting | [Vercel](https://vercel.com/) |
 
-## Getting Started
+## Getting started
 
-```bash
-npm install
-npm run dev
+1. Install dependencies: `npm install`
+2. Start developing: `npm run dev`, then open <http://localhost:3000>
+3. Production build and start: `npm run build`, then `npm run start`
+
+Error reporting is optional: set `NEXT_PUBLIC_SENTRY_DSN` in `.env.local` to
+enable Sentry; without it the app runs the same, just without error capture.
+
+## Development workflow
+
+Development in this repository is agent-assisted via
+[Claude Code](https://claude.com/claude-code). The working agreement lives in
+[`AGENTS.md`](./AGENTS.md) (loaded through `CLAUDE.md`) and routes to the
+detailed skills under [`.claude/skills/`](./.claude/skills). Human and agent
+contributors follow the same loop: plan → implement → self-review → verify →
+report.
+
+### `/address` — deliver a unit of work end-to-end
+
+[`/address`](./.claude/commands/address.md) is the main delivery entry point.
+It takes one unit of work — a GitHub issue, a pull request, or a free-form
+prompt — from intake to a merge-ready pull request in a single continuing
+session:
+
+1. **Plan** — reads the issue and its thread, asks you the product and scope
+   questions the spec leaves open, and rewrites the issue body into a
+   reviewable plan with acceptance criteria.
+2. **Code + verify** — implements on an agent-namespaced branch, runs the
+   checks the changed surface requires, and self-reviews the diff.
+3. **Independent review** — opens a draft pull request and requests the CI
+   reviewer, a separate bot session, so the code's author never certifies its
+   own work.
+4. **Address** — fixes review findings and CI failures, tying each resolved
+   thread to the resolving commit, for up to four rounds.
+5. **Ready** — flips the pull request to ready and pings the maintainer once
+   CI is green and the review is clean. Merging always stays a human decision.
+
+Practical examples:
+
+```text
+/address https://github.com/OWNER/REPO/issues/42   # deliver issue #42 end-to-end
+/address 57                                        # resume delivery of open PR #57
+/address The 404 page should link back home        # no issue yet: files a tracking
+                                                   #   issue, then delivers it
+/address --review-plan 42                          # same delivery, but pauses for
+                                                   #   your approval after the plan
+/address continue                                  # resume a paused run — after you
+                                                   #   answer a question, leave PR
+                                                   #   comments, or start a fresh
+                                                   #   session from a /handoff package
 ```
 
-Open <http://localhost:3000>.
+The run pauses whenever it genuinely needs a human — an ambiguous requirement,
+a plan approval, a judgment call on conflicting changes — and `/address
+continue` picks it back up where it stopped.
 
-## Commands
+### `/review` — get findings on any diff
 
-| Command | Purpose |
-| ------- | ------- |
-| `npm run dev` | Start the development server |
-| `npm run build` / `npm run start` | Production build / serve it |
-| `npm run format` | Format with Biome |
-| `npm run lint` | Lint (and format-check) with Biome |
-| `npm run typecheck` | Type-check with `tsc` |
-| `npm run test:unit` | Run the Vitest unit suite |
-| `npm run test:e2e` | Run Playwright e2e tests + the scenario-coverage report |
-| `npm run test:e2e:coverage` | Same, gating `must`-priority scenarios at 100% |
+[`/review`](./.claude/commands/review.md) runs this repository's review policy
+([`REVIEW.md`](./REVIEW.md)) — severity-tagged findings with `file:line`
+evidence and concrete fixes — on a pull request (`/review 57`), a ref range
+(`/review main...feature`), or the current branch's diff (`/review`). Use it
+for a pre-merge check on a hand-written change or a second opinion before
+pushing; the same policy runs automatically in CI
+([`claude-review.yaml`](./.github/workflows/claude-review.yaml)) against
+`/address` pull requests.
 
-## Contributing / Agents
+### `/handoff` — suspend work for another session
 
-This repository is agent-ready: [`AGENTS.md`](AGENTS.md) is the master routing
-index for the project skills under [`.claude/skills/`](.claude/skills/), and
-[`REVIEW.md`](REVIEW.md) is the posted-review policy applied by the CI reviewer
-([`claude-review.yaml`](.github/workflows/claude-review.yaml)). CI merge gates
-(Biome lint, type check, docs links, Vitest) run in
+[`/handoff`](./.claude/commands/handoff.md) packages in-progress work — goal,
+current state, remaining to-dos, uncommitted changes — into a downloadable
+`handoff-<epoch>.md` (plus an optional zip of supporting files). Use it when a
+session is running low on context, or to park work for later; a fresh session
+(yours or a teammate's) takes the package over with `/address continue`.
+
+Changes made without an agent follow the same bar: branch, implement, run the
+checks below, open a pull request, and get it reviewed before merge.
+
+## Testing
+
+Unit tests (Vitest) cover the card model, deck-construction rules, and other
+logic in isolation; the Playwright e2e suite drives user-facing flows against a
+[scenario-coverage catalog](e2e/scenarios.md). CI merge gates (Biome lint, type
+check, docs links, Vitest) run in
 [`merge-checks.yaml`](.github/workflows/merge-checks.yaml).
+
+| Check | Command |
+| ----- | ------- |
+| Format | `npm run format` |
+| Lint | `npm run lint` |
+| Type-check | `npm run typecheck` |
+| Unit tests | `npm run test:unit` |
+| E2E tests | `npm run test:e2e` |
+
+Run format + lint after every change, and the suites relevant to the changed
+surface before opening a pull request — see the Verification section of
+[`AGENTS.md`](./AGENTS.md). `npm run test:e2e:coverage` runs the same e2e suite
+while gating `must`-priority scenarios at 100%.
