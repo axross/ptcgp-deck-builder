@@ -53,7 +53,7 @@
  * a wider viewport fits more cards per row. */
 .row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(5.5rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(4.4rem, 1fr));
   gap: var(--space-2);
   padding-bottom: var(--space-2);
 }

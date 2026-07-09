@@ -21,11 +21,11 @@ import styles from "./deck-card-picker.module.css";
 // lazy-loaded; the rest load as they scroll into view.
 const PRIORITY_TILE_COUNT = 12;
 
-// A picker tile is just the card image (portrait 245:342 at a ~5.5rem min plus
+// A picker tile is just the card image (portrait 245:342 at a ~4.4rem min plus
 // a 1fr share): no name line, no separate button — the whole image is the add
 // control. The virtualizer replaces this estimate with measured row heights
 // after the first paint.
-const ESTIMATED_ROW_HEIGHT = 150;
+const ESTIMATED_ROW_HEIGHT = 120;
 
 type DeckCardPickerProps = {
   catalog: DeckBuilderCard[];
