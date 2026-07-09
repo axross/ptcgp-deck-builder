@@ -1,6 +1,8 @@
 import type { CardTileView } from "../card-view";
 import { CardImage } from "./card-image";
+import { CardKindIcon } from "./card-kind-icon";
 import styles from "./card-tile.module.css";
+import { EnergyIcon } from "./energy-icon";
 
 type CardTileProps = {
   card: CardTileView;
@@ -34,8 +36,21 @@ export function CardTile({ card, priority }: CardTileProps) {
           {card.name}
         </span>
         <span className={styles.meta}>
-          <span className={styles.type} data-testid="card-tile-type">
-            {card.typeLabel}
+          {/* Pokémon show their energy type; Trainers their subtype pictogram,
+              so the badge name matches the drawn shape. */}
+          <span
+            className={styles.type}
+            data-testid="card-tile-type"
+            title={card.type !== null ? card.typeLabel : card.kindLabel}
+          >
+            {card.type !== null ? (
+              <EnergyIcon type={card.type} />
+            ) : (
+              <CardKindIcon kind={card.kind} />
+            )}
+            <span className={styles.srOnly}>
+              {card.type !== null ? card.typeLabel : card.kindLabel}
+            </span>
           </span>
           <span className={styles.rarity} data-testid="card-tile-rarity">
             {card.rarityLabel}

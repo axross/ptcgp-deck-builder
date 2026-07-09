@@ -34,8 +34,21 @@
 }
 
 .type {
-  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  font-size: 1rem;
   color: var(--color-text);
+}
+
+/* Visually hidden but kept in the accessibility tree: the badge shows only
+   the pictogram, so this text carries the type's name to screen readers. */
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
 
 .rarity {

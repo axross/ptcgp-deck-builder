@@ -1,10 +1,14 @@
+import type { CardKind } from "@/features/cards/card-filters";
 import { getCardImageUrl } from "@/features/cards/card-images";
 import { cardKindLabel, cardTypeLabel } from "@/features/cards/card-view";
 import { getRarity } from "@/features/cards/rarity-registry";
-import type { Card, PokemonCard } from "@/features/cards/schema";
+import type { Card, PokemonCard, TrainerCard } from "@/features/cards/schema";
 
 /** A Pokémon evolution stage (mirrors the card schema's stage enum). */
 export type PokemonStage = PokemonCard["pokemon"]["stage"];
+
+/** A Trainer subtype (mirrors the card schema's trainer-subtype enum). */
+export type TrainerSubtype = TrainerCard["trainer"]["subtype"];
 
 /**
  * The minimal card facts the deck-construction rules and advice actually read.
@@ -42,8 +46,13 @@ export type DeckBuilderCard = {
   rarityLabel: string;
 } & (
   | { category: "Pokemon"; type: string; stage: PokemonStage; evolvesFrom: string | null }
-  | { category: "Trainer" }
+  | { category: "Trainer"; subtype: TrainerSubtype }
 );
+
+/** The {@link CardKind} of a projected card: its stage or Trainer subtype. */
+export function deckBuilderCardKind(card: DeckBuilderCard): CardKind {
+  return card.category === "Pokemon" ? card.stage : card.subtype;
+}
 
 /** Projects a catalog card into the client-side {@link DeckBuilderCard}. */
 export function toDeckBuilderCard(card: Card): DeckBuilderCard {
@@ -65,7 +74,7 @@ export function toDeckBuilderCard(card: Card): DeckBuilderCard {
       evolvesFrom: card.pokemon.evolvesFrom,
     };
   }
-  return { ...shared, category: "Trainer" };
+  return { ...shared, category: "Trainer", subtype: card.trainer.subtype };
 }
 
 /**

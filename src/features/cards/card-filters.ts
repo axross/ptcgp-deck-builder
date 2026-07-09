@@ -11,19 +11,40 @@ import { type EnergyType, energyTypeSchema } from "./schema";
  */
 
 /**
- * A card "kind": either a Pokémon stage or the Trainer category. This is the
- * shape the kind filter selects on ("Pokémon by stage / Trainer").
+ * A card "kind": a Pokémon evolution stage or a Trainer subtype. This is the
+ * vocabulary the kind filter selects on and the canonical display order.
+ * Mirrors the schema's stage and trainer-subtype enums; a value's presence
+ * here does not imply the seeded catalog contains it (Fossil doesn't exist in
+ * any seeded set yet) — derive offered options from the catalog instead.
  */
-export const cardKinds = ["Basic", "Stage1", "Stage2", "Trainer"] as const;
+export const cardKinds = [
+  "Basic",
+  "Stage1",
+  "Stage2",
+  "Supporter",
+  "Item",
+  "PokemonTool",
+  "Stadium",
+  "Fossil",
+] as const;
 export type CardKind = (typeof cardKinds)[number];
 
-/** Human-facing label for each {@link CardKind}, in filter-control order. */
+/** Human-facing label for each {@link CardKind}. */
 export const cardKindLabels: Record<CardKind, string> = {
   Basic: "Basic",
   Stage1: "Stage 1",
   Stage2: "Stage 2",
-  Trainer: "Trainer",
+  Supporter: "Supporter",
+  Item: "Item",
+  PokemonTool: "Pokémon Tool",
+  Stadium: "Stadium",
+  Fossil: "Fossil",
 };
+
+/** The {@link CardKind} of a card: its stage (Pokémon) or subtype (Trainer). */
+export function cardKindOf(card: Card): CardKind {
+  return card.category === "Pokemon" ? card.pokemon.stage : card.trainer.subtype;
+}
 
 /**
  * A validated filter selection. Every field is optional; an absent field means
@@ -38,10 +59,7 @@ export type CardFilterCriteria = {
 };
 
 function matchesKind(card: Card, kind: CardKind): boolean {
-  if (kind === "Trainer") {
-    return card.category === "Trainer";
-  }
-  return card.category === "Pokemon" && card.pokemon.stage === kind;
+  return cardKindOf(card) === kind;
 }
 
 /** True when `card` satisfies every present constraint in `criteria`. */

@@ -26,12 +26,13 @@ describe("matchesPickerCriteria()", () => {
     expect(matchesPickerCriteria(bulbasaur, { type: "Fire" })).toBe(false);
   });
 
-  it("matches by kind, treating Trainer as a category", () => {
+  it("matches by kind, including Trainer subtypes", () => {
     const [erika] = projection(ERIKA);
 
     expect(matchesPickerCriteria(bulbasaur, { kind: "Basic" })).toBe(true);
-    expect(matchesPickerCriteria(bulbasaur, { kind: "Trainer" })).toBe(false);
-    expect(matchesPickerCriteria(erika, { kind: "Trainer" })).toBe(true);
+    expect(matchesPickerCriteria(bulbasaur, { kind: "Supporter" })).toBe(false);
+    expect(matchesPickerCriteria(erika, { kind: "Supporter" })).toBe(true);
+    expect(matchesPickerCriteria(erika, { kind: "Item" })).toBe(false);
     expect(matchesPickerCriteria(erika, { kind: "Basic" })).toBe(false);
   });
 

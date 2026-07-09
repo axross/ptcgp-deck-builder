@@ -8,6 +8,19 @@
   --color-accent-contrast: #ffffff;
   --color-danger: #c0281f;
 
+  /* Per-energy-type pictogram colors (see EnergyIcon). Each pairs with a
+     distinct shape and an accessible name, so color is reinforcement only. */
+  --color-energy-grass: #2e8a3c;
+  --color-energy-fire: #d2452a;
+  --color-energy-water: #2273c4;
+  --color-energy-lightning: #a37b0a;
+  --color-energy-psychic: #8b46ad;
+  --color-energy-fighting: #a85a28;
+  --color-energy-darkness: #3f4a5f;
+  --color-energy-metal: #64708a;
+  --color-energy-dragon: #8a7a22;
+  --color-energy-colorless: #857f6f;
+
   --space-1: 0.25rem;
   --space-2: 0.5rem;
   --space-3: 1rem;
@@ -30,6 +43,17 @@
     --color-accent: #6b9bff;
     --color-accent-contrast: #10131c;
     --color-danger: #ff9b9b;
+
+    --color-energy-grass: #63c56f;
+    --color-energy-fire: #ff8a68;
+    --color-energy-water: #62aef2;
+    --color-energy-lightning: #e8b93e;
+    --color-energy-psychic: #c78ae0;
+    --color-energy-fighting: #e09059;
+    --color-energy-darkness: #94a2c2;
+    --color-energy-metal: #a8b2c8;
+    --color-energy-dragon: #cfb84f;
+    --color-energy-colorless: #b5af9e;
   }
 }
 

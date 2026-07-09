@@ -1,6 +1,7 @@
+import { type CardKind, cardKindLabels, cardKindOf, cardKinds } from "./card-filters";
 import { getCardImageUrl } from "./card-images";
 import { getRarity } from "./rarity-registry";
-import { type Card, type RarityCode, rarityCodes } from "./schema";
+import { type Card, type EnergyType, type RarityCode, rarityCodes } from "./schema";
 import { getSet, setCodes } from "./set-registry";
 
 /**
@@ -15,32 +16,27 @@ export type CardTileView = {
   id: string;
   name: string;
   imageUrl: string;
+  /** Energy type for Pokémon (drives the type pictogram); `null` for Trainers. */
+  type: EnergyType | null;
+  /** The card's kind (stage or Trainer subtype), driving the kind pictogram. */
+  kind: CardKind;
   /** Badge label: the energy type for Pokémon, "Trainer" otherwise. */
   typeLabel: string;
-  /** Stage (Pokémon) or subtype (Trainer), e.g. "Stage 1" / "Supporter". */
+  /** Stage (Pokémon) or subtype (Trainer), e.g. "Stage 1" / "Pokémon Tool". */
   kindLabel: string;
   /** HP for Pokémon; `null` for Trainers. */
   hp: number | null;
   rarityLabel: string;
 };
 
-const pokemonStageLabels = {
-  Basic: "Basic",
-  Stage1: "Stage 1",
-  Stage2: "Stage 2",
-} as const;
-
 /** The badge/type label for a card: its energy type, or "Trainer". */
 export function cardTypeLabel(card: Card): string {
   return card.category === "Pokemon" ? card.pokemon.type : "Trainer";
 }
 
-/** The kind label: a Pokémon's stage or a Trainer's subtype. */
+/** The kind label: a Pokémon's stage or a Trainer's subtype, in display form. */
 export function cardKindLabel(card: Card): string {
-  if (card.category === "Pokemon") {
-    return pokemonStageLabels[card.pokemon.stage];
-  }
-  return card.trainer.subtype;
+  return cardKindLabels[cardKindOf(card)];
 }
 
 /** Builds the tile view model for a single card. */
@@ -49,6 +45,8 @@ export function toCardTileView(card: Card): CardTileView {
     id: card.id,
     name: card.name.en,
     imageUrl: getCardImageUrl(card),
+    type: card.category === "Pokemon" ? card.pokemon.type : null,
+    kind: cardKindOf(card),
     typeLabel: cardTypeLabel(card),
     kindLabel: cardKindLabel(card),
     hp: card.category === "Pokemon" ? card.pokemon.hp : null,
@@ -70,6 +68,21 @@ export function deriveRarityOptions(cards: readonly Card[]): RarityOption[] {
   return rarityCodes
     .filter((code) => present.has(code))
     .map((code) => ({ code, label: getRarity(code).label }));
+}
+
+/** A kind choice for the filter control: the kind plus its display label. */
+export type KindOption = { value: CardKind; label: string };
+
+/**
+ * The distinct kinds present in `cards`, in canonical (`cardKinds`) order,
+ * each with its display label. Derived from the catalog so a kind no seeded
+ * set contains (e.g. Fossil today) never appears as a dead filter option.
+ */
+export function deriveKindOptions(cards: readonly Card[]): KindOption[] {
+  const present = new Set(cards.map(cardKindOf));
+  return cardKinds
+    .filter((kind) => present.has(kind))
+    .map((kind) => ({ value: kind, label: cardKindLabels[kind] }));
 }
 
 /** A set choice for the filter control: the set code plus its display label. */

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { CardImage } from "@/features/cards/components/card-image";
+import { EnergyIcon } from "@/features/cards/components/energy-icon";
 import {
   DECK_SIZE,
   type DeckRuleViolation,
@@ -124,9 +125,11 @@ export function DeckPanel({ onSavedNew }: DeckPanelProps) {
                   data-testid={`deck-energy-${type}`}
                   data-selected={selected}
                   aria-pressed={selected}
+                  aria-label={type}
+                  title={type}
                   onClick={() => toggleEnergyType(type)}
                 >
-                  {type}
+                  <EnergyIcon type={type} />
                 </button>
               );
             })}

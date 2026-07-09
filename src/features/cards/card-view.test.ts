@@ -1,5 +1,11 @@
 import { describe, expect, it } from "vitest";
-import { deriveRarityOptions, deriveSetOptions, toCardTileView } from "./card-view";
+import {
+  cardKindLabel,
+  deriveKindOptions,
+  deriveRarityOptions,
+  deriveSetOptions,
+  toCardTileView,
+} from "./card-view";
 import { getAllCards, getCard } from "./catalog";
 import type { Card } from "./schema";
 
@@ -17,6 +23,8 @@ describe("toCardTileView()", () => {
       id: "A1-002",
       name: "Ivysaur",
       imageUrl: "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp",
+      type: "Grass",
+      kind: "Stage1",
       typeLabel: "Grass",
       kindLabel: "Stage 1",
       hp: 90,
@@ -29,10 +37,49 @@ describe("toCardTileView()", () => {
     expect(view).toMatchObject({
       id: "A1-219",
       name: "Erika",
+      type: null,
+      kind: "Supporter",
       typeLabel: "Trainer",
       kindLabel: "Supporter",
       hp: null,
     });
+  });
+});
+
+describe("cardKindLabel()", () => {
+  it("renders a Trainer subtype in display form", () => {
+    const erika = fixture("A1-219"); // Supporter
+    if (erika.category !== "Trainer") {
+      throw new Error("Test fixture A1-219 is expected to be a Trainer card.");
+    }
+    // Synthesize a PokemonTool Trainer: the display form ("Pokémon Tool") must
+    // not echo the raw enum value.
+    const tool: Card = { ...erika, trainer: { ...erika.trainer, subtype: "PokemonTool" } };
+
+    expect(cardKindLabel(erika)).toBe("Supporter");
+    expect(cardKindLabel(tool)).toBe("Pokémon Tool");
+  });
+});
+
+describe("deriveKindOptions()", () => {
+  it("lists the catalog's kinds in canonical order without unseeded kinds", () => {
+    expect(deriveKindOptions(getAllCards())).toEqual([
+      { value: "Basic", label: "Basic" },
+      { value: "Stage1", label: "Stage 1" },
+      { value: "Stage2", label: "Stage 2" },
+      { value: "Supporter", label: "Supporter" },
+      { value: "Item", label: "Item" },
+      { value: "PokemonTool", label: "Pokémon Tool" },
+      { value: "Stadium", label: "Stadium" },
+    ]);
+  });
+
+  it("omits kinds absent from the given cards", () => {
+    const cards = [fixture("A1-001"), fixture("A1-219")]; // Basic + Supporter
+    expect(deriveKindOptions(cards)).toEqual([
+      { value: "Basic", label: "Basic" },
+      { value: "Supporter", label: "Supporter" },
+    ]);
   });
 });
 

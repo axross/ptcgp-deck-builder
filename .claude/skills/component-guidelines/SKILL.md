@@ -14,6 +14,7 @@ Shared, domain-free components live in `src/components/`. Compose these instead 
 | Component | Purpose |
 | --------- | ------- |
 | `VirtualizedGrid` (`virtualized-grid.tsx`) | Window-scrolled, row-virtualized grid: mounts only the rows near the viewport. The consumer's `rowClassName` owns the responsive column CSS; used by the `/cards` grid and the deck-picker grid |
+| `IconSelect` (`icon-select.tsx`) | Single-select dropdown whose options carry a pictogram next to their text (what a native `<select>` cannot render), per the ARIA select-only combobox pattern; used by the `/cards` filter bar and the deck-picker Type/Kind filters |
 
 **Guidelines:**
 
