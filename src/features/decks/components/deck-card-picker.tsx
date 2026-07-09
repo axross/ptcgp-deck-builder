@@ -169,17 +169,23 @@ function PickerTile({ card, priority }: PickerTileProps) {
         }
         title={atLimit ? limitHint : undefined}
       >
-        <CardImage
-          src={card.imageUrl}
-          alt={card.name}
-          priority={priority}
-          fallback={{
-            name: card.name,
-            typeLabel: card.typeLabel,
-            kindLabel: card.kindLabel,
-            hp: card.hp,
-          }}
-        />
+        {/* The button's aria-label already carries the card name and copy
+         * count, so hide the image subtree from assistive tech — otherwise the
+         * failure fallback's own role="img"/aria-label doubles the name inside
+         * the button. */}
+        <span className={styles.tileImage} aria-hidden="true">
+          <CardImage
+            src={card.imageUrl}
+            alt={card.name}
+            priority={priority}
+            fallback={{
+              name: card.name,
+              typeLabel: card.typeLabel,
+              kindLabel: card.kindLabel,
+              hp: card.hp,
+            }}
+          />
+        </span>
         {copies > 0 ? (
           <span className={styles.copyBadge} data-testid="deck-picker-copies" aria-hidden="true">
             ×{copies}

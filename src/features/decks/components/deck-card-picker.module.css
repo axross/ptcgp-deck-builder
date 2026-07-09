@@ -62,6 +62,14 @@
   min-width: 0;
 }
 
+/* Block wrapper around the card image so it sizes exactly as it did before,
+ * while `aria-hidden` on this span keeps the image subtree (including the
+ * failure fallback's own labelled role="img") out of the accessible name the
+ * button's aria-label already provides. */
+.tileImage {
+  display: block;
+}
+
 .copyBadge {
   position: absolute;
   top: var(--space-1);
