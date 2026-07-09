@@ -43,28 +43,31 @@
  * see .row) would trail the grid, so pull it back out to keep the picker's
  * outer spacing identical to the old row-gap layout. */
 .grid {
-  margin-bottom: calc(-1 * var(--space-3));
+  margin-bottom: calc(-1 * var(--space-2));
 }
 
 /* One virtualized row of the picker grid: the column template plus a bottom
  * padding standing in for the row gap (rows are absolutely positioned by
- * measured height, so a grid row-gap cannot space them). */
+ * measured height, so a grid row-gap cannot space them). A smaller column
+ * min-width than the catalog grid keeps the picker tiles compact and fluid, so
+ * a wider viewport fits more cards per row. */
 .row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(7rem, 1fr));
-  gap: var(--space-3);
-  padding-bottom: var(--space-3);
+  grid-template-columns: repeat(auto-fill, minmax(4.4rem, 1fr));
+  gap: var(--space-2);
+  padding-bottom: var(--space-2);
 }
 
 .tile {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-2);
   min-width: 0;
 }
 
+/* Block wrapper around the card image so it sizes exactly as it did before,
+ * while `aria-hidden` on this span keeps the image subtree (including the
+ * failure fallback's own labelled role="img") out of the accessible name the
+ * button's aria-label already provides. */
 .tileImage {
-  position: relative;
+  display: block;
 }
 
 .copyBadge {
@@ -80,35 +83,36 @@
   line-height: 1.6;
 }
 
-.tileName {
-  overflow: hidden;
-  font-size: 0.8125rem;
-  font-weight: 600;
-  line-height: 1.3;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
+/* The whole card image is the add control: a full-bleed button with no chrome
+ * of its own so the artwork reads as the tile. The copy badge is positioned
+ * against it. */
 .addButton {
-  padding: var(--space-1) var(--space-2);
-  border: 1px solid var(--color-border);
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: none;
   border-radius: var(--radius-1);
-  background: var(--color-surface);
-  color: var(--color-text);
-  font: inherit;
-  font-size: 0.8125rem;
-  font-weight: 500;
+  background: none;
   cursor: pointer;
 }
 
 .addButton:hover:not(:disabled) {
-  border-color: var(--color-accent);
-  color: var(--color-accent);
+  filter: brightness(1.05);
+}
+
+.addButton:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.addButton:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }
 
 .addButton:disabled {
-  color: var(--color-text-muted);
   cursor: not-allowed;
+  opacity: 0.55;
 }
 
 .empty {

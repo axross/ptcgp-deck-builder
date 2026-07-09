@@ -21,10 +21,11 @@ import styles from "./deck-card-picker.module.css";
 // lazy-loaded; the rest load as they scroll into view.
 const PRIORITY_TILE_COUNT = 12;
 
-// A picker tile is the card image (portrait 245:342 at up to ~7rem plus a 1fr
-// share) with a name line and an add button; the virtualizer replaces this
-// estimate with measured row heights after the first paint.
-const ESTIMATED_ROW_HEIGHT = 240;
+// A picker tile is just the card image (portrait 245:342 at a ~4.4rem min plus
+// a 1fr share): no name line, no separate button — the whole image is the add
+// control. The virtualizer replaces this estimate with measured row heights
+// after the first paint.
+const ESTIMATED_ROW_HEIGHT = 120;
 
 type DeckCardPickerProps = {
   catalog: DeckBuilderCard[];
@@ -157,25 +158,6 @@ function PickerTile({ card, priority }: PickerTileProps) {
       data-testid="deck-picker-tile"
       data-card-id={card.id}
     >
-      <div className={styles.tileImage}>
-        <CardImage
-          src={card.imageUrl}
-          alt={card.name}
-          priority={priority}
-          fallback={{
-            name: card.name,
-            typeLabel: card.typeLabel,
-            kindLabel: card.kindLabel,
-            hp: card.hp,
-          }}
-        />
-        {copies > 0 ? (
-          <span className={styles.copyBadge} data-testid="deck-picker-copies" aria-hidden="true">
-            ×{copies}
-          </span>
-        ) : null}
-      </div>
-      <span className={styles.tileName}>{card.name}</span>
       <button
         type="button"
         className={styles.addButton}
@@ -187,7 +169,28 @@ function PickerTile({ card, priority }: PickerTileProps) {
         }
         title={atLimit ? limitHint : undefined}
       >
-        {atLimit ? "Max 2" : "Add"}
+        {/* The button's aria-label already carries the card name and copy
+         * count, so hide the image subtree from assistive tech — otherwise the
+         * failure fallback's own role="img"/aria-label doubles the name inside
+         * the button. */}
+        <span className={styles.tileImage} aria-hidden="true">
+          <CardImage
+            src={card.imageUrl}
+            alt={card.name}
+            priority={priority}
+            fallback={{
+              name: card.name,
+              typeLabel: card.typeLabel,
+              kindLabel: card.kindLabel,
+              hp: card.hp,
+            }}
+          />
+        </span>
+        {copies > 0 ? (
+          <span className={styles.copyBadge} data-testid="deck-picker-copies" aria-hidden="true">
+            ×{copies}
+          </span>
+        ) : null}
       </button>
     </div>
   );
