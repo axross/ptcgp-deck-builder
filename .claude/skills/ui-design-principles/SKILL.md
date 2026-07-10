@@ -5,7 +5,7 @@ description: Apply this skill when deciding how a surface should look in this pr
 
 # UI Design Principles
 
-This skill owns **appearance** — the decision vocabulary for how surfaces look. Implementation mechanics (CSS Modules, props, test ids) are owned by [Component Guidelines](../component-guidelines/SKILL.md); file placement by [Project Structure](../project-structure/SKILL.md).
+This skill owns **appearance** — the decision vocabulary for how surfaces look. Implementation mechanics (CSS Modules, props, test ids) are owned by the project's component guidelines; file placement by the project's project-structure skill.
 
 ## Color Roles
 
@@ -51,7 +51,7 @@ All colors come from the CSS variables in `src/app/globals.css`, which flip auto
 
 - MUST design mobile-first: the deck builder's core flows (browse cards, edit a deck) work on a narrow viewport, with wider layouts adding columns rather than new behavior.
 - MUST use `rem`-based sizing and the spacing scale; content containers cap at a readable max-width and center on wide screens.
-- SHOULD keep card imagery on a consistent aspect ratio so grids stay stable while loading (pair with the image rules in [performance-and-reliability-requirements › image-optimization](../performance-and-reliability-requirements/references/image-optimization.md)).
+- SHOULD keep card imagery on a consistent aspect ratio so grids stay stable while loading (pair with the image rules in the project's performance-and-reliability requirements (image-optimization rules)).
 
 ## Copy
 

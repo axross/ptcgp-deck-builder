@@ -18,7 +18,7 @@ Fetching from the client ships data-access code into the browser bundle and adds
 
 **Guidelines:**
 
-- MUST flag a client-side component that performs data fetching (network request, calling a catalog-access function) — see [Component Guidelines](../../component-guidelines/SKILL.md). Lift the fetch into the parent server-side component.
+- MUST flag a client-side component that performs data fetching (network request, calling a catalog-access function) — see the project's component guidelines. Lift the fetch into the parent server-side component.
 - MUST flag a client-side component that imports server-only modules. This will leak server code into the client bundle.
 - MUST flag a server-side component that uses client-only state, lifecycle, event handlers, or browser APIs — it should be split into a server-side container and an interactive client child.
 - MUST flag a server-only value type (e.g., an unresolved async/promise prop, where the framework allows it) being passed into a client component when the framework forbids it.

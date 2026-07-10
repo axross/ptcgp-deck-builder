@@ -5,7 +5,7 @@ description: Apply this skill when writing, placing, reviewing, or refactoring a
 
 # Component Guidelines
 
-This skill owns **construction** — how components, hooks, and stores are built. *Where* the files live is owned by [Project Structure](../project-structure/SKILL.md); how surfaces *look* (tokens, controls, spacing, copy) is owned by [UI Design Principles](../ui-design-principles/SKILL.md).
+This skill owns **construction** — how components, hooks, and stores are built. *Where* the files live is owned by the project's project-structure skill; how surfaces *look* (tokens, controls, spacing, copy) is owned by the project's UI design principles.
 
 ## Component Catalog
 
@@ -41,14 +41,14 @@ Two tiers: **shared** (`src/components/` — generic, domain-free) and **feature
 - MUST name components in PascalCase and their files in kebab-case (`deck-list.tsx` exports `DeckList`); Next.js route files keep their framework names (`page.tsx`, `layout.tsx`).
 - MUST use named exports for components; `export default` is reserved for Next.js route-file conventions.
 - MUST type props with an explicit named type (e.g. `type DeckListProps = { … }`); avoid `React.FC`.
-- MUST keep components server components by default; add `"use client"` only to the smallest subtree that needs state, effects, event handlers, or browser APIs (per [performance-and-reliability-requirements › server-client-boundary](../performance-and-reliability-requirements/references/server-client-boundary.md)).
-- MUST give interactive or test-asserted elements a stable kebab-case `data-testid` (e.g. `data-testid="deck-card-count"`); e2e locators consume them per [e2e-testing-guidelines › conventions](../e2e-testing-guidelines/references/conventions.md).
+- MUST keep components server components by default; add `"use client"` only to the smallest subtree that needs state, effects, event handlers, or browser APIs (per the project's performance-and-reliability requirements (server-client-boundary rules)).
+- MUST give interactive or test-asserted elements a stable kebab-case `data-testid` (e.g. `data-testid="deck-card-count"`); e2e locators consume them per the project's end-to-end testing guidelines (conventions rules).
 
 ## Styling Composition
 
 - MUST style a component with its colocated `<base-name>.module.css`; class composition uses the module's classes plus an optional `className` prop appended last so consumers can extend spacing/layout.
 - MUST NOT reach into another component's internals with descendant selectors or global CSS; extend via the component's own props.
-- MUST use the design tokens (CSS variables) from `src/app/globals.css` for color, spacing, and radius values per [UI Design Principles](../ui-design-principles/SKILL.md).
+- MUST use the design tokens (CSS variables) from `src/app/globals.css` for color, spacing, and radius values per the project's UI design principles.
 
 ## Logic Extraction
 
@@ -60,4 +60,4 @@ Two tiers: **shared** (`src/components/` — generic, domain-free) and **feature
 
 - MUST use semantic elements (`button`, `nav`, `ul`, headings in order) before reaching for ARIA attributes.
 - MUST give every interactive control an accessible name (visible label, `aria-label`, or `aria-labelledby`) and keep it keyboard-operable with a visible focus state.
-- MUST pair meaning-bearing color with a second channel per [UI Design Principles](../ui-design-principles/SKILL.md).
+- MUST pair meaning-bearing color with a second channel per the project's UI design principles.

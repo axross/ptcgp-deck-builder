@@ -5,7 +5,7 @@ description: Apply this skill when working with PTCGP (Pokémon TCG Pocket) doma
 
 # PTCGP Domain
 
-The game knowledge behind the deck builder: what PTCGP cards are, how decks must be constructed, and which expansions exist. Where files *live* is owned by [Project Structure](../project-structure/SKILL.md); this skill owns what the domain data *means* and which rules the code must enforce.
+The game knowledge behind the deck builder: what PTCGP cards are, how decks must be constructed, and which expansions exist. Where files *live* is owned by the project's project-structure skill; this skill owns what the domain data *means* and which rules the code must enforce.
 
 ## Reference Documents
 
@@ -38,7 +38,7 @@ Card artwork is **hotlinked from the Limitless TCG Pocket CDN** via `getCardImag
 **Guidelines:**
 
 - MUST build image URLs only through `getCardImageUrl()` — the provider is a single-module decision so it can be swapped in one place.
-- MUST keep the image-host allowlist scoped to the exact host and path prefix per [application-security-requirements › ssrf-and-embeds](../application-security-requirements/references/ssrf-and-embeds.md).
+- MUST keep the image-host allowlist scoped to the exact host and path prefix per the project's application-security requirements (ssrf-and-embeds rules).
 - SHOULD render a data-driven fallback (name/type/HP frame) when an image fails to load — the CDN is an unofficial third-party source and individual URLs are not guaranteed.
 - Known caveats: this is an unofficial hotlink (no SLA; Pokémon artwork is third-party IP — self-hosting would raise licensing questions of its own); the URL pattern was confirmed from community usage but could not be probed from the development sandbox (network-restricted), so spot-check one A1 and one latest-set card in a browser on first UI use. Alternative provider if Limitless breaks: TCGdex (`assets.tcgdex.net`, series `tcgp`, multilingual — also a candidate once i18n lands).
 
@@ -63,7 +63,7 @@ Recorded 2026-07 with the project owner:
 **Guidelines:**
 
 - MUST parse any card data through `cardSchema` before use, and access it via the catalog module, not by importing the JSON directly.
-- MUST keep the catalog on the server tier — the payload grows with each seeded set; pass cards/filtered lists to client components as props per [Component Guidelines](../component-guidelines/SKILL.md). Prefer the per-set accessors so a route ships only the sets it needs.
+- MUST keep the catalog on the server tier — the payload grows with each seeded set; pass cards/filtered lists to client components as props per the project's component guidelines. Prefer the per-set accessors so a route ships only the sets it needs.
 - MUST source set names/labels from `set-registry.ts`, never hardcode them in components.
 - MUST treat art/rarity variants as distinct catalog entries with identical battle stats; deck logic groups them by name, collection/display logic keeps them separate.
 - MUST NOT hand-edit card game text — it is quoted from the sources recorded in each card's `source` field and in [card-data.md](./references/card-data.md).

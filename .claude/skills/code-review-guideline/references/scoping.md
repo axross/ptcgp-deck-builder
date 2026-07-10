@@ -55,9 +55,9 @@ With nothing to diff, there is no defined change to review, and any files the re
 
 ## Repository-Specific Boundaries
 
-Style feedback on files the tooling produces is noise the author cannot act on, since the fix would mean changing the generator rather than the file. See [Development Guidelines › change-management](../../development-guidelines/references/change-management.md) for which paths the project treats as generated/managed.
+Style feedback on files the tooling produces is noise the author cannot act on, since the fix would mean changing the generator rather than the file. See the project's development guidelines (change-management rules) for which paths the project treats as generated/managed.
 
 **Guidelines:**
 
 - MUST NOT review generated or tool-managed files (e.g., framework-generated directories such as `.next/`, `next-env.d.ts`, lockfiles) for code style.
-- MUST consult [Project Structure](../../project-structure/SKILL.md) for the exact set of paths to exclude from review.
+- MUST consult the project's project-structure skill for the exact set of paths to exclude from review.
