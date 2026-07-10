@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { IconSelect } from "@/components/icon-select";
 import { VirtualizedGrid } from "@/components/virtualized-grid";
-import { type CardKind, cardKindLabels, cardKinds } from "@/features/cards/card-filters";
+import { type CardKind, toKindOptions } from "@/features/cards/card-filters";
 import { CardImage } from "@/features/cards/components/card-image";
 import { CardKindIcon } from "@/features/cards/components/card-kind-icon";
 import { energyTypeOptions } from "@/features/cards/components/energy-icon";
@@ -43,16 +43,14 @@ export function DeckCardPicker({ catalog }: DeckCardPickerProps) {
 
   // Offer only the kinds the catalog actually contains, in canonical order,
   // so an unseeded kind (e.g. Fossil today) never appears as a dead option.
-  const kindOptions = useMemo(() => {
-    const present = new Set(catalog.map(deckBuilderCardKind));
-    return cardKinds
-      .filter((kind) => present.has(kind))
-      .map((kind) => ({
-        value: kind,
-        label: cardKindLabels[kind],
-        icon: <CardKindIcon kind={kind} />,
-      }));
-  }, [catalog]);
+  const kindOptions = useMemo(
+    () =>
+      toKindOptions(catalog.map(deckBuilderCardKind)).map((option) => ({
+        ...option,
+        icon: <CardKindIcon kind={option.value} />,
+      })),
+    [catalog],
+  );
 
   function update(patch: PickerCriteria) {
     setCriteria((current) => {

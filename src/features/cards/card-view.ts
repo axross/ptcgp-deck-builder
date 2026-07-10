@@ -1,4 +1,10 @@
-import { type CardKind, cardKindLabels, cardKindOf, cardKinds } from "./card-filters";
+import {
+  type CardKind,
+  cardKindLabels,
+  cardKindOf,
+  type KindOption,
+  toKindOptions,
+} from "./card-filters";
 import { getCardImageUrl } from "./card-images";
 import { getRarity } from "./rarity-registry";
 import { type Card, type EnergyType, type RarityCode, rarityCodes } from "./schema";
@@ -70,8 +76,7 @@ export function deriveRarityOptions(cards: readonly Card[]): RarityOption[] {
     .map((code) => ({ code, label: getRarity(code).label }));
 }
 
-/** A kind choice for the filter control: the kind plus its display label. */
-export type KindOption = { value: CardKind; label: string };
+export type { KindOption } from "./card-filters";
 
 /**
  * The distinct kinds present in `cards`, in canonical (`cardKinds`) order,
@@ -79,10 +84,7 @@ export type KindOption = { value: CardKind; label: string };
  * set contains (e.g. Fossil today) never appears as a dead filter option.
  */
 export function deriveKindOptions(cards: readonly Card[]): KindOption[] {
-  const present = new Set(cards.map(cardKindOf));
-  return cardKinds
-    .filter((kind) => present.has(kind))
-    .map((kind) => ({ value: kind, label: cardKindLabels[kind] }));
+  return toKindOptions(cards.map(cardKindOf));
 }
 
 /** A set choice for the filter control: the set code plus its display label. */

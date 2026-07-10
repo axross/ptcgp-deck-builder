@@ -46,6 +46,21 @@ export function cardKindOf(card: Card): CardKind {
   return card.category === "Pokemon" ? card.pokemon.stage : card.trainer.subtype;
 }
 
+/** A kind choice for a filter control: the kind plus its display label. */
+export type KindOption = { value: CardKind; label: string };
+
+/**
+ * The distinct kinds among `kinds`, in canonical (`cardKinds`) order, each
+ * with its display label — the shared core of every kind filter's option
+ * list, so a kind no card carries never appears as a dead option.
+ */
+export function toKindOptions(kinds: Iterable<CardKind>): KindOption[] {
+  const present = new Set(kinds);
+  return cardKinds
+    .filter((kind) => present.has(kind))
+    .map((kind) => ({ value: kind, label: cardKindLabels[kind] }));
+}
+
 /**
  * A validated filter selection. Every field is optional; an absent field means
  * "no constraint on this axis". Present fields intersect (logical AND).
