@@ -1,5 +1,6 @@
+import type { CardKind } from "@/features/cards/card-filters";
 import type { EnergyType } from "@/features/cards/schema";
-import type { DeckBuilderCard } from "./deck-card";
+import { type DeckBuilderCard, deckBuilderCardKind } from "./deck-card";
 
 /**
  * Client-side filtering for the deck editor's card picker. The picker keeps the
@@ -11,8 +12,8 @@ import type { DeckBuilderCard } from "./deck-card";
 /** The picker's filter axes; an absent field means "no constraint". */
 export type PickerCriteria = {
   type?: EnergyType;
-  /** A Pokémon stage or the Trainer category. */
-  kind?: "Basic" | "Stage1" | "Stage2" | "Trainer";
+  /** A Pokémon stage or a Trainer subtype. */
+  kind?: CardKind;
   query?: string;
 };
 
@@ -23,14 +24,8 @@ export function matchesPickerCriteria(card: DeckBuilderCard, criteria: PickerCri
       return false;
     }
   }
-  if (criteria.kind !== undefined) {
-    if (criteria.kind === "Trainer") {
-      if (card.category !== "Trainer") {
-        return false;
-      }
-    } else if (card.category !== "Pokemon" || card.stage !== criteria.kind) {
-      return false;
-    }
+  if (criteria.kind !== undefined && deckBuilderCardKind(card) !== criteria.kind) {
+    return false;
   }
   if (criteria.query !== undefined) {
     const needle = criteria.query.trim().toLowerCase();

@@ -189,6 +189,11 @@ test.describe("deck editor", () => {
       await expect(page.getByTestId("deck-energy-Dragon")).toHaveCount(0);
     });
 
+    await test.step("The pictogram-only buttons keep the type name as their accessible name", async () => {
+      await expect(page.getByTestId("deck-energy-Grass")).toHaveAccessibleName("Grass");
+      await expect(page.getByTestId("deck-energy-Fire")).toHaveAccessibleName("Fire");
+    });
+
     await test.step("Registration caps at three types", async () => {
       await page.getByTestId("deck-energy-Grass").click();
       await page.getByTestId("deck-energy-Fire").click();

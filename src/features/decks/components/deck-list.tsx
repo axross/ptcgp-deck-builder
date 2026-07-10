@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useStore } from "zustand";
+import { EnergyIcon } from "@/features/cards/components/energy-icon";
 import type { DeckBuilderCard } from "../deck-card";
 import {
   createDeckListStore,
@@ -148,8 +149,9 @@ function DeckSummaryCard({ summary, onRequestDelete }: DeckSummaryCardProps) {
           aria-label="Energy Zone"
         >
           {energyTypes.map((type) => (
-            <li key={type} className={styles.energyChip}>
-              {type}
+            <li key={type} className={styles.energyChip} title={type}>
+              <EnergyIcon type={type} />
+              <span className={styles.srOnly}>{type}</span>
             </li>
           ))}
         </ul>

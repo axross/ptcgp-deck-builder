@@ -132,10 +132,24 @@
 }
 
 .energyChip {
-  padding: var(--space-1) var(--space-2);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-1);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-1);
-  font-size: 0.8125rem;
+  font-size: 1rem;
+}
+
+/* Visually hidden but kept in the accessibility tree: the chip shows only the
+   pictogram, so this text carries the energy type's name to screen readers. */
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
 
 .energyEmpty {

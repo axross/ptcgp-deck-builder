@@ -59,6 +59,14 @@ function cardTile(page: Page, id: string) {
   return page.locator(`[data-testid="card-tile"][data-card-id="${id}"]`);
 }
 
+// The Type and Kind filters are pictogram dropdowns (IconSelect), not native
+// selects: choosing a value means opening the trigger and clicking the option,
+// identified by its stable value hook rather than its label text.
+async function selectFilterOption(page: Page, testId: string, value: string) {
+  await page.getByTestId(testId).click();
+  await page.locator(`[data-testid="${testId}-option"][data-value="${value}"]`).click();
+}
+
 // The virtualized grid flips data-virtualized to "true" only after hydration
 // and its first client-side measurement, so this is a deterministic
 // "page is interactive" wait before the first filter interaction — replacing
@@ -131,7 +139,7 @@ test.describe("card browser", () => {
     await test.step("Filtering by type narrows the grid and updates the URL", async () => {
       await page.goto("/cards");
       await expectGridReady(page);
-      await page.getByTestId("card-filter-type").selectOption("Grass");
+      await selectFilterOption(page, "card-filter-type", "Grass");
       await expect(page).toHaveURL(/[?&]type=Grass/);
 
       await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur (Grass, Basic)
@@ -143,12 +151,23 @@ test.describe("card browser", () => {
     });
 
     await test.step("Combined filters intersect", async () => {
-      await page.getByTestId("card-filter-kind").selectOption("Basic");
+      await selectFilterOption(page, "card-filter-kind", "Basic");
 
       await expect(page).toHaveURL(/[?&]kind=Basic/);
       await expect(cardTile(page, "A1-001")).toBeVisible(); // Bulbasaur is Basic
       await expect(cardTile(page, "A1-003")).toHaveCount(0); // Venusaur is Grass but Stage 2
       expect(await resultTotal(page)).toBeLessThan(grassTotal);
+    });
+
+    await test.step("Filtering by a Trainer subtype narrows to just those trainers", async () => {
+      await page.goto("/cards");
+      await expectGridReady(page);
+      await selectFilterOption(page, "card-filter-kind", "Supporter");
+
+      await expect(page).toHaveURL(/[?&]kind=Supporter/);
+      await expect(cardTile(page, "A1-219")).toBeVisible(); // Erika (Supporter)
+      await expect(cardTile(page, "A1-001")).toHaveCount(0); // Bulbasaur (Pokémon)
+      await expect(cardTile(page, "A1-216")).toHaveCount(0); // Helix Fossil (Item)
     });
 
     await test.step("Opening a shared filtered URL fresh reproduces the result", async () => {
@@ -197,7 +216,7 @@ test.describe("card browser", () => {
     await test.step("Set combines with another filter", async () => {
       await page.goto("/cards?set=A1");
       await expectGridReady(page);
-      await page.getByTestId("card-filter-type").selectOption("Grass");
+      await selectFilterOption(page, "card-filter-type", "Grass");
       await expect(page).toHaveURL(/[?&]type=Grass/);
 
       await expect(page).toHaveURL(/[?&]set=A1/);

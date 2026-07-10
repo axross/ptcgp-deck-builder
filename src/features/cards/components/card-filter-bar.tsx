@@ -2,20 +2,17 @@
 
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import {
-  type CardFilterCriteria,
-  cardFilterParamNames,
-  cardKindLabels,
-  cardKinds,
-  hasActiveFilters,
-} from "../card-filters";
-import type { RarityOption, SetOption } from "../card-view";
-import { energyTypes } from "../schema";
+import { IconSelect } from "@/components/icon-select";
+import { type CardFilterCriteria, cardFilterParamNames, hasActiveFilters } from "../card-filters";
+import type { KindOption, RarityOption, SetOption } from "../card-view";
 import styles from "./card-filter-bar.module.css";
+import { CardKindIcon } from "./card-kind-icon";
+import { energyTypeOptions } from "./energy-icon";
 
 type CardFilterBarProps = {
   criteria: CardFilterCriteria;
   rarityOptions: readonly RarityOption[];
+  kindOptions: readonly KindOption[];
   setOptions: readonly SetOption[];
 };
 
@@ -24,8 +21,15 @@ type CardFilterBarProps = {
  * bookmarkable), so this client component writes them with `router.replace` —
  * the server route re-reads the params and re-filters. The name search is
  * locally controlled and mirrored into the URL so the cursor never jumps.
+ * Type and Kind use the pictogram dropdown; Rarity and Set stay native
+ * selects (they have no pictograms), styled alike.
  */
-export function CardFilterBar({ criteria, rarityOptions, setOptions }: CardFilterBarProps) {
+export function CardFilterBar({
+  criteria,
+  rarityOptions,
+  kindOptions,
+  setOptions,
+}: CardFilterBarProps) {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
@@ -59,20 +63,15 @@ export function CardFilterBar({ criteria, rarityOptions, setOptions }: CardFilte
         <label className={styles.label} htmlFor="card-filter-type">
           Type
         </label>
-        <select
+        <IconSelect
           id="card-filter-type"
-          className={styles.select}
+          label="Type"
           data-testid="card-filter-type"
           value={criteria.type ?? ""}
-          onChange={(event) => commitParam(cardFilterParamNames.type, event.target.value)}
-        >
-          <option value="">All types</option>
-          {energyTypes.map((type) => (
-            <option key={type} value={type}>
-              {type}
-            </option>
-          ))}
-        </select>
+          placeholder="All types"
+          options={energyTypeOptions}
+          onChange={(value) => commitParam(cardFilterParamNames.type, value)}
+        />
       </div>
 
       <div className={styles.field}>
@@ -99,20 +98,19 @@ export function CardFilterBar({ criteria, rarityOptions, setOptions }: CardFilte
         <label className={styles.label} htmlFor="card-filter-kind">
           Kind
         </label>
-        <select
+        <IconSelect
           id="card-filter-kind"
-          className={styles.select}
+          label="Kind"
           data-testid="card-filter-kind"
           value={criteria.kind ?? ""}
-          onChange={(event) => commitParam(cardFilterParamNames.kind, event.target.value)}
-        >
-          <option value="">All kinds</option>
-          {cardKinds.map((kind) => (
-            <option key={kind} value={kind}>
-              {cardKindLabels[kind]}
-            </option>
-          ))}
-        </select>
+          placeholder="All kinds"
+          options={kindOptions.map((option) => ({
+            value: option.value,
+            label: option.label,
+            icon: <CardKindIcon kind={option.value} />,
+          }))}
+          onChange={(value) => commitParam(cardFilterParamNames.kind, value)}
+        />
       </div>
 
       <div className={styles.field}>

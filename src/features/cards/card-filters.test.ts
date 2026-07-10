@@ -68,10 +68,11 @@ describe("matchesCardFilters()", () => {
     expect(matchesCardFilters(bulbasaur, { kind: "Stage2" })).toBe(false);
   });
 
-  it("matches the Trainer kind for any Trainer subtype", () => {
-    expect(matchesCardFilters(erika, { kind: "Trainer" })).toBe(true);
-    expect(matchesCardFilters(helixFossil, { kind: "Trainer" })).toBe(true);
-    expect(matchesCardFilters(bulbasaur, { kind: "Trainer" })).toBe(false);
+  it("matches a Trainer kind by its subtype", () => {
+    expect(matchesCardFilters(erika, { kind: "Supporter" })).toBe(true);
+    expect(matchesCardFilters(helixFossil, { kind: "Item" })).toBe(true);
+    expect(matchesCardFilters(erika, { kind: "Item" })).toBe(false);
+    expect(matchesCardFilters(bulbasaur, { kind: "Supporter" })).toBe(false);
   });
 
   it("matches by set code and excludes other sets", () => {
@@ -130,7 +131,7 @@ describe("hasActiveFilters()", () => {
   it("is true when any constraint is set", () => {
     expect(hasActiveFilters({ type: "Fire" })).toBe(true);
     expect(hasActiveFilters({ rarity: "C" })).toBe(true);
-    expect(hasActiveFilters({ kind: "Trainer" })).toBe(true);
+    expect(hasActiveFilters({ kind: "Supporter" })).toBe(true);
     expect(hasActiveFilters({ set: "A1" })).toBe(true);
     expect(hasActiveFilters({ query: "pika" })).toBe(true);
   });
@@ -155,6 +156,14 @@ describe("parseCardFilters()", () => {
         options,
       ),
     ).toEqual({});
+  });
+
+  it("parses a Trainer-subtype kind", () => {
+    expect(parseCardFilters({ kind: "Supporter" }, options)).toEqual({ kind: "Supporter" });
+  });
+
+  it("drops the pre-split Trainer kind value from an old bookmark", () => {
+    expect(parseCardFilters({ kind: "Trainer" }, options)).toEqual({});
   });
 
   it("drops a rarity not present in the catalog", () => {

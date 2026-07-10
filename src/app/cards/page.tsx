@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { filterCards, hasActiveFilters, parseCardFilters } from "@/features/cards/card-filters";
-import { deriveRarityOptions, deriveSetOptions, toCardTileView } from "@/features/cards/card-view";
+import {
+  deriveKindOptions,
+  deriveRarityOptions,
+  deriveSetOptions,
+  toCardTileView,
+} from "@/features/cards/card-view";
 import { getAllCards } from "@/features/cards/catalog";
 import { CardFilterBar } from "@/features/cards/components/card-filter-bar";
 import { CardGrid } from "@/features/cards/components/card-grid";
@@ -29,6 +34,7 @@ export default async function CardsPage({ searchParams }: CardsPageProps) {
   const rawParams = await searchParams;
   const cards = getAllCards();
   const rarityOptions = deriveRarityOptions(cards);
+  const kindOptions = deriveKindOptions(cards);
   const setOptions = deriveSetOptions(cards);
   const criteria = parseCardFilters(rawParams, {
     rarityCodes: rarityOptions.map((option) => option.code),
@@ -42,7 +48,12 @@ export default async function CardsPage({ searchParams }: CardsPageProps) {
     <main className={styles.main} data-testid="cards-page">
       <h1 className={styles.heading}>Cards</h1>
 
-      <CardFilterBar criteria={criteria} rarityOptions={rarityOptions} setOptions={setOptions} />
+      <CardFilterBar
+        criteria={criteria}
+        rarityOptions={rarityOptions}
+        kindOptions={kindOptions}
+        setOptions={setOptions}
+      />
 
       <p className={styles.resultCount} data-testid="card-result-count" aria-live="polite">
         {resultCountLabel(views.length)}

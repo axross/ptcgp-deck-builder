@@ -1,0 +1,46 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+.icon[data-energy="Grass"] {
+  color: var(--color-energy-grass);
+}
+
+.icon[data-energy="Fire"] {
+  color: var(--color-energy-fire);
+}
+
+.icon[data-energy="Water"] {
+  color: var(--color-energy-water);
+}
+
+.icon[data-energy="Lightning"] {
+  color: var(--color-energy-lightning);
+}
+
+.icon[data-energy="Psychic"] {
+  color: var(--color-energy-psychic);
+}
+
+.icon[data-energy="Fighting"] {
+  color: var(--color-energy-fighting);
+}
+
+.icon[data-energy="Darkness"] {
+  color: var(--color-energy-darkness);
+}
+
+.icon[data-energy="Metal"] {
+  color: var(--color-energy-metal);
+}
+
+.icon[data-energy="Dragon"] {
+  color: var(--color-energy-dragon);
+}
+
+.icon[data-energy="Colorless"] {
+  color: var(--color-energy-colorless);
+}
