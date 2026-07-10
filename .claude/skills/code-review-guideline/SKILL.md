@@ -69,7 +69,7 @@ the posted report follows `REVIEW.md`.
   list excludes (CI-enforced checks, lockfiles, generated files), even where
   the severity floors would otherwise rate them Critical.
 - MUST keep a posted review **COMMENT**-type (never APPROVE /
-  REQUEST_CHANGES), per [github-operations](../github-operations/SKILL.md); the
+  REQUEST_CHANGES), per the project's GitHub operation guidelines; the
   reviewer is advisory and does not gate merges.
 
 ## Evidence-Based Reporting
@@ -106,13 +106,13 @@ Consult the appropriate skill for detailed review checklists in each lens. These
 
 | Lens | Skill |
 |---|---|
-| Readability, naming, complexity, abstraction boundaries, scope discipline, dead code | [Maintainable Code Guidelines](../maintainable-code-guidelines/SKILL.md) |
-| Verifying e2e coverage, snapshot handling, flakiness, manual verification, lint/format gate | [Quality Assurance Guidelines](../quality-assurance-guidelines/SKILL.md) |
-| OWASP-lens application security — secrets, input validation, XSS, SSRF, supply chain | [Application Security Requirements](../application-security-requirements/SKILL.md) |
-| Server/client boundary cost, caching correctness, asset/image optimization, bundle weight, error and observability hooks | [Performance and Reliability Requirements](../performance-and-reliability-requirements/SKILL.md) |
-| File placement, directory tiers, routing conventions | [Project Structure](../project-structure/SKILL.md) |
-| Component/hook construction, tier boundary, styling composition, test-id hooks | [Component Guidelines](../component-guidelines/SKILL.md) |
-| Appearance — token roles, control selection, copy, accessibility intent | [UI Design Principles](../ui-design-principles/SKILL.md) |
+| Readability, naming, complexity, abstraction boundaries, scope discipline, dead code | the project's maintainable-code guidelines |
+| Verifying e2e coverage, snapshot handling, flakiness, manual verification, lint/format gate | the project's quality-assurance guidelines |
+| OWASP-lens application security — secrets, input validation, XSS, SSRF, supply chain | the project's application-security requirements |
+| Server/client boundary cost, caching correctness, asset/image optimization, bundle weight, error and observability hooks | the project's performance-and-reliability requirements |
+| File placement, directory tiers, routing conventions | the project's project-structure skill |
+| Component/hook construction, tier boundary, styling composition, test-id hooks | the project's component guidelines |
+| Appearance — token roles, control selection, copy, accessibility intent | the project's UI design principles |
 
 **Guidelines:**
 
@@ -126,14 +126,14 @@ Developer-facing skills own how to write project-conforming code. The review ski
 
 | Topic | Skill |
 |---|---|
-| Format/lint loop, change scope discipline, dependency rules | [Development Guidelines](../development-guidelines/SKILL.md) |
-| Error handling and error reporting | [Observability Guidelines](../observability-guidelines/SKILL.md) |
-| End-to-end test structure, conventions, and commands | [E2E Testing Guidelines](../e2e-testing-guidelines/SKILL.md) |
-| Unit test structure, conventions, mocks/fixtures, and commands | [Unit Test Guidelines](../unit-test-guidelines/SKILL.md) |
-| Repository layout, file placement, routing conventions | [Project Structure](../project-structure/SKILL.md) |
-| Component conventions and stores | [Component Guidelines](../component-guidelines/SKILL.md) |
-| Visual design vocabulary | [UI Design Principles](../ui-design-principles/SKILL.md) |
-| PTCGP card model, deck rules, dataset conventions | [PTCGP Domain](../ptcgp-domain/SKILL.md) |
+| Format/lint loop, change scope discipline, dependency rules | the project's development guidelines |
+| Error handling and error reporting | the project's observability guidelines |
+| End-to-end test structure, conventions, and commands | the project's end-to-end testing guidelines |
+| Unit test structure, conventions, mocks/fixtures, and commands | the project's unit-test guidelines |
+| Repository layout, file placement, routing conventions | the project's project-structure skill |
+| Component conventions and stores | the project's component guidelines |
+| Visual design vocabulary | the project's UI design principles |
+| PTCGP card model, deck rules, dataset conventions | the project's PTCGP domain skill |
 
 **Guidelines:**
 

@@ -39,7 +39,7 @@ When the diff adds or moves a route/feature, the reviewer MUST verify it against
 
 **Guidelines:**
 
-- MUST verify added or moved route files against [Project Structure › Routing Conventions](../../project-structure/SKILL.md#routing-conventions) before approving their placement.
+- MUST verify added or moved route files against the project's project-structure skill (Routing Conventions) before approving their placement.
 
 ## Identifier Naming
 

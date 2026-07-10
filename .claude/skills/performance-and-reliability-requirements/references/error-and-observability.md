@@ -1,6 +1,6 @@
 # Error Handling and Observability
 
-Apply these rules to verify the change keeps the project's error-propagation model intact. Defer the developer-facing rules to [observability-guidelines](../../observability-guidelines/SKILL.md) — this file is the **reviewer's** flagging checklist. Throughout, `reportError(...)` denotes the project's error-reporting helper (`src/lib/report-error.ts`), which wraps Sentry's capture call.
+Apply these rules to verify the change keeps the project's error-propagation model intact. Defer the developer-facing rules to the project's observability guidelines — this file is the **reviewer's** flagging checklist. Throughout, `reportError(...)` denotes the project's error-reporting helper (`src/lib/report-error.ts`), which wraps Sentry's capture call.
 
 ## `try`/`catch` Placement
 
@@ -8,7 +8,7 @@ A catch block inside a nested helper decides recovery policy for callers it know
 
 **Guidelines:**
 
-- MUST flag a Major when a new `try`/`catch` is placed inside a nested helper rather than at the root call site (the request entry point / top-level handler / server action). The project rule per [observability-guidelines › error-handling](../../observability-guidelines/references/error-handling.md) is "let errors propagate to the root call site".
+- MUST flag a Major when a new `try`/`catch` is placed inside a nested helper rather than at the root call site (the request entry point / top-level handler / server action). The project rule per the project's observability guidelines (error-handling rules) is "let errors propagate to the root call site".
 - MUST flag a Critical when a `catch` block does any of:
   - Logs without rethrowing or calling `reportError(...)` (silent error swallow)
   - Returns a default value (e.g., `return null`, `return []`) without `reportError(...)` — the failure becomes invisible
@@ -32,7 +32,7 @@ Console output is retained by the hosting platform and readable by far more peop
 
 **Guidelines:**
 
-- MUST flag a Critical when console output interpolates a secret (token, password, session ID, full request body). Cross-reference with [application-security-requirements › secret-handling](../../application-security-requirements/references/secret-handling.md).
+- MUST flag a Critical when console output interpolates a secret (token, password, session ID, full request body). Cross-reference with the project's application-security requirements (secret-handling rules).
 - MUST flag a Major when a `console.error` is used for a real error instead of `reportError(...)` — ad-hoc console output does not reach Sentry in production.
 
 ## Error Boundaries

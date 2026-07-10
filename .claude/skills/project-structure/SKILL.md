@@ -5,7 +5,7 @@ description: Apply this skill when navigating the repository, deciding where a n
 
 # Project Structure
 
-**ptcgp-deck-builder** is a web app for building Pokémon TCG Pocket (PTCGP) decks: browse the card catalog, assemble rule-valid decks, and save them in the visitor's own browser. This skill owns **placement** — where files live and the stack they sit on. How surfaces are *built* is owned by [Component Guidelines](../component-guidelines/SKILL.md); how they *look* is owned by [UI Design Principles](../ui-design-principles/SKILL.md).
+**ptcgp-deck-builder** is a web app for building Pokémon TCG Pocket (PTCGP) decks: browse the card catalog, assemble rule-valid decks, and save them in the visitor's own browser. This skill owns **placement** — where files live and the stack they sit on. How surfaces are *built* is owned by the project's component guidelines; how they *look* is owned by the project's UI design principles.
 
 ## Stack
 
@@ -43,17 +43,17 @@ description: Apply this skill when navigating the repository, deciding where a n
 
 - Routes follow the App Router file conventions: `page.tsx` per route segment, shared chrome in `layout.tsx`, route-level errors in `error.tsx`, the app-wide last resort in `src/app/global-error.tsx`.
 - Route segment directories are kebab-case and mirror the URL (e.g. `src/app/decks/[deckId]/`).
-- Route metadata uses `export const metadata` (static) or `generateMetadata` (dynamic); consult current Next.js docs per [development-guidelines › current-docs](../development-guidelines/references/current-docs.md) before changing routing or metadata APIs.
+- Route metadata uses `export const metadata` (static) or `generateMetadata` (dynamic); consult current Next.js docs per the project's development guidelines (current-docs rules) before changing routing or metadata APIs.
 
 ## File Placement
 
 - MUST put feature-specific code in `src/features/<feature>/` and keep route files under `src/app/` thin — a route composes feature modules, it does not implement them.
-- MUST place shared UI in `src/components/` only when the tier rules in [Component Guidelines](../component-guidelines/SKILL.md) say it qualifies; the structure rule is only *where* each tier lives.
+- MUST place shared UI in `src/components/` only when the tier rules in the project's component guidelines say it qualifies; the structure rule is only *where* each tier lives.
 - MUST put shared non-UI utilities in `src/lib/`; a module there MUST NOT import UI code.
 - MUST colocate unit tests as `*.test.ts(x)` next to the module under test, and styles as `<base-name>.module.css` next to the component that consumes them.
-- MUST add e2e specs under `e2e/` as `<area>.spec.ts` and register new user journeys in `e2e/scenarios.md` per [e2e-testing-guidelines › scenario-coverage](../e2e-testing-guidelines/references/scenario-coverage.md).
+- MUST add e2e specs under `e2e/` as `<area>.spec.ts` and register new user journeys in `e2e/scenarios.md` per the project's end-to-end testing guidelines (scenario-coverage rules).
 - MUST NOT place non-route files directly in a `src/app/` route segment unless they are Next.js route-file conventions or that route's colocated styles/components.
 
 ## Domain Data
 
-The PTCGP card catalog and deck-construction rules live under `src/features/cards/` (Zod card schema, catalog access, the static per-set JSON datasets in `data/`) and `src/features/decks/` (deck schema, `deck-rules.ts` validation). What that data *means* — the card model, game rules, expansion inventory, dataset quirks, and how to add a new set — is owned by [PTCGP Domain](../ptcgp-domain/SKILL.md).
+The PTCGP card catalog and deck-construction rules live under `src/features/cards/` (Zod card schema, catalog access, the static per-set JSON datasets in `data/`) and `src/features/decks/` (deck schema, `deck-rules.ts` validation). What that data *means* — the card model, game rules, expansion inventory, dataset quirks, and how to add a new set — is owned by the project's PTCGP domain skill.

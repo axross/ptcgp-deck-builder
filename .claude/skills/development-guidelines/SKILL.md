@@ -75,12 +75,12 @@ Consult the appropriate skill for detailed guidance on each area:
 
 | Topic | Skill |
 |---|---|
-| Error handling and error-reporting | [Observability Guidelines](../observability-guidelines/SKILL.md) |
-| End-to-end test structure, conventions, and commands | [E2E Testing Guidelines](../e2e-testing-guidelines/SKILL.md) |
-| Repository layout, file placement, routing conventions | [Project Structure](../project-structure/SKILL.md) |
-| Component/hook construction, styling composition, stores | [Component Guidelines](../component-guidelines/SKILL.md) |
-| Appearance — tokens, controls, copy, accessibility | [UI Design Principles](../ui-design-principles/SKILL.md) |
-| PTCGP card data, deck rules, expansions, game rules | [PTCGP Domain](../ptcgp-domain/SKILL.md) |
+| Error handling and error-reporting | the project's observability guidelines |
+| End-to-end test structure, conventions, and commands | the project's end-to-end testing guidelines |
+| Repository layout, file placement, routing conventions | the project's project-structure skill |
+| Component/hook construction, styling composition, stores | the project's component guidelines |
+| Appearance — tokens, controls, copy, accessibility | the project's UI design principles |
+| PTCGP card data, deck rules, expansions, game rules | the project's PTCGP domain skill |
 
 Consult a topic skill whenever implementation touches the area it owns.
 

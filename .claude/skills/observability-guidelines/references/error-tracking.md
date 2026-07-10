@@ -9,8 +9,8 @@ This project uses Sentry as its error-reporting service, initialized through the
 **Guidelines:**
 
 - MUST report errors through the project's `reportError` helper (`src/lib/report-error.ts`), which wraps Sentry's capture call; import Sentry's SDK directly only inside that helper and the instrumentation files.
-- MUST consult [Development Guidelines › current-docs](../../development-guidelines/references/current-docs.md) before changing the error tracker's init/config files, source maps, or runtime options.
-- MUST consult [Application Security Requirements › privacy and exposure](../../application-security-requirements/references/privacy-and-exposure.md) before adding event context, tags, user identifiers, breadcrumbs, or request data.
+- MUST consult the project's development guidelines (current-docs rules) before changing the error tracker's init/config files, source maps, or runtime options.
+- MUST consult the project's application-security requirements (privacy-and-exposure rules) before adding event context, tags, user identifiers, breadcrumbs, or request data.
 - SHOULD keep Sentry setup in the existing init/config files instead of scattering initialization across feature modules.
 
 ## Capturing Exceptions
