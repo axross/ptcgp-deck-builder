@@ -1,6 +1,8 @@
 ---
 name: project-structure
-description: Apply this skill when navigating the repository, deciding where a new module, route, component, hook, store, or test belongs, or checking stack, tooling, routing conventions, and directory layout in this project. Covers the Next.js App Router route-file conventions, the by-feature source layout under src/features, the shared tiers (src/components, src/lib), test colocation, and the e2e/scenario-catalog location. Use even when the user only mentions "where should this file go", a path, an import alias, or a config file.
+description: The repository's layout and placement rules. Covers the Next.js App Router route-file conventions, the by-feature source layout under src/features, the shared tiers (src/components, src/lib), test colocation, and the e2e/scenario-catalog location, plus stack, tooling, and routing conventions.
+when_to_use: Apply when navigating the repository, deciding where a new module, route, component, hook, store, or test belongs, or checking stack/tooling/routing conventions — even when the user only mentions "where should this file go", a path, an import alias, or a config file.
+user-invocable: false
 ---
 
 # Project Structure
