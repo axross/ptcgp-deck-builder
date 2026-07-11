@@ -1,6 +1,8 @@
 ---
 name: application-security-requirements
-description: Use this skill when reviewing security or privacy implications of a change. Covers secrets/env vars, Next.js's NEXT_PUBLIC_ client-exposed env-var prefix, input validation, public exposure, output-encoding/injection in rendered untrusted content, SSRF/outbound fetch of user-controlled URLs, error-reporting data capture, and dependency supply-chain risk. Use for "is this safe", "security", "secret", "privacy", "PII", "XSS", "SSRF", or dependency reviews.
+description: The security and privacy review lens for code changes. Covers secrets/env vars, Next.js's NEXT_PUBLIC_ client-exposed env-var prefix, input validation, public exposure, output-encoding/injection in rendered untrusted content, SSRF/outbound fetch of user-controlled URLs, error-reporting data capture, and dependency supply-chain risk.
+when_to_use: Use when reviewing security or privacy implications of a change — "is this safe", "security", "secret", "privacy", "PII", "XSS", "SSRF", or dependency reviews.
+user-invocable: false
 ---
 
 # Application Security Requirements

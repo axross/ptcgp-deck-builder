@@ -1,6 +1,8 @@
 ---
 name: component-guidelines
-description: Apply this skill when writing, placing, reviewing, or refactoring a React component or hook in this project — the shared-vs-feature tier boundary, promotion criteria for repeated UI, component anatomy (naming, props, server/client boundary, test-id hooks), CSS Modules styling composition, logic extraction into hooks or plain modules, Zustand store conventions, and accessibility basics. Use even when the user only mentions a component, hook, props, "use client", a store, or a test id.
+description: Conventions for React components and hooks in this project — the shared-vs-feature tier boundary, promotion criteria for repeated UI, component anatomy (naming, props, server/client boundary, test-id hooks), CSS Modules styling composition, logic extraction into hooks or plain modules, Zustand store conventions, and accessibility basics.
+when_to_use: Apply when writing, placing, reviewing, or refactoring a component or hook — even when the user only mentions a component, hook, props, "use client", a store, or a test id.
+user-invocable: false
 ---
 
 # Component Guidelines

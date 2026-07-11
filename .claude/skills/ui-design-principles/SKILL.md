@@ -1,6 +1,8 @@
 ---
 name: ui-design-principles
-description: Apply this skill when deciding how a surface should look in this project — color-token roles, control selection for a decision shape, spacing/typography/radius tokens, dark-mode behavior, responsive layout, copy tone, and accessibility intent. Use even when the user only mentions a color, a button vs link choice, spacing, dark mode, "make it look nice", or theming.
+description: How a surface should look in this project — color-token roles, control selection for a decision shape, spacing/typography/radius tokens, dark-mode behavior, responsive layout, copy tone, and accessibility intent.
+when_to_use: Apply when deciding how a surface should look — even when the user only mentions a color, a button vs link choice, spacing, dark mode, "make it look nice", or theming.
+user-invocable: false
 ---
 
 # UI Design Principles

@@ -1,6 +1,8 @@
 ---
 name: ptcgp-domain
-description: Apply this skill when working with PTCGP (Pokémon TCG Pocket) domain concepts in this project — card data and its schema, the card catalog, deck-construction rules and deck validation, energy types and the Energy Zone, rarity tiers, expansions/sets, or battle-rule questions that affect the deck builder. Use even when the user only mentions a card, a deck rule, an expansion code (A1, B2, …), energy, rarity, HP/attacks/abilities, or adding a new set's data.
+description: The PTCGP (Pokémon TCG Pocket) domain model for this project — card data and its schema, the card catalog, deck-construction rules and deck validation, energy types and the Energy Zone, rarity tiers, expansions/sets, and the battle rules that affect the deck builder.
+when_to_use: Apply when working with PTCGP game concepts — even when the user only mentions a card, a deck rule, an expansion code (A1, B2, …), energy, rarity, HP/attacks/abilities, or adding a new set's data.
+user-invocable: false
 ---
 
 # PTCGP Domain
