@@ -1,7 +1,7 @@
 ---
 name: handoff
 description: Suspend this session's in-progress work into a self-contained, downloadable handoff package — a handoff-<unix epoch>.md document plus an optional same-epoch .zip of patches and artifacts — that a fresh-context agent session takes over with /address continue.
-when_to_use: Invoke when the human wants to stop working here and let another session pick the work up — "hand this off", "wrap this up for another session", "package this up so we can continue later". It suspends at the nearest safe boundary and captures state; it never finishes, commits, or pushes the work. Takes no arguments.
+when_to_use: Invoke when the human wants to stop working here and let another session pick the work up — "hand this off", "wrap this up for another session", "package this up so we can continue later". It suspends at the nearest safe boundary and captures state. Do not invoke to actually finish, commit, or push the work, or when there is no in-progress work to suspend. Takes no arguments.
 argument-hint: (takes no arguments)
 user-invocable: true
 ---
